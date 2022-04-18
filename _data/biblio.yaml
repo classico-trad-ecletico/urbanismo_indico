@@ -23,7 +23,6 @@ references:
       month: 2
       day: 24
   language: fr-FR
-  note: 'ZSCC: NoCitationData[s0]'
   page: 383-399
   publisher: Presses universitaires de Rennes
   publisher-place: Rennes
@@ -72,7 +71,6 @@ references:
   issued:
     - year: 2013
   language: en
-  note: 'ZSCC: 0000002'
   page: 126-130
   source: www.iiste.org
   title: 'Learning from traditional architecture: the example of Somba'
@@ -130,7 +128,6 @@ references:
   issued:
     - year: 1974
   language: en
-  note: 'ZSCC: 0000019'
   number-of-pages: '56'
   publisher: Allen
   source: Google Books
@@ -155,7 +152,6 @@ references:
   issued:
     - year: 1974
   language: en
-  note: 'ZSCC: 0000021'
   page: 42-84
   publisher: UCLA James S. Coleman African Studies Center
   source: JSTOR
@@ -181,7 +177,6 @@ references:
   issued:
     - year: 1981
   language: en
-  note: 'ZSCC: 0000060'
   page: 306-334
   publisher: Boston University African Studies Center
   source: JSTOR
@@ -229,9 +224,6 @@ references:
   issued:
     - year: 2020
   language: en
-  note: |-
-    ZSCC: 0000001 
-    OCLC: 1162761693
   publisher: 'Springer International Publishing : Imprint: Springer'
   publisher-place: Cham
   source: Open WorldCat
@@ -269,7 +261,6 @@ references:
     - year: 1990
       month: 10
   language: en
-  note: 'ZSCC: 0000046'
   page: 661-682
   source: DOI.org (Crossref)
   title: A seventeenth-century ‘general crisis’ in east Asia?
@@ -313,7 +304,6 @@ references:
   issued:
     - year: 2009
   language: en-ZA
-  note: 'ZSCC: 0000039'
   page: 148-155
   source: Scopus
   title: >-
@@ -412,7 +402,6 @@ references:
   issued:
     - year: 1988
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   number: '4'
   page: 16-30
   source: arkitekturforskning.net
@@ -492,7 +481,6 @@ references:
   issued:
     - year: 1994
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '335'
   publisher: University of Chicago Press
   source: Google Books
@@ -533,9 +521,6 @@ references:
     - year: 1999
       month: 5
   language: en-US
-  note: >-
-    ArticleType: research-article / Full publication date: May, 1999 / Copyright
-    © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
   title: >-
@@ -601,7 +586,6 @@ references:
   issued:
     - year: 1872
   language: eng
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Tinsley Brothers
   publisher-place: London
   source: Internet Archive
@@ -654,7 +638,6 @@ references:
     - year: 2008
       month: 11
   language: en
-  note: 'ZSCC: 0000016'
   page: 247-254
   source: DOI.org (Crossref)
   title: The typological rule system of Malay houses in peninsula Malaysia
@@ -675,7 +658,6 @@ references:
   issued:
     - year: 2015
   language: it
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Unpublished
   source: DOI.org (Datacite)
   title: New pathways to socio-political complexity
@@ -709,7 +691,6 @@ references:
   issued:
     - year: 2019
   language: English
-  note: 'OCLC: 1107048586'
   publisher: Langaa RPCIG
   publisher-place: Mankon
   source: Open WorldCat
@@ -730,7 +711,6 @@ references:
   issued:
     - year: 1977
   language: es-ES
-  note: 'OCLC: 433976576'
   publisher: Alianza
   publisher-place: Madrid
   source: Open WorldCat
@@ -810,7 +790,6 @@ references:
   issued:
     - year: 1976
   language: en
-  note: 'ZSCC: 0000008'
   publisher: University of British Columbia
   source: open.library.ubc.ca
   title: Land and neighbourhood as features of Malay urbanism
@@ -843,7 +822,6 @@ references:
   issued:
     - year: 2018
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 275-289
   publisher: Springer
   publisher-place: Singapore
@@ -1071,7 +1049,6 @@ references:
   issued:
     - year: 1977
   language: en
-  note: 'ZSCC: 0000005'
   page: 220-225
   publisher: Athens Center of Ekistics
   source: JSTOR
@@ -1156,7 +1133,6 @@ references:
   issued:
     - year: 1975
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '8'
   publisher: Cambridge University Press
   publisher-place: Cambridge ; New York
@@ -1181,7 +1157,6 @@ references:
       month: 12
       day: 4
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
   source: DOI.org (Crossref)
@@ -1221,7 +1196,6 @@ references:
   issued:
     - year: 2018
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 143-148
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
@@ -1250,7 +1224,6 @@ references:
   issued:
     - year: 2019
   language: fr-FR
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '1'
   publisher: Autrement
   publisher-place: Paris
@@ -1337,7 +1310,6 @@ references:
     - year: 2012
       month: 9
   language: en
-  note: 'ZSCC: 0000050'
   page: 171-207
   source: DOI.org (Crossref)
   title: Finding meaning in ancient Swahili spatial practices
@@ -1397,7 +1369,6 @@ references:
   issue: '2'
   issued:
     - year: 2012
-  note: 'ZSCC: 0000020'
   page: 207-220
   publisher: Africa Magna Verlag
   source: JSTOR
@@ -1449,7 +1420,6 @@ references:
       month: 9
       day: 1
   language: en
-  note: 'ZSCC: 0000020'
   page: 1-22
   source: ScienceDirect
   title: The complexity of public space at the Swahili town of Songo Mnara, Tanzania
@@ -1549,7 +1519,6 @@ references:
   issued:
     - year: 2019
   language: en
-  note: 'ZSCC: 0000049'
   publisher: Springer
   publisher-place: Cham
   source: Springer Link
@@ -1585,7 +1554,6 @@ references:
   issued:
     - year: 2019
   language: en
-  note: 'ZSCC: 0000000'
   page: 40-81
   publisher: Springer
   publisher-place: Cham
@@ -1649,7 +1617,6 @@ references:
   issued:
     - year: 2002
   language: en-GB
-  note: 'OCLC: ocm48753840'
   number-of-pages: '214'
   publisher: Oxford University Press
   publisher-place: Oxford
@@ -1702,7 +1669,6 @@ references:
       month: 10
       day: 1
   language: en
-  note: 'ZSCC: 0000044'
   page: 157-170
   source: ScienceDirect
   title: What can we learn from Malay vernacular houses?
@@ -1755,7 +1721,6 @@ references:
       month: 5
       day: 5
   language: en
-  note: 'ZSCC: 0000001'
   number: '2'
   source: ijbes.utm.my
   title: Social sustainability of Kampung communities
@@ -1788,7 +1753,6 @@ references:
   issued:
     - year: 1975
   language: en
-  note: 'ZSCC: 0000081'
   number-of-pages: '122'
   publisher: East African Literature Bureau
   source: Google Books
@@ -1814,7 +1778,6 @@ references:
   issued:
     - year: 1978
   language: en
-  note: 'ZSCC: 0000015'
   page: 28-49
   publisher: >-
     [Cambridge University Press, Department of History, National University of
@@ -1837,7 +1800,6 @@ references:
   issued:
     - year: 2000
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '738'
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -1855,7 +1817,6 @@ references:
   issued:
     - year: 1995
   language: en
-  note: 'ZSCC: 0000010'
   page: 221-226
   source: Zotero
   title: Missing elements for a theory of urban form in traditional Islamic cultures
@@ -1888,7 +1849,6 @@ references:
       month: 2
       day: 1
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 51-55
   source: ScienceDirect
   title: >-
@@ -1931,7 +1891,6 @@ references:
   issued:
     - year: 2006
   language: English
-  note: 'ZSCC: 0000036'
   page: 1-26
   publisher: Locke Science Publishing Company, Inc.
   source: JSTOR
@@ -1965,7 +1924,6 @@ references:
   issued:
     - year: 2008
   language: English
-  note: 'OCLC: ocn199455706'
   page: 663-676
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -1985,7 +1943,6 @@ references:
     - year: 2010
       month: 3
   language: en-GB
-  note: 'ZSCC: 0000012'
   page: '6'
   source: Zotero
   title: The generative nature of islamic rules for the built environment
@@ -2007,7 +1964,6 @@ references:
   issued:
     - year: 1996
   language: en
-  note: 'ZSCC: 0000012'
   page: 95-118
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -2030,7 +1986,6 @@ references:
   ISBN: 978-0-19-515773-4
   issued:
     - year: 2006
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '47'
   publisher: Oxford University Press
   publisher-place: New York
@@ -2061,7 +2016,6 @@ references:
       month: 11
       day: 30
   language: French
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Archaeopress Publishing Ltd
   source: DOI.org (Crossref)
   title: >-
@@ -2144,9 +2098,6 @@ references:
   issued:
     - year: 2019
   language: en
-  note: |-
-    ZSCC: 0000000 
-    Accepted: 2019-11-01T03:54:35Z
   publisher: TextRoad Publication
   source: repository.unpar.ac.id
   title: >-
@@ -2221,7 +2172,6 @@ references:
     - year: 1987
       month: 9
   language: en
-  note: 'ZSCC: 0000059'
   page: 290-323
   publisher: Cambridge University Press
   source: Cambridge University Press
@@ -2252,9 +2202,6 @@ references:
       month: 1
       day: 1
   language: en
-  note: |-
-    ZSCC: 0000071 
-    _eprint: https://doi.org/10.1080/00020189008707724
   page: 1-12
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -2285,7 +2232,6 @@ references:
     - year: 2001
       month: 1
       day: 1
-  note: 'ZSCC: 0000117'
   page: 19-35
   source: IngentaConnect
   title: The central cattle pattern and interpreting the past
@@ -2322,7 +2268,6 @@ references:
       month: 3
       day: 1
   language: en
-  note: 'ZSCC: 0000129'
   page: 37-54
   source: ScienceDirect
   title: >-
@@ -2354,7 +2299,6 @@ references:
     - year: 2011
       month: 12
   language: en
-  note: 'ZSCC: 0000015'
   page: 189-206
   source: DOI.org (Crossref)
   title: Khami and the Venda in the Mapungubwe Landscape
@@ -2404,7 +2348,6 @@ references:
       month: 5
       day: 10
   language: en
-  note: 'ZSCC: 0000000'
   number: '12'
   source: mail.planningmalaysia.org
   title: >-
@@ -2464,7 +2407,6 @@ references:
   issued:
     - year: 2022
   language: en
-  note: 'OCLC: 1295377573'
   publisher: Allen & Unwin
   source: Open WorldCat
   title: 'Australian architecture: a history'
@@ -2496,7 +2438,6 @@ references:
   issued:
     - year: 2014
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   page: 411-423
   publisher: University of Minnesota Press
   source: JSTOR
@@ -2540,7 +2481,6 @@ references:
   issued:
     - year: 2014
   language: en-US
-  note: 'ZSCC: 0000019'
   number-of-pages: '513'
   publisher: University of Minnesota Press
   publisher-place: Minneapolis
@@ -2571,7 +2511,6 @@ references:
   issued:
     - year: 2013
   language: en-US
-  note: 'OCLC: ocn811524081'
   number-of-pages: '660'
   publisher: Wiley
   publisher-place: Hoboken, N.J.
@@ -2599,7 +2538,6 @@ references:
   issued:
     - year: 2008
   language: en-GB
-  note: 'OCLC: ocn199455706'
   number-of-volumes: '2'
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -2640,7 +2578,6 @@ references:
       month: 1
       day: 1
   language: en-AU
-  note: '_eprint: https://www.tandfonline.com/doi/pdf/10.7158/14488388.2012.11464845'
   page: 63-68
   publisher: Taylor & Francis
   source: Taylor and Francis+NEJM
@@ -2719,7 +2656,6 @@ references:
   citation-key: kiamba:2014climate-responsive
   issued:
     - year: 2014
-  note: 'ZSCC: NoCitationData[s0]'
   source: Semantic Scholar
   title: Climate-responsive vernacular Swahili Housing
   type: paper-conference
@@ -2743,7 +2679,6 @@ references:
       month: 8
       day: 3
   language: en
-  note: 'Page Version ID: 970909707'
   source: Wikipedia
   title: Kilwa Kisiwani
   type: entry-encyclopedia
@@ -2771,7 +2706,6 @@ references:
       month: 7
       day: 3
   language: en
-  note: 'Page Version ID: 965748500'
   source: Wikipedia
   title: Kilwa Sultanate
   type: entry-encyclopedia
@@ -2899,7 +2833,6 @@ references:
       month: 6
       day: 1
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 68-83
   source: ScienceDirect
   title: >-
@@ -2927,7 +2860,6 @@ references:
   issued:
     - year: 2009
   language: en-US
-  note: 'OCLC: ocn276139074'
   number-of-pages: '459'
   publisher: Island Press
   publisher-place: Washington, D.C.
@@ -3022,9 +2954,6 @@ references:
   issued:
     - year: 2010
   language: en
-  note: |-
-    ZSCC: 0000000 
-    Accepted: 2013-10-21T02:23:32Z
   source: dl.lib.mrt.ac.lk
   title: >-
     Brunei Kampong Ayer: an analysis of the structure and the conditions of
@@ -3046,7 +2975,6 @@ references:
       month: 7
       day: 30
   language: en
-  note: 'ZSCC: 0000002'
   number-of-pages: '152'
   publisher: 'Institut Masyarakat : Central Books'
   publisher-place: Pinang
@@ -3066,7 +2994,6 @@ references:
   issued:
     - year: 1960
   language: en-US
-  note: 'OCLC: 255254857'
   number-of-pages: '194'
   publisher: MIT Press
   publisher-place: Cambridge, Mass.
@@ -3112,9 +3039,6 @@ references:
       month: 3
       day: 1
   language: en-US
-  note: >-
-    ArticleType: research-article / Full publication date: Mar., 1969 /
-    Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
   title: Where architectural historians fear to tread
@@ -3268,7 +3192,6 @@ references:
     - year: 2019
       month: 11
   language: en
-  note: 'ZSCC: 0000000'
   page: '042011'
   publisher: IOP Publishing
   source: Institute of Physics
@@ -3312,7 +3235,6 @@ references:
       month: 5
       day: 3
   language: en
-  note: '_eprint: https://doi.org/10.1080/13264826.2017.1316752'
   page: 218-236
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -3355,7 +3277,6 @@ references:
     - year: 2020
       month: 5
   language: en
-  note: 'ZSCC: 0000000'
   page: '10'
   source: Zotero
   title: >-
@@ -3380,7 +3301,6 @@ references:
       month: 10
       day: 18
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Blogger
   title: 'The establishment of ''air house'' standard in tropical countries : part 2'
   type: post-weblog
@@ -3423,7 +3343,6 @@ references:
       month: 7
       day: 31
   language: en
-  note: 'ZSCC: 0000029'
   number: '2'
   number-of-pages: '14'
   page: 31-44
@@ -3446,7 +3365,6 @@ references:
   issued:
     - year: 1985
   language: es
-  note: 'OCLC: 971178946'
   publisher: Gustavo Gili
   publisher-place: Barcelona
   source: Open WorldCat
@@ -3466,7 +3384,6 @@ references:
   issued:
     - year: 1998
   language: pt-BR
-  note: 'OCLC: 314328800'
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3487,7 +3404,6 @@ references:
   issued:
     - year: 1967
   language: it
-  note: 'OCLC: 609814196'
   publisher: Centro studi di storia urbanistica
   publisher-place: Roma
   source: Open WorldCat
@@ -3520,7 +3436,6 @@ references:
   issued:
     - year: 2020
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 1-17
   publisher: TUENGR Group
   source: DOI.org (Datacite)
@@ -3584,7 +3499,6 @@ references:
   issued:
     - year: 2019
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 313-327
   publisher: Springer
   publisher-place: Cham
@@ -3617,7 +3531,6 @@ references:
   issued:
     - year: 2008
   language: en
-  note: 'OCLC: ocn199455706'
   page: 3-46
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -3809,9 +3722,6 @@ references:
   issued:
     - year: 2019
   language: en
-  note: |-
-    ZSCC: 0000012 
-    OCLC: 1084727500
   publisher: Springer
   publisher-place: Cham
   source: Open WorldCat
@@ -3871,7 +3781,6 @@ references:
   issued:
     - year: 1998
   language: en-US
-  note: 'OCLC: 794645294'
   publisher: >-
     Aga Khan Program for Islamic Architecture at Harvard University :
     Massachusetts Institute of Technology
@@ -3908,9 +3817,6 @@ references:
   issued:
     - year: 2013
   language: en-GB
-  note: |-
-    ZSCC: 0000047 
-    OCLC: 956671220
   publisher: Taylor and Francis
   publisher-place: Florence
   source: Open WorldCat
@@ -3993,7 +3899,6 @@ references:
       month: 7
       day: 15
   language: en
-  note: 'ZSCC: 0000001'
   page: 294-313
   source: DOI.org (Crossref)
   title: 'The self-built city: theorizing urban design of informal settlements'
@@ -4021,9 +3926,6 @@ references:
   issued:
     - year: 1973
   language: en
-  note: >-
-    ArticleType: research-article / Full publication date: 1973 / Copyright ©
-    1973 International Center of Medieval Art
   page: 123–132
   source: JSTOR
   title: Cloister, court and city square
@@ -4101,7 +4003,6 @@ references:
   issued:
     - year: 2018
   language: fr-FR
-  note: 'ZSCC: NoCitationData[s0]'
   page: 153-168
   publisher: Archaeopress
   source: JSTOR
@@ -4167,7 +4068,6 @@ references:
   issued:
     - year: 2001
   language: en
-  note: 'ZSCC: 0000000'
   publisher: University of Hong Kong
   publisher-place: Hong Kong
   source: eLibrary.ru
@@ -4189,9 +4089,6 @@ references:
   issued:
     - year: 2012
   language: English
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 254473161
   number-of-pages: '296'
   publisher: Menges
   publisher-place: Stuttgart
@@ -4219,7 +4116,6 @@ references:
   issued:
     - year: 2012
   language: en
-  note: 'ZSCC: 0000013'
   number-of-pages: '336'
   publisher: Ashgate Publishing, Ltd.
   source: Google Books
@@ -4238,7 +4134,6 @@ references:
   issued:
     - year: 1969
   language: en-US
-  note: 'OCLC: 798753174'
   publisher: Prentice-Hall
   publisher-place: Englewood Cliffs, N.J.
   source: Open WorldCat
@@ -4267,11 +4162,6 @@ references:
   issued:
     - year: 2006
   language: eng
-  note: >-
-    ZSCC: 0000023 
-
-    _eprint:
-    https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/ap3a.2006.16.1.59
   page: 59-70
   source: Wiley Online Library
   title: Archaeology and environment–behavior studies
@@ -4303,7 +4193,6 @@ references:
   issued:
     - year: 2008
   language: en
-  note: 'OCLC: ocn199455706'
   page: 47-70
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -4360,9 +4249,6 @@ references:
       month: 1
       day: 1
   language: en
-  note: |-
-    ZSCC: 0000073 
-    _eprint: https://doi.org/10.1080/1360236032000134835
   page: 337-354
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -4408,7 +4294,6 @@ references:
       month: 6
       day: 1
   language: en
-  note: 'ZSCC: 0000016'
   page: 121-144
   publisher: SAGE Publications
   source: SAGE Journals
@@ -4453,7 +4338,6 @@ references:
       month: 12
       day: 3
   language: en
-  note: 'ZSCC: 0000067'
   page: 418-428
   source: ScienceDirect
   title: Heritage conservation and regeneration of historic areas in Malaysia
@@ -4501,7 +4385,6 @@ references:
   issued:
     - year: 2018
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '371'
   publisher: Palgrave Macmillan
   publisher-place: Singapore
@@ -4549,7 +4432,6 @@ references:
     - year: 2017
       month: 1
       day: 2
-  note: '_eprint: https://doi.org/10.1080/13604813.2016.1263494'
   page: 47-64
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -4573,7 +4455,6 @@ references:
   issued:
     - year: 1982
   language: en
-  note: 'ZSCC: 0000002'
   page: 189-203
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -4618,7 +4499,6 @@ references:
       month: 1
       day: 1
   language: en
-  note: 'ZSCC: 0000035'
   page: 238-253
   source: ScienceDirect
   title: >-
@@ -4667,7 +4547,6 @@ references:
   issued:
     - year: 1877
   language: eng
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '72'
   publisher: J. Maclehose
   publisher-place: Glasgow
@@ -4696,7 +4575,6 @@ references:
   issued:
     - year: 2015
   language: en
-  note: 'ZSCC: 0000019'
   page: 55-80
   source: DOI.org (Crossref)
   title: The impacts of islandness on the urbanism and architecture of Mombasa
@@ -4806,7 +4684,6 @@ references:
   issued:
     - year: 2005
   language: en
-  note: 'ZSCC: 0000008'
   page: 1-25
   title: >-
     Reading the traditional city of maritime Southeast Asia: reconstructing the
@@ -4842,7 +4719,6 @@ references:
   issued:
     - year: 2012
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Ashgate Publishing, Ltd.
   source: Google Books
   title: >-
@@ -4922,7 +4798,6 @@ references:
       month: 1
       day: 1
   language: English
-  note: 'ZSCC: 0000036'
   page: 442-475
   publisher: Brill
   section: >-
@@ -5021,7 +4896,6 @@ references:
   issue: '6'
   issued:
     - year: 2011
-  note: 'ZSCC: 0000004'
   page: '683'
   source: DOI.org (Crossref)
   title: >-
@@ -5072,7 +4946,6 @@ references:
       month: 8
       day: 1
   language: en-GB
-  note: '_eprint: https://doi.org/10.1080/13602365.2013.819813'
   page: 570-590
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -5102,9 +4975,6 @@ references:
   issued:
     - year: 1993
   language: es
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 1097802088
   publisher: Escala
   publisher-place: Bogotá
   source: Open WorldCat
@@ -5203,7 +5073,6 @@ references:
   issued:
     - year: 1982
   language: en
-  note: 'ZSCC: 0000073'
   page: 201-219
   publisher: Frobenius Institute
   source: JSTOR
@@ -5228,7 +5097,6 @@ references:
       month: 12
       day: 27
   language: en
-  note: 'ZSCC: 0000002'
   page: 115-131
   source: mjes.um.edu.my
   title: Historical notes, concepts, and evolution of urbanism in the Malay world
@@ -5268,7 +5136,6 @@ references:
       month: 12
       day: 1
   language: en
-  note: 'ZSCC: 0000016'
   page: 217-227
   source: ScienceDirect
   title: >-
@@ -5356,7 +5223,6 @@ references:
   issued:
     - year: 2020
   language: en
-  note: 'ZSCC: 0000000'
   page: 181-204
   publisher: Springer
   publisher-place: Singapore
@@ -5378,9 +5244,6 @@ references:
   issued:
     - year: 2020
   language: en
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 1111841564
   source: Open WorldCat
   title: >-
     Livability and sustainability of urbanism: an interdisciplinary study on
@@ -5420,9 +5283,6 @@ references:
   issued:
     - year: 2020
   language: English
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 1162615846
   publisher: Springer Singapore
   publisher-place: Singapore
   source: Open WorldCat
@@ -5465,7 +5325,6 @@ references:
   issued:
     - year: 2020
   language: en
-  note: 'ZSCC: 0000000'
   page: 205-238
   publisher: Springer
   publisher-place: Singapore
@@ -5506,7 +5365,6 @@ references:
   issued:
     - year: 2020
   language: en
-  note: 'ZSCC: 0000000'
   page: 239-263
   publisher: Springer
   publisher-place: Singapore
@@ -5554,7 +5412,6 @@ references:
       month: 6
       day: 1
   language: en
-  note: 'ZSCC: 0000058'
   page: 368-380
   source: DOI.org (Crossref)
   title: Creating urban communities at Kilwa Kisiwani, Tanzania, AD 800-1300
@@ -5600,7 +5457,6 @@ references:
       month: 12
       day: 1
   language: en
-  note: 'ZSCC: 0000056'
   page: 759-773
   source: ScienceDirect
   title: The public life of the Swahili stonehouse, 14th–15th centuries AD
@@ -5631,7 +5487,6 @@ references:
   issued:
     - year: 2014
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   page: 111-144
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -5653,7 +5508,6 @@ references:
       given: Jeffrey
   citation-key: wynne-jones:ruins
   container-title: Zamani Project
-  note: 'ZSCC: NoCitationData[s0]'
   title: 'Ruins of Songo Mnara: a Swahili Stone Town'
   type: webpage
   URL: https://www.zamaniproject.org/site-tanzania-songo-mnara.html
@@ -5672,7 +5526,6 @@ references:
     - year: 2016
       month: 9
       day: 19
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: University of Cape Town
   publisher-place: Cape Town
   source: YouTube
