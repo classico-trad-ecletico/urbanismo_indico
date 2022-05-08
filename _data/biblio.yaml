@@ -116,6 +116,7 @@ references:
   citation-key: akuma:2010archaeological
   issued:
     - year: 2010
+  language: en
   source: Semantic Scholar
   title: Archaeological investigations at Songo Mnara, Tanzania, 2011
   type: paper-conference
@@ -303,7 +304,7 @@ references:
   issue: '190'
   issued:
     - year: 2009
-  language: en-ZA
+  language: en
   page: 148-155
   source: Scopus
   title: >-
@@ -401,7 +402,7 @@ references:
   issue: '4'
   issued:
     - year: 1988
-  language: English
+  language: en
   number: '4'
   page: 16-30
   source: arkitekturforskning.net
@@ -434,9 +435,8 @@ references:
     - family: Berti
       given: Maurizio
   citation-key: berti:2016conservation225
-  collection-title: Conservation of Architectural Heritage (CAH)
+  collection-title: Conservation of Architectural Heritage
   container-title: Procedia - Social and Behavioral Sciences
-  container-title-short: Procedia - Social and Behavioral Sciences
   DOI: 10.1016/j.sbspro.2016.06.007
   ISSN: 1877-0428
   issued:
@@ -452,6 +452,27 @@ references:
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S1877042816306929
   volume: '225'
+
+- id: blaut:1993colonizers
+  author:
+    - family: Blaut
+      given: James M.
+  call-number: D16.9 .B49 1992
+  citation-key: blaut:1993colonizers
+  event-place: New York
+  ISBN: 978-0-89862-349-9 978-0-89862-348-2
+  issued:
+    - year: 1993
+  language: en
+  number-of-pages: '246'
+  publisher: Guilford
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: >-
+    The colonizer's model of the world: geographical diffusionism and
+    Eurocentric history
+  title-short: The colonizer's model of the world
+  type: book
 
 - id: blier:1994anatomy
   abstract: >-
@@ -566,6 +587,7 @@ references:
       day: 20
   citation-key: 'british:'
   container-title: Archaeology Data Service
+  language: en
   source: archaeologydataservice.ac.uk
   title: British Institute in Eastern Africa Image Archive
   type: webpage
@@ -585,7 +607,7 @@ references:
   event-place: London
   issued:
     - year: 1872
-  language: eng
+  language: en
   publisher: Tinsley Brothers
   publisher-place: London
   source: Internet Archive
@@ -630,7 +652,6 @@ references:
       given: Ming-Hung
   citation-key: chen:2008typological7
   container-title: Journal of Asian Architecture and Building Engineering
-  container-title-short: Journal of Asian Architecture and Building Engineering
   DOI: 10.3130/jaabe.7.247
   ISSN: 1346-7581, 1347-2852
   issue: '2'
@@ -657,7 +678,7 @@ references:
   DOI: 10.13140/2.1.1385.5528
   issued:
     - year: 2015
-  language: it
+  language: en
   publisher: Unpublished
   source: DOI.org (Datacite)
   title: New pathways to socio-political complexity
@@ -690,8 +711,8 @@ references:
   ISBN: 978-9956-550-05-0
   issued:
     - year: 2019
-  language: English
-  publisher: Langaa RPCIG
+  language: en
+  publisher: Langaa <span class="smallcaps">RPCIG</span>
   publisher-place: Mankon
   source: Open WorldCat
   title: >-
@@ -982,7 +1003,7 @@ references:
   issued:
     - year: 2015
       month: 12
-  language: English
+  language: en
   page: 1402-1419
   source: DOI.org (Crossref)
   title: The landscape of Angkor Wat redefined
@@ -1369,6 +1390,7 @@ references:
   issue: '2'
   issued:
     - year: 2012
+  language: en
   page: 207-220
   publisher: Africa Magna Verlag
   source: JSTOR
@@ -1412,7 +1434,6 @@ references:
       given: Jeffrey
   citation-key: fleisher:2014complexity35
   container-title: Journal of Anthropological Archaeology
-  container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2014.04.002
   ISSN: 0278-4165
   issued:
@@ -1458,7 +1479,7 @@ references:
   issued:
     - year: 2015
       month: 12
-  language: English
+  language: en
   page: 1388-1401
   source: DOI.org (Crossref)
   title: 'Angkor Wat: an introduction'
@@ -1840,7 +1861,6 @@ references:
       given: Besim Selim
   citation-key: hakim:1999urban16
   container-title: Cities
-  container-title-short: Cities
   DOI: 10.1016/S0264-2751(98)00054-7
   ISSN: 0264-2751
   issue: '1'
@@ -1890,7 +1910,7 @@ references:
   issue: '1'
   issued:
     - year: 2006
-  language: English
+  language: en
   page: 1-26
   publisher: Locke Science Publishing Company, Inc.
   source: JSTOR
@@ -1923,7 +1943,7 @@ references:
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
-  language: English
+  language: en
   page: 663-676
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -1986,6 +2006,7 @@ references:
   ISBN: 978-0-19-515773-4
   issued:
     - year: 2006
+  language: en
   number-of-pages: '47'
   publisher: Oxford University Press
   publisher-place: New York
@@ -2015,8 +2036,8 @@ references:
     - year: 2018
       month: 11
       day: 30
-  language: French
-  publisher: Archaeopress Publishing Ltd
+  language: fr
+  publisher: Archaeopress
   source: DOI.org (Crossref)
   title: >-
     Sur les chemins d’Onagre: Histoire et archéologie orientales: Hommage à
@@ -2133,6 +2154,7 @@ references:
   issue: '2'
   issued:
     - year: 1978
+  language: en
   page: 92-104
   source: JSTOR
   title: Traditional town planning in Burma
@@ -2226,12 +2248,12 @@ references:
       given: Thomas N.
   citation-key: huffman:2001central13
   container-title: Southern African Humanities
-  container-title-short: Southern African Humanities
   issue: '1'
   issued:
     - year: 2001
       month: 1
       day: 1
+  language: en
   page: 19-35
   source: IngentaConnect
   title: The central cattle pattern and interpreting the past
@@ -2259,7 +2281,6 @@ references:
       given: Thomas N.
   citation-key: huffman:2009mapungubwe28
   container-title: Journal of Anthropological Archaeology
-  container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2008.10.004
   ISSN: 0278-4165
   issue: '1'
@@ -2656,6 +2677,7 @@ references:
   citation-key: kiamba:2014climate-responsive
   issued:
     - year: 2014
+  language: en
   source: Semantic Scholar
   title: Climate-responsive vernacular Swahili Housing
   type: paper-conference
@@ -2825,7 +2847,6 @@ references:
       given: Sarah
   citation-key: klehm:2019archaeological54
   container-title: Journal of Anthropological Archaeology
-  container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2019.02.002
   ISSN: 0278-4165
   issued:
@@ -3127,6 +3148,7 @@ references:
   issue: '2'
   issued:
     - year: 2014
+  language: en
   page: 155-172
   publisher: Taylor & Francis, Ltd.
   source: JSTOR
@@ -3142,14 +3164,14 @@ references:
       given: Peter
   call-number: NA7467.6.S4 M37 2002
   citation-key: mark:2002portuguese
-  event-place: Bloomington
+  event-place: Bloomington, In.
   ISBN: 978-0-253-34155-6
   issued:
     - year: 2002
   language: en
   number-of-pages: '208'
   publisher: Indiana University Press
-  publisher-place: Bloomington
+  publisher-place: Bloomington, In.
   source: Library of Congress ISBN
   title: >-
     "Portuguese" style and Luso-African identity: precolonial Senegambia,
@@ -3503,8 +3525,8 @@ references:
   publisher: Springer
   publisher-place: Cham
   source: Springer Link
-  title: 'Case Study: Lamu Old Town'
-  title-short: Case Study
+  title: 'Case study: Lamu old town'
+  title-short: Case study
   type: chapter
   URL: https://doi.org/10.1007/978-981-10-8887-2_17
 
@@ -4023,7 +4045,6 @@ references:
       given: Labelle
   citation-key: prussin:1968architecture
   container-title: African Arts
-  container-title-short: African Arts
   DOI: 10.2307/3334324
   ISSN: 0001-9933
   issue: '2'
@@ -4088,7 +4109,7 @@ references:
   ISBN: 978-3-932565-30-4
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '296'
   publisher: Menges
   publisher-place: Stuttgart
@@ -4161,7 +4182,7 @@ references:
   issue: '1'
   issued:
     - year: 2006
-  language: eng
+  language: en
   page: 59-70
   source: Wiley Online Library
   title: Archaeology and environment–behavior studies
@@ -4285,7 +4306,6 @@ references:
       given: Mohamed R.
   citation-key: said:2008parametric6
   container-title: International Journal of Architectural Computing
-  container-title-short: International Journal of Architectural Computing
   DOI: 10.1260/147807708785850113
   ISSN: 1478-0771
   issue: '2'
@@ -4330,7 +4350,6 @@ references:
     AicE-Bs 2013 London (Asia Pacific International Conference on
     Environment-Behaviour Studies), 4-6 September 2013
   container-title: Procedia - Social and Behavioral Sciences
-  container-title-short: Procedia - Social and Behavioral Sciences
   DOI: 10.1016/j.sbspro.2013.11.044
   ISSN: 1877-0428
   issued:
@@ -4432,6 +4451,7 @@ references:
     - year: 2017
       month: 1
       day: 2
+  language: en
   page: 47-64
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -4491,7 +4511,6 @@ references:
   citation-key: shamsuddin:2012urban50
   collection-title: AcE-Bs 2012 Bangkok, Sukosol Hotel, Bangkok, Thailand, 16-18 July, 2012
   container-title: Procedia - Social and Behavioral Sciences
-  container-title-short: Procedia - Social and Behavioral Sciences
   DOI: 10.1016/j.sbspro.2012.08.031
   ISSN: 1877-0428
   issued:
@@ -4546,7 +4565,7 @@ references:
   event-place: Glasgow
   issued:
     - year: 1877
-  language: eng
+  language: en
   number-of-pages: '72'
   publisher: J. Maclehose
   publisher-place: Glasgow
@@ -4628,7 +4647,6 @@ references:
   citation-key: sulas:2017geoarchaeology77
   collection-title: 'Geoarchaeology in the Humid Tropics: Practice, Problems, Prospects'
   container-title: Journal of Archaeological Science
-  container-title-short: Journal of Archaeological Science
   DOI: 10.1016/j.jas.2016.06.002
   ISSN: 0305-4403
   issued:
@@ -4719,7 +4737,7 @@ references:
   issued:
     - year: 2012
   language: en
-  publisher: Ashgate Publishing, Ltd.
+  publisher: Ashgate
   source: Google Books
   title: >-
     Beyond racialized representation: architectural *linguæ francæ* and urban
@@ -4797,7 +4815,7 @@ references:
     - year: 1967
       month: 1
       day: 1
-  language: English
+  language: en
   page: 442-475
   publisher: Brill
   section: >-
@@ -4896,6 +4914,7 @@ references:
   issue: '6'
   issued:
     - year: 2011
+  language: en
   page: '683'
   source: DOI.org (Crossref)
   title: >-
@@ -4961,6 +4980,7 @@ references:
       day: 16
   citation-key: 'vernacular:'
   container-title: Archnet
+  language: en
   title: Vernacular Housing of Lamu (Swahili Housing)
   type: webpage
   URL: https://archnet.org/sites/6076
@@ -5019,7 +5039,7 @@ references:
   issue: '1'
   issued:
     - year: 2019
-  language: English
+  language: en
   number: '1'
   page: 1-13
   source: journals.innosciencepress.com
@@ -5127,7 +5147,6 @@ references:
       given: Bagoes
   citation-key: wiryomartono:2013urbanism4
   container-title: City, Culture and Society
-  container-title-short: City, Culture and Society
   DOI: 10.1016/j.ccs.2013.05.004
   ISSN: 1877-9166
   issue: '4'
@@ -5282,7 +5301,7 @@ references:
   ISBN: '9789811534058'
   issued:
     - year: 2020
-  language: English
+  language: en
   publisher: Springer Singapore
   publisher-place: Singapore
   source: Open WorldCat
@@ -5403,7 +5422,6 @@ references:
       given: Stephanie
   citation-key: wynne-jones:2007creating81
   container-title: Antiquity
-  container-title-short: Antiquity
   DOI: 10.1017/S0003598X00095247
   ISSN: 0003-598X, 1745-1744
   issue: '312'
@@ -5448,7 +5466,6 @@ references:
       given: Stephanie
   citation-key: wynne-jones:2013public32
   container-title: Journal of Anthropological Archaeology
-  container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2013.05.003
   ISSN: 0278-4165
   issue: '4'
@@ -5508,6 +5525,7 @@ references:
       given: Jeffrey
   citation-key: wynne-jones:ruins
   container-title: Zamani Project
+  language: en
   title: 'Ruins of Songo Mnara: a Swahili Stone Town'
   type: webpage
   URL: https://www.zamaniproject.org/site-tanzania-songo-mnara.html
@@ -5526,6 +5544,7 @@ references:
     - year: 2016
       month: 9
       day: 19
+  language: en
   publisher: University of Cape Town
   publisher-place: Cape Town
   source: YouTube
@@ -5540,6 +5559,7 @@ references:
       day: 24
   citation-key: zamaniproject:swaheli
   container-title: Zamani Project
+  language: en
   title: Swaheli House Museum
   type: webpage
   URL: https://zamaniproject.org/site-kenya-lamu-swahili-house-musemu.html
