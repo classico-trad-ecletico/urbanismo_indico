@@ -94,6 +94,7 @@ references:
   issued:
     - year: 2002
   language: en
+  license: Copyright (c) 2017 SEAMEO SPAFA
   number: '1'
   page: 41-51
   source: spafajournal.org
@@ -275,6 +276,7 @@ references:
     - family: Bacon
       given: Edmund N.
   citation-key: bacon:1974design
+  edition: Rev. ed.
   event-place: New York
   issued:
     - year: 1974
@@ -403,6 +405,7 @@ references:
   issued:
     - year: 1988
   language: en
+  license: '##submission.copyrightStatement##'
   number: '4'
   page: 16-30
   source: arkitekturforskning.net
@@ -542,6 +545,7 @@ references:
     - year: 1999
       month: 5
   language: en-US
+  license: Copyright © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
   title: >-
@@ -551,6 +555,41 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/1425410
   volume: '52'
+
+- id: braun:1575civitates
+  abstract: >-
+    Imprint from colophon on verso of map 58, after the privilege by king Philip
+    of Spain dated November 22, 1574 (text in Dutch); Imperial privilege of
+    Maximilian II on verso of t.p.: Anno Domini millesimo quingentesimo
+    septuagesimo secundo, i.e. 1572; George Braun's preface to the reader is
+    dated Coloniae Agrippinae M.D. LXXII; Explanatory text by Georg Braun
+    printed on recto of each plate; engravings by Franciscus Hogenberg and Simon
+    Novellanus; Signatures: A-F² *-6*²; the first, unnumbered plate has
+    signature A; The first of six pts. published between 1572 and 1617; only the
+    1st pt. has the title Civitates orbis terrarum; See Koeman, who seems not to
+    list this ed. under Latin text, pt. I; Title in engraved architectural
+    border with figures of Minerva and Hercules on either side; Includes index
+    on final [24] p; JCB Lib. cat., pre-1675; Koeman, C. Atlantes neerlandici;
+    Sabin; Alden, J.E. European Americana
+  accessed:
+    - year: 2022
+      month: 10
+      day: 14
+  author:
+    - family: Braun
+      given: Georg
+  citation-key: braun:1575civitates
+  contributor:
+    - literal: John Carter Brown Library
+  issued:
+    - year: 1575
+  language: lat
+  number-of-pages: '294'
+  publisher: 'Antwerpiae : Apud Aegidium Radeum'
+  source: Internet Archive
+  title: Civitates orbis terrarum
+  type: book
+  URL: http://archive.org/details/civitatesorbiste00brau
 
 - id: 'british:'
   abstract: >-
@@ -608,6 +647,7 @@ references:
   issued:
     - year: 1872
   language: en
+  license: http://creativecommons.org/publicdomain/mark/1.0/
   publisher: Tinsley Brothers
   publisher-place: London
   source: Internet Archive
@@ -963,6 +1003,7 @@ references:
       month: 9
       day: 4
   language: en-US
+  license: © 2007 by The National Academy of Sciences of the USA
   page: 14277-14282
   PMID: '17717084'
   source: www.pnas.org
@@ -1235,6 +1276,9 @@ references:
   call-number: G2446.S1 B3 2019
   citation-key: fauvelle:2019atlas
   collection-title: Collection Atlas/mémoires
+  contributor:
+    - family: Balavoine
+      given: Guillaume
   editor:
     - family: Fauvelle
       given: François-Xavier
@@ -1260,6 +1304,7 @@ references:
   citation-key: 'filechronological:'
   container-title: Wikipedia
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: >-
     File:Chronological dispersal of Austronesian people across the Pacific (per
@@ -1298,8 +1343,8 @@ references:
       given: Gun
   citation-key: firzal:2016architecture
   container-title: <span class="smallcaps">ISVS–8</span>
-  event: International Seminar on Vernacular Settlements
   event-place: Makassar
+  event-title: International Seminar on Vernacular Settlements
   issued:
     - year: 2016
   language: en
@@ -1637,7 +1682,7 @@ references:
   ISBN: 978-0-19-284261-9
   issued:
     - year: 2002
-  language: en-GB
+  language: en
   number-of-pages: '214'
   publisher: Oxford University Press
   publisher-place: Oxford
@@ -1742,6 +1787,9 @@ references:
       month: 5
       day: 5
   language: en
+  license: >-
+    Copyright (c) 2015 International Journal of Built Environment and
+    Sustainability
   number: '2'
   source: ijbes.utm.my
   title: Social sustainability of Kampung communities
@@ -1984,6 +2032,7 @@ references:
   issued:
     - year: 1996
   language: en
+  license: free
   page: 95-118
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -2369,6 +2418,9 @@ references:
       month: 5
       day: 10
   language: en
+  license: >-
+    Copyright (c) 2020 Illyani Ibrahim, Noranisa Roslee, Alias Abdullah, Mansor
+    Ibrahim, Fatin Farhana N Murtaza
   number: '12'
   source: mail.planningmalaysia.org
   title: >-
@@ -2598,7 +2650,7 @@ references:
     - year: 2012
       month: 1
       day: 1
-  language: en-AU
+  language: en
   page: 63-68
   publisher: Taylor & Francis
   source: Taylor and Francis+NEJM
@@ -2701,6 +2753,7 @@ references:
       month: 8
       day: 3
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Kilwa Kisiwani
   type: entry-encyclopedia
@@ -2728,6 +2781,7 @@ references:
       month: 7
       day: 3
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Kilwa Sultanate
   type: entry-encyclopedia
@@ -2794,6 +2848,16 @@ references:
       month: 5
       day: 1
   language: en
+  license: >-
+    Copyright © 2021 The Authors, some rights reserved; exclusive licensee
+    American Association for the Advancement of Science. No claim to original
+    U.S. Government Works. Distributed under a Creative Commons Attribution
+    NonCommercial License 4.0 (CC BY-NC)..
+    https://creativecommons.org/licenses/by-nc/4.0/This is an open-access
+    article distributed under the terms of the Creative Commons
+    Attribution-NonCommercial license, which permits use, distribution, and
+    reproduction in any medium, so long as the resultant use is not for
+    commercial advantage and provided the original work is properly cited.
   page: eabf8441
   PMID: '33962951'
   publisher: American Association for the Advancement of Science
@@ -3041,7 +3105,7 @@ references:
   title: A theory of good city form
   type: book
 
-- id: maass:1969where
+- id: maass:1969where28
   accessed:
     - year: 2012
       month: 12
@@ -3049,7 +3113,7 @@ references:
   author:
     - family: Maass
       given: John
-  citation-key: maass:1969where
+  citation-key: maass:1969where28
   container-title: The Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/988523
@@ -3060,6 +3124,7 @@ references:
       month: 3
       day: 1
   language: en-US
+  license: Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
   title: Where architectural historians fear to tread
@@ -3365,6 +3430,7 @@ references:
       month: 7
       day: 31
   language: en
+  license: cc_by_nc_nd
   number: '2'
   number-of-pages: '14'
   page: 31-44
@@ -3646,6 +3712,7 @@ references:
       month: 12
       day: 10
   language: en-GB
+  license: © 2021 Informa UK Limited, trading as Taylor & Francis Group
   publisher: Routledge
   source: www.tandfonline.com
   title: Urban form and the socioeconomic and environmental dimensions of cities
@@ -3664,8 +3731,8 @@ references:
       given: F. O.
   citation-key: osasona:2011ile
   DOI: 10.2495/STR110091
-  event: <span class="smallcaps">STREMAH</span> 2011
   event-place: Chianciano Terme, Tuscany, Italy
+  event-title: <span class="smallcaps">STREMAH</span> 2011
   issued:
     - year: 2011
       month: 9
@@ -3796,6 +3863,10 @@ references:
       day: 15
   citation-key: petruccioli:1998typological
   collection-title: Procedings of the international symposium ... March 1995
+  contributor:
+    - literal: >-
+        Aga Khan Program for Islamic Architecture at Harvard University and
+        Massachusets Institute of Technology
   editor:
     - family: Petruccioli
       given: Attilio
@@ -3948,6 +4019,7 @@ references:
   issued:
     - year: 1973
   language: en
+  license: Copyright © 1973 International Center of Medieval Art
   page: 123–132
   source: JSTOR
   title: Cloister, court and city square
@@ -4475,6 +4547,7 @@ references:
   issued:
     - year: 1982
   language: en
+  license: free
   page: 189-203
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -4527,6 +4600,24 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S1877042812031692
   volume: '50'
 
+- id: smith:2010introduction
+  author:
+    - family: Smith
+      given: Monica
+  citation-key: smith:2010introduction
+  container-title: The social construction of ancient cities
+  event-place: Washington, D.C.
+  issued:
+    - year: 2010
+  language: en
+  page: 1-36
+  publisher: Smithsonian Institution
+  publisher-place: Washington, D.C.
+  source: ResearchGate
+  title: 'Introduction: The social construction of ancient cities'
+  title-short: Introduction
+  type: chapter
+
 - id: sogoba:2019tata
   abstract: >-
     The Tata Somba is not only a marvel of earthen Batammaliba architecture, it
@@ -4545,8 +4636,8 @@ references:
       month: 7
       day: 1
   language: en-US
-  title: Tata Somba, Batammaliba Architecture at its Height
-  title-short: Tata Somba
+  title: Tata somba, Batammaliba architecture at its height
+  title-short: Tata somba
   type: webpage
   URL: https://www.culturesofwestafrica.com/tata-somba-batammaliba-architecture/
 
@@ -4681,7 +4772,7 @@ references:
     - year: 2006
       month: 8
       day: 1
-  language: en-US
+  language: en
   page: 46–52
   source: escholarship.org
   title: >-
@@ -4784,6 +4875,7 @@ references:
       month: 10
       day: 5
   language: en
+  license: © Cahiers d’Études africaines
   number: '208'
   page: 813-844
   publisher: Éditions de l’École des hautes études en sciences sociales
@@ -4845,7 +4937,7 @@ references:
   language: en
   page: 32-94
   source: JSTOR
-  title: Origin Traditions and History in Central Africa
+  title: Origin traditions and history in central Africa
   type: article-journal
   URL: https://www.jstor.org/stable/3338010
   volume: '37'
@@ -4855,13 +4947,6 @@ references:
     - family: Unamuno
       given: Miguel
       dropping-particle: de
-    - family: Remédios
-      given: Mendes
-      dropping-particle: dos
-    - family: Brandão
-      given: Mário
-    - family: Cruz
-      given: Lígia
   call-number: '316.7'
   citation-key: unamuno:1902torno
   collection-number: '4'
@@ -4988,7 +5073,7 @@ references:
 - id: waisman:1993interior
   author:
     - family: Waisman
-      given: Manno
+      given: Marina
   citation-key: waisman:1993interior
   edition: '2'
   event-place: Bogotá
@@ -5040,6 +5125,7 @@ references:
   issued:
     - year: 2019
   language: en
+  license: Copyright (c) 2019 Wang H & Jia BS
   number: '1'
   page: 1-13
   source: journals.innosciencepress.com
@@ -5085,7 +5171,7 @@ references:
       day: 1
   archive: JSTOR
   author:
-    - family: WIlson
+    - family: Wilson
       given: Thomas H.
   citation-key: wilson:1982spatial28
   container-title: Paideuma
@@ -5117,6 +5203,7 @@ references:
       month: 12
       day: 27
   language: en
+  license: Copyright (c)
   page: 115-131
   source: mjes.um.edu.my
   title: Historical notes, concepts, and evolution of urbanism in the Malay world
@@ -5432,7 +5519,9 @@ references:
   language: en
   page: 368-380
   source: DOI.org (Crossref)
-  title: Creating urban communities at Kilwa Kisiwani, Tanzania, AD 800-1300
+  title: >-
+    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
+    class="smallcaps">AD</span> 800-1300
   type: article-journal
   URL: >-
     https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
@@ -5476,7 +5565,9 @@ references:
   language: en
   page: 759-773
   source: ScienceDirect
-  title: The public life of the Swahili stonehouse, 14th–15th centuries AD
+  title: >-
+    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
+    class="smallcaps">AD</span>
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
   volume: '32'
