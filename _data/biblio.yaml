@@ -22,7 +22,7 @@ references:
     - year: 2015
       month: 2
       day: 24
-  language: fr-FR
+  language: fr
   page: 383-399
   publisher: Presses universitaires de Rennes
   publisher-place: Rennes
@@ -88,7 +88,7 @@ references:
     - family: Ahmad
       given: A. Ghafar
   citation-key: ahmad:2002tropical12
-  container-title: <span class="smallcaps">SPAFA</span> Journal (Old series 1991-2013)
+  container-title: <span smallcaps="smallcaps">SPAFA</span> Journal (Old series 1991-2013)
   ISSN: 0858-1975
   issue: '1'
   issued:
@@ -1580,7 +1580,8 @@ references:
   source: Crossref
   title: >-
     Uma morfologia dos quilombos nas Américas, séculos <span
-    class="smallcaps">XVI-XIX</span>
+    smallcaps="smallcaps">XVI-XIX</span>
+  title-short: Uma morfologia dos quilombos nas Américas
   type: article-journal
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-59702012000500014&lng=pt&tlng=pt
@@ -2371,7 +2372,7 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S0278416508000585
   volume: '28'
 
-- id: huffman:2011khami9
+- id: huffman:2011khami
   accessed:
     - year: 2020
       month: 7
@@ -2382,7 +2383,7 @@ references:
     - family: Piesanie
       given: Justin
       non-dropping-particle: du
-  citation-key: huffman:2011khami9
+  citation-key: huffman:2011khami
   container-title: Journal of African Archaeology
   container-title-short: JAA
   DOI: 10.3213/2191-5784-10197
@@ -2394,7 +2395,7 @@ references:
   language: en
   page: 189-206
   source: DOI.org (Crossref)
-  title: Khami and the Venda in the Mapungubwe Landscape
+  title: Khami and the Venda in the Mapungubwe landscape
   type: article-journal
   URL: https://brill.com/abstract/journals/jaa/9/2/article-p189_5.xml
   volume: '9'
@@ -2754,7 +2755,7 @@ references:
     - year: 2014
   language: en
   source: Semantic Scholar
-  title: Climate-responsive vernacular Swahili Housing
+  title: Climate-responsive vernacular Swahili housing
   type: paper-conference
 
 - id: kilwa:2020
@@ -2963,14 +2964,14 @@ references:
       given: Dhiru A.
     - family: Hetzel
       given: Peter J.
-  event-place: Washington, D.C.
+  event-place: Washington, <span smallcaps="smallcaps">D.C.</span>
   ISBN: 978-1-59726-578-2
   issued:
     - year: 2009
-  language: en-US
+  language: en
   number-of-pages: '459'
   publisher: Island Press
-  publisher-place: Washington, D.C.
+  publisher-place: Washington, <span smallcaps="smallcaps">D.C.</span>
   source: Library of Congress ISBN
   title: The architecture of community
   type: book
@@ -3669,8 +3670,8 @@ references:
   publisher: Unesco
   publisher-place: Brasília
   title: >-
-    África do século <span class="smallcaps">XVI</span> ao <span
-    class="smallcaps">XVIII</span>
+    África do século <span smallcaps="smallcaps">XVI</span> ao <span
+    smallcaps="smallcaps">XVIII</span>
   type: book
 
 - id: oliveira:2016urban
@@ -3701,7 +3702,7 @@ references:
   ISBN: 978-3-319-32081-6
   issued:
     - year: 2016
-  language: en-GB
+  language: en
   publisher: Springer
   publisher-place: Cham
   source: www.springer.com
@@ -3896,7 +3897,7 @@ references:
   event-place: Cambridge, Mass.
   issued:
     - year: 1998
-  language: en-US
+  language: en
   publisher: >-
     Aga Khan Program for Islamic Architecture at Harvard University :
     Massachusetts Institute of Technology
@@ -4249,7 +4250,7 @@ references:
   event-place: Englewood Cliffs, N.J.
   issued:
     - year: 1969
-  language: en-US
+  language: en
   publisher: Prentice-Hall
   publisher-place: Englewood Cliffs, N.J.
   source: Open WorldCat
@@ -5514,87 +5515,6 @@ references:
   type: webpage
   URL: https://www.wmf.org/project/historic-sites-kilwa
 
-- id: wynne-jones:2007creating81
-  abstract: >-
-    Urban communities on the medieval East African coast have been previously
-    discussed in terms of ethnicity and migration. Here assemblages from coastal
-    towns and from surface survey in the interior are used to paint a different
-    picture of urban (Swahili) origins. The author shows that coast and interior
-    shared a common culture, but that coastal sites grew into ‘stonetowns’
-    thanks to the social impact of imports: the material culture structured the
-    society.
-  accessed:
-    - year: 2020
-      month: 7
-      day: 20
-  author:
-    - family: Wynne-Jones
-      given: Stephanie
-  citation-key: wynne-jones:2007creating81
-  container-title: Antiquity
-  DOI: 10.1017/S0003598X00095247
-  ISSN: 0003-598X, 1745-1744
-  issue: '312'
-  issued:
-    - year: 2007
-      month: 6
-      day: 1
-  language: en
-  page: 368-380
-  source: DOI.org (Crossref)
-  title: >-
-    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
-    class="smallcaps">AD</span> 800-1300
-  type: article-journal
-  URL: >-
-    https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
-  volume: '81'
-
-- id: wynne-jones:2013public32
-  abstract: >-
-    Houses are an important subject of archaeological research, normally
-    explored through the households they contain. This has established a
-    deliberately social agenda for the archaeology of houses, yet has had the
-    unintended consequence of creating bounded worlds for study. Although
-    household archaeologies explore the ways that households contributed to
-    broader social and economic realms, it is rare to think through the public
-    role of houses for non-residents and the larger population of the
-    settlement. This paper seeks to explore this more public aspect of houses
-    using the data from archaeology at Songo Mnara, a 14th–15th century Swahili
-    town on the southern Tanzanian coast. This was a time when stone-built
-    domestic architecture was first emerging in this region. The archaeology of
-    the houses provides data for a series of ways that the house was at the
-    heart of the economic and political life of the town, as well as
-    demonstrating a spatial continuity between indoor and outdoor spaces. It is
-    therefore suggested that the domestic and residential functions of the house
-    for a particular household should be balanced with an appreciation of the
-    broader world of the house itself.
-  accessed:
-    - year: 2020
-      month: 7
-      day: 20
-  author:
-    - family: Wynne-Jones
-      given: Stephanie
-  citation-key: wynne-jones:2013public32
-  container-title: Journal of Anthropological Archaeology
-  DOI: 10.1016/j.jaa.2013.05.003
-  ISSN: 0278-4165
-  issue: '4'
-  issued:
-    - year: 2013
-      month: 12
-      day: 1
-  language: en
-  page: 759-773
-  source: ScienceDirect
-  title: >-
-    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
-    class="smallcaps">AD</span>
-  type: article-journal
-  URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
-  volume: '32'
-
 - id: wynne-jones:2014swahili
   accessed:
     - year: 2020
@@ -5644,6 +5564,87 @@ references:
   type: webpage
   URL: https://www.zamaniproject.org/site-tanzania-songo-mnara.html
 
+- id: wynnejones:2007creating81
+  abstract: >-
+    Urban communities on the medieval East African coast have been previously
+    discussed in terms of ethnicity and migration. Here assemblages from coastal
+    towns and from surface survey in the interior are used to paint a different
+    picture of urban (Swahili) origins. The author shows that coast and interior
+    shared a common culture, but that coastal sites grew into ‘stonetowns’
+    thanks to the social impact of imports: the material culture structured the
+    society.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 20
+  author:
+    - family: Wynne-Jones
+      given: Stephanie
+  citation-key: wynnejones:2007creating81
+  container-title: Antiquity
+  DOI: 10.1017/S0003598X00095247
+  ISSN: 0003-598X, 1745-1744
+  issue: '312'
+  issued:
+    - year: 2007
+      month: 6
+      day: 1
+  language: en
+  page: 368-380
+  source: DOI.org (Crossref)
+  title: >-
+    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
+    smallcaps="smallcaps">AD</span> 800-1300
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
+  volume: '81'
+
+- id: wynnejones:2013public32
+  abstract: >-
+    Houses are an important subject of archaeological research, normally
+    explored through the households they contain. This has established a
+    deliberately social agenda for the archaeology of houses, yet has had the
+    unintended consequence of creating bounded worlds for study. Although
+    household archaeologies explore the ways that households contributed to
+    broader social and economic realms, it is rare to think through the public
+    role of houses for non-residents and the larger population of the
+    settlement. This paper seeks to explore this more public aspect of houses
+    using the data from archaeology at Songo Mnara, a 14th–15th century Swahili
+    town on the southern Tanzanian coast. This was a time when stone-built
+    domestic architecture was first emerging in this region. The archaeology of
+    the houses provides data for a series of ways that the house was at the
+    heart of the economic and political life of the town, as well as
+    demonstrating a spatial continuity between indoor and outdoor spaces. It is
+    therefore suggested that the domestic and residential functions of the house
+    for a particular household should be balanced with an appreciation of the
+    broader world of the house itself.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 20
+  author:
+    - family: Wynne-Jones
+      given: Stephanie
+  citation-key: wynnejones:2013public32
+  container-title: Journal of Anthropological Archaeology
+  DOI: 10.1016/j.jaa.2013.05.003
+  ISSN: 0278-4165
+  issue: '4'
+  issued:
+    - year: 2013
+      month: 12
+      day: 1
+  language: en
+  page: 759-773
+  source: ScienceDirect
+  title: >-
+    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
+    smallcaps="smallcaps">ad</span>
+  type: article-journal
+  URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
+  volume: '32'
+
 - id: zamani:2016animation
   accessed:
     - year: 2020
@@ -5659,6 +5660,7 @@ references:
       month: 9
       day: 19
   language: en
+  note: 'ZSCC: NoCitationData[s0]'
   publisher: University of Cape Town
   publisher-place: Cape Town
   source: YouTube
@@ -5688,7 +5690,7 @@ references:
     - year: 1970
   language: en-US
   number-of-pages: xxiii, 287 p.
-  publisher: <span class="smallcaps">MIT</span> Press
+  publisher: <span smallcaps="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   title: 'Town and square: from the agora to the village green'
   type: book
