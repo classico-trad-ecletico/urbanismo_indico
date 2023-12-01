@@ -1,5 +1,5 @@
 ---
-title       : "Paradigmas urbanísticos na periferia do oceano Índico moderno"
+title       : "Paradigmas urbanísticos na periferia do oceano Índico"
 #author      : Pedro P. Palazzo
 lang        : pt-BR
 bibliography: _data/biblio.yaml
@@ -41,9 +41,15 @@ rede viária pública formada por ruas, avenidas, largos e praças, seguida
 pelo parcelamento do solo em lotes privados e, por fim, pela construção
 das edificações. Presume-se que a ordem desses elementos seja tanto
 hierárquica --- o sistema viário determina o espaço disponível para as
-parcela, e por sua vez cada parcela delimita a área passível de ser
+parcelas, e por sua vez cada parcela delimita a área passível de ser
 construída por um agente individual --- quanto cronológica --- o
 arruamento vem antes do parcelamento, que precede a edificação.
+
+Esse paradigma descreve adequadamente grande parte dos territórios
+eurasiáticos, incluindo as sociedades de matriz ou influência cultural
+indo-europeia, árabe e chinesa, bem como, desde o século XVI, os
+territórios americanos e africanos submetidos à colonização europeia ou
+islâmica. Ele foi descrito inicialmente por 
 
 # Mundos conectados no século XIV #
 
