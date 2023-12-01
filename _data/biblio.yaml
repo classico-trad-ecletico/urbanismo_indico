@@ -362,7 +362,6 @@ references:
   author:
     - family: Baydar Nalbantoğlu
       given: Gülsüm
-    - literal: Nalbantoḡlu
   citation-key: baydar:1998postcolonial
   container-title: Assemblage
   DOI: 10.2307/3171235
@@ -375,7 +374,7 @@ references:
   source: JSTOR
   title: >-
     Toward postcolonial openings: rereading Sir Banister Fletcher's *History of
-    Architecture*
+    architecture*
   title-short: Toward Postcolonial Openings
   type: article-journal
   URL: http://www.jstor.org/stable/3171235
@@ -2024,17 +2023,17 @@ references:
   type: chapter
   volume: '1'
 
-- id: hakim:2010generative4
+- id: hakim:2010generative
   author:
     - family: Hakim
       given: Besim Selim
-  citation-key: hakim:2010generative4
+  citation-key: hakim:2010generative
   container-title: International Journal of Architectural Research
   issue: '1'
   issued:
     - year: 2010
       month: 3
-  language: en-GB
+  language: en
   page: '6'
   source: Zotero
   title: The generative nature of islamic rules for the built environment
@@ -3147,7 +3146,7 @@ references:
     - year: 1969
       month: 3
       day: 1
-  language: en-US
+  language: en
   license: Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
@@ -3782,7 +3781,7 @@ references:
   ISBN: 978-85-230-0923-6
   issued:
     - year: 2006
-  language: pt-BR
+  language: pt
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -3869,7 +3868,7 @@ references:
   issue: '21'
   issued:
     - year: 2018
-  language: es-ES
+  language: es
   page: 1-28
   publisher: Instituto Universitario de Urbanística
   section: >-
@@ -5073,7 +5072,7 @@ references:
     - year: 2013
       month: 8
       day: 1
-  language: en-GB
+  language: en
   page: 570-590
   publisher: Routledge
   source: Taylor and Francis+NEJM
