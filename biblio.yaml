@@ -358,6 +358,34 @@ references:
   URL: http://journal.eahn.org/article/id/8251/
   volume: '9'
 
+- id: barke:2018importance
+  accessed:
+    - year: 2018
+      month: 12
+      day: 1
+  author:
+    - family: Barke
+      given: Michael
+  citation-key: barke:2018importance
+  collection-title: The Urban Book Series
+  container-title: Teaching urban morphology
+  DOI: 10.1007/978-3-319-76126-8_2
+  editor:
+    - family: Oliveira
+      given: Vítor
+  event-place: Cham
+  ISBN: 978-3-319-76125-1 978-3-319-76126-8
+  issued:
+    - year: 2018
+  language: en
+  page: 11-30
+  publisher: Springer
+  publisher-place: Cham
+  source: Crossref
+  title: The importance of urban form as an object of study
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-319-76126-8
+
 - id: baydar:1998postcolonial
   author:
     - family: Baydar Nalbantoğlu
@@ -656,6 +684,62 @@ references:
   URL: http://archive.org/details/ZanzibarCityIslandAndCoastv1RichardFrancisBurton
   volume: '1'
 
+- id: caniggia:2008lettura
+  abstract: >-
+    Questo volume si occupa di codificare il metodo per l'esecuzione di
+    operazioni di lettura delle strutture edilizie che si sono costituite in
+    passato a livello di "coscienza spontanea" in una progressione di grandezze
+    scalari che vanno dall'edificio, all'aggregazione di edifici, all'organismo
+    urbano, al territorio. L'attenzione ai prodotti architettonici del passato è
+    il campo della "tipologia processuale" che è la chiave per l'utilizzazione
+    della storia nell'operare come architetti nel mondo contemporaneo.
+  author:
+    - family: Caniggia
+      given: Gianfranco
+    - family: Maffei
+      given: Gian Luigi
+  citation-key: caniggia:2008lettura
+  edition: '2'
+  event-place: Firenze
+  ISBN: 978-88-6055-182-5
+  issued:
+    - year: 2008
+  language: it
+  number-of-pages: '276'
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Google Books
+  title: Lettura dell'edilizia di base
+  type: book
+
+- id: cataldi:2018general
+  accessed:
+    - year: 2018
+      month: 12
+      day: 1
+  author:
+    - family: Cataldi
+      given: Giancarlo
+  citation-key: cataldi:2018general
+  collection-title: The Urban Book Series
+  container-title: Teaching urban morphology
+  DOI: 10.1007/978-3-319-76126-8_5
+  editor:
+    - family: Oliveira
+      given: Vítor
+  event-place: Cham
+  ISBN: 978-3-319-76125-1 978-3-319-76126-8
+  issued:
+    - year: 2018
+  language: en
+  page: 65-78
+  publisher: Springer
+  publisher-place: Cham
+  source: Crossref
+  title: 'Towards a general theory of urban morphology: the type-morphological theory'
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-319-76126-8
+
 - id: champakalakshmi:1996trade
   author:
     - family: Champakalakshmi
@@ -855,6 +939,90 @@ references:
   title: Land and neighbourhood as features of Malay urbanism
   type: thesis
   URL: https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0093945
+
+- id: conzen:2018core
+  accessed:
+    - year: 2018
+      month: 12
+      day: 1
+  author:
+    - family: Conzen
+      given: Michael P.
+  citation-key: conzen:2018core
+  collection-title: The Urban Book Series
+  container-title: Teaching Urban Morphology
+  DOI: 10.1007/978-3-319-76126-8
+  editor:
+    - family: Oliveira
+      given: Vítor
+  event-place: Cham
+  ISBN: 978-3-319-76125-1 978-3-319-76126-8
+  issued:
+    - year: 2018
+  language: en
+  page: 123–143
+  publisher: Springer
+  publisher-place: Cham
+  source: Crossref
+  title: Core concepts in town-plan analysis
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-319-76126-8
+
+- id: conzen:2018notes
+  accessed:
+    - year: 2018
+      month: 12
+      day: 1
+  author:
+    - family: Conzen
+      given: M. R. G.
+  citation-key: conzen:2018notes
+  collection-title: The Urban Book Series
+  container-title: Teaching urban morphology
+  DOI: 10.1007/978-3-319-76126-8_4
+  editor:
+    - family: Oliveira
+      given: Vítor
+  event-place: Cham
+  ISBN: 978-3-319-76125-1 978-3-319-76126-8
+  issued:
+    - year: 2018
+  language: en
+  page: 51-64
+  publisher: Springer
+  publisher-place: Cham
+  source: Crossref
+  title: 'Notes on ‘urban morphology: its nature and development’ (1992–1999)'
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-319-76126-8
+
+- id: conzen:2022alnwick
+  accessed:
+    - year: 2022
+      month: 3
+      day: 12
+  author:
+    - family: Conzen
+      given: M. R. G.
+  citation-key: conzen:2022alnwick
+  event-place: Porto
+  ISBN: 978-989-33-2888-0
+  issued:
+    - year: 2022
+  language: pt
+  original-date:
+    - year: 1960
+  publisher: Urban Forms
+  publisher-place: Porto
+  source: DOI.org (Crossref)
+  title: 'Alnwick, Northumberland: análise do plano de cidade'
+  title-short: Alnwick, Northumberland
+  translator:
+    - family: Oliveira
+      given: Vítor
+    - family: Monteiro
+      given: Cláudia
+  type: book
 
 - id: danes:2018ancient
   abstract: >-
@@ -3652,6 +3820,43 @@ references:
   type: chapter
   volume: '1'
 
+- id: njoh:2008colonial38
+  abstract: >-
+    British colonial authorities adhered to a philosophy of racial segregation
+    while their French counterparts subscribed to one that segregates along
+    socioeconomic and cultural lines. This article interrogates the rationale
+    for these two colonial philosophies and addresses the following questions:
+    How were these philosophies given physical expression in colonial urban
+    space? Why did the two seemingly opposing philosophies produce identical
+    racially segregated urban space? It is argued that although the two colonial
+    powers had different racial philosophies, they shared common cultural,
+    psychological, political, social, and ideological objectives that were best
+    accomplished through racially segregated space.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 2
+  author:
+    - family: Njoh
+      given: Ambe J.
+  citation-key: njoh:2008colonial38
+  container-title: Journal of Black Studies
+  ISSN: 0021-9347
+  issue: '4'
+  issued:
+    - year: 2008
+  language: en
+  page: 579-599
+  publisher: Sage Publications, Inc.
+  source: JSTOR
+  title: >-
+    Colonial philosophies, urban space, and racial segregation in British and
+    French colonial Africa
+  title-short: Colonial philosophies, urban space, and racial segregation
+  type: article-journal
+  URL: https://www.jstor.org/stable/40034423
+  volume: '38'
+
 - id: ogot:2010africa
   call-number: 960"15/17"
   citation-key: ogot:2010africa
@@ -3711,6 +3916,29 @@ references:
   title-short: Urban morphology
   type: book
   URL: http://www.springer.com/la/book/9783319320816
+
+- id: oliveira:2018teaching
+  accessed:
+    - year: 2018
+      month: 12
+      day: 1
+  citation-key: oliveira:2018teaching
+  collection-title: The Urban Book Series
+  DOI: 10.1007/978-3-319-76126-8
+  editor:
+    - family: Oliveira
+      given: Vítor
+  event-place: Cham
+  ISBN: 978-3-319-76125-1 978-3-319-76126-8
+  issued:
+    - year: 2018
+  language: en
+  publisher: Springer
+  publisher-place: Cham
+  source: Crossref
+  title: Teaching urban morphology
+  type: book
+  URL: http://link.springer.com/10.1007/978-3-319-76126-8
 
 - id: oliveira:2021urban
   abstract: >-
@@ -4692,6 +4920,53 @@ references:
   type: book
   URL: http://archive.org/details/civilizationofso00stev_0
 
+- id: steyn:2007types22
+  abstract: >-
+    This article responds to the rapid urbanisation of sub-Saharan Africa. It
+    laments the loss and deterioration of its pre-colonial urban artefacts due
+    to neglect and even war, and pleads for their conservation and the
+    recognition of relevant characteristics as contemporary urban solutions.
+    Part one outlines the conceptual framework and highlights four theoretical
+    considerations pertaining to definitions, preconceptions, methodology and
+    sources of information. Part two contextualises the origins and nature of
+    African urbanism with a brief historical perspective. Part three analyses
+    the morphology of urban space, while part four concludes by discussing some
+    seemingly intrinsic urban characteristics and their compatibility with
+    current urban theories. Tipes en tipologiee van Afrika-stedelikheid Hierdie
+    artikel reageer op die vinnige verstedeliking van sub-Sahara Afrika. Dit
+    betreur die verlies en agteruitgang van sy stedelike artefakte as gevolg van
+    verwaarlosing en selfs oorlog, en pleit vir hul bewaring en die erkenning
+    van toepaslike eienskappe as hedendaagse stedelike oplossings. Deel een
+    beskryf die konseptuele raamwerk en beklemtoon vier teoretiese oorwegings
+    wat verband hou met definisies, vooropgesette idees, metodologie en
+    inligtingsbronne. Deel twee kontekstualiseer die oorsprong en aard van
+    Afrika-stedelikheid met 'n kort historiese oorsig. Deel drie ontleed die
+    morfologie van stedelike ruimte, terwyl deel vier afsluit deur 'n aantal
+    klaarblyklik intrinsieke stedelike eienskappe en hulle versoenbaarheid met
+    hedendaagse stedelike teoriee te bespreek.
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Steyn
+      given: Gerald
+  citation-key: steyn:2007types22
+  container-title: South African Journal of Art History
+  DOI: 10.10520/EJC93965
+  issue: '2'
+  issued:
+    - year: 2007
+      month: 1
+  language: en
+  page: 49-65
+  publisher: AHWG
+  source: journals.co.za (Atypon)
+  title: Types and typologies of African urbanism
+  type: article-journal
+  URL: https://journals.co.za/doi/abs/10.10520/EJC93965
+  volume: '22'
+
 - id: steyn:2015impacts1
   accessed:
     - year: 2020
@@ -5209,6 +5484,32 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/41409884
   volume: '28'
+
+- id: winters:1983classification10
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Winters
+      given: Christopher
+  citation-key: winters:1983classification10
+  container-title: Journal of Urban History
+  DOI: 10.1177/009614428301000101
+  ISSN: 0096-1442
+  issue: '1'
+  issued:
+    - year: 1983
+      month: 11
+      day: 1
+  language: en
+  page: 3-31
+  publisher: SAGE Publications Inc
+  source: SAGE Journals
+  title: The classification of traditional African cities
+  type: article-journal
+  URL: https://doi.org/10.1177/009614428301000101
+  volume: '10'
 
 - id: wiryomartono:2012historical17
   accessed:

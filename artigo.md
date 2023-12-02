@@ -1,9 +1,9 @@
 ---
-title       : "Paradigmas urbanísticos na periferia do oceano Índico"
+title       : "Paradigmas urbanísticos nas cidades mercantes do oceano Índico"
 #author      : Pedro P. Palazzo
 lang        : pt-BR
 bibliography: _data/biblio.yaml
-csl         : "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl"
+csl         : "chicago-fullnote-bibliography.csl"
 suppress-bibliography: true
 abstract: |
   ## Resumo
@@ -29,27 +29,6 @@ tblPrefix:
 ---
 
 # Introdução #
-
-# Paradigma urbanístico eurocêntrico e urbanizações afro-asiáticas #
-
-O paradigma urbanístico eurocêntrico é o modelo hegemônico de
-identificação e leitura dos assentamentos urbanos, seja na atual prática
-de planejamento urbano, seja na pesquisa em história das cidades. Esse
-modelo consiste na definição de que o processo de urbanização se dá numa
-sucessão de três categorias de elementos: primeiro, a implantação de uma
-rede viária pública formada por ruas, avenidas, largos e praças, seguida
-pelo parcelamento do solo em lotes privados e, por fim, pela construção
-das edificações. Presume-se que a ordem desses elementos seja tanto
-hierárquica --- o sistema viário determina o espaço disponível para as
-parcelas, e por sua vez cada parcela delimita a área passível de ser
-construída por um agente individual --- quanto cronológica --- o
-arruamento vem antes do parcelamento, que precede a edificação.
-
-Esse paradigma descreve adequadamente grande parte dos territórios
-eurasiáticos, incluindo as sociedades de matriz ou influência cultural
-indo-europeia, árabe e chinesa, bem como, desde o século XVI, os
-territórios americanos e africanos submetidos à colonização europeia ou
-islâmica. Ele foi descrito inicialmente por 
 
 # Mundos conectados no século XIV #
 
@@ -250,6 +229,112 @@ necessidades funcionais do comércio e às condições geográficas e
 climáticas onde elas se desenvolvem.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Do paradigma urbanístico eurasiático a uma metodologia não eurocêntrica #
+
+O paradigma urbanístico eurasiático é o processo hegemônico de
+identificação e leitura dos assentamentos urbanos, seja na atual prática
+de planejamento urbano, seja na pesquisa em história das cidades. Por
+paradigma, entende-se um conjunto de operações e hierarquias na ocupação
+do território, que resultam em formas urbanas variadas em diferentes
+sociedades e lugares, mas sempre oriundas de princípios semelhantes.
+Esses princípios foram descritos inicialmente pelo geógrafo alemão
+M.R.G. Conzen na primeira metade do século XX [Ver
+@whitehand:2009conzen33; o exemplar metodologicamente mais completo
+desse paradigma se encontra em @conzen:2022alnwick], e formulados de
+modo mais metódico pelo urbanista francês @panerai:2006analise. Por
+eurasiático, define-se a extensão geográfica principal --- mas não
+exclusiva --- onde vigorava esse paradigma em finais da Idade Média.
+
+O paradigma urbanístico eurasiático consiste na definição de que a
+urbanização se dá por uma sucessão de três categorias de elementos:
+primeiro, a implantação de uma rede viária pública formada por ruas,
+avenidas, largos e praças, seguida pelo parcelamento do solo em lotes de
+propriedade individual e, por fim, pela construção das edificações.
+Presume-se que a ordem desses elementos seja tanto hierárquica --- o
+sistema viário determina o espaço disponível para as parcelas, e por sua
+vez cada parcela delimita a área passível de ser construída por um
+agente privado --- quanto cronológica --- o arruamento vem antes do
+parcelamento, que precede a edificação. Além disso, como mostra o método
+italiano da tipologia processual concebido no pós-guerra por
+@muratori:1967civilta e refinado por @caniggia:2008lettura, cada
+categoria de elementos é também ela própria hierarquizada internamente.
+Esse sistema de hierarquias faz com que o crescimento das cidades no
+paradigma eurasiático tenha dois movimentos complementares: a expansão
+urbana linear ou radial ao longo dos traçados viários estruturantes, e o
+adensamento por capilarização e reparcelamento dos espaços já
+inicialmente urbanizados.
+
+O paradigma urbanístico eurasiático descreve adequadamente grande parte
+dos territórios que, às vésperas da Idade Moderna, iam da bacia do
+Mediterrâneo ao extremo Oriente, incluindo as sociedades de matriz ou
+influência cultural indo-europeia, árabe islâmica e chinesa, bem como,
+desde o século XVI, os espaços americanos e africanos submetidos à
+colonização europeia ou islâmica. As margens dessa vasta zona cultural
+eram nebulosas, com culturas urbanas apenas parcialmente influenciadas
+pelo paradigma eurasiático: as sociedades arabizadas do delta interior
+do rio Níger e do Sudão, as cidades de influência persa na Ásia central,
+ou ainda aquelas de influência chinesa no nordeste deste continente.
+
+Dessa extensão geográfica *eurasiática* decorre, por sua vez, um
+enquadramento metodológico *eurocêntrico* nos estudos da forma urbana. A
+metodologia hegemônica nos estudos de morfologia urbana atualmente,
+consolidada por pesquisadores de formação britânica, se baseia na
+identificação daqueles elementos, processos e "conceitos centrais"
+[@conzen:2018core] característicos do paradigma eurasiático. As
+"comparações interculturais distantes" pensadas por @conzen:2018notes
+[60], de fato, se restringem ao eixo eurasiático --- Noroeste da Europa,
+China e Japão.
+
+Para além dessas margens, porém, vigoram outros paradigmas urbanísticos
+que não se definem pela mesma hierarquia de elementos nem pelos mesmos
+processos de crescimento. Reconhecer a existência de tais paradigmas é,
+no entanto, um desafio intelectual tanto perante as categorias
+conceituais oriundas do colonialismo que ainda permeiam a nomenclatura
+dos núcleos urbanos, quanto por força das práticas metodológicas
+forjadas no estudo da urbanização eurasiática. Predomina, assim, um
+modelo conceitual que @blaut:1993colonizers [16-17] chama
+"difusionismo", e seu corolário, a teoria dos povos primitivos
+contemporâneos. Assim, a África abriga até hoje uma grande variedade de
+paradigmas urbanísticos. Essa variedade foi reduzida nos séculos XIX e
+XX à categoria unificada de "assentamentos indígenas" por oposição à
+cidade colonial planejada, visando implícita ou explicitamente, como
+aponta @njoh:2008colonial38 [584], à segregação e hierarquização racial.
+Na margem oposta do oceano Índico, no Sudeste asiático continental e
+insular, vigora ao contrário um paradigma urbanístico relativamente
+unitário. Esse paradigma também foi, contudo, desconsiderado pelos
+colonizadores mediante nomenclaturas como "aldeia nativa", presente na
+cartografia de @coleman:1839town e outros assim como no discurso
+textual.
+
+O não reconhecimento, desde o ponto de vista eurocêntrico, do caráter
+urbano nas povoações tradicionais da África e do Sudeste asiático
+evidencia a inadequação de se empregar os modelos descritivos do
+paradigma urbanístico eurasiático como indicadores universais. Todavia,
+mesmo numa abordagem ostensivamente global e culturalista, como a de
+@barke:2018importance [17], coloca no mesmo nível de análise
+subconjuntos do paradigma eurasiático --- "a cidade norteamericana, a
+cidade soviética, [...] a cidade latinoamericana, a cidade da Europa
+ocidental, a cidade islâmica, a cidade chinesa [...] e a cidade
+mediterrânea" --- e a "cidade africana" como se esta fosse descrita por
+um paradigma morfológico unitário. Desde a década de 1980, porém,
+@winters:1983classification10 ao menos dois paradigmas urbanísticos
+africanos dominantes: o da cidade mercante no Sael, Sudão e costa
+Suaíle, e o da metrópole político-religiosa na região do golfo da Guiné.
+A esses deve ser ainda acrescentado o padrão do *kraal* zulu, incluindo
+seus antecedentes em todo o Sul da África, descritos por
+@huffman:2001central13. Do mesmo modo, a existência de um paradigma
+urbanístico malaio--indonésio já foi estabelecida por autores como
+@hall:1996ritual52.
+
+Apesar de tais vieses e amarras conceituais, o uso de *alguma* base
+metodológica em morfologia urbana é indispensável para se definir os
+paradigmas urbanísticos do oceano Índico em seus próprios termos, e não
+como realizações insuficientes do paradigma eurasiático. Para tanto, a
+abordagem tipo-morfológica processual oferece princípios fundamentais
+que permitem transcender o rol de categorias eurasiáticas. Tal como
+definido por @cataldi:1989introduzione [13],
+
 
 # Cidades mercantes do sudeste asiático #
 
