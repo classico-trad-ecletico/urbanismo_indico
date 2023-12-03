@@ -122,6 +122,24 @@ references:
   title: Archaeological investigations at Songo Mnara, Tanzania, 2011
   type: paper-conference
 
+- id: alexander:2002process
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002process
+  collection-number: '2'
+  collection-title: The nature of order
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The process of creating life
+  type: book
+
 - id: allen:1974lamu
   author:
     - family: Allen
@@ -711,6 +729,30 @@ references:
   source: Google Books
   title: Lettura dell'edilizia di base
   type: book
+
+- id: cataldi:1989introduzione
+  abstract: >-
+    Atti del Convegno internazionale Le ragioni dell'abitare, Prato, 8-9 gennaio
+    1988
+  author:
+    - family: Cataldi
+      given: Giancarlo
+  citation-key: cataldi:1989introduzione
+  collection-title: Convegno internazionale Le ragioni dell'abitare
+  container-title: Attualità del primitivo e del tradizionale in architettura
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  event-place: Firenze
+  issued:
+    - year: 1989
+  language: it
+  page: 11-34
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: Introduzione allo studio dell'abitazione umana
+  type: chapter
 
 - id: cataldi:2018general
   accessed:
@@ -2851,6 +2893,37 @@ references:
   type: article-journal
   URL: https://www.tandfonline.com/doi/abs/10.7158/14488388.2012.11464845
   volume: '9'
+
+- id: kassim:2019tropicalized18
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Kassim
+      given: Puteri Shireen Jahn
+    - family: Kamaruddin
+      given: Kamariah
+    - family: Ibrahim
+      given: Illyani
+    - family: Harun
+      given: Nor Zalina
+  citation-key: kassim:2019tropicalized18
+  container-title: Geoinformatica Polonica
+  container-title-short: GP
+  DOI: 10.4467/21995923GP.19.001.10885
+  ISSN: 21995923, 21995923
+  issued:
+    - year: 2019
+  language: en
+  page: 7-30
+  source: DOI.org (Crossref)
+  title: >-
+    A tropicalized urban design framework from morphological patterns of
+    pre-colonial maritime centers of the Malay world
+  type: article-journal
+  URL: https://www.ejournals.eu/GP/Vol-18/art/15223/
+  volume: '18'
 
 - id: kennet:2013reconsidering
   author:
