@@ -795,7 +795,47 @@ malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 
 # Islamização e transformações sociais no espaço urbano #
 
+A islamização das margens do oceano Índico teve efeitos diferentes nos
+paradigmas urbanísticos de cada região. No Sudeste asiático e no
+arquipélago indonésio, as mesquitas se integraram à paisagem
+preexistente sem provocar rupturas na tradição do *kampung*. Na costa
+Suaíle, por outro lado, alguns tecidos urbanos foram fortemente
+transformados ora na sua forma física, ora na distribuição demográfica
+de diferentes grupos sociais, étnicos ou religiosos.
+
+## O mito fundador de Quíloa e a realidade socioespacial ##
+
+Rhinocéros d'or
+
+## Zanzibar sob o império do Omã ##
+
+Tipologia de casas omanis vs casas suaíle
+
+
 # Colonialismo e segregação urbana #
+
+Se a islamização nas margens do oceano Índico trouxe certas
+transformações na organização urbana principalmente na costa Suaíle, a
+colonização europeia nos séculos XVII a XX provocou uma reorganização
+socioespacial ainda mais profunda. A segregação étnica herdada da Idade
+Moderna foi intensificada pela crescente capacidade técnica, econômica e
+administrativa das potências coloniais para replanejar trechos urbanos
+por inteiro, remover e confinar populações numa escala nunca antes
+vista.
+
+## Infraestrutura como discurso colonial em Jacarta ##
+
+Argumento acerca da incapacidade dos nativos em reconhecer o valor ou
+dar manutenção na infraestrutura de canais que conferia viabilidade
+ambiental à Jacarta colonial, mas declínio do sítio antecede a
+independência, com partida dos holandeses para um sítio mais salubre.
+
+## Reconstrução britânica de Cingapura ##
+
+- Isolamento do Kampong Gelam com demolição de bairros lindeiros
+- Demarcação das vilas nativas
+- Criação tardia e demolição do Kampong Rochor
+
 
 # Conclusão #
 
