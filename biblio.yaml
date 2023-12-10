@@ -103,6 +103,27 @@ references:
   URL: https://spafajournal.org/index.php/spafa1991journal/article/view/340
   volume: '12'
 
+- id: ajayi:2010africa
+  citation-key: ajayi:2010africa
+  collection-number: '6'
+  collection-title: História geral da África
+  edition: '2'
+  editor:
+    - family: Ajayi
+      given: J.F. Ade
+  event-place: Brasília
+  ISBN: >-
+    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
+    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
+  issued:
+    - year: 2010
+  language: pt
+  publisher: <span smallcaps="smallcaps">UNESCO</span>
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: África do século <span smallcaps="smallcaps">XIX</span> à década de 1880
+  type: book
+
 - id: akuma:2010archaeological
   abstract: >-
     Semantic Scholar extracted view of "Archaeological Investigations at Songo
@@ -404,6 +425,35 @@ references:
   type: chapter
   URL: http://link.springer.com/10.1007/978-3-319-76126-8
 
+- id: baumanova:2022comparative
+  abstract: "The final chapter of this book takes a comparative perspective on the case studies and analyses provided in the preceding papers that focused on the East African coast, North-West Africa (Morocco) and the Iberian Peninsula from the precolonial to the colonial periods. The contribution of comparative approaches to historical archaeologies is\_reviewed, while highlighting their relevance for the themes of urbanism and colonialism. The focus remains on the roles of the most important public features identified throughout the book, such as mosques, markets and streets, while offering comparative analyses of their social-spatial character and potential. The semi-public function as a component of specific spaces in otherwise residential or private buildings is analysed in detail. Reflecting on the importance of the courtyard house in Islamic towns, the social role of the courtyard is analysed with the use of space syntax on two contemporary sites at Gede, Kenya and Siyasa, Spain. The theoretical models of colonial urbanism and Islamic urbanism are discussed in reflection on their established characteristics and on the use of these concepts in urban studies and historical archaeology."
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Baumanova
+      given: Monika
+  citation-key: baumanova:2022comparative
+  collection-title: Contributions To Global Historical Archaeology
+  container-title: Urban Public Space in Colonial Transformations
+  DOI: 10.1007/978-3-031-14697-8_7
+  editor:
+    - family: Baumanova
+      given: Monika
+  event-place: Cham
+  ISBN: 978-3-031-14697-8
+  issued:
+    - year: 2022
+  language: en
+  page: 153-167
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  source: Springer Link
+  title: Comparative Perspectives on (Pre)Colonial Urban Transformations
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-031-14697-8_7
+
 - id: baydar:1998postcolonial
   author:
     - family: Baydar Nalbantoğlu
@@ -500,6 +550,24 @@ references:
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S1877042816306929
   volume: '225'
+
+- id: bissell:2011urban
+  author:
+    - family: Bissell
+      given: William Cunningham
+  call-number: HT169.T332 Z363 2011
+  citation-key: bissell:2011urban
+  event-place: Bloomington, In.
+  ISBN: 978-0-253-22255-8 978-0-253-35543-0
+  issued:
+    - year: 2011
+  language: en
+  number-of-pages: '378'
+  publisher: Indiana University Press
+  publisher-place: Bloomington, In.
+  source: Library of Congress ISBN
+  title: Urban design, chaos, and colonial power in Zanzibar
+  type: book
 
 - id: blaut:1993colonizers
   author:
@@ -678,7 +746,7 @@ references:
   URL: >-
     https://archaeologydataservice.ac.uk/archives/view/aksum_ba_2015/downloads.cfm?archive=Image&gallery=Kilwa_Slides&sn=351&CFID=8a893a81-9977-4c39-b5af-4ab5eb1bf50f&CFTOKEN=0
 
-- id: burton:1872zanzibar1
+- id: burton:1872zanzibar
   abstract: "In the preface, Burton attempts to explain why he has taken so long to publish this material, which dates back for the most part to 1858, and had been rediscovered and returned to him in 1865, but was only appeared in 1872.\_ The reasons he gives do not include what seems most likely, the renewed interest in the Nile and the East African region sparked by the Livingstone Relief expedition.\n\nPREFACE.\n\nI FEEL that the reader will expect some allusion to the circumstances which have delayed, till 1871, the publication of a journal ready to appear in 1860. \nThe following letter will explain the recovery of a long report, forwarded by me in 1857, under an address, very legibly written in ink, upon its cover, to the late Dr Norton Shaw, then Secretary Royal Geographical Society of Great Britain.\n\n'No. 9, of 1865.\n\n'General Department,\n\n\tBombay Castle, 2811 February, 1865.\n\n'To\n\n\tThe Under Secretary of State for India,\n\n\tLondon.\n\nSir,'\n\n'With reference to the packet addressed, as per margin, which was sent to you via Southampton from the Separate Department, by the Overland Mail of the 14th instant,\_ I have the honour to subjoin for your information \tcopy of a note on the subject from the Hon. W. E. Frere, dated the 5th idem.\n\t\n\n'When searching the strong box belonging to the Bombay Branch of the Royal Asiatic Society yesterday I found the accompanying parcel, directed to the Secretary Royal Geographical Society, with a pencil note upon it, requesting that it might be sent to the Secretary of State, Foreign Office. From the signature in the corner, R. F. B., I conclude that it must be the manuscript he sent to Colonel Rigby at Zanzibar, and which, from some statements of Mr. Burton (to which I cannot at present refer, but of which I have a clear recollection), never reached its destination.'[1]\n\n'I have not been able to discover when or how the parcel was received, nor how the Bombay Branch of the Royal Asiatic Society was to send it to the \n\tForeign Office, except through Government. I therefore send it to you, and perhaps you would send it to the Under Secretary at the India House, with the above explanation, and request that it be sent to its direction.'\n\n'I have, &c.,\n\n\t(Signed) C. RAVENSCROFT,\n\n\tActing Chief Secretary to Government.'\n\nIt is not a little curious that, as my first report upon the subject of Zanzibar was diverted from its destination, so the ' Letts' containing my excursions to Sa'adani and to Kilwa also came to temporary grief. Annexed by a skipper on the West African coast, appropriated by his widow, and exposed at a London bookseller's stall (labelled outside, `Burton Original MS. Diary in Africa'), it was accidentally left by the buyer, an English Artillery officer, in the hall of one of H. M. 's Ministers of State. Here being recognized, it was kindly and courteously returned to me. The meteorological observations made by me on the East African seaboard and at other places during the discovery of the Lakes were also, I would remark, mislaid for years, deep hidden in certain pigeonholes at Whitehall Place. May these three accidents be typical of the fate of my East African Expedition, which, so long the victim of uncontrollable circumstance, appears now, after many weary years, likely to emerge from the shadow which overcast it, and to occupy the position which I ever desired to see it conquer.\n\nThe two old documents are published with the less compunction as Zanzibar, though increasing in importance and now the head-quarters of an Admiralty Court and of two Mission-Schools, with a printing-press and other civilized \nappliances, has not of late been worked out. The best authorities are still those who appeared about a quarter of a century ago, always excepting, however, the four magnificent volumes, Baron Carl Clare von der Decken's Reisen in Ost-Afrika, in den Jahren 1859 bis 1861, which I first saw at Jerusalem: there too I had the pleasure of making acquaintance with Dr Otto Kersten, who accompanied the unfortunate traveller during the earlier portion of his peregrinations, and who has so ably and efficiently performed his part as editor. Had a certain publisher carried out his expressed intention of introducing a resume of this fine work in English dress to the British public, I should have saved myself the trouble of writing these volumes: the Reisen, however, in the original form are hardly likely to become popular. Moreover, the long interval of a decade has borne fruit : it has given me time to work out the subject, and, better still, to write with calmness and temper upon a theme of the most temper-trying nature, - chap. xii. vol. II. will explain what is meant. Finally, I have something important to say upon the subject of\_ the so-called Victoria Nyanza Lake.\n\nI had proposed to enrich the Appendix with extracts from Arab and other mediaeval authors, who have treated of Zanzibar, Island and Coast. Such an addition, however, would destroy all proportion between the book and its subject: I have therefore confined myself to notes on commerce and tariffs of prices in 1857 to 1859, to meteorological observations, and to Capt. Smee's coasting voyage, which dates from January, 1811. The latter will supply an excellent birds-eye view of those parts of the Zanzibar mainland which were not visited by the East African Expedition.\n\nRICHARD F. BURTON.\n\nLondon, Oct. 15, 1871.\n\n[1].\_ Mr. Frere's memory is unusually short. I intrusted the \nMS. to the Eurasian apothecary of the Zanzibar Consulate, and I suspected (Lake Regions of Central Africa, vol. i. chap. i.) that it bad come to an untimely end. The white population at Zanzibar had in those days a great horror of publication, and thus is easily explained how a parcel legibly addressed to the Royal Geographical Society had the honour of passing eight years in the strong box of the Bombay Branch of the Royal Asiatic Society."
   accessed:
     - year: 2020
@@ -687,7 +755,7 @@ references:
   author:
     - family: Burton
       given: Richard Francis
-  citation-key: burton:1872zanzibar1
+  citation-key: burton:1872zanzibar
   event-place: London
   issued:
     - year: 1872
@@ -1403,12 +1471,31 @@ references:
   ISBN: 978-0-521-20981-6
   issued:
     - year: 1975
-  language: en-GB
+  language: en
   number-of-pages: '8'
   publisher: Cambridge University Press
   publisher-place: Cambridge ; New York
   source: Library of Congress ISBN
   title: The Cambridge history of Africa c. 1050 to c. 1600
+  type: book
+
+- id: fauvelle-aymar:2013rhinoceros
+  author:
+    - family: Fauvelle-Aymar
+      given: François-Xavier
+  call-number: DT25 .F38 2013
+  citation-key: fauvelle-aymar:2013rhinoceros
+  event-place: Paris
+  ISBN: 978-2-36279-045-4
+  issued:
+    - year: 2013
+  language: fr
+  number-of-pages: '317'
+  publisher: Alma
+  publisher-place: Paris
+  source: Library of Congress ISBN
+  title: 'Le rhinocéros d''or: histoires du Moyen Âge africain'
+  title-short: Le rhinocéros d'or
   type: book
 
 - id: fauvelle:2018golden
@@ -1438,6 +1525,28 @@ references:
       given: Troy
   type: book
   URL: http://www.jstor.org/stable/10.2307/j.ctvc77kzq
+
+- id: fauvelle:2018rinoceronte
+  author:
+    - family: Fauvelle
+      given: François-Xavier
+  citation-key: fauvelle:2018rinoceronte
+  event-place: São Paulo
+  ISBN: 978-85-314-1699-6
+  issued:
+    - year: 2018
+  language: pt
+  publisher: Edusp
+  publisher-place: São Paulo
+  source: Amazon
+  title: 'O rinoceronte de ouro: histórias da Idade Média africana'
+  title-short: O rinoceronte de ouro
+  translator:
+    - family: Campos
+      given: Regina Salgado
+    - family: Poletti
+      given: Iraci D.
+  type: book
 
 - id: fauvelle:2018stratigraphy
   abstract: >-
@@ -1564,6 +1673,42 @@ references:
     east coast of sumatera
   title-short: Architecture and socio-cultural life
   type: paper-conference
+
+- id: fitton:2022integrating
+  accessed:
+    - year: 2022
+      month: 12
+      day: 9
+  author:
+    - family: Fitton
+      given: Tom
+    - family: Sulas
+      given: Federica
+    - family: Lisowski
+      given: Mik
+    - family: Alexander
+      given: Michelle
+    - family: Juma
+      given: Abdurahman
+    - family: Wynne‐Jones
+      given: Stephanie
+  citation-key: fitton:2022integrating
+  container-title: Archaeological Prospection
+  container-title-short: Archaeological Prospection
+  DOI: 10.1002/arp.1885
+  ISSN: 1075-2196, 1099-0763
+  issued:
+    - year: 2022
+      month: 11
+      day: 30
+  language: en
+  page: arp.1885
+  source: DOI.org (Crossref)
+  title: >-
+    Integrating spatial and legacy data to understand archaeological sites in
+    their landscape. A case study from Unguja Ukuu, Zanzibar
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/10.1002/arp.1885
 
 - id: fleisher:2012finding29
   abstract: >-
@@ -2487,6 +2632,29 @@ references:
   URL: >-
     https://www.cambridge.org/core/journals/antiquaries-journal/article/early-muslim-trading-settlements-on-the-east-african-coast-new-evidence-from-shanga/4380B8CD8CC7F45EB77B98FD48C5E766
   volume: '67'
+
+- id: horton:1991primitive
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Horton
+      given: Mark
+  citation-key: horton:1991primitive
+  container-title: Muqarnas
+  DOI: 10.2307/1523158
+  ISSN: 0732-2992
+  issued:
+    - year: 1991
+  language: en
+  page: 103-116
+  publisher: Brill
+  source: JSTOR
+  title: Primitive Islam and architecture in East Africa
+  type: article-journal
+  URL: https://www.jstor.org/stable/1523158
+  volume: '8'
 
 - id: huffman:1990broederstroom49
   accessed:
@@ -3797,6 +3965,49 @@ references:
   type: article-journal
   volume: '11'
 
+- id: mutonga:2020origin14
+  abstract: >-
+    Swahili architecture is characterised by grandeur stone houses on one side
+    and earth-and-wattle houses on the other. By considering the concept of
+    transculturation as introduced by Felipe Hernandez et al. (2005), and
+    employing hermeneutic research methods in the critical analysis of
+    historical data, this paper explores the factors that contributed to the
+    transformation of Swahili material culture and the perceived dual nature of
+    the urban morphology. Key findings point towards a broader range of
+    socio-cultural issues namely; trade, market competition among merchants,
+    increased population densities, practices of sponsorship, involvement, and
+    the adoption of immigrants as the motivations for the transformation from
+    earth-and-wattle to stone building technology. The author recommends an
+    analysis of Swahili architecture that extends beyond the widely-accepted
+    traditional symbols in order to uncover the underlying intangible heritage.
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Mutonga
+      given: Peninah
+  citation-key: mutonga:2020origin14
+  container-title: Africa Habitat Review
+  ISSN: 2524-1354
+  issue: '3'
+  issued:
+    - year: 2020
+      month: 12
+      day: 23
+  language: en
+  license: Copyright (c)
+  number: '3'
+  page: 1935-1947
+  source: uonjournals.uonbi.ac.ke
+  title: >-
+    The origin of the Swahili stone house and the dual nature of Swahili
+    urbanism
+  title-short: The origin of the Swahili stone house
+  type: article-journal
+  URL: http://uonjournals.uonbi.ac.ke/ojs/index.php/ahr/article/view/666
+  volume: '14'
+
 - id: mwenje:2019case
   abstract: >-
     This chapter discusses the urban challenges experienced by Lamu Old Town, a
@@ -3929,6 +4140,54 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/40034423
   volume: '38'
+
+- id: nnaemeka:2008racialization123a
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  author:
+    - family: Nnaemeka
+      given: Obioma
+  citation-key: nnaemeka:2008racialization123a
+  container-title: PMLA
+  ISSN: 0030-8129
+  issue: '5'
+  issued:
+    - year: 2008
+  language: en
+  page: 1748-1751
+  publisher: Modern Language Association
+  source: JSTOR
+  title: >-
+    Racialization and the colonial architecture: othering and the order of
+    things
+  title-short: Racialization and the colonial architecture
+  type: article-journal
+  URL: https://www.jstor.org/stable/25501982
+  volume: '123'
+
+- id: oers:2013swahilia
+  author:
+    - family: Oers
+      given: Ron Van
+    - family: Haraguchi
+      given: Sachiko
+  citation-key: oers:2013swahilia
+  event-place: Paris
+  issued:
+    - year: 2013
+      month: 1
+  language: en
+  number: CLT-2013/WS/17
+  page: '129'
+  publisher: <span smallcaps="smallcaps">UNESCO</span> World Heritage Centre
+  publisher-place: Paris
+  title: >-
+    Swahili historic urban landscapes: Report on the historic urban landscape
+    workshops and field activities on the Swahili coast in East Africa 2011–2012
+  title-short: Swahili historic urban landscapes
+  type: report
 
 - id: ogot:2010africa
   call-number: 960"15/17"
@@ -4431,6 +4690,29 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvndv7rf.18
 
+- id: pradines:2019zanzibar47
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  author:
+    - family: Pradines
+      given: Stéphane
+    - family: Blanchard
+      given: Pierre
+  citation-key: pradines:2019zanzibar47
+  container-title: 'FORT: J Fortress Study Group'
+  issued:
+    - year: 2019
+  page: 39–69
+  source: Google Scholar
+  title: >-
+    From Zanzibar to Kilwa: eighteenth and nineteenth century Omani forts in
+    East Africa
+  title-short: From Zanzibar to Kilwa
+  type: article-journal
+  volume: '47'
+
 - id: prussin:1968architecture
   accessed:
     - year: 2016
@@ -4542,6 +4824,48 @@ references:
   title-short: Colonial frames, nationalist histories
   type: book
 
+- id: ranger:2010invention
+  abstract: >-
+    The second edition of Perspectives on Africa: A Reader in Culture, History,
+    and Representation is both an introduction to the cultures of Africa and a
+    history of the interpretations of those cultures. Key essays explore the
+    major issues and debates through a combination of classic articles and the
+    newest research in the field.  Explores the dynamic processes by and through
+    which scholars have described and understood African history and culture
+    Includes selections from anthropologists, historians, philosophers, and
+    critics who collectively reveal the interpenetration of ideas and concepts
+    within and across disciplines, regions, and historical periods Offers a
+    combined focus on ethnography and theory, giving students the means to link
+    theory with data and perspective with practice Newly revised and updated
+    edition of this popular text with 14 brand new chapters and two new
+    sections: Conflict and Violent Transformations; and Development, Governance
+    and Globalization
+  author:
+    - family: Ranger
+      given: Terence O.
+  citation-key: ranger:2010invention
+  container-title: 'Perspectives on Africa: A Reader in Culture, History and Representation'
+  editor:
+    - family: Grinker
+      given: Roy Richard
+    - family: Lubkemann
+      given: Stephen C.
+    - family: Steiner
+      given: Christopher B.
+  event-place: Hoboken, N.J.
+  ISBN: 978-1-4443-3522-4
+  issued:
+    - year: 2010
+      month: 5
+      day: 17
+  language: en
+  page: 450-461
+  publisher: John Wiley & Sons
+  publisher-place: Hoboken, N.J.
+  source: Google Books
+  title: The invention of tradition in colonial Africa
+  type: chapter
+
 - id: rapoport:1969house
   author:
     - family: Rapoport
@@ -4586,6 +4910,78 @@ references:
   URL: >-
     https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/ap3a.2006.16.1.59
   volume: '16'
+
+- id: rashid:2012dialectics17
+  abstract: >-
+    This paper reports a study of the historical and functional morphology of
+    the Stone Town of Zanzibar in Tanzania. The town is interesting because its
+    mostly fine-grained physical fabric with an irregular street grid shows a
+    remarkable degree of consistency despite the fact that it evolved under
+    significantly different social, economic and political conditions.
+    Therefore, the study of historical morphology was aimed at identifying if
+    the town went through any structural changes despite its physical
+    continuity; and the study of functional morphology was aimed at identifying
+    the relationship between functions and the structure of the town. For
+    historical morphology, three street maps representing three distinct
+    historical phases of the town were studied using the techniques of the axial
+    map analysis of Space Syntax. For functional morphology, the relationships
+    between the axial structure of the present-day street grid and land use
+    patterns, ownership patterns, building classifications based on ethnic
+    influences, significant buildings and streetscape elements, and building
+    conditions were studied explaining the spatial distribution of functions in
+    the town. The study found that the axial structure of this town had a
+    diffused pattern of syntactic centrality that took different shapes in
+    different phases of its development. The study also found that the axial
+    structure of the town has been a strong force determining the present-day
+    spatial distribution of functions in the town. Based on the findings, the
+    paper then describes a dialectical relationship between history and function
+    in the Stone Town. By combining historical and functional morphology, this
+    study provides a methodology for an enriched understanding of the
+    morphological processes of growth and transformation of a city, in which the
+    historical and functional specificity of the city is complemented by a more
+    generic description of the street network offered by Space Syntax. As a
+    result, the study contributes to standard Space Syntax analysis that usually
+    takes a synchronic view of cities and spatial structures for the sake of a
+    more generic theory of urban form; and to historical research that usually
+    consults any number of historical sources for the sake of a rich description
+    specific to an historical reality, but does not analyse the spatial
+    morphology of cities in a comparative or systematic way. With the enriched
+    morphological perspective of this study, it may now be possible to describe
+    precisely the socio-spatial and spatio-temporal processes, emphasising the
+    relationship between design and the politics of power of other traditional
+    cities that went through similar historical experiences as the Stone Town of
+    Zanzibar.
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Rashid
+      given: Mahbub
+    - family: Shateh
+      given: Hadi
+  citation-key: rashid:2012dialectics17
+  container-title: The Journal of Architecture
+  DOI: 10.1080/13602365.2012.746009
+  ISSN: 1360-2365
+  issue: '6'
+  issued:
+    - year: 2012
+      month: 12
+      day: 1
+  language: en
+  page: 889-924
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    The dialectics of functional and historical morphology in the evolution of a
+    city: the case of the Stone Town of Zanzibar
+  title-short: >-
+    The dialectics of functional and historical morphology in the evolution of a
+    city
+  type: article-journal
+  URL: https://doi.org/10.1080/13602365.2012.746009
+  volume: '17'
 
 - id: raymond:2008spatial1
   author:
@@ -4759,6 +5155,32 @@ references:
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S1877042813044194
   volume: '105'
+
+- id: salim:2010litoral
+  author:
+    - family: Salim
+      given: Ahmed Idha
+  citation-key: salim:2010litoral
+  collection-number: '6'
+  collection-title: História geral da África
+  container-title: África do século <span smallcaps="smallcaps">XIX</span> à década de 1880
+  edition: '2'
+  editor:
+    - family: Ajayi
+      given: J.F. Ade
+  event-place: Brasília
+  ISBN: >-
+    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
+    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
+  issued:
+    - year: 2010
+  language: pt
+  page: 249-274
+  publisher: <span smallcaps="smallcaps">UNESCO</span>
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: O litoral e o interior da África oriental de 1800 a 1845
+  type: chapter
 
 - id: saoud:2001introduction
   abstract: >-
@@ -4992,6 +5414,54 @@ references:
   title-short: The civilization of South Eastern Africa
   type: book
   URL: http://archive.org/details/civilizationofso00stev_0
+
+- id: steyn:2001analysis16
+  abstract: >-
+    The Omani houses of Zanzibar are the tangible legacy of ancient trade links
+    and 19th century political domination. These elegant houses are climatically
+    effective, and offer private outdoor living space in a dense urban
+    environment. This type of house is still popular in Oman, but in Zanzibar it
+    is threatened. As background this report reviews the state of the literature
+    related to the Omani houses of Zanzibar and also presents a very brief
+    historical perspective. A description of the selected case study in its
+    current state is followed by a proposed reconstruction to its perceived
+    original form when built in the 19th century. This exercise reveals a
+    concept of great sophistication and clarity. Although the planning process
+    and the 
+
+    constituent elements were standardized, an infinite range of possible plan
+    forms and sections ensured flexibility and 
+
+    responsiveness. Our subsequent analysis hints that the Omani house is unique
+    but not alien when compared with other traditional Arab courtyard houses.
+    The report is concluded with suggestions for future academic research, while
+    our conclusions and recommendations focus on opportunities for practical
+    research and development. The premature demise of this house type was partly
+    the result of colonization and European interference. It offers valuable
+    lessons, however, which could be explored in our quest for better affordable
+    housing in Southern and East Africa.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 7
+  author:
+    - family: Steyn
+      given: Gerald
+  citation-key: steyn:2001analysis16
+  container-title: South African Journal of Art History
+  ISSN: 0258-3542
+  issued:
+    - year: 2001
+  language: en
+  license: Art Historical Work Group of South Africa
+  medium: Pdf
+  page: 110-131
+  publisher: Art Historical Work Group of South Africa
+  source: repository.up.ac.za
+  title: An analysis of an Omani house in Stone Town, Zanzibar
+  type: article-journal
+  URL: https://repository.up.ac.za/handle/2263/15408
+  volume: '16'
 
 - id: steyn:2007types22
   abstract: >-

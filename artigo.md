@@ -34,45 +34,20 @@ O que é um paradigma urbanístico?
 
 # Mundos conectados no século XIV #
 
-## Introdução ##
+## Difusionismo e colonialismo ##
 
 ::::::::::::::::::: {#fig:globe .sketchfab-embed-wrapper .iframe-wrapper}
 <iframe title="First terrestrial globe - Martin Behaim 1492" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/464002c2d8044f9a9c490cfe59395420/embed"> </iframe>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Martin Behaim, globo terrestre, 1492](https://sketchfab.com/3d-models/first-terrestrial-globe-martin-behaim-1492-464002c2d8044f9a9c490cfe59395420). Digitalizado por [Drones Imaging](https://sketchfab.com/dronesimaging?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420)
-
-
-A "[Globalização][]"
-é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
-relações de poder em escala mundial, com a expansão europeia dos séculos
-[XVI]{.smallcaps} a [XIX]{.smallcaps}, foi tão brutal que às vezes perdemos de vista o quanto essas
-redes e relações já eram globais desde a Idade Média.
-
-Mesmo a América não estava tão isolada dos outros continentes quanto
-parece: pelo menos até o início do século [XIV]{.smallcaps}, os navegadores vikings e
-polinésios tinham algum contato, ainda que não muito intenso, com os
-povos do litoral americano.
-
-No início do século [X]{.smallcaps}, os vikings se estabeleceram na Groenlândia, de
-onde faziam comércio com os povos do Ártico. Do século [XI]{.smallcaps} ao [XIV]{.smallcaps}, eles
-visitaram a América do Norte temperada e fundaram pelo menos uma aldeia
-na costa oeste do Atlântico norte.
-
-[Globalização]: https://pt.wikipedia.org/wiki/Globalização
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Mundo nórdico, séculos [X--XIV]{.smallcaps}. Mapa: [Redgeographics, 2016][]](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){.nobg}
-:::
-::: {.column width=50%}
-![Triângulo polinésio e migrações até o século [X]{.smallcaps}. Mapa: [David Eccles, 2008][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){.nobg}
-:::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[Redgeographics, 2016]: https://commons.wikimedia.org/wiki/File:NorseExplorations-v2.png
-[David Eccles, 2008]: https://commons.wikimedia.org/wiki/File:Polynesian_Migration.svg
-
+A "Globalização"
+é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
+relações de poder em escala mundial, com a expansão europeia dos séculos
+[XVI]{.smallcaps} a [XIX]{.smallcaps}, foi tão brutal que às vezes
+perdemos de vista o quanto essas redes e relações já eram globais desde
+a Idade Média.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Expansão polinésia até o século [XIII]{.smallcaps}. Mapa: [Miles Benton, 2012][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,\_2012,\_adapted_from_Bellwood,\_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,\_2012,\_adapted_from_Bellwood,\_2011).png){#fig:poly-dispersal}
@@ -85,8 +60,6 @@ costa da América do Sul no século
 [XIII]{.smallcaps}](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
 Eles podem ter introduzido a Cúrcuma na América, e levado de lá a batata
 doce e ervas medicinais.
-
-## Difusionismo e colonialismo ##
 
 
 ::: align-right
@@ -294,13 +267,22 @@ subconjuntos do paradigma eurasiático --- "a cidade norteamericana, a
 cidade soviética, [...] a cidade latinoamericana, a cidade da Europa
 ocidental, a cidade islâmica, a cidade chinesa [...] e a cidade
 mediterrânea" --- e a "cidade africana" como se esta fosse descrita por
-um paradigma morfológico unitário. Desde a década de 1980, porém,
-@winters:1983classification10 ao menos dois paradigmas urbanísticos
+um paradigma morfológico unitário. Embora tal paradigma seja
+implicitamente moderno, referindo-se à cidade africana industrializada e
+pós-colonial, o mesmo se aplicava às culturas tradicionais encontradas
+pelos colonizadores europeus no século XIX. Para tanto, estes
+construíram o conceito das sociedades primitivas e tribais
+[@ranger:2010invention] incapazes de se erguerem acima do estágio da
+aldeia a não ser pela intervenção de uma potência colonial (primeiro
+árabe, depois europeia).
+
+Desde a década de 1980, porém, @winters:1983classification10 identificou
+ao menos dois paradigmas urbanísticos
 africanos dominantes: o da cidade mercante no Sael, Sudão e costa
 Suaíle, e o da metrópole político-religiosa na região do golfo da Guiné.
 A esses deve ser ainda acrescentado o padrão do *kraal* zulu, incluindo
 seus antecedentes em todo o Sul da África, descritos por
-@huffman:2001central13. Do mesmo modo, a existência de um paradigma
+@huffman:2001central13. Reciprocamente, a existência de um paradigma
 urbanístico malaio--indonésio já foi estabelecida por autores como
 @hall:1996ritual52.
 
@@ -567,7 +549,6 @@ adensamento *para fora*.
 
 ## Contexto histórico-geográfico ##
 
-<!--Câmera-->
 A urbanização em regiões tropicais úmidas, do Sudeste asiático até a
 África, apresenta algumas características comuns. Ela parte de espaços
 rurais ocupados em baixa densidade, com uma divisão do solo pouco
@@ -593,7 +574,6 @@ desenvolvimento autônomo (não significa isolado). Estudos arqueológicos
 e antropológicos desde a década de 1980, sobretudo na África do Sul e na
 costa leste do continente, revolucionaram o entendimento acadêmico das
 tradições construtivas africanas.
-<!--/Câmera-->
 
 Na África tropical, dois modos de urbanizar se destacam pela sua
 expansão geográfica e cronológica: as cidades mercantes da costa Suaíle,
@@ -618,7 +598,6 @@ milênio antes de Cristo, e no século [I]{.smallcaps} a.C. o litoral do
 [costa Suaíle]: https://en.wikipedia.org/wiki/Swahili_coast
 
 
-<!--Câmera-->
 Estuários de rios, baías e ilhas ao longo da costa se tornam
 pontos de trocas entre os produtos trazidos do interior do continente e
 aqueles que chegam em navios árabes, persas, indianos e malaios, junto
@@ -631,7 +610,6 @@ perdem poder econômico para as grandes potências marítimas da época:
 Portugal e Omã. Esses dois
 impérios acabam por partilhar a costa suaíle entre si, e várias das
 antigas cidades-estado são abandonadas.
-<!--/Câmera-->
 
 :::::::::::::::::::::::::::::::::::::: {#fig:lamu-drone .iframe-wrapper}
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/6w4o-OPZnlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -684,14 +662,12 @@ estendidos ([@fig:shanga]). A proximidade dos bairros ao palácio indica a
 hierarquia social da nobreza mercante.
 
 
-<!--Câmera-->
 A construção política da cidade suaíle consiste em atribuir significado
 social aos espaços livres urbanos [@wynne-jones:2014swahili]. A
 consolidação desses significados direciona o crescimento orgânico do
 tecido construído, preservando os espaços abertos com importância
 cívica, por exemplo em volta das mesquitas de bairro e nas áreas dos
 mercados [Horton *ap.* @fleisher:2012finding29].
-<!--/Câmera-->
 
 O próprio comércio tem significado político: a compra e venda dos
 carregamentos dos navios e das caravanas acontece no palácio
@@ -793,7 +769,7 @@ habitual é o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
 
-# Islamização e transformações sociais no espaço urbano #
+# Transformações sociais no espaço urbano, da islamização ao colonialismo #
 
 A islamização das margens do oceano Índico teve efeitos diferentes nos
 paradigmas urbanísticos de cada região. No Sudeste asiático e no
@@ -803,16 +779,18 @@ Suaíle, por outro lado, alguns tecidos urbanos foram fortemente
 transformados ora na sua forma física, ora na distribuição demográfica
 de diferentes grupos sociais, étnicos ou religiosos.
 
-## O mito fundador de Quíloa e a realidade socioespacial ##
+## Ascensão omani e espacialização corporativa na costa Suaíle ##
 
-Rhinocéros d'or
+Declínio econômico das localidades de caravana no século XIX
+@salim:2010litoral
 
-## Zanzibar sob o império do Omã ##
+Fortificações @pradines:2019zanzibar47
 
-Tipologia de casas omanis vs casas suaíle
+Arquitetura doméstica como símbolo do imperialismo omani em Zanzibar:
+Tipologia de casas omanis vs casas suaíle @steyn:2001analysis16
 
 
-# Colonialismo e segregação urbana #
+## Colonialismo e segregação urbana ##
 
 Se a islamização nas margens do oceano Índico trouxe certas
 transformações na organização urbana principalmente na costa Suaíle, a
@@ -821,7 +799,18 @@ socioespacial ainda mais profunda. A segregação étnica herdada da Idade
 Moderna foi intensificada pela crescente capacidade técnica, econômica e
 administrativa das potências coloniais para replanejar trechos urbanos
 por inteiro, remover e confinar populações numa escala nunca antes
-vista.
+vista. Além disso, com o imperialismo omani nas margens do oceano Índico
+sendo substituído pelo imperialismo europeu, os colonizadores do século
+XX introduziram uma hierarquia racial nas regiões islamizadas,
+estabelecendo, segundo @nnaemeka:2008racialization123 [1750], a
+distinção entre um islã "magrebino" ou árabe e um islã "negro".
+
+Ao mesmo tempo, as autoridades coloniais europeias conceberam a
+fragmentação de relações étnico-culturais e sócio-espaciais em unidades
+estanques no espaço e fixas no tempo. Essa fixação tinha por objetivo,
+segundo @ranger:2010invention [458], "estabelecer ou aumentar o [...]
+controle" administrativo colonial por meio de uma imagem artificialmente
+simplificada de "costumes codificados e reificados".
 
 ## Infraestrutura como discurso colonial em Jacarta ##
 
