@@ -777,6 +777,8 @@ malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 
 # Transformações sociais no espaço urbano, da arabização ao colonialismo #
 
+## Contexto histórico da arabização omani e do colonialismo europeu ##
+
 A islamização das margens do oceano Índico teve efeitos diferentes nos
 paradigmas urbanísticos de cada região. No Sudeste asiático e no
 arquipélago indonésio, as mesquitas se integraram à paisagem
@@ -792,16 +794,24 @@ de praxe --- mesquita e madraçal --- dentro da espacialidade tradicional
 dos *mitaa*. A deferência que a islamização prestou às tradições
 regionais fica evidente na pouca monumentalidade das mesquitas de
 sexta-feira, mesmo em sedes de poderes soberanos como Quíloa, Lamu ou
-Zanzibar. Mais adiante, a partir do século XVIII, a dominação do Omã
-sobre a costa Suaíle implicou uma arabização cultural mais intensa. Essa
-arabização se caracterizou pela introdução de um tipo doméstico
-caracteristicamente omani, contrastando com as casas suaíle
-tradicionais, e pela proliferação de fortificações. Nesse ciclo, a
-precedência de um poder político-econômico estrangeiro deu início à
-segregação dos grupos étnicos suaíle e árabe em diferentes áreas do
-tecido urbano. Isso foi especialmente o caso em Zanzibar onde a presença
-árabe foi mais intensa, e em Lamu onde ela se dividia espacialmente
-também entre a classe dominante miscigenada e os iemenitas subalternos.
+Zanzibar. A configuração urbana suaíle não parece ter se alterado
+significativamente entre os séculos XI e início do XIX. A dominação
+portuguesa sobre essa região durante os séculos XVI e XVII se deu pelo
+sistema de feitorias fortificadas, sem colonização do território ou
+alteração significativa dos tecidos edificados.
+
+Entretanto, desde a guerra entre Portugal e Omã em 1658--98 que culminou
+na tomada de todas as feitorias portuguesas ao norte de Moçambique pela
+marinha da dinastia Abuçaíde, intensificava-se a presença de
+uma elite mercante étnica e culturalmente árabe. Diferentemente da
+integração de homens persas e árabes nas redes familiares e políticas
+suaíle que se havia iniciado mil anos antes, a arabização da costa
+Suaíle sob o controle omani introduziu elementos espaciais exógenos nos
+tecidos construídos das cidades mercantes. Esses elementos foram,
+sobretudo, um novo tipo de casa e uma forma de segregação sócio-espacial
+que acrescentava à tradicional separação entre classes sociais também a
+segregação étnica.
+
 No entanto, seria apenas no terceiro ciclo, quando da implantação
 colonial britânica, que essa segregação se tornaria mais intensa e
 explícita com o planejamento, em Zanzibar apenas, de um setor suburbano
@@ -809,22 +819,44 @@ com princípios projetuais Beaux-Arts.
 
 ## Transmissão de tipologias edilícias ##
 
-O tipo da casa urbana suaíle não parece ter se alterado
-significativamente entre os séculos XI e início do XIX. Muitas casas em
-Lamu foram reconstruídas em pedra em finais do século XVIII usando,
-segundo @ghaidan:1974lamu, as mesmas projeções das fundações de
-construções mais antigas.
+Muitas casas em Lamu
+foram reconstruídas em pedra em finais do século XVIII usando, segundo
+@ghaidan:1974lamu, as mesmas projeções das fundações de construções mais
+antigas. Mais adiante, a dominação do Omã
+sobre a costa Suaíle implicou uma arabização cultural mais intensa. Essa
+arabização se caracterizou pela introdução de um tipo doméstico
+caracteristicamente omani, contrastando com as casas suaíle
+tradicionais, e pela proliferação de novas fortificações.
 
-Arabização omani e espacialização corporativa na costa Suaíle.
-Conquistam Zanzibar aos portugueses em 1698, capital do império movida
-de Mascate para Zanzibar em 1840 sob a dinastia Abuçaíde.
+O poder omani, ao implantar novos fortes e reformar antigas
+fortificações portuguesas, não se inseria apenas na continuidade do
+sistema das feitorias quinhentistas. As fortificações
+[@pradines:2019zanzibar47] eram implantações pontuais no espaço
+que, porém, reorganizam a percepção do poder político-militar no
+território e os vetores de crescimento ou consolidação urbana.
 
-Declínio econômico das localidades de caravana no século XIX
-@salim:2010litoral
+A campanha omani de fortificação dos séculos XVIII e XIX consistiu,
+segundo @pradines:2019zanzibar47, num projeto de longo prazo visando à
+supressão do poder político de elites locais, como os Mazrui de Mombaça.
+Essa centralização político-militar também contribuía, por sua vez, para
+consolidar uma área econômica integrada entre as ilhas mercantes, onde
+estavam sediados os governadores omanis e a maior parte da elite
+mercante árabe, e a terra firme. Faixa de importância estratégica, como
+mostra @salim:2010litoral, a terra firme suaíle fornecia o abastecimento
+agropecuário para as ilhas, mas também era a zona de passagem
+obrigatória para a maior parte das mercadorias exportadas desde as
+ilhas.
 
-Fortificações [@pradines:2019zanzibar47] são implantações pontuais que,
-porém, reorganizam a percepção do poder político-militar no território e
-os vetores de crescimento ou consolidação urbana.
+Completando o processo de centralização do poder da dinastia Abuçaíde
+nas ilhas da costa suaíle, vários assentamentos onde terminavam as
+caravanas continentais no litoral da terra firme entraram em declínio em
+meados do século XIX [@salim:2010litoral]. Essas localidades foram
+gradualmente suplantadas por estabelecimentos concorrentes implantados
+pelos governantes omanis das ilhas. Era especialmente o caso dos
+mercados de escravizados, já que a proximidade com as fortificações
+omanis, sobretudo em Zanzibar, permitia aos traficantes evadirem a
+perseguição naval britânica que se intensificava ao longo daquele
+século.
 
 Arquitetura doméstica como símbolo do imperialismo omani em Zanzibar:
 Tipologia de casas omanis vs casas suaíle @steyn:2001analysis16
@@ -847,18 +879,26 @@ mesquita colonial arabizada.
 
 ## Colonialismo e segregação urbana ##
 
-Se a islamização nas margens do oceano Índico trouxe certas
+Sob a suserania do Omã, a partir do século
+XVIII, a precedência do poder político-econômico estrangeiro deu início à
+segregação dos grupos étnicos suaíle e árabe em diferentes áreas do
+tecido urbano. Isso foi especialmente o caso em Zanzibar onde a presença
+árabe foi mais intensa, e em Lamu onde ela se dividia espacialmente
+também entre a classe dominante (formada tanto por bantos quanto por
+omanis) e os iemenitas subalternos.
+
+Se a arabização nas margens do oceano Índico trouxe certas
 transformações na organização urbana principalmente na costa Suaíle, a
-colonização europeia nos séculos XVII a XX provocou uma reorganização
-socioespacial ainda mais profunda. A segregação étnica herdada da Idade
-Moderna foi intensificada pela crescente capacidade técnica, econômica e
+colonização europeia nos séculos XIX a XX provocou uma reorganização
+sócio-espacial ainda mais profunda. A segregação étnica herdada da suserania
+omani foi intensificada pela crescente capacidade técnica, econômica e
 administrativa das potências coloniais para replanejar trechos urbanos
 por inteiro, remover e confinar populações numa escala nunca antes
 vista. Além disso, com o imperialismo omani nas margens do oceano Índico
 sendo substituído pelo imperialismo europeu, os colonizadores do século
 XX introduziram uma hierarquia racial nas regiões islamizadas,
 estabelecendo, segundo @nnaemeka:2008racialization123 [1750], a
-distinção entre um islã "magrebino" ou árabe e um islã "negro".
+distinção entre um islã árabe e um islã "negro".
 
 Ao mesmo tempo, as autoridades coloniais europeias conceberam a
 fragmentação de relações étnico-culturais e sócio-espaciais em unidades

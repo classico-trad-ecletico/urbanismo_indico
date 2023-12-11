@@ -3460,6 +3460,32 @@ references:
   type: entry-encyclopedia
   URL: https://en.wikipedia.org/w/index.php?title=Kilwa_Sultanate&oldid=965748500
 
+- id: kimambo:2010litoral
+  author:
+    - family: Kimambo
+      given: Isaria N.
+  citation-key: kimambo:2010litoral
+  collection-number: '6'
+  collection-title: História geral da África
+  container-title: África do século <span smallcaps="smallcaps">XIX</span> à década de 1880
+  edition: '2'
+  editor:
+    - family: Ajayi
+      given: J.F. Ade
+  event-place: Brasília
+  ISBN: >-
+    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
+    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
+  issued:
+    - year: 2010
+  language: pt
+  page: 275-316
+  publisher: <span smallcaps="smallcaps">UNESCO</span>
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: O litoral e o interior da África oriental de 1845 a 1880
+  type: chapter
+
 - id: klassen:2021diachronic7
   abstract: >-
     Angkor is one of the world’s largest premodern settlement complexes (9th to
