@@ -733,6 +733,12 @@ Planta de casa mercante suaíle em Lamu, segundo Usam Ghaidan, 1974
 
 ![Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg){#fig:songo-mnara} 
 
+> A study of Swahili house groupings suggests that the *mtaa* may have
+> developed along the following lines: a house was built on a large
+> site; with the demand for additional accommodation other units were
+> added, arranged around a central private access. [@ghaidan:1974lamu,
+> 76]
+
 ## Palácios e mesquitas ##
 
 
@@ -769,7 +775,7 @@ habitual é o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
 
-# Transformações sociais no espaço urbano, da islamização ao colonialismo #
+# Transformações sociais no espaço urbano, da arabização ao colonialismo #
 
 A islamização das margens do oceano Índico teve efeitos diferentes nos
 paradigmas urbanísticos de cada região. No Sudeste asiático e no
@@ -779,15 +785,64 @@ Suaíle, por outro lado, alguns tecidos urbanos foram fortemente
 transformados ora na sua forma física, ora na distribuição demográfica
 de diferentes grupos sociais, étnicos ou religiosos.
 
-## Ascensão omani e espacialização corporativa na costa Suaíle ##
+As transformações na costa Suaíle se deram em três cronologias
+distintas. Primeiro, a islamização inicial da região se iniciou no
+século VIII por meio de uma gradual inserção dos equipamentos religiosos
+de praxe --- mesquita e madraçal --- dentro da espacialidade tradicional
+dos *mitaa*. A deferência que a islamização prestou às tradições
+regionais fica evidente na pouca monumentalidade das mesquitas de
+sexta-feira, mesmo em sedes de poderes soberanos como Quíloa, Lamu ou
+Zanzibar. Mais adiante, a partir do século XVIII, a dominação do Omã
+sobre a costa Suaíle implicou uma arabização cultural mais intensa. Essa
+arabização se caracterizou pela introdução de um tipo doméstico
+caracteristicamente omani, contrastando com as casas suaíle
+tradicionais, e pela proliferação de fortificações. Nesse ciclo, a
+precedência de um poder político-econômico estrangeiro deu início à
+segregação dos grupos étnicos suaíle e árabe em diferentes áreas do
+tecido urbano. Isso foi especialmente o caso em Zanzibar onde a presença
+árabe foi mais intensa, e em Lamu onde ela se dividia espacialmente
+também entre a classe dominante miscigenada e os iemenitas subalternos.
+No entanto, seria apenas no terceiro ciclo, quando da implantação
+colonial britânica, que essa segregação se tornaria mais intensa e
+explícita com o planejamento, em Zanzibar apenas, de um setor suburbano
+com princípios projetuais Beaux-Arts.
+
+## Transmissão de tipologias edilícias ##
+
+O tipo da casa urbana suaíle não parece ter se alterado
+significativamente entre os séculos XI e início do XIX. Muitas casas em
+Lamu foram reconstruídas em pedra em finais do século XVIII usando,
+segundo @ghaidan:1974lamu, as mesmas projeções das fundações de
+construções mais antigas.
+
+Arabização omani e espacialização corporativa na costa Suaíle.
+Conquistam Zanzibar aos portugueses em 1698, capital do império movida
+de Mascate para Zanzibar em 1840 sob a dinastia Abuçaíde.
 
 Declínio econômico das localidades de caravana no século XIX
 @salim:2010litoral
 
-Fortificações @pradines:2019zanzibar47
+Fortificações [@pradines:2019zanzibar47] são implantações pontuais que,
+porém, reorganizam a percepção do poder político-militar no território e
+os vetores de crescimento ou consolidação urbana.
 
 Arquitetura doméstica como símbolo do imperialismo omani em Zanzibar:
 Tipologia de casas omanis vs casas suaíle @steyn:2001analysis16
+
+> in Zanzibar a form of the vernacular was developed under the colonial
+> penumbra that is culturally rich because it retained its social as
+> well as physical tradition. traditional housing in Zanzibar follows
+> the same pattern as in other native quarters in colonial cities such
+> as the arab Quarter in Port Said, their morphology is characterized by
+> an organic built form where the indigenous dwelling formed the primary
+> unit of the urban fabric. the narrow winding streets, high degree of
+> private and commercial mix, and inward looking clusters reflect
+> similar social norms in life, different from the lifestyle created in
+> Western quarters of colonial cities. [@amrousi:2012imperial, 75]
+
+O colonizador como transmissor de tipologias edilícias: o bangalô de
+varanda indo-britânico em Zanzibar [@amrousi:2012imperial, 69] e a
+mesquita colonial arabizada.
 
 
 ## Colonialismo e segregação urbana ##
@@ -810,7 +865,28 @@ fragmentação de relações étnico-culturais e sócio-espaciais em unidades
 estanques no espaço e fixas no tempo. Essa fixação tinha por objetivo,
 segundo @ranger:2010invention [458], "estabelecer ou aumentar o [...]
 controle" administrativo colonial por meio de uma imagem artificialmente
-simplificada de "costumes codificados e reificados".
+simplificada de "costumes codificados e reificados". Tal simplicidade
+servia convenientemente à natureza transitória da presença de
+funcionários ou empreendedores europeus:
+
+> These Port cities were shaped to perform, one argues, within an urban
+> context that served firstly the traveller, the settler and its
+> patrons, secondly its indigenous [inhabitants].
+> [@amrousi:2012imperial, 68]
+
+Após a tomada direta do poder em Zanzibar pelo Reino Unido em 1913, a
+segregação dos bairros urbanos segundo critérios étnico-raciais se
+intensificou. Os europeus e árabes partilhavam a beira-mar enquanto o
+bairro africano, Ng'ambo, foi rigidamente setorizado para a periferia
+além do mangue [@amrousi:2012imperial, 76]. Entre essas duas zonas
+ficavam os bairros indianos. Em Lamu, uma cidade que teve escassa
+presença de árabes e europeus, a beira-mar foi, segundo
+@ghaidan:1974lamu [41], estabelecida a leste da rua Direita pela
+comunidade indiana no século XIX. Os *mitaa* ou distritos a oeste dessa
+rua estavam organizados por nível de renda e prestígio social
+[@mutonga:2020origin14, 1939]: casas em pedra da elite local se
+concentravam a norte do forte omani, e as modestas casas de pau-a-pique
+da comunidade mais pobre predominavam no sul.
 
 ## Infraestrutura como discurso colonial em Jacarta ##
 
@@ -824,6 +900,7 @@ independência, com partida dos holandeses para um sítio mais salubre.
 - Isolamento do Kampong Gelam com demolição de bairros lindeiros
 - Demarcação das vilas nativas
 - Criação tardia e demolição do Kampong Rochor
+- Ruffles?
 
 
 # Conclusão #

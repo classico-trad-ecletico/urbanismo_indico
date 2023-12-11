@@ -226,6 +226,31 @@ references:
   URL: https://www.jstor.org/stable/218047
   volume: '14'
 
+- id: amrousi:2012imperial
+  author:
+    - family: El Amrousi
+      given: Mohamed
+  call-number: NA1580 .C65 2012
+  citation-key: amrousi:2012imperial
+  collection-title: Design and the built environment
+  container-title: >-
+    Colonial architecture and urbanism in Africa: intertwined and contested
+    histories
+  editor:
+    - family: Demissie
+      given: Fassil
+  event-place: Farnham, Surrey ; Burlington, Ver.
+  ISBN: 978-0-7546-7512-9
+  issued:
+    - year: 2012
+  language: en
+  page: 67-83
+  publisher: Ashgate
+  publisher-place: Farnham, Surrey ; Burlington, Ver.
+  source: Library of Congress ISBN
+  title: 'Imperial sanctuaries: Arab urban enclaves on the East African coast'
+  type: chapter
+
 - id: aste:2020innovative
   abstract: >-
     This open access book explores key issues and presents recent case studies
@@ -454,6 +479,67 @@ references:
   type: chapter
   URL: https://doi.org/10.1007/978-3-031-14697-8_7
 
+- id: baumanova:2022public
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  author:
+    - family: Baumanova
+      given: Monika
+  citation-key: baumanova:2022public
+  container-author:
+    - family: Baumanova
+      given: Monika
+  container-title: Urban public space in colonial transformations
+  DOI: 10.1007/978-3-031-14697-8_3
+  event-place: Cham
+  ISBN: 978-3-031-14696-1 978-3-031-14697-8
+  issued:
+    - year: 2022
+  language: eng
+  page: 47-68
+  publisher: Springer
+  publisher-place: Cham
+  source: DOI.org (Crossref)
+  title: Public aspects of colonial urbanism on the East African coast
+  type: chapter
+  URL: https://link.springer.com/10.1007/978-3-031-14697-8_3
+
+- id: baumanova:2022urban
+  abstract: >-
+    This book offers an interdisciplinary perspective on the precolonial to
+    colonial transition in an urban context, by focusing on the changing
+    distribution, character and role of public spaces and buildings. The volume
+    focuses on three case study regions: East African coast, North-West Africa,
+    and the Iberian Peninsula. The regions are selected to provide a novel
+    perspective on the socio-spatial impact of colonialism on the public life of
+    urban settlements, driven by different political forces, in different
+    geographical contexts and time periods. The three study areas are also
+    linked by sharing several features of urban lifestyle such as the role of
+    trade and the influence of religion, Islam in particular. The intertwined
+    influence of socio-spatial urban characteristics on public life is presented
+    on a range of case studies selected from Africa and southern Europe. The
+    approaches are rooted in archaeological thinking on the built environment as
+    material culture and incorporate critical interpretation of ethnographies
+    and historical accounts on both the precolonial and colonial eras. This
+    volume is of interest to archaeologists and researchers working in urban
+    history, anthropology, and heritage
+  author:
+    - family: Baumanova
+      given: Monika
+  citation-key: baumanova:2022urban
+  event-place: Cham
+  ISBN: 978-3-031-14697-8
+  issued:
+    - year: 2022
+  language: eng
+  publisher: Springer
+  publisher-place: Cham
+  source: Open WorldCat
+  title: Urban public space in colonial transformations
+  type: book
+
 - id: baydar:1998postcolonial
   author:
     - family: Baydar Nalbantoğlu
@@ -550,6 +636,50 @@ references:
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S1877042816306929
   volume: '225'
+
+- id: bhabha:1994location
+  author:
+    - family: Bhabha
+      given: Homi K.
+  call-number: PN761 .H43 1994
+  citation-key: bhabha:1994location
+  event-place: London ; New York
+  ISBN: 978-0-415-01635-3 978-0-415-05406-5
+  issued:
+    - year: 1994
+  language: en
+  number-of-pages: '285'
+  publisher: Routledge
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: The location of culture
+  type: book
+
+- id: bhabha:2010local
+  author:
+    - family: Bhabha
+      given: Homi K.
+  citation-key: bhabha:2010local
+  collection-title: Humanitas
+  event-place: Belo Horizonte
+  ISBN: 978-85-7041-861-6
+  issued:
+    - year: 2010
+      month: 6
+      day: 22
+  language: pt
+  publisher: Editora <span smallcaps="smallcaps">UFMG</span>
+  publisher-place: Belo Horizonte
+  source: Câmara Brasileira do Livro ISBN
+  title: O local da cultura
+  translator:
+    - family: Ávila
+      given: Myriam
+    - family: Reis
+      given: Eliana Lourenço de Lima
+    - family: Gonçalves
+      given: Gláucia Renate
+  type: book
 
 - id: bissell:2011urban
   author:
@@ -1172,6 +1302,28 @@ references:
   type: chapter
   URL: https://doi.org/10.1007/978-981-10-7317-5_16
 
+- id: demissie:2012colonial
+  call-number: NA1580 .C65 2012
+  citation-key: demissie:2012colonial
+  collection-title: Design and the built environment
+  editor:
+    - family: Demissie
+      given: Fassil
+  event-place: Farnham, Surrey ; Burlington, Ver.
+  ISBN: 978-0-7546-7512-9
+  issued:
+    - year: 2012
+  language: en
+  number-of-pages: '438'
+  publisher: Ashgate
+  publisher-place: Farnham, Surrey ; Burlington, Ver.
+  source: Library of Congress ISBN
+  title: >-
+    Colonial architecture and urbanism in Africa: intertwined and contested
+    histories
+  title-short: Colonial architecture and urbanism in Africa
+  type: book
+
 - id: dovey:2012informal34
   accessed:
     - year: 2021
@@ -1396,6 +1548,33 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/43618922
   volume: '44'
+
+- id: exenberger:2013globalization
+  call-number: HT119 .G643 2013
+  citation-key: exenberger:2013globalization
+  collection-title: Edited volume series
+  edition: 1st edition
+  editor:
+    - family: Exenberger
+      given: Andreas
+    - family: Strobl
+      given: Philipp
+    - family: Bischof
+      given: Günter
+    - family: Mokhiber
+      given: James
+  event-place: Innsbruck, Austria
+  ISBN: 978-3-902811-96-7
+  issued:
+    - year: 2013
+  language: en
+  number-of-pages: '221'
+  publisher: Innsbruck University Press
+  publisher-place: Innsbruck, Austria
+  source: Library of Congress ISBN
+  title: 'Globalization and the city: two connected phenomena in past and present'
+  title-short: Globalization and the city
+  type: book
 
 - id: fagan:2000little
   author:
@@ -2184,7 +2363,7 @@ references:
   genre: Thesis (M.A. in Architecture)
   issued:
     - year: 1974
-  language: en-GB
+  language: en
   publisher: University of Nairobi
   publisher-place: Nairobi
   source: Zotero
@@ -2206,6 +2385,44 @@ references:
   title: 'Lamu: A study of the Swahili town'
   title-short: Lamu
   type: book
+
+- id: gilbert:2013zanzibar
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  author:
+    - family: Gilbert
+      given: Erik
+  call-number: HT119 .G643 2013
+  citation-key: gilbert:2013zanzibar
+  collection-title: Edited volume series
+  container-title: 'Globalization and the city: two connected phenomena in past and present'
+  edition: 1st edition
+  editor:
+    - family: Exenberger
+      given: Andreas
+    - family: Strobl
+      given: Philipp
+    - family: Bischof
+      given: Günter
+    - family: Mokhiber
+      given: James
+  event-place: Innsbruck, Austria
+  ISBN: 978-3-902811-96-7
+  issued:
+    - year: 2013
+  language: en
+  page: 123-140
+  publisher: Innsbruck University Press
+  publisher-place: Innsbruck, Austria
+  source: Library of Congress ISBN
+  title: >-
+    Zanzibar: imperialism, proto-globalization, and a nineteenth century Indian
+    ocean boom town
+  title-short: Zanzibar
+  type: chapter
+  URL: https://library.oapen.org/bitstream/handle/20.500.12657/33877/449477.pdf
 
 - id: goh:1978urban9
   accessed:
@@ -2510,6 +2727,30 @@ references:
   URL: >-
     https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/temple-urbanism-in-medieval-south-india/E9E7AC4838DF6A200E2B06EDFD116072
   volume: '46'
+
+- id: hellerstrom:2021invisible
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  author:
+    - family: Hellerström
+      given: Tovel
+  citation-key: hellerstrom:2021invisible
+  event-place: Lund
+  genre: Degree project in Architecture
+  issued:
+    - year: 2021
+      month: 6
+  language: en
+  number-of-pages: '144'
+  publisher: Lund University, Department of Architecture and Built Environment
+  publisher-place: Lund
+  title: 'Invisible border: investigating the two sides of Zanzibar city'
+  title-short: Invisible border
+  type: thesis
+  URL: >-
+    https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9061239&fileOId=9061240
 
 - id: herwindo:2019identification
   abstract: >-
@@ -4679,7 +4920,7 @@ references:
       given: Eric
   issued:
     - year: 2018
-  language: fr-FR
+  language: fr
   page: 153-168
   publisher: Archaeopress
   source: JSTOR
@@ -4704,6 +4945,7 @@ references:
   container-title: 'FORT: J Fortress Study Group'
   issued:
     - year: 2019
+  language: en
   page: 39–69
   source: Google Scholar
   title: >-
@@ -5013,6 +5255,46 @@ references:
   title: The spatial organization of the city
   type: chapter
   volume: '1'
+
+- id: rhodes:2015zanzibar19
+  abstract: >-
+    This article examines the historical architecture and elite palace sites of
+    the nineteenth-century Sultanate of Zanzibar. Archaeological coastal survey
+    and historical research is used to discuss the way in which these built
+    structures demonstrate the changing forces of mercantile control in the
+    Western Indian Ocean. On moving his court to Zanzibar from Oman in 1828,
+    Seyyid Said bin Sultan set about consolidating his authority. This
+    consolidation and subsequent demise is reflected, it is argued, in the
+    structural remains along Zanzibar’s western coast.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  author:
+    - family: Rhodes
+      given: Daniel
+    - family: Breen
+      given: Colin
+    - family: Forsythe
+      given: Wes
+  citation-key: rhodes:2015zanzibar19
+  container-title: International Journal of Historical Archaeology
+  container-title-short: Int J Histor Archaeol
+  DOI: 10.1007/s10761-015-0291-8
+  ISSN: 1573-7748
+  issue: '2'
+  issued:
+    - year: 2015
+      month: 6
+      day: 1
+  language: en
+  page: 334-355
+  source: Springer Link
+  title: 'Zanzibar: a nineteenth-century landscape of the Omani elite'
+  title-short: Zanzibar
+  type: article-journal
+  URL: https://doi.org/10.1007/s10761-015-0291-8
+  volume: '19'
 
 - id: roux:2003networks8
   abstract: >-
@@ -5346,6 +5628,41 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S1877042812031692
   volume: '50'
 
+- id: sheriff:2001spatial36
+  abstract: >-
+    (2001). The spatial dichotomy of Swahili towns: The case of Zanzibar in the
+    nineteenth century. Azania: Archaeological Research in Africa: Vol. 36-37,
+    No. 1, pp. 63-81.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  archive_location: world
+  author:
+    - family: Sheriff
+      given: Abdul
+  citation-key: sheriff:2001spatial36
+  container-title: 'Azania: Journal of the British Institute in Eastern Africa'
+  container-title-short: Azania
+  DOI: 10.1080/00672700109511700
+  issue: '1'
+  issued:
+    - year: 2001
+      month: 1
+      day: 1
+  language: en
+  license: Copyright Taylor and Francis Group, LLC
+  page: 63-81
+  publisher: Taylor & Francis Group
+  source: www.tandfonline.com
+  title: >-
+    The spatial dichotomy of Swahili towns: The case of Zanzibar in the
+    nineteenth century
+  title-short: The spatial dichotomy of Swahili towns
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/abs/10.1080/00672700109511700
+  volume: 36–37
+
 - id: smith:2010introduction
   author:
     - family: Smith
@@ -5676,6 +5993,31 @@ references:
     histories in the kampung houses and shophouses of Melaka and Singapore
   type: chapter
 
+- id: tajudeen:2017mosques
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  author:
+    - family: Tajudeen
+      given: Imran Bin
+  citation-key: tajudeen:2017mosques
+  container-title: Journal18
+  container-title-short: J18
+  DOI: 10.30610/4.2017.4
+  ISSN: '24705683'
+  issue: '4'
+  issued:
+    - year: 2017
+  language: en
+  source: DOI.org (Crossref)
+  title: >-
+    Mosques and minaretes: transregional connections in eighteenth-century
+    Southeast Asia
+  title-short: Mosques and minaretes
+  type: article-journal
+  URL: http://www.journal18.org/2056
+
 - id: takezawa:2012discovery52
   abstract: >-
     Découverte du premier palais royal à Gao et ses implications pour l'histoire
@@ -5851,6 +6193,47 @@ references:
     http://ijaseit.insightsociety.org/index.php?option=com_content&view=article&id=9&Itemid=1&article_id=137
   volume: '1'
 
+- id: van:2024walkability144
+  abstract: >-
+    Colonialism's lasting impact on contemporary African cities has been firmly
+    established – yet the ways in which colonial planning practices affected
+    walkability, in particular urban permeability in contemporary morphologies,
+    have been largely unexplored. High urban permeability supports livelihoods,
+    particularly for the urban poor, and is needed for a transition towards more
+    walkable cities. Through the mapping of three cities in East Africa, this
+    paper demonstrates that cities in which indigenous planning practices were
+    able to resist colonial planning practices, the emergent urban form has
+    smaller urban blocks and higher urban permeability. As existing policy
+    measures on walkability largely avert improvement of urban permeability,
+    this study suggest a reassessment of those policies.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 10
+  author:
+    - family: Oostrum
+      given: Matthijs
+      non-dropping-particle: van
+  citation-key: van:2024walkability144
+  container-title: Cities
+  container-title-short: Cities
+  DOI: 10.1016/j.cities.2023.104662
+  ISSN: 0264-2751
+  issued:
+    - year: 2024
+      month: 1
+      day: 1
+  language: en
+  page: '104662'
+  source: ScienceDirect
+  title: >-
+    Walkability and colonialism: The divergent impact of colonial planning
+    practices on spatial segregation in East Africa
+  title-short: Walkability and colonialism
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S0264275123004742
+  volume: '144'
+
 - id: vellinga:2013noble18
   abstract: >-
     In recent years many publications have appeared that stress the sustainable
@@ -6003,6 +6386,28 @@ references:
   source: BnF ISBN
   title: 'Lo-TEK: design by radical indigenism'
   title-short: Lo-TEK
+  type: book
+
+- id: wilder:2005communication
+  author:
+    - family: Wilder
+      given: William D.
+  citation-key: wilder:2005communication
+  collection-number: '56'
+  collection-title: Monographs on social anthropology
+  event-place: Oxford
+  ISBN: 978-1-84520-477-8
+  issued:
+    - year: 2005
+  language: eng
+  number-of-pages: '231'
+  publisher: Berg
+  publisher-place: Oxford
+  source: K10plus ISBN
+  title: >-
+    Communication, social structure and development in rural Malaysia: a study
+    of Kampung Kuala Bera
+  title-short: Communication, social structure and development in rural Malaysia
   type: book
 
 - id: wilson:1982spatial28
@@ -6380,7 +6785,7 @@ references:
   ISBN: 978-1-107-11027-4
   issued:
     - year: 2014
-  language: en-GB
+  language: en
   page: 111-144
   publisher: Cambridge University Press
   publisher-place: Cambridge
