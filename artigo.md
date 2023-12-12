@@ -932,7 +932,12 @@ de um tipo de origem indiana trazido pelos colonizadores britânicos.
 Trata-se do bangalô com varanda, uma solução que atendia ao desejo
 europeu por uma habitação de baixa densidade, suburbana, porém adaptada
 ao clima quente e úmido do oceano Índico equatorial
-[@amrousi:2012imperial, 69].
+[@amrousi:2012imperial, 69]. Essa adaptação climática por meio da
+negação da cultura e do urbanismo locais, com a importação de um
+paradigma apropriado de outra cultura também colonizada, é a epítome da
+distinção entre o colonialismo omani e o britânico. Essa distinção
+também se fez ver na intensificação da setorização étnico-religiosa no
+século XX.
 
 
 ## Colonialismo europeu e segregação urbana ##
@@ -1021,5 +1026,25 @@ independência, com partida dos holandeses para um sítio mais salubre.
 A profundidade do legado urbanístico colonial nas cidades às margens do
 oceano Índico justifica em parte que grande parte da bibliografia sobre
 essas regiões se concentre nos problemas da urbanização contemporânea
-decorrente desse legado.
+decorrente desse legado. Grande parte do marco jurídico que disciplina o
+desenvolvimento urbano nos países oriundos da colonização europeia foi
+moldada com base no paradigma urbanístico eurasiático. Nesse contexto,
+os paradigmas tradicionais de urbanização persistem enquanto um
+patrimônio material que carece de instrumentos adequados para a sua
+preservação, e mais ainda para serem revitalizados como identidade
+cultural de suas respectivas sociedades.
+
+Ao explicitar a natureza dos paradigmas urbanísticos nas margens do
+oceano Índico enquanto processos de produção social do espaço, torna-se
+visível a relação entre as formas emergentes das cidades tradicionais e
+as ideologias e estruturas político-econômicas às quais essas formas dão
+suporte. O paradigma urbanístico eurasiático se baseia na propriedade
+individual de parcelas do solo e no crescimento periférico por meio da
+agregação, também individual, de projetos singulares ao longo de
+traçados viários estruturantes. Em contraste, os dois paradigmas
+urbanísticos estudados neste artigo, em extremos opostos do oceano
+Índico, atribuem a outras unidades sócio-espaciais, eminentemente
+coletivas e introvertidas, o papel de geradoras da forma urbana.
+
+As cidades mercantes do Sudeste asiático 
 
