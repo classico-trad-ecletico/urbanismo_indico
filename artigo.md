@@ -775,7 +775,7 @@ habitual é o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
 
-# Transformações sociais no espaço urbano, da arabização ao colonialismo #
+# Transformações coloniais no tecido edificado suaíle #
 
 ## Contexto histórico da arabização omani e do colonialismo europeu ##
 
@@ -817,12 +817,17 @@ colonial britânica, que essa segregação se tornaria mais intensa e
 explícita com o planejamento, em Zanzibar apenas, de um setor suburbano
 com princípios projetuais Beaux-Arts.
 
-## Transmissão de tipologias edilícias ##
+## Edificações e território nas ilhas Suaíle arabizadas ##
 
+A arquitetura das edificações nas principais cidades mercantes suaíle
+durante os séculos XVIII e XIX evidencia processos de reorganização
+territorial mais amplos até do que a escala urbana onde essas
+edificações se inseriram. Até finais do século XVIII, a transição
+tipológica de casas e fortificações ainda era incipiente.
 Muitas casas em Lamu
 foram reconstruídas em pedra em finais do século XVIII usando, segundo
 @ghaidan:1974lamu, as mesmas projeções das fundações de construções mais
-antigas. Mais adiante, a dominação do Omã
+antigas. A partir da virada do século, a dominação de Omã
 sobre a costa Suaíle implicou uma arabização cultural mais intensa. Essa
 arabização se caracterizou pela introdução de um tipo doméstico
 caracteristicamente omani, contrastando com as casas suaíle
@@ -831,13 +836,24 @@ tradicionais, e pela proliferação de novas fortificações.
 O poder omani, ao implantar novos fortes e reformar antigas
 fortificações portuguesas, não se inseria apenas na continuidade do
 sistema das feitorias quinhentistas. As fortificações
-[@pradines:2019zanzibar47] eram implantações pontuais no espaço
-que, porém, reorganizam a percepção do poder político-militar no
-território e os vetores de crescimento ou consolidação urbana.
+eram implantações pontuais no espaço que, porém, segundo
+@baumanova:2022urban [55], reorganizaram a percepção do "controle, [e]
+especialmente do poderio militar", no
+território e os vetores de crescimento ou consolidação urbana. O tipo
+arquitetônico dos fortes imperiais, como o de Lamu, era, segundo
+@pradines:2019zanzibar47 [47], "puramente omani", desde as plantas
+baseadas nos castelos e caravançarais da península arábica até as
+características ameias em ponta. Outra característica omani, encontrada
+em fortes como o de Pemba, continuam @pradines:2019zanzibar47, era a
+torre quadrangular abrigando a portada.
 
-A campanha omani de fortificação dos séculos XVIII e XIX consistiu,
+A campanha omani de fortificação dos séculos XVIII e XIX consistiu, ainda
 segundo @pradines:2019zanzibar47, num projeto de longo prazo visando à
 supressão do poder político de elites locais, como os Mazrui de Mombaça.
+Enquanto equipamentos simbólicos da dominação indireta do Omã, os fortes
+suplantaram os antigos palácios, pois os governadores árabes viviam
+dentro ou junto àqueles, enquanto estes caíam em desuso.
+
 Essa centralização político-militar também contribuía, por sua vez, para
 consolidar uma área econômica integrada entre as ilhas mercantes, onde
 estavam sediados os governadores omanis e a maior parte da elite
@@ -847,45 +863,87 @@ agropecuário para as ilhas, mas também era a zona de passagem
 obrigatória para a maior parte das mercadorias exportadas desde as
 ilhas.
 
-Completando o processo de centralização do poder da dinastia Abuçaíde
+De fato, completando o estabelecimento do poder da dinastia Abuçaíde
 nas ilhas da costa suaíle, vários assentamentos onde terminavam as
 caravanas continentais no litoral da terra firme entraram em declínio em
 meados do século XIX [@salim:2010litoral]. Essas localidades foram
 gradualmente suplantadas por estabelecimentos concorrentes implantados
-pelos governantes omanis das ilhas. Era especialmente o caso dos
-mercados de escravizados, já que a proximidade com as fortificações
-omanis, sobretudo em Zanzibar, permitia aos traficantes evadirem a
-perseguição naval britânica que se intensificava ao longo daquele
+pelos governadores omanis das ilhas. Era especialmente o caso dos
+mercados escravistas, já que a proximidade com as fortificações
+omanis, sobretudo em Zanzibar, permitia aos traficantes evadirem as
+patrulhas navais britânicas que se intensificavam ao longo daquele
 século.
 
-Arquitetura doméstica como símbolo do imperialismo omani em Zanzibar:
-Tipologia de casas omanis vs casas suaíle @steyn:2001analysis16
+## Casas coloniais do período omani ao britânico ##
 
-> in Zanzibar a form of the vernacular was developed under the colonial
-> penumbra that is culturally rich because it retained its social as
-> well as physical tradition. traditional housing in Zanzibar follows
-> the same pattern as in other native quarters in colonial cities such
-> as the arab Quarter in Port Said, their morphology is characterized by
-> an organic built form where the indigenous dwelling formed the primary
-> unit of the urban fabric. the narrow winding streets, high degree of
-> private and commercial mix, and inward looking clusters reflect
-> similar social norms in life, different from the lifestyle created in
-> Western quarters of colonial cities. [@amrousi:2012imperial, 75]
+À sombra das fortificações, a cultura urbana nas principais cidades
+mercantes das ilhas suaíle se transformava paulatinamente. A introdução
+nas ilhas do tipo arquitetônico do mercado árabe, que segundo
+@baumanova:2022urban [55] não tinha precedentes na costa suaíle a não
+ser no Husuni Kubwa em Quíloa Quisiuani, evidenciava a deslocação
+dos centros de atividade comercial da costa da terra firme para as
+ilhas. Mais ainda, os mercados faziam parte de um processo de
+rebaixamento no *status* antes dominante e exclusivo das elites
+africanas em favor dos comerciantes árabes. Uma consequência dessa
+deslocação do poder econômico foi a introdução de um novo tipo de casa
+nas cidades mercantes das ilhas.
 
-O colonizador como transmissor de tipologias edilícias: o bangalô de
-varanda indo-britânico em Zanzibar [@amrousi:2012imperial, 69] e a
-mesquita colonial arabizada.
+Desde os primeiros contatos registrados entre comerciantes árabes e a
+elite autóctone, no século VIII, o comércio internacional que era a
+razão de ser dessas cidades se desenvolvera sob o sistema de patrocínio
+privado discutido acima e conduzido em casas de famílias autóctones, de
+organização matrilocal. A partir do século XVIII, com a primazia dos
+estrangeiros árabes e a presença crescente também de muçulmanos de todas
+as margens do oceano Índico, porém, esse patrocínio deixou de ser a
+condição *sine qua non* para a realização das trocas mercantis.
+
+A partir daí, os mercadores omanis introduziram em lugares como Zanzibar
+um novo tipo doméstico originário da península arábica. Esse tipo estava
+desvinculado da necessidade funcional de oferecer um espaço para as
+relações mercantis. Com isso, infere @steyn:2001analysis16, a casa omani
+podia atender mais livremente à demanda da elite árabe por mais
+privacidade e melhor desempenho bioclimático. Tratando-se de uma
+intromissão tardia e de elite em tecidos urbanos já organicamente
+consolidados com predominância da casa tradicional suaíle
+[@amrousi:2012imperial, 75], o tipo omani nunca chegou a constituir uma
+série tipológica completa. Em vez disso, foi uma introdução pontual,
+numa forma já elaborada no estrangeiro, e ocupando apenas o extremo
+erudito do espectro arquitetônico.
+
+A aparente semelhança volumétrica entre as casas da elite suaíle
+tradicional e as da elite árabe se explica tão somente pela restrição
+imposta a esta última pelo parcelamento já consolidado do solo em
+cidades como Lamu e Zanzibar e pelo uso dos mesmos materiais
+construtivos --- calcário de coral e madeira de mangue. Por trás dessa
+aparência, a casa omani era um espaço voltado para a separação estrita
+entre os espaços da vida íntima familiar, concentrados segundo
+@sheriff:2001spatial36 no andar nobre, e as funções utilitárias ou, mais
+raramente, varejistas do térreo. Ausente a necessidade de estruturar o
+pátio como espaço de interação entre o hóspede mercador e a família que
+o patrocinava, @steyn:2001analysis16 mostra que os ambientes domésticos
+da casa omani em Zanzibar podiam ser distribuídos de modo a aproveitar
+melhor a iluminação natural e a ventilação por convecção oferecidas pelo
+pátio.
+
+Embora a morada das elites nas cidades mercantes suaíle seja
+caracterizado pelos dois tipos já mencionados, a casa tradicional e a
+casa omani, cabe mencionar também a introdução, no início do século XX,
+de um tipo de origem indiana trazido pelos colonizadores britânicos.
+Trata-se do bangalô com varanda, uma solução que atendia ao desejo
+europeu por uma habitação de baixa densidade, suburbana, porém adaptada
+ao clima quente e úmido do oceano Índico equatorial
+[@amrousi:2012imperial, 69].
 
 
-## Colonialismo e segregação urbana ##
+## Colonialismo europeu e segregação urbana ##
 
-Sob a suserania do Omã, a partir do século
-XVIII, a precedência do poder político-econômico estrangeiro deu início à
+Sob a suserania do Omã, a partir do século XVIII,
+a precedência do poder político-econômico estrangeiro dera início à
 segregação dos grupos étnicos suaíle e árabe em diferentes áreas do
 tecido urbano. Isso foi especialmente o caso em Zanzibar onde a presença
 árabe foi mais intensa, e em Lamu onde ela se dividia espacialmente
 também entre a classe dominante (formada tanto por bantos quanto por
-omanis) e os iemenitas subalternos.
+omanis) e os iemenitas (hadramaui) subalternos.
 
 Se a arabização nas margens do oceano Índico trouxe certas
 transformações na organização urbana principalmente na costa Suaíle, a
@@ -909,16 +967,26 @@ simplificada de "costumes codificados e reificados". Tal simplicidade
 servia convenientemente à natureza transitória da presença de
 funcionários ou empreendedores europeus:
 
-> These Port cities were shaped to perform, one argues, within an urban
-> context that served firstly the traveller, the settler and its
-> patrons, secondly its indigenous [inhabitants].
+> Essas cidades portuárias foram conformadas para desempenhar, pode-se
+> argumentar, [um papel] no contexto urbano que atendia prioritariamente
+> ao viajante, ao colono e a seus patrocinadores, e secundariamente aos
+> seus [habitantes] indígenas.
 > [@amrousi:2012imperial, 68]
 
 Após a tomada direta do poder em Zanzibar pelo Reino Unido em 1913, a
 segregação dos bairros urbanos segundo critérios étnico-raciais se
 intensificou. Os europeus e árabes partilhavam a beira-mar enquanto o
 bairro africano, Ng'ambo, foi rigidamente setorizado para a periferia
-além do mangue [@amrousi:2012imperial, 76]. Entre essas duas zonas
+além do manguezal [@amrousi:2012imperial, 76]. Se a segregação
+étnico-religiosa havia se iniciado sob o domínio Abuçaíde, em comparação
+com a intensidade do projeto segregacionista europeu as divisões
+anteriores podem parecer quase inexistentes. Isso leva mesmo
+@sheriff:2001spatial36 [80] a alegar que "concepções de Zanzibar como
+uma cidade dual, dividida entre uma Cidade de Pedra aristocrática e um
+'bairro nativo' de classe operária são fundamentalmente um produto do
+[período] colonial" britânico.
+
+Entre essas duas zonas, por mais nebulosas que fossem suas divisas,
 ficavam os bairros indianos. Em Lamu, uma cidade que teve escassa
 presença de árabes e europeus, a beira-mar foi, segundo
 @ghaidan:1974lamu [41], estabelecida a leste da rua Direita pela
@@ -926,7 +994,12 @@ comunidade indiana no século XIX. Os *mitaa* ou distritos a oeste dessa
 rua estavam organizados por nível de renda e prestígio social
 [@mutonga:2020origin14, 1939]: casas em pedra da elite local se
 concentravam a norte do forte omani, e as modestas casas de pau-a-pique
-da comunidade mais pobre predominavam no sul.
+da comunidade mais pobre predominavam no sul. Embora breve, o período
+colonial omani e sobretudo britânico deixou um legado sócio-espacial no
+tecido urbano das ilhas suaíle que persiste até os dias atuais.
+
+
+# Imposição colonial do paradigma eurasiático no mundo malaio--indonésio #
 
 ## Infraestrutura como discurso colonial em Jacarta ##
 
@@ -944,4 +1017,9 @@ independência, com partida dos holandeses para um sítio mais salubre.
 
 
 # Conclusão #
+
+A profundidade do legado urbanístico colonial nas cidades às margens do
+oceano Índico justifica em parte que grande parte da bibliografia sobre
+essas regiões se concentre nos problemas da urbanização contemporânea
+decorrente desse legado.
 
