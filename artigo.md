@@ -928,9 +928,10 @@ pátio.
 Embora a morada das elites nas cidades mercantes suaíle seja
 caracterizado pelos dois tipos já mencionados, a casa tradicional e a
 casa omani, cabe mencionar também a introdução, no início do século XX,
-de um tipo de origem indiana trazido pelos colonizadores britânicos.
+de um tipo de origem indiana reformulado pelos colonizadores britânicos.
 Trata-se do bangalô com varanda, uma solução que atendia ao desejo
-europeu por uma habitação de baixa densidade, suburbana, porém adaptada
+europeu por uma habitação de baixa densidade, suburbana
+[@desai:2012bungalow], porém adaptada
 ao clima quente e úmido do oceano Índico equatorial
 [@amrousi:2012imperial, 69]. Essa adaptação climática por meio da
 negação da cultura e do urbanismo locais, com a importação de um
@@ -1044,7 +1045,26 @@ agregação, também individual, de projetos singulares ao longo de
 traçados viários estruturantes. Em contraste, os dois paradigmas
 urbanísticos estudados neste artigo, em extremos opostos do oceano
 Índico, atribuem a outras unidades sócio-espaciais, eminentemente
-coletivas e introvertidas, o papel de geradoras da forma urbana.
+coletivas e introvertidas, o papel de geradoras da forma urbana. Ambos
+eram formados pela agregação de unidades morfologicamente similares,
+porém hierarquizadas de diferentes modos.
 
-As cidades mercantes do Sudeste asiático 
+As cidades do Sudeste asiático cresceram a partir da agregação e
+justaposição de glebas unitárias chamadas *kampung*, o que quer dizer
+"povoação" em malaio. Cada gleba era congruente com um grupo familiar ou
+uma estrutura corporativa com função político-econômica definida. O grau
+de adensamento demográfico, até certo ponto, e de especialização
+funcional ou hierarquia política dos vários *kampung* agrupados numa
+área constituíam os indicadores de transição entre o espaço rural e o
+urbano. Em qualquer caso, o necessário conforto ambiental da arquitetura
+estabelecia limites bioclimáticos ao adensamento edilício nos *kampung*.
+
+A governança do *kampung* dependia da aceitação de normas e
+hierarquias sociais que estabeleciam os mecanismos de gestão coletiva e
+de autoridade político-familiar. A imposição colonial do paradigma
+eurasiático de propriedade individual do solo desarticulou esse sistema,
+fragilizando a situação jurídica de muitos *kampung* existentes e
+praticamente inviabilizando a continuidade dessa tradição.
+
+No caso das cidades mercantes da costa Suaíle, 
 

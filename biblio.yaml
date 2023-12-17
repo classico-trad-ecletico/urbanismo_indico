@@ -1324,6 +1324,75 @@ references:
   title-short: Colonial architecture and urbanism in Africa
   type: book
 
+- id: desai:2012bungalow
+  abstract: >-
+    The primary era of this study - the twentieth century - symbolizes the peak
+    of the colonial rule and its total decline, as well as the rise of the new
+    nation state of India. The processes that have been labeled 'westernization'
+    and 'modernization' radically changed middle-class Indian life during the
+    century. This book describes and explains the various technological,
+    political and social developments that shaped one building type - the
+    bungalow - contemporaneous to the development of modern Indian history
+    during the period of British rule and its subsequent aftermath. Drawing on
+    their own physical and photographic documentation, and building on previous
+    work by Anthony King and the Desais, the authors show the evolution of the
+    bungalow's architecture from a one storey building with a verandah to the
+    assortment of house-forms and their regional variants that are derived from
+    the bungalow. Moreover, the study correlates changes in society with
+    architectural consequences in the plans and aesthetics of the bungalow. It
+    also examines more generally what it meant to be modern in Indian society as
+    the twentieth century evolved.
+  author:
+    - family: Desai
+      given: Madhavi
+    - family: Desai
+      given: Miki
+    - family: Lang
+      given: Jon T.
+  call-number: NA7572.5.I4 D47 2012
+  citation-key: desai:2012bungalow
+  collection-title: Ashgate studies in architecture series
+  event-place: Farnham, Surrey ; Burlington, Ver.
+  ISBN: 978-1-4094-2738-4
+  issued:
+    - year: 2012
+  language: en
+  number-of-pages: '234'
+  publisher: Ashgate
+  publisher-place: Farnham, Surrey ; Burlington, Ver.
+  source: Library of Congress ISBN
+  title: >-
+    The bungalow in twentieth-century India: the cultural expression of changing
+    ways of life and aspirations in the domestic architecture of colonial and
+    post-colonial society
+  title-short: The bungalow in twentieth-century India
+  type: book
+
+- id: desai:2016origin
+  abstract: >-
+    At the beginning of the 20th century, a wide variety of indigenous house
+    types existed in India, varying in layout and articulation in response to
+  accessed:
+    - year: 2023
+      month: 12
+      day: 17
+  author:
+    - family: Desai
+      given: Miki
+    - family: Desai
+      given: Madhavi
+  citation-key: desai:2016origin
+  container-title: Architectural Review
+  issued:
+    - year: 2016
+      month: 6
+      day: 22
+  language: en
+  title: The origin and indigenisation of the Imperial bungalow in India
+  type: post-weblog
+  URL: >-
+    https://www.architectural-review.com/places/india/the-origin-and-indigenisation-of-the-imperial-bungalow-in-india
+
 - id: dovey:2012informal34
   accessed:
     - year: 2021
