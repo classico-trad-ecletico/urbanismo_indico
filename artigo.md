@@ -61,24 +61,29 @@ Ao contrário desas definições formais, o conceito de paradigma
 circunscreve um universo de práticas e de produtos comuns que não se
 podem reduzir a princípios ou regras absolutas [@ficher:2005paradigmas].
 Reconhecer um tecido construído como sendo uma cidade paradigmática é
-uma operação intuitiva que deixa poucas incertezas. Para ficar apenas no
-ponto de vista europeu, mais fartamente documentado e estudado na
-literatura,
-<!-- Roebruck, Polo, Cortés, De Bry --> [@palazzo:2013fragmento10]
+uma operação intuitiva que deixa poucas incertezas. Essa capacidade
+intuitiva de perceber o fenômeno urbano foi apenas obscurecida por um
+modelo colonialista empenhado em fabricar um marco conceitual para negar
+*status* urbano às cidades fora do eixo cultural europeu, mediterrâneo e
+extremo-oriental. Por mais que a compreensão europeia da *organização*
+de cidades fora desse eixo fosse imperfeita [@palazzo:2013fragmento10],
+a sua *condição* urbana só chegou a ser posta em causa tardiamente, com
+o advento de uma etnografia ou sociologia urbana pautada por regras
+epistemológicas explícitas.
 
-Kuhn [-@kuhn:1998estrutura, 69] sintetiza que:
+Por isso, reafirmando a importância do paradigma como um modelo mais
+aberto e flexível, Kuhn [-@kuhn:1998estrutura, 69] sintetiza que:
 
 > A falta de uma interpretação padronizada ou de uma redução a regras
 > que goze de unanimidade não impede que um paradigma oriente a
 > pesquisa. [...] Na verdade, a existência de um paradigma nem mesmo
 > precisa implicar a existência de qualquer conjunto completo de regras.
 
-Adotar o marco interpretativo dos paradigmas oferece uma clara vantagem
-sobre a abordagem dos tipos morfológicos, ou ainda a das normas
-edilícias explicitamente codificadas.
-
-A regra é específica, porém abstrata. O paradigma é genérico, porém
-tangível.
+Em síntese, uma epistemologia da história urbana baseada em regras e
+definições dá uma ilusão de precisão conceitual ao preço de restringir a
+cidade a uma abstração dessas mesmas regras e definições. Já o paradigma
+é fluido e impreciso, mas permite circunscrever as mais variadas formas
+urbanas na sua realidade tangível.
 
 # Mundos conectados no século XIV #
 
