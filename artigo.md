@@ -30,7 +30,50 @@ tblPrefix:
 
 # Introdução #
 
-O que é um paradigma urbanístico?
+Adotar o marco interpretativo dos paradigmas oferece uma clara vantagem
+sobre a abordagem dos tipos morfológicos, ou ainda a das normas
+edilícias explicitamente codificadas. No campo disciplinar da história
+urbana comparada, as definições do que seja uma cidade são muitas vezes
+epistemologicamente equívocas e quase sempre intraduzíveis entre
+diferentes culturas. De fato, como conciliar uma definição de cidade
+baseada na ritualística tribal [@fustel:2005cidade], com outra que que
+erige a excepcionalidade do festival como razão de ser da cidade
+[@lefebvre:2001direito], e até quem se resigna a constituir um catálogo
+de cidades organizadas por tipos funcionais irredutíveis entre si
+[@weber:2013ville]? Será preciso diluir a definição de cidade até obter
+uma genérica tendência à "estabilidade e continuidade" que não distingue
+uma metrópole dum cupinzeiro [@mumford:1998cidade, 11], ou restringi-la
+de tal modo que apenas economias monetárias se enquadrem nela
+[@goff:1992apogeu]?
+
+Ao contrário das definições formais, o conceito de paradigma
+circunscreve um universo de práticas e de produtos comuns que não se
+podem reduzir a princípios ou regras absolutas [@ficher:2005paradigmas].
+Reconhecer um tecido construído como sendo uma cidade paradigmática é
+uma operação intuitiva que deixa poucas incertezas. Para ficar apenas no
+ponto de vista europeu, mais fartamente documentado e estudado na
+literatura,
+<!-- Roebruck, Polo, Cortés, De Bry --> [@palazzo:2013fragmento10]
+
+O paradigma como o universo de possibilidades admitido numa prática
+profissional vem do estudo da história das ciências por
+@kuhn:1998estrutura. O conceito de paradigma é mais útil para se
+compreender essa prática dita "normal" do que o de regras ou princípios
+técnicos e teóricos. Isso é o caso porque o universo de ações "normais"
+não pressupõe que exista um consenso dogmático em torno de uma
+orientação ideológica ou técnica. Nem é preciso impor limites
+deterministas ao que é ou não admissível de se fazer na prática
+"normal". Essa é a realidade não só da ciência, mas de todo movimento
+cultural no sentido mais amplo. Kuhn [-@kuhn:1998estrutura, 69]
+sintetiza que:
+
+> A falta de uma interpretação padronizada ou de uma redução a regras
+> que goze de unanimidade não impede que um paradigma oriente a
+> pesquisa. [...] Na verdade, a existência de um paradigma nem mesmo
+> precisa implicar a existência de qualquer conjunto completo de regras.
+
+A regra é específica, porém abstrata. O paradigma é genérico, porém
+tangível.
 
 # Mundos conectados no século XIV #
 

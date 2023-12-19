@@ -154,7 +154,7 @@ references:
   ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
   issued:
     - year: 2002
-  language: en-US
+  language: en
   publisher: Center for Environmental Structure
   publisher-place: Berkeley, Calif.
   source: Open WorldCat
@@ -2493,6 +2493,22 @@ references:
   type: chapter
   URL: https://library.oapen.org/bitstream/handle/20.500.12657/33877/449477.pdf
 
+- id: goff:1992apogeu
+  author:
+    - family: Le Goff
+      given: Jacques
+  citation-key: goff:1992apogeu
+  event-place: São Paulo
+  ISBN: 978-85-336-0127-7
+  issued:
+    - year: 1992
+  language: pt
+  publisher: <span smallcaps="smallcaps">WMF</span> Martins Fontes
+  publisher-place: São Paulo
+  source: Amazon
+  title: O apogeu da cidade medieval
+  type: book
+
 - id: goh:1978urban9
   accessed:
     - year: 2020
@@ -3321,7 +3337,7 @@ references:
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
-  language: en-GB
+  language: en
   number-of-volumes: '2'
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -3750,7 +3766,7 @@ references:
     - year: 1983
       month: 6
       day: 1
-  language: en-US
+  language: en
   page: 19-28
   source: Taylor and Francis+NEJM
   title: The interpretation of vernacular architecture
@@ -3815,6 +3831,45 @@ references:
   type: article-journal
   URL: http://dl.lib.mrt.ac.lk/handle/123/8353
 
+- id: lefebvre:1968droit
+  author:
+    - family: Lefebvre
+      given: Henri
+  call-number: '711'
+  citation-key: lefebvre:1968droit
+  collection-number: '1'
+  collection-title: Société et urbanisme
+  edition: '2'
+  event-place: Paris
+  issued:
+    - year: 1968
+  language: fr
+  number-of-pages: '164'
+  publisher: Anthropos
+  publisher-place: Paris
+  source: webopac.sib.uc.pt Library Catalog
+  title: Le droit à la ville
+  type: book
+
+- id: lefebvre:2001direito
+  author:
+    - family: Lefebvre
+      given: Henri
+  citation-key: lefebvre:2001direito
+  event-place: São Paulo
+  ISBN: 978-85-88208-97-1
+  issued:
+    - year: 2001
+  language: pt
+  publisher: Centauro
+  publisher-place: São Paulo
+  source: Câmara Brasileira do Livro ISBN
+  title: O direito à cidade
+  translator:
+    - family: Frias
+      given: Rubens Eduardo
+  type: book
+
 - id: lim:1991malay
   abstract: 'The Malay House: Rediscovering Malaysia''s Indigenous Shelter System'
   author:
@@ -3846,9 +3901,9 @@ references:
   ISBN: 978-0-262-12004-3 978-0-262-62001-7
   issued:
     - year: 1960
-  language: en-US
+  language: en
   number-of-pages: '194'
-  publisher: MIT Press
+  publisher: <span smallcaps="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: The image of the city
@@ -3865,9 +3920,9 @@ references:
   ISBN: 978-0-262-62046-8 978-0-262-12085-2
   issued:
     - year: 1981
-  language: en-US
+  language: en
   number-of-pages: '514'
-  publisher: MIT Press
+  publisher: <span smallcaps="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   source: Library of Congress ISBN
   title: A theory of good city form
@@ -4239,7 +4294,7 @@ references:
   ISBN: 978-85-336-0847-4
   issued:
     - year: 1998
-  language: pt-BR
+  language: pt
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -4630,7 +4685,7 @@ references:
     - year: 2021
       month: 12
       day: 10
-  language: en-GB
+  language: en
   license: © 2021 Informa UK Limited, trading as Taylor & Francis Group
   publisher: Routledge
   source: www.tandfonline.com
@@ -4828,7 +4883,7 @@ references:
   ISBN: 978-1-136-85131-5
   issued:
     - year: 2013
-  language: en-GB
+  language: en
   publisher: Taylor and Francis
   publisher-place: Florence
   source: Open WorldCat
@@ -4869,7 +4924,7 @@ references:
     - year: 2009
       month: 7
       day: 1
-  language: en-GB
+  language: en
   page: 103-125
   source: Taylor and Francis+NEJM
   title: Different approaches in the study of urban form
@@ -6250,7 +6305,7 @@ references:
   ISBN: 978-0-415-14477-3
   issued:
     - year: 1997
-  language: en-GB
+  language: en
   number-of-pages: '208'
   publisher: Routledge
   publisher-place: London ; New York
@@ -6475,12 +6530,65 @@ references:
   ISBN: 978-3-8365-7818-9
   issued:
     - year: 2019
-  language: en-GB
+  language: en
   publisher: Taschen
   publisher-place: Cologne [Paris]
   source: BnF ISBN
   title: 'Lo-TEK: design by radical indigenism'
   title-short: Lo-TEK
+  type: book
+
+- id: weber:2013ville
+  abstract: >-
+    Arnhem, cité de rentiers, Wiesbaden, cité de retraités, Düsseldorf, cité des
+    banquiers… La liste est longue de villes saisies à un moment historique ou
+    au cours d'une période essentielle de leur histoire : La Mecque, Sparte,
+    Londres et surtout Venise au temps des Guelfes et des Gibelins. Avec « La
+    Ville », Weber excelle dans l’art de la typologie. Il y définit toute une
+    gamme de villes « idéaltypiques », selon qu’on les considère sous l’angle
+    juridique, économique, politique. Et il le fait avec d’autant plus d’aisance
+    que son étonnante érudition lui permet d’interpeller les villes
+    babyloniennes, juives, hindoues, islamiques, chinoises ou russes au même
+    titre que celles de l’Antiquité grecque ou romaine et celles du Moyen Âge.
+    En retraçant l’histoire des conjurations et des corporations, Weber souligne
+    l’originalité de l’histoire européenne : la seule à avoir produit la commune
+    dans son plein développement. Du même coup, il évoque le rôle moteur du
+    christianisme, les transformations du rapport entre la ville et la campagne,
+    la nature essentiellement politique des luttes que se livrent les divers
+    ordres sociaux, la lente montée de la bourgeoisie. Le passage du capitalisme
+    foncier impliquant l’esclavage dans l’Antiquité au capitalisme marchand du
+    Moyen Âge n’est jamais qu’une longue série d’étapes d’un processus menant au
+    capitalisme moderne et à l’Etat moderne. La Ville, dit Weber, se développe
+    selon la logique propre à chaque civilisation, mais il existe en même temps
+    une loi interne au champ politique, qui limite le nombre de compromis
+    possibles pour faire cohabiter dans une même cité des couches sociales qui
+    se distinguent et que leurs intérêts opposent. Les rapports de souveraineté
+    et de luttes pour la domination entre villes et Etats sont au cœur de la
+    réflexion wébérienne. Aussi, ces analyses gardent-elles une actualité
+    manifeste en un temps où les métropoles s’agrandissent et en un temps où,
+    avec cet accroissement spatial, démographique et économique, l’acuité des
+    problèmes sociaux, environnementaux et politiques se fait plus vive. Max
+    Weber (1864-1920), économiste allemand, père de la sociologie contemporaine.
+  author:
+    - family: Weber
+      given: Max
+  call-number: '307.76'
+  citation-key: weber:2013ville
+  collection-number: '37'
+  collection-title: Le goût des idées
+  edition: Nouvelle éd.
+  event-place: Paris
+  ISBN: 978-2-251-20038-5
+  issued:
+    - year: 2013
+  language: fre
+  publisher: les Belles lettres
+  publisher-place: Paris
+  source: BnF ISBN
+  title: La ville
+  translator:
+    - family: Fritsch
+      given: Philippe
   type: book
 
 - id: wilder:2005communication
