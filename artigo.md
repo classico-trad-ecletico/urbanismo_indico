@@ -1,5 +1,5 @@
 ---
-title       : "Paradigmas urbanísticos nas cidades mercantes do oceano Índico"
+title       : "Paradigmas urbanísticos no oceano Índico: costa Suaíle e arquipélago Malaio na Idade Moderna"
 #author      : Pedro P. Palazzo
 lang        : pt-BR
 bibliography: _data/biblio.yaml
@@ -375,7 +375,7 @@ enviesado para o estudo da influência colonial (omani ou europeia) bem
 como das casas, em detrimento das cidades pré-coloniais no seu conjunto.
 
 
-# Cidades mercantes do sudeste asiático #
+# Cidades mercantes do arquipélago malaio #
 
 <!--Deixar claro por que o kampung é urbanismo bioclimático-->
 
