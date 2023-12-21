@@ -30,7 +30,57 @@ tblPrefix:
 
 # Introdução #
 
+## Mundos conectados no século XIV ##
 
+O alcance cronológico dos paradigmas urbanísticos da costa Suaíle e do
+arquipélago Malaio se inscreve numa longa Idade Moderna que vai de
+meados do século XIV até a segunda metade do XIX. Nas redes globais do
+século XIV em diante, o oceano Índico ocupava um lugar privilegiado como
+articulador de trocas econômicas, culturais e religiosas. Segundo a
+historiadora da urbanização Janet Lippman Abu-Lughod (1928--2013), o
+"sistema mundial" centrado no comércio marítimo do oceano Índico dominou
+o comércio internacional entre 1250 e 1350 ([@fig:circuits]). A Europa e
+a China ocupavam uma posição periférica nesse sistema, controlado por
+mercadores muçulmanos.
+
+![Circuitos econômico-culturais do sistema mundial, 1250--1350, segundo Janet Lippman. Mapa por [Derfel73, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:circuits}
+
+[Derfel73, 2011]: https://commons.wikimedia.org/wiki/File:Archaic_globalization.svg
+
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png){#fig:indico-redes}
+
+Uma combinação de mudanças climáticas [@fagan:2000little], pandemias e
+reestruturações político-econômicas em todos os continentes afetou as
+redes comerciais e culturais em meados do século XIV e provocou a
+ruptura de muitas conexões globais. Um resfriamento global deu o pontapé
+inicial numa sequência de choques que levaram à reorganização econômica
+e política da era moderna. O mais famoso desses choques foi a pandemia
+de peste que se espalhou da China para a Europa na segunda metade da
+década de 1340.
+
+Na nova ordem econômica e política do século XIV, a rota da Seda,
+terrestre, e o sistema de navegação com as monções, no oceano Índico,
+continuavam sendo os caminhos estruturantes ([@fig:indico-redes]). No
+entanto, com a desagregação dos grandes impérios mongóis na segunda
+metade do século, a rota terrestre deixou de oferecer segurança e os
+percursos marítimos ganharam preeminência. Os mercadores muçulmanos
+escoavam produtos sobretudo de leste para oeste, ouro e prata fluíam no
+sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
+China, tapeçarias da Ásia central chegavam à costa leste da África e ao
+Mediterrâneo.
+
+Nas margens desse sistema de rotas, várias cidades-estado prosperavam
+graças ao controle de pontos de passagem obrigatórios. Trowulan e
+Malacca nos estreitos malaios do Sudeste asiático, Lamu e Quíloa na
+costa suaíle da África, e Veneza na Europa mediterrânea eram totalmente
+especializadas no comércio durante os séculos XIV e XV. A forma urbana
+dessas cidades refletia as diferentes respostas que cada uma dava às
+necessidades funcionais do comércio e às condições geográficas e
+climáticas onde elas se desenvolveram.
+
+# Do paradigma urbanístico eurasiático a uma metodologia não eurocêntrica #
+
+## Por que paradigmas urbanísticos ##
 
 O paradigma como o universo de possibilidades admitido numa prática
 profissional vem do estudo da história das ciências por
@@ -70,7 +120,7 @@ campo da história urbana de modo mais explícito por
 Reconhecer um tecido construído como sendo uma cidade paradigmática é
 uma operação intuitiva que deixa poucas incertezas. Essa capacidade
 intuitiva de perceber o fenômeno urbano foi apenas obscurecida por um
-modelo colonialista empenhado em fabricar um marco conceitual para negar
+modelo colonialista empenhado, segundo @campbell:2008indian, em fabricar um marco conceitual para negar
 *status* urbano às cidades fora do eixo cultural europeu, mediterrâneo e
 extremo-oriental. Por mais que a compreensão europeia da *organização*
 de cidades fora desse eixo fosse imperfeita [@palazzo:2013fragmento10],
@@ -103,146 +153,6 @@ mas permite circunscrever as mais variadas culturas urbanas na sua
 realidade tangível.
 
 <!--Repensar posição do bloco acima-->
-
-# Mundos conectados no século XIV #
-
-## Difusionismo e colonialismo ##
-
-::::::::::::::::::: {#fig:globe .sketchfab-embed-wrapper .iframe-wrapper}
-<iframe title="First terrestrial globe - Martin Behaim 1492" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/464002c2d8044f9a9c490cfe59395420/embed"> </iframe>
-
-[Martin Behaim, globo terrestre, 1492](https://sketchfab.com/3d-models/first-terrestrial-globe-martin-behaim-1492-464002c2d8044f9a9c490cfe59395420). Digitalizado por [Drones Imaging](https://sketchfab.com/dronesimaging?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-A "Globalização"
-é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
-relações de poder em escala mundial, com a expansão europeia dos séculos
-XVI a XIX, foi tão brutal que às vezes
-perdemos de vista o quanto essas redes e relações já eram globais desde
-a Idade Média.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Expansão polinésia até o século XIII. Mapa: [Miles Benton, 2012][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,\_2012,\_adapted_from_Bellwood,\_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,\_2012,\_adapted_from_Bellwood,\_2011).png){#fig:poly-dispersal}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-[Miles Benton, 2012]: https://doi.org/10.1371/journal.pone.0035026
-
-No oceano Pacífico, os navegantes polinésios parecem ter [atingido a
-costa da América do Sul no século
-XIII](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
-Eles podem ter introduzido a Cúrcuma na América, e levado de lá a batata
-doce e ervas medicinais.
-
-
-::: align-right
-![Auguste Choisy fotografado por [Eugène Pirou, 1904][]](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg){#fig:choisy}
-:::
-
-[Eugène Pirou, 1904]: https://commons.wikimedia.org/wiki/File:Auguste_Choisy_par_Eugène_Pirou.jpg
-
-Um dos primeiros manuais de história da arquitetura a incluir a América
-precolombiana foi o do francês Auguste Choisy em 1899 ([@fig:choisy]). Esse texto era
-adotado na prestigiosa Escola de Belas-Artes de Paris.
-
-
-Ele explicava as
-"pirâmides" dos maias e astecas como uma importação dos terraplenos
-chineses ([@fig:choisy-pacific]). Na cabeça de um europeu do final do
-século XIX, chineses atravessando o oceano Pacífico na mais remota
-Antiguidade parecia mais provável do que uns "índios no meio da selva"
-sendo capazes de criar arquitetura monumental.
-
-
-![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas, em [*Histoire de l'architecture*, 1899][]](https://upload.wikimedia.org/wikipedia/commons/4/45/Architectures_du_Nouveau-Monde_fig._1,\_from_Histoire_de_l'architecture_t._I_p._198.png){#fig:choisy-pacific}
-
-[*Histoire de l'architecture*, 1899]: https://commons.wikimedia.org/wiki/Category:Histoire_de_l'architecture,\_by_Auguste_Choisy_(1899)
-
-
-Por causa de interpretações como essa, a ideia de um mundo antigo e
-medieval globalmente conectado tende a ser olhada com uma desconfiança
-compreensível hoje em dia. Em mais de uma ocasião, o argumento da
-circulação mundial na Antiguidade foi usado para sustentar teses
-colonialistas, de que certos povos não seriam capazes de desenvolver uma
-arquitetura monumental sem ajuda externa.
-
-
-Para além disso, a hegemonia tecnológica e política que a Europa atingiu
-no século XIX ajudou a cultivar um conceito distorcido de evolução. Na
-visão europeia da época, a evolução seria essencialmente linear
-([@fig:civ6]), e todas as sociedades que seguiram outro percurso cultural
-e tecnológico que não o europeu seriam, portanto, "primitivas".
-
-Desmentindo essa visão linear que tende a justificar a colonização dos
-"primitivos" pelos "modernos", os territórios em volta do oceano Índico
-no século XIV abrigam uma grande variedade de sociedades com modelos
-culturais e urbanísticos diversos. Esse conjunto forma a maior rede
-comercial do mundo no início da Idade Moderna.
-
-::: full
-!["Árvore" tecnológica linear no jogo *Civilization IV*. Postada por Kael em [Civilization Fanatics Center, 2006][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/civ4-tech-scaled.jpg){#fig:civ6}
-:::
-
-[Civilization Fanatics Center, 2006]: https://forums.civfanatics.com/threads/feedback-tech-tree.175251/
-
-## Sistema mundial ##
-
-
-::: align-right
-![Janet Lippman Abu-Lughod. Foto publicada por [[IASTE]{.smallcaps}, 1990, via *Jadaliyya*][]](https://kms.jadaliyya.com/Images/357x383xo/abulughodjadblackwhite.jpg){#fig:lippman}
-:::
-
-[[IASTE]{.smallcaps}, 1990, via *Jadaliyya*]: https://www.jadaliyya.com/Details/30174
-
-Nas redes globais do século XIV em diante, o oceano Índico ocupa um
-lugar privilegiado como articulador de trocas econômicas, culturais e
-religiosas. Segundo a historiadora da urbanização
-[Janet Lippman Abu-Lughod (1928--2013)][] ([@fig:lippman]), o "sistema mundial"
-centrado no comércio marítimo do oceano Índico dominou
-o comércio internacional entre 1250 e 1350 ([@fig:circuits]). A Europa e a China ocupavam
-uma posição periférica nesse sistema, controlado por mercadores
-muçulmanos.
-
-[Janet Lippman Abu-Lughod (1928--2013)]: https://en.wikipedia.org/wiki/Janet_Abu-Lughod
-
-
-
-![Circuitos econômico-culturais do sistema mundial, 1250--1350, segundo Janet Lippman. Mapa por [Derfel73, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:circuits}
-
-[Derfel73, 2011]: https://commons.wikimedia.org/wiki/File:Archaic_globalization.svg
-
-## Fim do sistema mundial ##
-
-
-::: align-right
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png){#fig:indico-redes .nobg}
-:::
-
-Uma combinação de mudanças climáticas, pandemias e reestruturações
-político-econômicas em todos os continentes afeta as redes comerciais e
-culturais em meados do século XIV e provoca a ruptura de muitas conexões
-globais. Um resfriamento global dá o pontapé
-inicial numa sequência de choques que levam à reorganização econômica e
-política da era moderna. O mais famoso desses choques é a pandemia de
-peste que se espalha da China para a Europa no ano de 1348.
-
-Na nova ordem econômica e política do século XV, a rota da Seda,
-terrestre, e o sistema de navegação com as monções, no oceano Índico,
-continuam sendo os caminhos estruturantes ([@fig:indico-redes]). Os mercadores muçulmanos
-escoam produtos sobretudo de leste para oeste, ouro e prata fluem no
-sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
-China, tapeçarias da Ásia central chegam à costa leste da África e ao
-Mediterrâneo.
-
-Nas margens desse sistema de rotas, várias cidades-estado prosperam
-graças ao controle de pontos de passagem obrigatórios. Trowulan e
-Malacca nos estreitos malaios do Sudeste asiático, Lamu e Quíloa na
-costa suaíle da África, e Veneza na Europa mediterrânea são totalmente
-especializadas no comércio durante os séculos XIV e XV. A forma urbana
-dessas cidades reflete as diferentes respostas que cada uma dá às
-necessidades funcionais do comércio e às condições geográficas e
-climáticas onde elas se desenvolvem.
-
-# Do paradigma urbanístico eurasiático a uma metodologia não eurocêntrica #
 
 ## Paradigma urbanístico eurasiático ##
 
@@ -748,7 +658,7 @@ de subsistência local, que acontece nos largos junto às portas da cidade
 e nos bairros de casas de adobe [@pradines:2018nouveau].
 
 
-![Planta do palácio de Quíloa Quisiuane ](https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png){#fig:kilwa-palacio .line}
+![Planta do palácio de Quíloa Quisiuani ](https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png){#fig:kilwa-palacio .line}
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
@@ -835,10 +745,10 @@ usados para executar acabamentos coloridos e conchas são trituradas para
 produzir argamassa.
 
 
-![Exterior da mesquita maior de Quíloa Quisiuane. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg){#fig:kilwa-mesquita-ext}
+![Exterior da mesquita maior de Quíloa Quisiuani. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg){#fig:kilwa-mesquita-ext}
 
 
-![Interior da mesquita maior de Quíloa Quisiuane. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg){#fig:kilwa-mesquita-int .r-stretch}
+![Interior da mesquita maior de Quíloa Quisiuani. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg){#fig:kilwa-mesquita-int .r-stretch}
 
 A configuração espacial e estrutural das principais mesquitas dos
 séculos XI a XVIII é inspirada na arquitetura persa e egípcia. O partido
@@ -853,7 +763,7 @@ malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 A islamização das margens do oceano Índico teve efeitos diferentes nos
 paradigmas urbanísticos de cada região. No Sudeste asiático e no
 arquipélago indonésio, as mesquitas se integraram à paisagem
-preexistente sem provocar rupturas na tradição do *kampung*. Na costa
+preexistente sem provocar rupturas na tradição do *kampung* [@tajudeen:2017mosques]. Na costa
 Suaíle, por outro lado, alguns tecidos urbanos foram fortemente
 transformados ora na sua forma física, ora na distribuição demográfica
 de diferentes grupos sociais, étnicos ou religiosos.
@@ -865,11 +775,12 @@ de praxe --- mesquita e madraçal --- dentro da espacialidade tradicional
 dos *mitaa*. A deferência que a islamização prestou às tradições
 regionais fica evidente na pouca monumentalidade das mesquitas de
 sexta-feira, mesmo em sedes de poderes soberanos como Quíloa, Lamu ou
-Zanzibar. A configuração urbana suaíle não parece ter se alterado
+Zanzibar [@baumanova:2022comparative]. A configuração urbana suaíle não parece ter se alterado
 significativamente entre os séculos XI e início do XIX. A dominação
 portuguesa sobre essa região durante os séculos XVI e XVII se deu pelo
-sistema de feitorias fortificadas, sem colonização do território ou
-alteração significativa dos tecidos edificados.
+sistema de feitorias fortificadas ou mesmo mediante pilhagens ocasionais
+[@salim:2010costa], sem colonização do território ou alteração
+significativa dos tecidos edificados.
 
 Entretanto, desde a guerra entre Portugal e Omã em 1658--98 que culminou
 na tomada de todas as feitorias portuguesas ao norte de Moçambique pela
@@ -1137,5 +1048,14 @@ eurasiático de propriedade individual do solo desarticulou esse sistema,
 fragilizando a situação jurídica de muitos *kampung* existentes e
 praticamente inviabilizando a continuidade dessa tradição.
 
-No caso das cidades mercantes da costa Suaíle, 
+No caso das cidades mercantes da costa Suaíle, o desenvolvimento dos
+grandes centros urbanos coloniais no continente embotou o dinamismo
+comercial das antigas cidades nas ilhas. Sítios como Quíloa Quisiuani
+foram abandonados, enquanto Lamu estagnou --- o que permitiu a
+conservação do seu núcleo histórico. Zanzibar pôde manter algum
+protagonismo político-econômico, mas sofreu um processo semelhante ao de
+outras cidades coloniais do século XX: os bairros europeus se afastaram
+do centro histórico, isolando-o e justapondo formas urbanas
+intencionalmente diferentes para demarcar a superioridade do desenho
+urbano europeu.
 

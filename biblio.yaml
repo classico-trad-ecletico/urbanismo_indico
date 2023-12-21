@@ -122,6 +122,19 @@ references:
   publisher-place: Brasília
   source: Open WorldCat
   title: África do século <span smallcaps="smallcaps">XIX</span> à década de 1880
+  translator:
+    - family: Chaigne
+      given: David Yann
+    - family: Bortolanza
+      given: João
+    - family: Costa
+      given: Luana Antunes
+    - family: Mendoza
+      given: Luís Hernán de Almeida Prado
+    - family: Coelho
+      given: Milton
+    - family: Campos
+      given: Sieni Maria
   type: book
 
 - id: akuma:2010archaeological
@@ -899,6 +912,40 @@ references:
   type: book
   URL: http://archive.org/details/ZanzibarCityIslandAndCoastv1RichardFrancisBurton
   volume: '1'
+
+- id: campbell:2008indian
+  abstract: >-
+    This paper outlines the debate surrounding the emergence of the first
+    ‘global’ economy and discusses the role within it of Africa. First, it
+    outlines the case for arguing that the Indian Ocean World (IOW) rather than
+    Europe should be considered the arena in which the first global economy
+    developed.   It subsequently examines the historical role of Africa within
+    the IOW with particular emphasis on Africa’s contribution to the IOW global
+    economy and the possible repercussions such an analysis has for the
+    historiography of Africa and the wider IOW.
+  accessed:
+    - year: 2022
+      month: 4
+      day: 17
+  author:
+    - family: Campbell
+      given: Gwyn
+  citation-key: campbell:2008indian
+  container-title: Transforming Cultures eJournal
+  DOI: 10.5130/tfc.v3i2.920
+  ISSN: 1833-8542
+  issue: '2'
+  issued:
+    - year: 2008
+  language: en
+  license: Copyright (c)
+  number: '2'
+  source: epress.lib.uts.edu.au
+  title: 'The Indian ocean world: Africa in the first global economy'
+  title-short: The Indian ocean world
+  type: article-journal
+  URL: https://epress.lib.uts.edu.au/journals/index.php/TfC/article/view/920
+  volume: '3'
 
 - id: caniggia:2008lettura
   abstract: >-
@@ -4619,12 +4666,21 @@ references:
   ISBN: 978-85-7652-127-3
   issued:
     - year: 2010
-  language: pt-BR
+  language: pt
   publisher: Unesco
   publisher-place: Brasília
   title: >-
     África do século <span smallcaps="smallcaps">XVI</span> ao <span
     smallcaps="smallcaps">XVIII</span>
+  translator:
+    - family: Chaigne
+      given: David Yann
+    - family: Costa
+      given: Luana Antunes
+    - family: Bortolanza
+      given: João
+    - family: Pierini
+      given: Fábio Lucas
   type: book
 
 - id: oliveira:2016urban
@@ -5613,6 +5669,32 @@ references:
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S1877042813044194
   volume: '105'
+
+- id: salim:2010costa
+  author:
+    - family: Salim
+      given: Ahmed Idha
+  call-number: 960"15/17"
+  citation-key: salim:2010costa
+  collection-number: '5'
+  collection-title: História Geral da África
+  container-title: >-
+    África do século <span smallcaps="smallcaps">XVI</span> ao <span
+    smallcaps="smallcaps">XVIII</span>
+  edition: '2'
+  editor:
+    - family: Ogot
+      given: Bethwell Alan
+  event-place: Brasília
+  ISBN: 978-85-7652-127-3
+  issued:
+    - year: 2010
+  language: pt
+  page: 883-914
+  publisher: Unesco
+  publisher-place: Brasília
+  title: A costa oriental da África
+  type: chapter
 
 - id: salim:2010litoral
   author:
@@ -7013,6 +7095,51 @@ references:
   type: webpage
   URL: https://www.wmf.org/project/historic-sites-kilwa
 
+- id: wynne-jones:2013public32
+  abstract: >-
+    Houses are an important subject of archaeological research, normally
+    explored through the households they contain. This has established a
+    deliberately social agenda for the archaeology of houses, yet has had the
+    unintended consequence of creating bounded worlds for study. Although
+    household archaeologies explore the ways that households contributed to
+    broader social and economic realms, it is rare to think through the public
+    role of houses for non-residents and the larger population of the
+    settlement. This paper seeks to explore this more public aspect of houses
+    using the data from archaeology at Songo Mnara, a 14th–15th century Swahili
+    town on the southern Tanzanian coast. This was a time when stone-built
+    domestic architecture was first emerging in this region. The archaeology of
+    the houses provides data for a series of ways that the house was at the
+    heart of the economic and political life of the town, as well as
+    demonstrating a spatial continuity between indoor and outdoor spaces. It is
+    therefore suggested that the domestic and residential functions of the house
+    for a particular household should be balanced with an appreciation of the
+    broader world of the house itself.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 20
+  author:
+    - family: Wynne-Jones
+      given: Stephanie
+  citation-key: wynne-jones:2013public32
+  container-title: Journal of Anthropological Archaeology
+  DOI: 10.1016/j.jaa.2013.05.003
+  ISSN: 0278-4165
+  issue: '4'
+  issued:
+    - year: 2013
+      month: 12
+      day: 1
+  language: en
+  page: 759-773
+  source: ScienceDirect
+  title: >-
+    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
+    smallcaps="smallcaps">AD</span>
+  type: article-journal
+  URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
+  volume: '32'
+
 - id: wynne-jones:2014swahili
   accessed:
     - year: 2020
@@ -7097,51 +7224,6 @@ references:
   URL: >-
     https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
   volume: '81'
-
-- id: wynnejones:2013public32
-  abstract: >-
-    Houses are an important subject of archaeological research, normally
-    explored through the households they contain. This has established a
-    deliberately social agenda for the archaeology of houses, yet has had the
-    unintended consequence of creating bounded worlds for study. Although
-    household archaeologies explore the ways that households contributed to
-    broader social and economic realms, it is rare to think through the public
-    role of houses for non-residents and the larger population of the
-    settlement. This paper seeks to explore this more public aspect of houses
-    using the data from archaeology at Songo Mnara, a 14th–15th century Swahili
-    town on the southern Tanzanian coast. This was a time when stone-built
-    domestic architecture was first emerging in this region. The archaeology of
-    the houses provides data for a series of ways that the house was at the
-    heart of the economic and political life of the town, as well as
-    demonstrating a spatial continuity between indoor and outdoor spaces. It is
-    therefore suggested that the domestic and residential functions of the house
-    for a particular household should be balanced with an appreciation of the
-    broader world of the house itself.
-  accessed:
-    - year: 2020
-      month: 7
-      day: 20
-  author:
-    - family: Wynne-Jones
-      given: Stephanie
-  citation-key: wynnejones:2013public32
-  container-title: Journal of Anthropological Archaeology
-  DOI: 10.1016/j.jaa.2013.05.003
-  ISSN: 0278-4165
-  issue: '4'
-  issued:
-    - year: 2013
-      month: 12
-      day: 1
-  language: en
-  page: 759-773
-  source: ScienceDirect
-  title: >-
-    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
-    smallcaps="smallcaps">ad</span>
-  type: article-journal
-  URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
-  volume: '32'
 
 - id: zamani:2016animation
   accessed:
