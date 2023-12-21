@@ -30,6 +30,8 @@ tblPrefix:
 
 # Introdução #
 
+
+
 O paradigma como o universo de possibilidades admitido numa prática
 profissional vem do estudo da história das ciências por
 @kuhn:1998estrutura. O conceito de paradigma é mais útil para se
@@ -59,7 +61,12 @@ das hipóteses, uma pretensão etnocêntrica.
 
 Ao contrário desas definições formais, o conceito de paradigma
 circunscreve um universo de práticas e de produtos comuns que não se
-podem reduzir a princípios ou regras absolutas [@ficher:2005paradigmas].
+podem reduzir a princípios ou regras absolutas. Ele foi aplicado ao
+campo da história urbana de modo mais explícito por
+@ficher:2005paradigmas.
+
+<!--Repensar a posição do parágrafo abaixo-->
+
 Reconhecer um tecido construído como sendo uma cidade paradigmática é
 uma operação intuitiva que deixa poucas incertezas. Essa capacidade
 intuitiva de perceber o fenômeno urbano foi apenas obscurecida por um
@@ -69,21 +76,33 @@ extremo-oriental. Por mais que a compreensão europeia da *organização*
 de cidades fora desse eixo fosse imperfeita [@palazzo:2013fragmento10],
 a sua *condição* urbana só chegou a ser posta em causa tardiamente, com
 o advento de uma etnografia ou sociologia urbana pautada por regras
-epistemológicas explícitas.
+epistemológicas explícitas. O mesmo pode ser dito dos registros
+históricos chineses, que identificavam núcleos urbanos onde arqueólogos
+coloniais e pós-coloniais só viam um "vazio" [@bronson:1976palembang19,
+234]. Assim, não é que o reconhecimento global e pré-moderno do fenômeno
+urbano seja uma inovação conceitual decolonial. Pelo contrário, é a sua
+negação com base em definições e regras a que consistiu numa inovação
+colonialista e relativamente recente.
+<!--Fechar com § de transição para metodologia?-->
+
+<!--Repensar posição do § acima e do bloco abaixo-->
 
 Por isso, reafirmando a importância do paradigma como um modelo mais
-aberto e flexível, Kuhn [-@kuhn:1998estrutura, 69] sintetiza que:
+aberto e flexível, Kuhn [-@kuhn:1998estrutura, 69] sintetizou que:
 
 > A falta de uma interpretação padronizada ou de uma redução a regras
 > que goze de unanimidade não impede que um paradigma oriente a
 > pesquisa. [...] Na verdade, a existência de um paradigma nem mesmo
 > precisa implicar a existência de qualquer conjunto completo de regras.
 
-Em síntese, uma epistemologia da história urbana baseada em regras e
-definições dá uma ilusão de precisão conceitual ao preço de restringir a
-cidade a uma abstração dessas mesmas regras e definições. Já o paradigma
-é fluido e impreciso, mas permite circunscrever as mais variadas formas
-urbanas na sua realidade tangível.
+Em síntese, portanto, uma epistemologia da história urbana baseada em
+regras e definições dá uma ilusão de precisão conceitual ao preço de
+restringir a cidade a uma abstração dessas mesmas regras e definições,
+que são culturalmente determinadas. Já o paradigma é fluido e impreciso,
+mas permite circunscrever as mais variadas culturas urbanas na sua
+realidade tangível.
+
+<!--Repensar posição do bloco acima-->
 
 # Mundos conectados no século XIV #
 
@@ -98,19 +117,19 @@ urbanas na sua realidade tangível.
 A "Globalização"
 é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
 relações de poder em escala mundial, com a expansão europeia dos séculos
-[XVI]{.smallcaps} a [XIX]{.smallcaps}, foi tão brutal que às vezes
+XVI a XIX, foi tão brutal que às vezes
 perdemos de vista o quanto essas redes e relações já eram globais desde
 a Idade Média.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Expansão polinésia até o século [XIII]{.smallcaps}. Mapa: [Miles Benton, 2012][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,\_2012,\_adapted_from_Bellwood,\_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,\_2012,\_adapted_from_Bellwood,\_2011).png){#fig:poly-dispersal}
+![Expansão polinésia até o século XIII. Mapa: [Miles Benton, 2012][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,\_2012,\_adapted_from_Bellwood,\_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,\_2012,\_adapted_from_Bellwood,\_2011).png){#fig:poly-dispersal}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Miles Benton, 2012]: https://doi.org/10.1371/journal.pone.0035026
 
 No oceano Pacífico, os navegantes polinésios parecem ter [atingido a
 costa da América do Sul no século
-[XIII]{.smallcaps}](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
+XIII](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
 Eles podem ter introduzido a Cúrcuma na América, e levado de lá a batata
 doce e ervas medicinais.
 
@@ -129,7 +148,7 @@ adotado na prestigiosa Escola de Belas-Artes de Paris.
 Ele explicava as
 "pirâmides" dos maias e astecas como uma importação dos terraplenos
 chineses ([@fig:choisy-pacific]). Na cabeça de um europeu do final do
-século [XIX]{.smallcaps}, chineses atravessando o oceano Pacífico na mais remota
+século XIX, chineses atravessando o oceano Pacífico na mais remota
 Antiguidade parecia mais provável do que uns "índios no meio da selva"
 sendo capazes de criar arquitetura monumental.
 
@@ -139,27 +158,23 @@ sendo capazes de criar arquitetura monumental.
 [*Histoire de l'architecture*, 1899]: https://commons.wikimedia.org/wiki/Category:Histoire_de_l'architecture,\_by_Auguste_Choisy_(1899)
 
 
-::: align-right
-![Autoria desconhecida. "Só porque os brancos não conseguiram fazer o mesmo, não quer dizer que foram alienígenas"](https://hcommons.org/app/uploads/sites/1002372/2022/01/aliens.jpg){#fig:aliens}
-:::
-
 Por causa de interpretações como essa, a ideia de um mundo antigo e
 medieval globalmente conectado tende a ser olhada com uma desconfiança
 compreensível hoje em dia. Em mais de uma ocasião, o argumento da
 circulação mundial na Antiguidade foi usado para sustentar teses
 colonialistas, de que certos povos não seriam capazes de desenvolver uma
-arquitetura monumental sem ajuda externa ([@fig:aliens]).
+arquitetura monumental sem ajuda externa.
 
 
 Para além disso, a hegemonia tecnológica e política que a Europa atingiu
-no século [XIX]{.smallcaps} ajudou a cultivar um conceito distorcido de evolução. Na
+no século XIX ajudou a cultivar um conceito distorcido de evolução. Na
 visão europeia da época, a evolução seria essencialmente linear
 ([@fig:civ6]), e todas as sociedades que seguiram outro percurso cultural
 e tecnológico que não o europeu seriam, portanto, "primitivas".
 
 Desmentindo essa visão linear que tende a justificar a colonização dos
 "primitivos" pelos "modernos", os territórios em volta do oceano Índico
-no século [XIV]{.smallcaps} abrigam uma grande variedade de sociedades com modelos
+no século XIV abrigam uma grande variedade de sociedades com modelos
 culturais e urbanísticos diversos. Esse conjunto forma a maior rede
 comercial do mundo no início da Idade Moderna.
 
@@ -178,7 +193,7 @@ comercial do mundo no início da Idade Moderna.
 
 [[IASTE]{.smallcaps}, 1990, via *Jadaliyya*]: https://www.jadaliyya.com/Details/30174
 
-Nas redes globais do século [XIV]{.smallcaps} em diante, o oceano Índico ocupa um
+Nas redes globais do século XIV em diante, o oceano Índico ocupa um
 lugar privilegiado como articulador de trocas econômicas, culturais e
 religiosas. Segundo a historiadora da urbanização
 [Janet Lippman Abu-Lughod (1928--2013)][] ([@fig:lippman]), o "sistema mundial"
@@ -199,18 +214,18 @@ muçulmanos.
 
 
 ::: align-right
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png){#fig:indico-redes .nobg}
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png){#fig:indico-redes .nobg}
 :::
 
 Uma combinação de mudanças climáticas, pandemias e reestruturações
 político-econômicas em todos os continentes afeta as redes comerciais e
-culturais em meados do século [XIV]{.smallcaps} e provoca a ruptura de muitas conexões
+culturais em meados do século XIV e provoca a ruptura de muitas conexões
 globais. Um resfriamento global dá o pontapé
 inicial numa sequência de choques que levam à reorganização econômica e
 política da era moderna. O mais famoso desses choques é a pandemia de
 peste que se espalha da China para a Europa no ano de 1348.
 
-Na nova ordem econômica e política do século [XV]{.smallcaps}, a rota da Seda,
+Na nova ordem econômica e política do século XV, a rota da Seda,
 terrestre, e o sistema de navegação com as monções, no oceano Índico,
 continuam sendo os caminhos estruturantes ([@fig:indico-redes]). Os mercadores muçulmanos
 escoam produtos sobretudo de leste para oeste, ouro e prata fluem no
@@ -218,16 +233,14 @@ sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
 China, tapeçarias da Ásia central chegam à costa leste da África e ao
 Mediterrâneo.
 
-<!--Câmera-->
 Nas margens desse sistema de rotas, várias cidades-estado prosperam
 graças ao controle de pontos de passagem obrigatórios. Trowulan e
 Malacca nos estreitos malaios do Sudeste asiático, Lamu e Quíloa na
 costa suaíle da África, e Veneza na Europa mediterrânea são totalmente
-especializadas no comércio durante os séculos [XIV]{.smallcaps} e [XV]{.smallcaps}. A forma urbana
+especializadas no comércio durante os séculos XIV e XV. A forma urbana
 dessas cidades reflete as diferentes respostas que cada uma dá às
 necessidades funcionais do comércio e às condições geográficas e
 climáticas onde elas se desenvolvem.
-<!--/Câmera-->
 
 # Do paradigma urbanístico eurasiático a uma metodologia não eurocêntrica #
 
@@ -296,9 +309,13 @@ no entanto, um desafio intelectual tanto perante as categorias
 conceituais oriundas do colonialismo que ainda permeiam a nomenclatura
 dos núcleos urbanos, quanto por força das práticas metodológicas
 forjadas no estudo da urbanização eurasiática. Predomina, assim, um
-modelo conceitual que @blaut:1993colonizers [16-17] chama
-"difusionismo", e seu corolário, a teoria dos povos primitivos
-contemporâneos. Assim, a África abriga até hoje uma grande variedade de
+modelo conceitual conhecido como "difusionismo", que já era tido como
+problemático no domínio da arqueologia desde o início do século XX
+[@hooke:1927diffusionism29]. Segundo @blaut:1993colonizers [16-17], seu
+corolário colonialista é a teoria dos povos primitivos contemporâneos,
+incapazes de atingirem sozinhos o nível da civilização moderna.
+
+Assim, a África abriga até hoje uma grande variedade de
 paradigmas urbanísticos. Essa variedade foi reduzida nos séculos XIX e
 XX à categoria unificada de "assentamentos indígenas" por oposição à
 cidade colonial planejada, visando implícita ou explicitamente, como
@@ -381,7 +398,7 @@ como das casas, em detrimento das cidades pré-coloniais no seu conjunto.
 
 ## Contexto histórico-geográfico ##
 
-A passagem do século [XIV]{.smallcaps} para o [XV]{.smallcaps} marca o
+A passagem do século XIV para o XV marca o
 último período de auge das cidades-estado marítimas no sistema mundial.
 Esses lugares controlam
 pontos estratégicos na passagem de mercadorias em rotas comerciais de
@@ -401,8 +418,8 @@ mercantes se formam pelo adensamento gradual de vários *kampung* ao
 longo de caminhos estruturantes e à volta de templos e palácios
 fortificados.
 
-No universo das cidades-estado mercantes dos séculos [XIV]{.smallcaps} e
-[XV]{.smallcaps}, os reinos do Sudeste asiático se destacam pela sua
+No universo das cidades-estado mercantes dos séculos XIV e
+XV, os reinos do Sudeste asiático se destacam pela sua
 diversidade étnica e religiosa.
 O império hindu-budista de Majapahit com a sua capital Trowulan, na ilha
 de Java ([@fig:majapahit]), e o sultanato muçulmano de Malacca
@@ -413,28 +430,26 @@ Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
 urbano e de construir perfeitamente adaptados ao clima equatorial.
 
 ::: full
-![Arquipélago de Nusantara no auge do império Majapahit, século [XIV]{.smallcaps}. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit}
+![Arquipélago de Nusantara no auge do império Majapahit, século XIV. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit}
 :::
 
-![Sultanato de Malacca no final do século [XV]{.smallcaps}. Mapa: [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca .r-stretch}
+![Sultanato de Malacca no final do século XV. Mapa: [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca .r-stretch}
 
 ## Urbanização do *kampung* ##
 
-<!--Câmera-->
 Caracterizar a urbanização malaia esbarra no problema do vocabulário que
 se usa para definir e descrever o que é "urbano". Até a segunda metade
-do século [XX]{.smallcaps}, estava mais ou menos entendido que uma *civilização* que
+do século XX, estava mais ou menos entendido que uma *civilização* que
 se preze devia ter *cidades* --- e só contam como cidades os grandes
 assentamentos muito densos encontrados na Europa, no mundo Árabe, na
-Índia e no "extremo Oriente".
-<!--/Câmera-->
+Índia e no "extremo Oriente". 
 
 O *kampung* é muito diferente do paradigma urbanístico chinês e europeu,
 de grandes cidades com um sistema cartorial de propriedade do solo e uma
 distinção nítida entre espaço público e espaço privado. Essa diferença
-já aparecia desde o século [XV]{.smallcaps}, com o assentamento dos primeiros
+já aparecia desde o século XV, com o assentamento dos primeiros
 comerciantes chineses no Sudeste asiático, e mais ainda entre os séculos
-[XVII]{.smallcaps} e [XIX]{.smallcaps}, quando os colonizadores europeus segregaram as cidades
+XVII e XIX, quando os colonizadores europeus segregaram as cidades
 malaias em bairros ocidentais, chineses e "nativos".
 
 
@@ -444,14 +459,19 @@ malaias em bairros ocidentais, chineses e "nativos".
 
 Com base nas diferenças urbanísticas, os chineses e sobretudo os
 britânicos consideravam o *kampung* malaio como primitivo ou inferior
-([@fig:singapore1839]).
+([@fig:singapore1839]). Na sua síntese sobre o urbanismo do Sudeste
+asiático, em 1983, o geógrafo @wheatley:1983nagara ilustrou extensamente
+os complexos murados e palacianos de influência indiana e chinesa no
+continente. Em contraste, abordou a cultura malaia unicamente pelo viés
+do desenvolvimento agrícola e comercial, sem nenhuma representação
+visual dos seus assentamentos.
 Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
 Evers ([@fig:evers]) apresentou, na bibliografia ocidental, o urbanismo
 malaio como um paradigma alternativo ao do urbanismo chinês, e
 igualmente legítimo.
 
 
-![Mapa da cidade de Cingapura por [G.D. Coleman, 1839][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839}
+![Mapa da cidade de Singapura por [G.D. Coleman, 1839][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839}
 
 [G.D. Coleman, 1839]: https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg
 
@@ -500,14 +520,14 @@ firma americana Duany, Plater-Zyberk & co ([@fig:dpz1997]).
 
 
 ::: align-right
-![*Pura* de Trowulan, século [XIV]{.smallcaps}, segundo [Kenneth Hall, 1996][], p. 99 ](https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png){#fig:hall-trowulan}
+![*Pura* de Trowulan, século XIV, segundo [Kenneth Hall, 1996][], p. 99 ](https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png){#fig:hall-trowulan}
 :::
 
 [Kenneth Hall, 1996]: https://www.persee.fr/doc/arch_0044-8613_1996_num_52_1_3357
 
 Partindo do *kampung* como unidade social e urbanística *de base*, os
 estados malaios organizam o território em redes de poder político e
-autoridade religiosa ([@fig:hall-java]). No século [XIV]{.smallcaps}, o poder político e
+autoridade religiosa ([@fig:hall-java]). No século XIV, o poder político e
 religioso no império Majapahit é sinalizado pela construção de um *pura*
 ou templo hinduísta.
 
@@ -519,14 +539,13 @@ norte, está a praça do mercado. Outras moradias da corte e um mosteiro
 budista se aglomeram em volta do *pura* ([@fig:hall-trowulan]).
 
 
-![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século [XIV]{.smallcaps}, segundo [Kenneth Hall, 1996][], p. 97 ](https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png){#fig:hall-java .line}
+![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV, segundo [Kenneth Hall, 1996][], p. 97 ](https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png){#fig:hall-java .line}
 
 ## Malacca ##
 
-
 À margem do império Majapahit e depois do seu declínio no final do
-século [XIV]{.smallcaps}, uma série de cidades-estado independentes
-tomam o controle do comércio marítimo. Na Malásia islâmica, do século [XV]{.smallcaps}
+século XIV, uma série de cidades-estado independentes
+tomam o controle do comércio marítimo. Na Malásia islâmica, do século XV
 em diante, as mesquitas não ocupam o centro do poder político, mas
 funcionam como centros comunitários em cada *kampung*. A sede do poder
 político nas cidades-estado é o *kota raja*, ou cidadela real
@@ -534,19 +553,19 @@ político nas cidades-estado é o *kota raja*, ou cidadela real
 
 ![Diagrama conceitual de um conjunto urbano malaio. Baseado em Tajudeen, 2005](https://i.pinimg.com/originals/c3/a8/52/c3a85244eda8a1be0ceaa0e380b410fe.png){#fig:malay-urbanism .line}
 
+<!--Diagramar distribuição étnica baseada em Wheatley 1973-->
 
 ![Planta das fortificações holandesas em Malacca, no sítio do antigo forte português e anterior cidadela real malaia, Norte à esquerda. [Desenho holandês de 1656][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg/1280px-AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg){#fig:fortr-malacca}
 
 [Desenho holandês de 1656]: https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
 
-Malacca foi um dos reinos muçulmanos mais poderosos do século [XV]{.smallcaps}. A
+Malacca foi um dos reinos muçulmanos mais poderosos do século XV. A
 cidade controlava o estreito marítimo por onde passava uma grande parte
 do comércio chinês e indiano. O palácio de Malacca ficava onde seria
 construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
 ([@fig:fortr-malacca]). Era uma posição estratégica na foz do rio, entre
 os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
 outra margem do rio.
-
 
 O *kota raja* funciona ele próprio como um *kampung* centrado no palácio
 e na sua mesquita ([@fig:malacca-kotaraja]).
@@ -558,32 +577,31 @@ e na sua mesquita ([@fig:malacca-kotaraja]).
 ::: {.column width="25%"}
 ![Planta reconstituída por William G. Shellabear, 1891](https://i.pinimg.com/originals/eb/d1/6e/ebd16e3bdcd83966a5273061d529397b.png){#fig:malacca-kotarajaA .line .overlay-slide .fragment}
 :::
-O *kota raja* de Malacca no século [XV]{.smallcaps}
+O *kota raja* de Malacca no século XV
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-::: full
 ![Reconstituição do *kota raja* e da cidade comercial por Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/ef/b3/33/efb3334ce5187082dad839f580334637.jpg){#fig:malacca-kotarajaC}
-:::
 
-## Cingapura ##
+## Singapura ##
 
+<!--Antigo centro palaciano baseado em Wheatley 1973-->
 
-O Kampung Glam, em Cingapura, é outra antiga cidadela real malaia [@tajudeen:kampung].
-Durante a ocupação britânica, do início do século [XIX]{.smallcaps} até a metade do
-século [XX]{.smallcaps} ([@fig:raffles]), ele perdeu a função de centro político e se
+O Kampung Gelam, em Singapura, é outra antiga cidadela real malaia [@tajudeen:kampung].
+Durante a ocupação britânica, do início do século XIX até a metade do
+século XX ([@fig:raffles]), ele perdeu a função de centro político e se
 adensou como uma vila comercial ([@fig:kampongglam]).
 
-![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829](https://i.pinimg.com/originals/6d/08/26/6d0826cd3ee35fe72f8294b213f1de54.jpg){#fig:raffles} 
+![Kampung Gelam e a expansão urbana de Singapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829](https://i.pinimg.com/originals/6d/08/26/6d0826cd3ee35fe72f8294b213f1de54.jpg){#fig:raffles} 
 
 
-![Kampung Glam no século [XXI]{.smallcaps}. Desenho de [Lee Xin Li, 2012](http://cargocollective.com/xinli/Maps)](https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg){#fig:kampongglam} 
+![Kampung Gelam no século XXI. Desenho de [Lee Xin Li, 2012](http://cargocollective.com/xinli/Maps)](https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg){#fig:kampongglam} 
 
 
-![Casas comerciais na rua Kandahar, Kampong Glam, Cingapura. Foto: [Marcin Konsek, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg/1280px-2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg){#fig:shophouses}
+![Casas comerciais na rua Kandahar, Kampung Gelam, Singapura. Foto: [Marcin Konsek, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg/1280px-2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg){#fig:shophouses}
 
 [Marcin Konsek, 2016]: https://commons.wikimedia.org/wiki/File:2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg
 
-A tipologia de casas comerciais característica de Cingapura é um híbrido
+A tipologia de casas comerciais característica de Singapura é um híbrido
 que resulta do adensamento dos *kampung* usando o parcelamento urbano da
 morada chinesa e as galerias cobertas introduzidas pelos britânicos.
 
@@ -593,10 +611,10 @@ O kampung malaio é um paradigma de urbanização bioclimática que parte
 de um assentamento rural e pode se desenvolver, por adensamentos
 sucessivos, até formar um distrito urbano compacto
 ([@fig:kampung-rochor]). Em contraste com esse tipo de adensamento *para
-dentro*, a urbanização dos povos bantos na África é um paradigma de
+dentro*, a urbanização da costa Suaíle na África é um paradigma de
 adensamento *para fora*.
 
-![Kampung Rochor, Cingapura, 1822, demolido em 1964. [Arquivo Nacional de Cingapura](https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/)](https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg){#fig:kampung-rochor}
+![Kampung Rochor, Singapura, 1822, demolido em 1964. [Arquivo Nacional de Singapura](https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/)](https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg){#fig:kampung-rochor}
 
 # Cidades da costa Suaíle #
 
@@ -635,7 +653,7 @@ no litoral do oceano Índico, e os complexos agropastoris do Níger-Congo
 eles se adaptaram a contextos ambientais, econômicos e culturais muito
 diferentes.
 
-![Universos urbanísticos africanos, séculos [XIV]{.smallcaps}--[XVIII]{.smallcaps}. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:África_urbanismos.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/África_urbanismos.png/1084px-África_urbanismos.png){#fig:urb-africa}
+![Universos urbanísticos africanos, séculos XIV--XVIII. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:África_urbanismos.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/África_urbanismos.png/1084px-África_urbanismos.png){#fig:urb-africa}
 
 
 ![Principais cidades e eixos comerciais da costa suaíle. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:Cidades-estado_da_costa_suaíle.png)](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cidades-estado_da_costa_suaíle.png){#fig:costa-suaile}
@@ -645,7 +663,7 @@ mais de três mil quilômetros de extensão de norte a sul. Ela é formada
 por uma sequência de cidades-estado especializadas no comércio marítimo,
 fundadas e habitadas por povos de etnia banto que falam a língua suaíle
 ([@fig:costa-suaile]). Os banto migraram para essa região no primeiro
-milênio antes de Cristo, e no século [I]{.smallcaps} a.C. o litoral do
+milênio antes de Cristo, e no século I a.C. o litoral do
 Índico já era uma rota comercial importante.
 
 [costa Suaíle]: https://en.wikipedia.org/wiki/Swahili_coast
@@ -656,9 +674,9 @@ pontos de trocas entre os produtos trazidos do interior do continente e
 aqueles que chegam em navios árabes, persas, indianos e malaios, junto
 com a influência cultural vinda dessas regiões.
 As principais cidades-estado suaíle, como Lamu ([@fig:lamu-drone]), Quíloa e Sofala, se
-consolidam a partir do século  [VIII]{.smallcaps} d.C., quando se convertem ao islã, e
-atingem o seu auge entre os séculos [XII]{.smallcaps} e [XIV]{.smallcaps}.
-Nos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps}, as cidades suaíle
+consolidam a partir do século  VIII d.C., quando se convertem ao islã, e
+atingem o seu auge entre os séculos XII e XIV.
+Nos séculos XVI e XVII, as cidades suaíle
 perdem poder econômico para as grandes potências marítimas da época:
 Portugal e Omã. Esses dois
 impérios acabam por partilhar a costa suaíle entre si, e várias das
@@ -676,7 +694,7 @@ Vista aérea da ilha de Lamu, Quênia. Filmagem: [DroneZone, 2021](https://youtu
 :::
 
 Por causa dessa partilha, e das hierarquias raciais em vigor no século
-[XIX]{.smallcaps}, durante muito tempo as pesquisas ocidentais consideraram as cidades
+XIX, durante muito tempo as pesquisas ocidentais consideraram as cidades
 da costa suaíle como pertencentes à esfera cultural árabe ou persa. Os
 europeus entendiam que cidades comerciais adensadas não tinham lugar
 numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
@@ -823,7 +841,7 @@ produzir argamassa.
 ![Interior da mesquita maior de Quíloa Quisiuane. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg){#fig:kilwa-mesquita-int .r-stretch}
 
 A configuração espacial e estrutural das principais mesquitas dos
-séculos [XI]{.smallcaps} a [XVIII]{.smallcaps} é inspirada na arquitetura persa e egípcia. O partido
+séculos XI a XVIII é inspirada na arquitetura persa e egípcia. O partido
 habitual é o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
@@ -1067,7 +1085,7 @@ dar manutenção na infraestrutura de canais que conferia viabilidade
 ambiental à Jacarta colonial, mas declínio do sítio antecede a
 independência, com partida dos holandeses para um sítio mais salubre.
 
-## Reconstrução britânica de Cingapura ##
+## Reconstrução britânica de Singapura ##
 
 - Isolamento do Kampong Gelam com demolição de bairros lindeiros
 - Demarcação das vilas nativas

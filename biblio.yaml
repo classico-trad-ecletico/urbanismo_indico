@@ -1110,6 +1110,7 @@ references:
     activity schedules, and genealogies. The geographical, historical, and
     demographic context of the town is described.
 
+
     Malay urbanism is rather similar to the urbanism of Indonesian middle cities
     in that it is characterized by an involutional or static character in which
     few new social forms are produced or created. It is possible to account for
@@ -1133,6 +1134,7 @@ references:
     frequently take place among members of the local groups and often emphasize
     solidarity among the members.
 
+
     The analysis of data from several areas of the town indicates the importance
     of land ownership as a factor defining membership in the local group. The
     local group is occupationally heterogeneous and considerations arising from
@@ -1142,12 +1144,12 @@ references:
     urbanites lose control over their land, the neighbourhood and the local
     group dissolve and urbanites search elsewhere for a part of the town where
     they can settle and create ties with a new set of neighbours, joining a new
-
     local group. Rather than creating new social forms to meet the changed
     conditions of the neighbourhood, they recreate the patterns to which they
     are accustomed in another part of the town. As a result of this, the pattern
     of urbanism remains unchanged and continues to have an involutional or
     static character.
+
 
     These findings challenge the conclusion of Provencher that Malay urbanism is
     a recreation and intensification of rural patterns. It is found that
@@ -1159,6 +1161,7 @@ references:
     their early stages in which the creation of new forms of social organization
     was the rule. It is the factors of land and neighbourhood which account for
     the transitional, involutional character of Malay urbanism.
+
 
     The dissertation epilogue describes an application of the thesis to a
     specific problem in national development policy planning.
@@ -2914,6 +2917,29 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/989177
   volume: '37'
+
+- id: hooke:1927diffusionism29
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: Hooke
+      given: S. H.
+  citation-key: hooke:1927diffusionism29
+  container-title: American Anthropologist
+  ISSN: 0002-7294
+  issue: '4'
+  issued:
+    - year: 1927
+  language: en-US
+  page: 615-624
+  publisher: '[American Anthropological Association, Wiley]'
+  source: JSTOR
+  title: Diffusionism with a difference
+  type: article-journal
+  URL: https://www.jstor.org/stable/661228
+  volume: '29'
 
 - id: horton:1987early67
   abstract: >-
@@ -5773,7 +5799,7 @@ references:
   source: ScienceDirect
   title: >-
     Urban landscape factors that influenced the character of George Town, Penang
-    <span class="smallcaps">UNESCO</span> world heritage site
+    <span smallcaps="smallcaps">UNESCO</span> World Heritage site
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S1877042812031692
   volume: '50'
@@ -6589,6 +6615,27 @@ references:
   translator:
     - family: Fritsch
       given: Philippe
+  type: book
+
+- id: wheatley:1973golden
+  author:
+    - family: Wheatley
+      given: Paul
+  call-number: DS592.3 .W44 1973
+  citation-key: wheatley:1973golden
+  event-place: Westport, Conn.
+  ISBN: 978-0-8371-6808-1
+  issued:
+    - year: 1973
+  language: en
+  number-of-pages: '388'
+  publisher: Greenwood
+  publisher-place: Westport, Conn.
+  source: Library of Congress ISBN
+  title: >-
+    The golden Khersonese: studies in the historical geography of the Malay
+    Peninsula before <span smallcaps="smallcaps">A.D.</span> 1500
+  title-short: The golden Khersonese
   type: book
 
 - id: wilder:2005communication
