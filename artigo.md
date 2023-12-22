@@ -1,5 +1,5 @@
 ---
-title       : "Paradigmas urbanísticos no oceano Índico: costa Suaíle e arquipélago Malaio na Idade Moderna"
+title       : "Paradigmas urbanísticos no oceano Índico: cidades suaíle e malaias na Idade Moderna"
 #author      : Pedro P. Palazzo
 lang        : pt-BR
 bibliography: _data/biblio.yaml
@@ -30,53 +30,58 @@ tblPrefix:
 
 # Introdução #
 
-## Mundos conectados no século XIV ##
+Este artigo apresenta duas culturas urbanas da Idade Moderna
+pertencentes ao principal circuito do comércio internacional naquela
+época, a bacia do oceano Índico. Em suas margens ocidental e oriental
+ficavam, respectivamente, as cidades da costa Suaíle, na África, e as da
+península e arquipélago Malaio, na extremidade meridional do Sudeste
+asiático. O recorte cronológico postula uma "longa" Idade Moderna que
+vai de meados do século XIV até a virada do século XIX.
 
-O alcance cronológico dos paradigmas urbanísticos da costa Suaíle e do
-arquipélago Malaio se inscreve numa longa Idade Moderna que vai de
-meados do século XIV até a segunda metade do XIX. Nas redes globais do
-século XIV em diante, o oceano Índico ocupava um lugar privilegiado como
-articulador de trocas econômicas, culturais e religiosas. Segundo a
-historiadora da urbanização Janet Lippman Abu-Lughod (1928--2013), o
-"sistema mundial" centrado no comércio marítimo do oceano Índico dominou
-o comércio internacional entre 1250 e 1350 ([@fig:circuits]). A Europa e
-a China ocupavam uma posição periférica nesse sistema, controlado por
-mercadores muçulmanos.
+Enquadrando os impérios da Ásia continental na sua margem norte, a costa
+Suaíle e o arquipélago Malaio fizeram parte do último apogeu das
+cidades-estado marítimas que controlavam gargalos nas rotas do comércio
+global ([@fig:rotas]). Porém, apesar de sua importância estratégica e
+poderio consolidados desde a Idade Média, essas regiões ficaram, segundo
+@campbell:2008indian, registradas na historiografia como meras feitorias
+cujos protagonistas teriam sido estrangeiros: árabes, persas, indianos,
+chineses e, sobretudo, europeus.
 
-![Circuitos econômico-culturais do sistema mundial, 1250--1350, segundo Janet Lippman. Mapa por [Derfel73, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:circuits}
+Por isso, as culturas urbanísticas suaíle e malaia têm sido pouco
+estudadas fora dos seus respectivos nichos disciplinares, quase que
+estritamente arqueológicos, e dos seus idiomas maternos. Fora desses
+nichos, era comum até recentemente o argumento de que essas culturas
+eram desprovidas de uma tradição urbanística própria [Por exemplo,
+segundo @bronson:1976palembang19]. Seus entrepostos comerciais teriam
+sido, segundo esse argumento, concebidos e operados por mercadores
+oriundos de verdadeiras sociedades urbanas --- Oriente Médio e China
+---, e portanto isolados espacial e culturalmente com respeito aos
+assentamentos nativos. Esse argumento foi refutado a partir da década de
+1970, começando com autores como @ghaidan:1974lamu e e
+@evers:1977differing44. Hoje pesquisada em seus próprios termos, a forma
+das cidades suaíle e malaias da Idade Moderna ainda é pouco
+representada, contudo, em abordagens comparativas e globais.
 
-[Derfel73, 2011]: https://commons.wikimedia.org/wiki/File:Archaic_globalization.svg
+Um dos obstáculos à maior integração do universo suaíle e malaio na
+história urbana pré-colonial é de ordem conceitual. Tanto a história
+social das cidades quanto a morfologia urbana são dominadas por uma
+definição do processo de urbanização calcada nas cidades do eixo
+eurasiático, da Europa ocidental passando pela bacia do Mediterrâneo,
+Oriente Médio, Ásia central, Norte da Índia e até a esfera cultural
+chinesa. As culturas urbanas nas margens do oceano Índico são, todavia,
+de naturezas bem diferentes desse modelo canônico eurasiático, tanto do
+ponto de vista dos elementos constitutivos da forma urbana quanto dos
+processos de crescimento das cidades.
 
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png){#fig:indico-redes}
+Para superar a diferença conceitual, é preciso olhar para as culturas
+urbanas enquanto paradigmas concorrentes, em vez de tentar enquadrá-las
+em definições abstratas. As definições, por mais que adotem critérios
+ostensivamente objetivos, são sempre determinadas pelo universo cultural
+de onde se originam, e têm como propósito excluir as manifestações
+divergentes. O conceito de paradigma formulado por @kuhn:1998estrutura,
+por outro lado, permite abarcar a diversidade de um campo de práticas
+amplamente reconhecidas como é o das diferentes tradições urbanísticas.
 
-Uma combinação de mudanças climáticas [@fagan:2000little], pandemias e
-reestruturações político-econômicas em todos os continentes afetou as
-redes comerciais e culturais em meados do século XIV e provocou a
-ruptura de muitas conexões globais. Um resfriamento global deu o pontapé
-inicial numa sequência de choques que levaram à reorganização econômica
-e política da era moderna. O mais famoso desses choques foi a pandemia
-de peste que se espalhou da China para a Europa na segunda metade da
-década de 1340.
-
-Na nova ordem econômica e política do século XIV, a rota da Seda,
-terrestre, e o sistema de navegação com as monções, no oceano Índico,
-continuavam sendo os caminhos estruturantes ([@fig:indico-redes]). No
-entanto, com a desagregação dos grandes impérios mongóis na segunda
-metade do século, a rota terrestre deixou de oferecer segurança e os
-percursos marítimos ganharam preeminência. Os mercadores muçulmanos
-escoavam produtos sobretudo de leste para oeste, ouro e prata fluíam no
-sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
-China, tapeçarias da Ásia central chegavam à costa leste da África e ao
-Mediterrâneo.
-
-Nas margens desse sistema de rotas, várias cidades-estado prosperavam
-graças ao controle de pontos de passagem obrigatórios. Trowulan e
-Malacca nos estreitos malaios do Sudeste asiático, Lamu e Quíloa na
-costa suaíle da África, e Veneza na Europa mediterrânea eram totalmente
-especializadas no comércio durante os séculos XIV e XV. A forma urbana
-dessas cidades refletia as diferentes respostas que cada uma dava às
-necessidades funcionais do comércio e às condições geográficas e
-climáticas onde elas se desenvolveram.
 
 # Do paradigma urbanístico eurasiático a uma metodologia não eurocêntrica #
 
@@ -302,7 +307,64 @@ enviesado para o estudo da influência colonial (omani ou europeia) bem
 como das casas, em detrimento das cidades pré-coloniais no seu conjunto.
 
 
-# Cidades mercantes do arquipélago malaio #
+# Mundos conectados no século XIV #
+
+## Sistema mundial ##
+
+O alcance cronológico dos paradigmas urbanísticos da costa Suaíle e do
+arquipélago Malaio se inscreve numa longa Idade Moderna que vai de
+meados do século XIV até a segunda metade do XIX. Nas redes globais do
+século XIV em diante, o oceano Índico ocupava um lugar privilegiado como
+articulador de trocas econômicas, culturais e religiosas. Segundo a
+historiadora da urbanização Janet Lippman Abu-Lughod (1928--2013), o
+"sistema mundial" centrado no comércio marítimo do oceano Índico dominou
+o comércio internacional entre 1250 e 1350 ([@fig:circuits]). A bacia do
+Mediterrâneo e mesmo a China ocupavam uma posição periférica nesse
+sistema, controlado por mercadores muçulmanos.
+
+![Circuitos econômico-culturais do sistema mundial, 1250--1350, segundo Janet Lippman. Mapa por [Derfel73, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:circuits}
+
+[Derfel73, 2011]: https://commons.wikimedia.org/wiki/File:Archaic_globalization.svg
+
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png){#fig:indico-redes}
+
+Uma combinação de mudanças climáticas [@fagan:2000little], pandemias e
+reestruturações político-econômicas em todos os continentes afetou as
+redes comerciais e culturais em meados do século XIV e provocou a
+ruptura de muitas conexões globais. Um resfriamento global deu o pontapé
+inicial numa sequência de choques que levaram à reorganização econômica
+e política da era moderna. O mais famoso desses choques foi a pandemia
+de peste que se espalhou da China para a Europa na segunda metade da
+década de 1340.
+
+Na nova ordem econômica e política do século XIV, a rota da Seda,
+terrestre, e o sistema de navegação com as monções, no oceano Índico,
+continuavam sendo os caminhos estruturantes ([@fig:indico-redes]). No
+entanto, com a desagregação dos grandes impérios turco-mongóis na
+segunda metade do século, a rota terrestre deixou de oferecer segurança
+e os percursos marítimos ganharam preeminência. Os mercadores muçulmanos
+escoavam produtos sobretudo de leste para oeste, ouro e prata fluíam no
+sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
+China, tapeçarias da Ásia central chegavam à costa leste da África e ao
+Mediterrâneo.
+
+## Cidades-estado ##
+
+Nas margens desse sistema de rotas, várias cidades-estado prosperavam
+graças ao controle de pontos de passagem obrigatórios. Dentre muitas
+outras cidades, Palembang, Trowulan e Malacca nos estreitos malaios do
+Sudeste asiático, Lamu, Quíloa e Zanzibar na
+costa suaíle da África, e Veneza na Europa mediterrânea eram totalmente
+especializadas no comércio durante os séculos XIV e XV. A forma urbana
+dessas cidades refletia as diferentes respostas que cada uma dava às
+necessidades funcionais do comércio e às condições geográficas e
+climáticas onde elas se desenvolveram. No entanto, para além dessa
+semelhança funcional, elas corporificavam diferentes paradigmas
+urbanísticos. Por isso, essas cidades divergiam significativamente
+quanto à sua forma, densidade e processo de crescimento.
+
+
+# Cidades mercantes da península e arquipélago Malaio #
 
 <!--Deixar claro por que o kampung é urbanismo bioclimático-->
 
@@ -548,7 +610,6 @@ diferentes que elas sejam entre si, é sempre a expansão e o adensamento
 do conjunto edificado que vão, gradualmente, constituindo o traçado
 viário.
 
-
 Longe de ser um exemplo de construção "primitiva" ou derivativa da
 influência islâmica, a arquitetura africana tem história e
 desenvolvimento autônomo (não significa isolado). Estudos arqueológicos
@@ -568,16 +629,13 @@ diferentes.
 
 ![Principais cidades e eixos comerciais da costa suaíle. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:Cidades-estado_da_costa_suaíle.png)](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cidades-estado_da_costa_suaíle.png){#fig:costa-suaile}
 
-A [costa Suaíle][] é uma parte do litoral africano do oceano Índico, com
+A costa Suaíle é uma parte do litoral africano do oceano Índico, com
 mais de três mil quilômetros de extensão de norte a sul. Ela é formada
 por uma sequência de cidades-estado especializadas no comércio marítimo,
 fundadas e habitadas por povos de etnia banto que falam a língua suaíle
 ([@fig:costa-suaile]). Os banto migraram para essa região no primeiro
 milênio antes de Cristo, e no século I a.C. o litoral do
 Índico já era uma rota comercial importante.
-
-[costa Suaíle]: https://en.wikipedia.org/wiki/Swahili_coast
-
 
 Estuários de rios, baías e ilhas ao longo da costa se tornam
 pontos de trocas entre os produtos trazidos do interior do continente e
@@ -613,27 +671,32 @@ raízes socioeconômicas, culturais e construtivas da cidade suaíle de
 Lamu (ver [@fig:lamu-drone]) são, de fato, africanas [@ghaidan:1974lamu].
 
 
-## Forma urbana suaíle ## 
+## Urbanização dos *mitaa* ## 
 
+Como parte da cultura banto, a urbanização suaíle também parte da
+unidade espacial comunitária conhecida com *mtaa* (pl. *mitaa*). O
+*mtaa* é, de certo modo, um bairro de casas organizadas por proximidade
+ao centro da sua hierarquia --- geralmente a morada de uma família
+dominante. Os vários *mitaa* que compõem uma cidade, por sua vez, são
+dispostos concentricamente segundo a proximidade sociopolítica dessas
+famílias dominantes com respeito ao poder central.
 
-::: align-right
-![Stephanie Wynne-Jones. Foto: Colleen Morgan, 2017](https://www.york.ac.uk/media/archaeology/images/people/faces-faculty/CL3_6649.jpg){#fig:wynne-jones .overlay-slide .fragment}
-:::
+> A study of Swahili house groupings suggests that the *mtaa* may have
+> developed along the following lines: a house was built on a large
+> site; with the demand for additional accommodation other units were
+> added, arranged around a central private access. [@ghaidan:1974lamu,
+> 76]
 
 O traçado geral das cidades suaíle não decorre de um plano
 centralizado, mas se organiza a partir de princípios culturais
-partilhados. A arqueóloga inglesa [Stephanie Wynne-Jones][] mostra que a
+partilhados. A arqueóloga inglesa Stephanie Wynne-Jones mostra que a
 formação do traçado urbano suaíle ([@fig:shanga]) acontece pela
 reconstrução sucessiva de bairros com casas em adobe, que são
 substituídos por bairros com casas em pedra [@wynne-jones:2014swahili,
 121].
 
-[Stephanie Wynne-Jones]: https://en.wikipedia.org/wiki/Stephanie_Wynne-Jones
 
-
-::: full
 ![Plana arqueológica de Takwa e esquema do assentamento inicial de Shanga, segundo Wynne-Jones](https://i.pinimg.com/originals/8e/69/f3/8e69f3a382fcc77f5d01347025aff2a4.png){#fig:shanga .line}
-:::
 
 Durante o processo de consolidação e adensamento da cidade, a autoridade
 política se faz presente em vários níveis. O palácio, geralmente
@@ -658,12 +721,10 @@ de subsistência local, que acontece nos largos junto às portas da cidade
 e nos bairros de casas de adobe [@pradines:2018nouveau].
 
 
-![Planta do palácio de Quíloa Quisiuani ](https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png){#fig:kilwa-palacio .line}
+![Planta do palácio de Quíloa Quisiuani](https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png){#fig:kilwa-palacio .line}
 
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Planta arqueológica da cidade de Gedi. Wynne-Jones, 2014](https://i.pinimg.com/originals/19/a9/ab/19a9abb6b9df439e95e55f846d3ce3d5.png){#fig:gedi-plan .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Assim como o *kampung* malaio, a cidade suaíle não tem um parcelamento
 do solo rígido e predeterminado. As casas dos comerciantes, construídas
@@ -681,9 +742,7 @@ hortas e jardins [@mwenje:2019case]. Aos poucos, o espaço livre vai sendo preen
 ampliação das casas. Esse processo resulta numa malha urbana compacta
 ([@fig:lamu-plan]).
 
-::: full
 ![Plano de conservação da área central de Lamu](https://i.pinimg.com/originals/45/57/96/455796a4f940e6f1723693ad4b2deb05.png){#fig:lamu-plan}
-:::
 
 ## Casa suaíle ##
 
@@ -713,12 +772,6 @@ Planta de casa mercante suaíle em Lamu, segundo Usam Ghaidan, 1974
 
 
 ![Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg){#fig:songo-mnara} 
-
-> A study of Swahili house groupings suggests that the *mtaa* may have
-> developed along the following lines: a house was built on a large
-> site; with the demand for additional accommodation other units were
-> added, arranged around a central private access. [@ghaidan:1974lamu,
-> 76]
 
 ## Palácios e mesquitas ##
 
@@ -1057,5 +1110,8 @@ protagonismo político-econômico, mas sofreu um processo semelhante ao de
 outras cidades coloniais do século XX: os bairros europeus se afastaram
 do centro histórico, isolando-o e justapondo formas urbanas
 intencionalmente diferentes para demarcar a superioridade do desenho
-urbano europeu.
+urbano europeu. Após a independência, o urbanismo modernista de amplas
+avenidas e grandes edifícios isolados em concreto armado contribuiu para
+uma rutura ainda maior entre o paradigma urbanístico tradicional e os
+novos crescimentos urbanos.
 

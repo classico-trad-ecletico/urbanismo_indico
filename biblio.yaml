@@ -1329,8 +1329,8 @@ references:
       given: Ir Nyoman Popo Priyatna
   citation-key: danes:2018ancient
   container-title: >-
-    Cultural and Civilisational Links between India and Southeast Asia:
-    Historical and Contemporary Dimensions
+    Cultural and civilisational links between India and Southeast Asia:
+    historical and contemporary dimensions
   DOI: 10.1007/978-981-10-7317-5_16
   editor:
     - family: Saran
@@ -4425,7 +4425,7 @@ references:
   source: DOI.org (Datacite)
   title: >-
     Spatial analysis on Malay buildings for categorization of Malay historic
-    <span class="smallcaps">BIM</span> library
+    <span smallcaps="smallcaps">BIM</span> library
   type: article-journal
   volume: '11'
 
@@ -6571,7 +6571,7 @@ references:
   title-short: El interior de la historia
   type: book
 
-- id: wang:2019urban1
+- id: wang:2019urban
   abstract: >-
     In the process of urban development and regeneration, a city always
     gradually derives multiple morphological characteristics from its original
@@ -6598,7 +6598,7 @@ references:
       given: Han
     - family: Jia
       given: Beisi
-  citation-key: wang:2019urban1
+  citation-key: wang:2019urban
   container-title: Journal of Chinese Architecture and Urbanism
   container-title-short: '1'
   DOI: 10.36922/jcau.v1i1.841
@@ -6612,9 +6612,9 @@ references:
   page: 1-13
   source: journals.innosciencepress.com
   title: >-
-    Urban tissue of traditional Chinese and southeast asian port cities: the
+    Urban tissue of traditional Chinese and Southeast Asian port cities: the
     influence of maritime trade
-  title-short: Urban tissue of traditional chinese and southeast asian port cities
+  title-short: Urban tissue of traditional Chinese and Southeast Asian port cities
   type: article-journal
   URL: http://journals.innosciencepress.com/index.php/JCAU/article/view/841
   volume: '1'
