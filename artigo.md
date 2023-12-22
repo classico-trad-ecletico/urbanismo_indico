@@ -83,6 +83,15 @@ divergentes. O conceito de paradigma formulado por @kuhn:1998estrutura,
 por outro lado, permite abarcar a diversidade de um campo de práticas
 amplamente reconhecidas como é o das diferentes tradições urbanísticas.
 
+Estabelecido o princípio dos paradigmas como instrumental interpretativo
+para as tradições urbanísticas do oceano Índico, estas são apresentadas
+diante do contexto histórico da desagregação do sistema mundial do
+século XIV. As características específicas dos paradigmas malaio e
+suaíli são o objeto central de discussão deste artigo. Como epílogo, as
+sucessivas transformações das cidades suaíli sob a influência colonial
+do Omã e, subsequentemente, do Reino Unido reforçam a identidade da
+tradição urbanística regional diante das imposições estrangeiras.
+
 
 # Do paradigma urbanístico eurasiático a uma metodologia não eurocêntrica #
 
@@ -329,7 +338,7 @@ arquipélago Malaio se inscreve numa longa Idade Moderna que vai de
 meados do século XIV até a segunda metade do XIX. Nas redes globais do
 século XIV em diante, o oceano Índico ocupava um lugar privilegiado como
 articulador de trocas econômicas, culturais e religiosas. Segundo a
-historiadora da urbanização @abulughod:1991european, o
+historiadora da urbanização @abu-lughod:1991european, o
 "sistema mundial" centrado no comércio marítimo do oceano Índico dominou
 o comércio internacional entre 1250 e 1350 ([@fig:circuits]).
 
@@ -348,14 +357,14 @@ ocidental e península Arábica.
 
 ![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png){#fig:indico-redes}
 
-Uma combinação de mudanças climáticas [@fagan:2000little], pandemias e
-reestruturações político-econômicas em todos os continentes afetou as
-redes comerciais e culturais em meados do século XIV e provocou a
-ruptura de muitas conexões globais. Um resfriamento global deu o pontapé
+Uma combinação de mudanças climáticas, pandemias e reestruturações
+político-econômicas em todos os continentes afetou as redes comerciais e
+culturais em meados do século XIV e provocou a rutura de muitas conexões
+globais. Um resfriamento global [@fagan:2000little] deu o pontapé
 inicial numa sequência de choques que levaram à reorganização econômica
 e política da era moderna. O mais famoso desses choques foi a pandemia
-de peste que se espalhou da China para a Europa na segunda metade da
-década de 1340.
+de peste bubônica que se espalhou da China para a Europa na década de
+1340 [@abu-lughod:1991european].
 
 Na nova ordem econômica e política do século XIV, a rota da Seda,
 terrestre, e o sistema de navegação com as monções, no oceano Índico,
@@ -368,7 +377,7 @@ sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
 China, tapeçarias da Ásia central chegavam à costa leste da África e ao
 Mediterrâneo.
 
-## Cidades-estado ##
+## O fim das cidades-estado ##
 
 Nas margens desse sistema de rotas, várias cidades-estado prosperavam
 graças ao controle de pontos de passagem obrigatórios. Dentre muitas
@@ -385,10 +394,12 @@ quanto à sua forma, densidade e processo de crescimento.
 
 <!--Discutir conceito de "empório" em Chaudhuri-->
 
+Desagregação dos três circuitos na segunda metade do século XIV,
+isolamento das cidades-estado mercantes e sua posterior incorporação nos
+impérios expansionistas.
 
-# Cidades mercantes da península e arquipélago Malaio #
 
-<!--Deixar claro por que o kampung é urbanismo bioclimático-->
+# Cidades da península e arquipélago Malaio #
 
 ## Contexto histórico-geográfico ##
 
@@ -670,7 +681,7 @@ Estuários de rios, baías e ilhas ao longo da costa se tornam
 pontos de trocas entre os produtos trazidos do interior do continente e
 aqueles que chegam em navios árabes, persas, indianos e malaios, junto
 com a influência cultural vinda dessas regiões.
-As principais cidades-estado suaíli, como Lamu ([@fig:lamu-drone]), Quíloa e Sofala, se
+As principais cidades-estado suaíli, como Lamu, Quíloa e Sofala, se
 consolidam a partir do século  VIII d.C., quando se convertem ao islã, e
 atingem o seu auge entre os séculos XII e XIV.
 Nos séculos XVI e XVII, as cidades suaíli
@@ -679,36 +690,27 @@ Portugal e Omã. Esses dois
 impérios acabam por partilhar a costa suaíli entre si, e várias das
 antigas cidades-estado são abandonadas.
 
-:::::::::::::::::::::::::::::::::::::: {#fig:lamu-drone .iframe-wrapper}
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/6w4o-OPZnlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-Vista aérea da ilha de Lamu, Quênia. Filmagem: [DroneZone, 2021](https://youtu.be/6w4o-OPZnlQ)
-
-
-::: align-right
-![Usam Ghaidan. Fonte: [Universidade de Nairóbi](https://architecture.uonbi.ac.ke/alumni)](https://architecture.uonbi.ac.ke/sites/architecture.uonbi.ac.ke/files/styles/medium/public/2021-04/IMG-20210427-WA0016.jpg){#fig:ghaidan}
-:::
-
 Por causa dessa partilha, e das hierarquias raciais em vigor no século
 XIX, durante muito tempo as pesquisas ocidentais consideraram as cidades
 da costa suaíli como pertencentes à esfera cultural árabe ou persa. Os
 europeus entendiam que cidades comerciais adensadas não tinham lugar
 numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
-Usam Ghaidan ([@fig:ghaidan]) defendeu a sua dissertação de mestrado demonstrando que as
-raízes socioeconômicas, culturais e construtivas da cidade suaíli de
-Lamu (ver [@fig:lamu-drone]) são, de fato, africanas [@ghaidan:1974lamu].
+@ghaidan:1974lamu defendeu a sua dissertação de mestrado demonstrando
+que as raízes socioeconômicas, culturais e construtivas da cidade suaíli
+de Lamu são, de fato, africanas.
 
 
 ## Urbanização dos *mitaa* ## 
 
-Como parte da cultura banto, a urbanização suaíli também parte da
+Como parte da cultura banto, a urbanização suaíli também partia da
 unidade espacial comunitária conhecida com *mtaa* (pl. *mitaa*). O
-*mtaa* é, de certo modo, um bairro de casas organizadas por proximidade
+*mtaa* era, de certo modo, um bairro de casas organizadas por proximidade
 ao centro da sua hierarquia --- geralmente a morada de uma família
-dominante. Os vários *mitaa* que compõem uma cidade, por sua vez, são
+dominante. Os vários *mitaa* que compunham uma cidade, por sua vez, eram
 dispostos concentricamente segundo a proximidade sociopolítica dessas
 famílias dominantes com respeito ao poder central.
+
+<!--Contextualizar e comentar citação-->
 
 > A study of Swahili house groupings suggests that the *mtaa* may have
 > developed along the following lines: a house was built on a large
@@ -716,76 +718,73 @@ famílias dominantes com respeito ao poder central.
 > added, arranged around a central private access. [@ghaidan:1974lamu,
 > 76]
 
-O traçado geral das cidades suaíli não decorre de um plano
-centralizado, mas se organiza a partir de princípios culturais
-partilhados. A arqueóloga inglesa Stephanie Wynne-Jones mostra que a
-formação do traçado urbano suaíli ([@fig:shanga]) acontece pela
-reconstrução sucessiva de bairros com casas em adobe, que são
-substituídos por bairros com casas em pedra [@wynne-jones:2014swahili,
-121].
+O traçado geral das cidades suaíli não decorria de um plano
+centralizado, mas se organizava a partir de princípios culturais
+partilhados. A arqueóloga inglesa @wynne-jones:2014swahili [121] mostra que a
+formação do traçado urbano suaíli ([@fig:shanga]) aconteceu pela
+reconstrução sucessiva de bairros com casas em adobe, que foram sendo
+substituídos por bairros com casas em pedra.
 
-
-![Plana arqueológica de Takwa e esquema do assentamento inicial de Shanga, segundo Wynne-Jones](https://i.pinimg.com/originals/8e/69/f3/8e69f3a382fcc77f5d01347025aff2a4.png){#fig:shanga .line}
+![Planta arqueológica de Takwa e esquema do assentamento inicial de Shanga, segundo Wynne-Jones](https://i.pinimg.com/originals/8e/69/f3/8e69f3a382fcc77f5d01347025aff2a4.png){#fig:shanga .line}
 
 Durante o processo de consolidação e adensamento da cidade, a autoridade
-política se faz presente em vários níveis. O palácio, geralmente
-fortificado e associado à mesquita maior, domina o porto. Os bairros
-são, pelo menos num primeiro momento, associados a grupos familiares
-estendidos ([@fig:shanga]). A proximidade dos bairros ao palácio indica a
+política se fazia presente em vários níveis. O palácio, geralmente
+fortificado e associado à mesquita maior, dominava o porto. Os bairros
+eram, pelo menos num primeiro momento, associados a grupos familiares
+estendidos ([@fig:shanga]). A proximidade dos bairros ao palácio indicava a
 hierarquia social da nobreza mercante.
 
-
-A construção política da cidade suaíli consiste em atribuir significado
+A construção política da cidade suaíli consistia em atribuir significado
 social aos espaços livres urbanos [@wynne-jones:2014swahili]. A
-consolidação desses significados direciona o crescimento orgânico do
+consolidação desses significados direcionava o crescimento orgânico do
 tecido construído, preservando os espaços abertos com importância
 cívica, por exemplo em volta das mesquitas de bairro e nas áreas dos
 mercados [Horton *ap.* @fleisher:2012finding29].
 
-O próprio comércio tem significado político: a compra e venda dos
-carregamentos dos navios e das caravanas acontece no palácio
+O próprio comércio tinha significado político: a compra e venda dos
+carregamentos dos navios e das caravanas em Quíloa acontecia no palácio
 ([@fig:kilwa-palacio]) e nas residências da nobreza mercante
-[@allen:1981swahili14]. Essa atividade se distingue, assim, do mercado
-de subsistência local, que acontece nos largos junto às portas da cidade
+[@allen:1981swahili14]. Essa atividade se distinguia, assim, do mercado
+de subsistência local, que acontecia nos largos junto às portas da cidade
 e nos bairros de casas de adobe [@pradines:2018nouveau].
-
 
 ![Planta do palácio de Quíloa Quisiuani](https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png){#fig:kilwa-palacio .line}
 
-
 ![Planta arqueológica da cidade de Gedi. Wynne-Jones, 2014](https://i.pinimg.com/originals/19/a9/ab/19a9abb6b9df439e95e55f846d3ce3d5.png){#fig:gedi-plan .line}
 
-Assim como o *kampung* malaio, a cidade suaíli não tem um parcelamento
+Assim como o *kampung* malaio, a cidade suaíli não tinha um parcelamento
 do solo rígido e predeterminado. As casas dos comerciantes, construídas
-em calcário de coral, se organizam em bairros em volta do palácio e do
-porto. As classes baixas constroem as suas casas em adobe e pau-a-pique
+em calcário de coral, se organizavam em bairros em volta do palácio e do
+porto. As classes baixas construíam as suas casas em adobe e pau-a-pique
 na periferia, do lado de fora das muralhas ([@fig:gedi-plan]). As
-moradias, principalmente aquelas perto do centro urbano, tendem a se
-alinhar e a formar ruas que se adensam gradualmente.
+moradias, principalmente aquelas perto do centro urbano, tendiam a se
+alinhar e a formar ruas que se adensavam gradualmente.
 
-
-Desse modo, o adensamento da cidade suaíli acontece de modo
-semelhante ao do *kampung* malaio. As casas são construídas deixando
-bastante espaço livre entre elas, espaço que é usado inicialmente para
-hortas e jardins [@mwenje:2019case]. Aos poucos, o espaço livre vai sendo preenchido pela
-ampliação das casas. Esse processo resulta numa malha urbana compacta
-([@fig:lamu-plan]).
+Desse modo, o adensamento da cidade suaíli se dava de modo
+semelhante ao do *kampung* malaio. As casas eram construídas deixando
+bastante espaço livre entre elas, espaço que era inicialmente para
+hortas e jardins [@mwenje:2019case]. Aos poucos, o espaço livre ia sendo
+preenchido pela ampliação das casas. Esse processo resultava numa malha urbana
+intensamente capilarizada por espaços livres cada vez mais estreitos
+entre as casas maiores ([@fig:lamu-plan]). Como mostra
+@steyn:2001analysis16, essa configuração preservava uma boa ventilação
+entre as casas, necessária no clima extremamente úmido da costa
+equatorial do oceano Índico.
 
 ![Plano de conservação da área central de Lamu](https://i.pinimg.com/originals/45/57/96/455796a4f940e6f1723693ad4b2deb05.png){#fig:lamu-plan}
 
-## Casa suaíli ##
+## Arquitetura ##
 
 A casa da elite suaíli tradicional é uma casa-pátio. A tipologia das
 casas com pátio emerge sempre que for preciso combinar o adensamento
-urbano com a necessidade de ventilação no clima tropical ([ver
-@fig:lamu-drone]).
+urbano com a necessidade de ventilação no clima tropical.
 
-
-As casas da elite mercante quase sempre têm a entrada principal voltada para
-o norte ou, mais raramente, para o leste. Essas casas são uma simples
+As casas da elite mercante quase sempre tinham a entrada principal
+voltada para
+o norte ou, mais raramente, para o leste. Essas casas eram uma simples
 enfiada longitudinal de cômodos muito alongados para os lados. Essa
-enfiada se amplia para cima, para os lados e para os fundos conforme a
-necessidade. As casas nesse núcleo adensado terminam por se organizar
+enfiada se ampliava para cima, para os lados e para os fundos conforme a
+necessidade. As casas nesse núcleo adensado terminavam por se organizar
 num gradiente de privacidade dos ambientes mais próximos à rua para as
 alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
 
@@ -799,48 +798,32 @@ alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
 Planta de casa mercante suaíli em Lamu, segundo Usam Ghaidan, 1974
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 ![Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg){#fig:songo-mnara} 
 
-## Palácios e mesquitas ##
-
-
-:::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:shela-zamani}
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/j5HNhGcgKfk" title="YouTube vide player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-Mesquita na vila de Shela, ilha de Lamu, 1738. Modelo tridimensional por [Zamani Project, Universidade da cidade do Cabo, 2016](https://www.youtube.com/watch?v=j5HNhGcgKfk)
-
-
-::: align-right
 ![Mesquita na vila de Shela, ilha de Lamu, 1738. Planta e corte segundo Usam Ghaidan, 1974](https://i.pinimg.com/originals/83/aa/33/83aa33eb2c76ea24d82383d1683abc3c.png){#fig:shela-plan .line}
-:::
-
 
 Em Quíloa, palácios e mesquitas ([@fig:kilwa-palacio;
-@fig:kilwa-mesquita-ext]) sinalizam o centro de cada núcleo urbano. As
+@fig:kilwa-mesquita-ext]) sinalizavam o centro de cada núcleo urbano. As
 ilhas de Quíloa são cercadas de arrecifes, e os corais fossilizados se
-transformam em pedra calcária. Essas pedras são o material de construção
+transformam em pedra calcária. Essas pedras eram o material de construção
 usado para as paredes e abóbodas dos palácios e das mesquitas, mas
-também para as casas nos bairros centrais da cidade. Corais vivos são
+também para as casas nos bairros centrais da cidade. Corais vivos eram
 usados para executar acabamentos coloridos e conchas são trituradas para
 produzir argamassa.
 
-
 ![Exterior da mesquita maior de Quíloa Quisiuani. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg){#fig:kilwa-mesquita-ext}
-
 
 ![Interior da mesquita maior de Quíloa Quisiuani. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg){#fig:kilwa-mesquita-int .r-stretch}
 
 A configuração espacial e estrutural das principais mesquitas dos
-séculos XI a XVIII é inspirada na arquitetura persa e egípcia. O partido
-habitual é o de um salão com uma grelha de pilares que sustentam uma
+séculos XI a XVIII era inspirada na arquitetura persa e egípcia. O partido
+habitual era o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
 
 # Transformações coloniais no tecido edificado suaíli #
 
-## Contexto histórico da arabização omani e do colonialismo europeu ##
+## Contexto histórico-geográfico ##
 
 A islamização das margens do oceano Índico teve efeitos diferentes nos
 paradigmas urbanísticos de cada região. No Sudeste asiático e no
@@ -1071,6 +1054,8 @@ tecido urbano das ilhas suaíli que persiste até os dias atuais.
 
 # Imposição colonial do paradigma eurasiático no mundo malaio--indonésio #
 
+Desenvolver ou eliminar?
+
 ## Infraestrutura como discurso colonial em Jacarta ##
 
 Argumento acerca da incapacidade dos nativos em reconhecer o valor ou
@@ -1080,10 +1065,10 @@ independência, com partida dos holandeses para um sítio mais salubre.
 
 ## Reconstrução britânica de Singapura ##
 
+- Destruição do kampung palaciano original para implantação do forte
 - Isolamento do Kampong Gelam com demolição de bairros lindeiros
 - Demarcação das vilas nativas
 - Criação tardia e demolição do Kampong Rochor
-- Ruffles?
 
 
 # Conclusão #

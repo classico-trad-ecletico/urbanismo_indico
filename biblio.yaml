@@ -39,7 +39,6 @@ references:
     - family: Abu-Lughod
       given: Janet L.
   citation-key: abu-lughod:1991european
-  edition: '1'
   event-place: New York
   ISBN: 978-0-19-506774-3 978-0-19-505886-4
   issued:
@@ -49,7 +48,9 @@ references:
   publisher: Oxford University Press
   publisher-place: New York
   source: K10plus ISBN
-  title: 'Before European hegemony: the world system <c>A.D. 1250-1350'
+  title: >-
+    Before European hegemony: the world system <span
+    smallcaps="smallcaps">A.D.</span> 1250-1350
   title-short: Before European hegemony
   type: book
 
@@ -376,7 +377,7 @@ references:
   event-place: New York
   issued:
     - year: 1974
-  language: en-US
+  language: en
   publisher: Penguin
   publisher-place: New York
   title: Design of cities
@@ -583,7 +584,7 @@ references:
   issue: '35'
   issued:
     - year: 1998
-  language: en-US
+  language: en
   page: 7-17
   source: JSTOR
   title: >-
@@ -819,7 +820,7 @@ references:
   issued:
     - year: 1999
       month: 5
-  language: en-US
+  language: en
   license: Copyright © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
@@ -1181,7 +1182,7 @@ references:
   ISBN: 978-84-206-3519-4
   issued:
     - year: 1977
-  language: es-ES
+  language: es
   publisher: Alianza
   publisher-place: Madrid
   source: Open WorldCat
@@ -3019,7 +3020,7 @@ references:
   issue: '4'
   issued:
     - year: 1927
-  language: en-US
+  language: en
   page: 615-624
   publisher: '[American Anthropological Association, Wiley]'
   source: JSTOR
@@ -3393,7 +3394,7 @@ references:
   ISBN: 978-0-8166-7396-4 978-0-8166-7397-1
   issued:
     - year: 2014
-  language: en-US
+  language: en
   number-of-pages: '513'
   publisher: University of Minnesota Press
   publisher-place: Minneapolis
@@ -7334,7 +7335,7 @@ references:
   event-place: Cambridge, Mass.
   issued:
     - year: 1970
-  language: en-US
+  language: en
   number-of-pages: xxiii, 287 p.
   publisher: <span smallcaps="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
