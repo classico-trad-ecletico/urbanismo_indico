@@ -34,6 +34,25 @@ references:
   type: chapter
   URL: http://books.openedition.org/pur/8207
 
+- id: abu-lughod:1991european
+  author:
+    - family: Abu-Lughod
+      given: Janet L.
+  citation-key: abu-lughod:1991european
+  edition: '1'
+  event-place: New York
+  ISBN: 978-0-19-506774-3 978-0-19-505886-4
+  issued:
+    - year: 1991
+  language: en
+  number-of-pages: '443'
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: K10plus ISBN
+  title: 'Before European hegemony: the world system <c>A.D. 1250-1350'
+  title-short: Before European hegemony
+  type: book
+
 - id: ade:2013learning3
   abstract: >-
     One of the primary purposes of man’s shelter is protection against adverse
@@ -1046,6 +1065,27 @@ references:
     Trade, ideology, and urbanization: South India 300 <span
     class="smallcaps">BC</span> to <span class="smallcaps">AD</span> 1300
   title-short: Trade, ideology, and urbanization
+  type: book
+
+- id: chaudhuri:1985trade
+  author:
+    - family: Chaudhuri
+      given: K. N.
+  call-number: HF3939.6 .C47 1985
+  citation-key: chaudhuri:1985trade
+  event-place: Cambridge ; New York
+  ISBN: 978-0-521-24226-4 978-0-521-28542-1
+  issued:
+    - year: 1985
+  language: en
+  number-of-pages: '269'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge ; New York
+  source: Library of Congress ISBN
+  title: >-
+    Trade and civilisation in the Indian Ocean: an economic history from the
+    rise of Islam to 1750
+  title-short: Trade and civilisation in the Indian Ocean
   type: book
 
 - id: chen:2008typological7
@@ -5186,6 +5226,32 @@ references:
   title-short: From Zanzibar to Kilwa
   type: article-journal
   volume: '47'
+
+- id: pradines:2020civilizacao
+  author:
+    - family: Pradines
+      given: Stéphane
+  citation-key: pradines:2020civilizacao
+  container-title: 'Atlas histórico de África: da pré-história aos nossos dias'
+  editor:
+    - family: Fauvelle
+      given: François-Xavier
+    - family: Surun
+      given: Isabelle
+  event-place: Lisboa
+  ISBN: 978-989-702-566-2
+  issued:
+    - year: 2020
+  language: pt
+  page: 42-45
+  publisher: Guerra & Paz
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: A civilização Suaíli (séculox VIII–XV)
+  translator:
+    - family: Lopes
+      given: Isabel
+  type: chapter
 
 - id: prussin:1968architecture
   accessed:

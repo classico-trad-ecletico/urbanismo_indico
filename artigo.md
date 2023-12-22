@@ -1,5 +1,5 @@
 ---
-title       : "Paradigmas urbanísticos no oceano Índico: cidades suaíle e malaias na Idade Moderna"
+title       : "Paradigmas urbanísticos no oceano Índico: cidades suaíli e malaias na Idade Moderna"
 #author      : Pedro P. Palazzo
 lang        : pt-BR
 bibliography: _data/biblio.yaml
@@ -8,7 +8,7 @@ suppress-bibliography: true
 abstract: |
   ## Resumo
 
-  Palavras-chave: História urbana, Malásia e Indonésia, Costa Suaíle, Idade Moderna, Colonialidade
+  Palavras-chave: História urbana, Malásia e Indonésia, Costa Suaíli, Idade Moderna, Colonialidade
 
   ## Abstract
 
@@ -16,7 +16,7 @@ abstract: |
 keywords:
 - História urbana
 - Malásia e Indonésia
-- Costa Suaíle
+- Costa Suaíli
 - Idade Moderna
 - Colonialidade
 # pandoc-crossref:
@@ -33,21 +33,22 @@ tblPrefix:
 Este artigo apresenta duas culturas urbanas da Idade Moderna
 pertencentes ao principal circuito do comércio internacional naquela
 época, a bacia do oceano Índico. Em suas margens ocidental e oriental
-ficavam, respectivamente, as cidades da costa Suaíle, na África, e as da
+ficavam, respectivamente, as cidades da costa Suaíli, na África, e as da
 península e arquipélago Malaio, na extremidade meridional do Sudeste
 asiático. O recorte cronológico postula uma "longa" Idade Moderna que
 vai de meados do século XIV até a virada do século XIX.
 
 Enquadrando os impérios da Ásia continental na sua margem norte, a costa
-Suaíle e o arquipélago Malaio fizeram parte do último apogeu das
+Suaíli e o arquipélago Malaio fizeram parte do último apogeu das
 cidades-estado marítimas que controlavam gargalos nas rotas do comércio
 global ([@fig:rotas]). Porém, apesar de sua importância estratégica e
-poderio consolidados desde a Idade Média, essas regiões ficaram, segundo
-@campbell:2008indian, registradas na historiografia como meras feitorias
+poderio consolidados desde a Idade Média, essas regiões ficaram
+registradas na historiografia como meros "empórios", nas palavras de
+@abu-lughod:1991european [253],
 cujos protagonistas teriam sido estrangeiros: árabes, persas, indianos,
 chineses e, sobretudo, europeus.
 
-Por isso, as culturas urbanísticas suaíle e malaia têm sido pouco
+Por isso, as culturas urbanísticas suaíli e malaia têm sido pouco
 estudadas fora dos seus respectivos nichos disciplinares, quase que
 estritamente arqueológicos, e dos seus idiomas maternos. Fora desses
 nichos, era comum até recentemente o argumento de que essas culturas
@@ -59,10 +60,10 @@ oriundos de verdadeiras sociedades urbanas --- Oriente Médio e China
 assentamentos nativos. Esse argumento foi refutado a partir da década de
 1970, começando com autores como @ghaidan:1974lamu e e
 @evers:1977differing44. Hoje pesquisada em seus próprios termos, a forma
-das cidades suaíle e malaias da Idade Moderna ainda é pouco
+das cidades suaíli e malaias da Idade Moderna ainda é pouco
 representada, contudo, em abordagens comparativas e globais.
 
-Um dos obstáculos à maior integração do universo suaíle e malaio na
+Um dos obstáculos à maior integração do universo suaíli e malaio na
 história urbana pré-colonial é de ordem conceitual. Tanto a história
 social das cidades quanto a morfologia urbana são dominadas por uma
 definição do processo de urbanização calcada nas cidades do eixo
@@ -125,11 +126,17 @@ campo da história urbana de modo mais explícito por
 Reconhecer um tecido construído como sendo uma cidade paradigmática é
 uma operação intuitiva que deixa poucas incertezas. Essa capacidade
 intuitiva de perceber o fenômeno urbano foi apenas obscurecida por um
-modelo colonialista empenhado, segundo @campbell:2008indian, em fabricar um marco conceitual para negar
-*status* urbano às cidades fora do eixo cultural europeu, mediterrâneo e
+modelo colonialista empenhado, segundo @campbell:2008indian, em fabricar
+um marco conceitual para negar *status* urbano às cidades fora do eixo
+cultural europeu, mediterrâneo e
 extremo-oriental. Por mais que a compreensão europeia da *organização*
 de cidades fora desse eixo fosse imperfeita [@palazzo:2013fragmento10],
-a sua *condição* urbana só chegou a ser posta em causa tardiamente, com
+o seu *status* de cidade não era posto em causa, como testemunha a
+quantidade de cidades da costa Suaíli presentes no atlas de Braun e
+Hogenberg, de 1575 ([@fig:braun.jpg]).
+
+Quanto à sua *condição* urbana, ela só chegou a ser posta em causa
+tardiamente, com
 o advento de uma etnografia ou sociologia urbana pautada por regras
 epistemológicas explícitas. O mesmo pode ser dito dos registros
 históricos chineses, que identificavam núcleos urbanos onde arqueólogos
@@ -184,7 +191,9 @@ Presume-se que a ordem desses elementos seja tanto hierárquica --- o
 sistema viário determina o espaço disponível para as parcelas, e por sua
 vez cada parcela delimita a área passível de ser construída por um
 agente privado --- quanto cronológica --- o arruamento vem antes do
-parcelamento, que precede a edificação. Além disso, como mostra o método
+parcelamento, que precede a edificação ([fig:eurasiatico]).
+
+Além disso, como mostra o método
 italiano da tipologia processual concebido no pós-guerra por
 @muratori:1967civilta e refinado por @caniggia:2008lettura, cada
 categoria de elementos é também ela própria hierarquizada internamente.
@@ -239,8 +248,8 @@ Na margem oposta do oceano Índico, no Sudeste asiático continental e
 insular, vigora ao contrário um paradigma urbanístico relativamente
 unitário. Esse paradigma também foi, contudo, desconsiderado pelos
 colonizadores mediante nomenclaturas como "aldeia nativa", presente na
-cartografia de @coleman:1839town e outros assim como no discurso
-textual.
+cartografia de @coleman:1839town ([@fig:coleman]) e outros assim como no
+discurso textual.
 
 O não reconhecimento, desde o ponto de vista eurocêntrico, do caráter
 urbano nas povoações tradicionais da África e do Sudeste asiático
@@ -264,12 +273,14 @@ aldeia a não ser pela intervenção de uma potência colonial (primeiro
 Desde a década de 1980, porém, @winters:1983classification10 identificou
 ao menos dois paradigmas urbanísticos
 africanos dominantes: o da cidade mercante no Sael, Sudão e costa
-Suaíle, e o da metrópole político-religiosa na região do golfo da Guiné.
+Suaíli, e o da metrópole político-religiosa na região do golfo da Guiné.
+A originalidade da configuração urbana suaíli já havia sido notada no
+trabalho pioneiro de @ghaidan:1974lamu uma década antes.
 A esses deve ser ainda acrescentado o padrão do *kraal* zulu, incluindo
 seus antecedentes em todo o Sul da África, descritos por
 @huffman:2001central13. Reciprocamente, a existência de um paradigma
 urbanístico malaio--indonésio já foi estabelecida por autores como
-@hall:1996ritual52.
+@evers:1977culture6 e @hall:1996ritual52.
 
 ## Metodologia ##
 
@@ -309,18 +320,27 @@ como das casas, em detrimento das cidades pré-coloniais no seu conjunto.
 
 # Mundos conectados no século XIV #
 
+<!--O que mais incluir nesta seção? Está curta comparada com as outras-->
+
 ## Sistema mundial ##
 
-O alcance cronológico dos paradigmas urbanísticos da costa Suaíle e do
+O alcance cronológico dos paradigmas urbanísticos da costa Suaíli e do
 arquipélago Malaio se inscreve numa longa Idade Moderna que vai de
 meados do século XIV até a segunda metade do XIX. Nas redes globais do
 século XIV em diante, o oceano Índico ocupava um lugar privilegiado como
 articulador de trocas econômicas, culturais e religiosas. Segundo a
-historiadora da urbanização Janet Lippman Abu-Lughod (1928--2013), o
+historiadora da urbanização @abulughod:1991european, o
 "sistema mundial" centrado no comércio marítimo do oceano Índico dominou
-o comércio internacional entre 1250 e 1350 ([@fig:circuits]). A bacia do
-Mediterrâneo e mesmo a China ocupavam uma posição periférica nesse
-sistema, controlado por mercadores muçulmanos.
+o comércio internacional entre 1250 e 1350 ([@fig:circuits]).
+
+Os três circuitos ou "segmentos" do oceano Índico haviam sido
+originalmente propostos por @chaudhuri:1985trade, que os relacionou com
+as três zonas de monções. A bacia do Mediterrâneo e mesmo a China
+ocupavam uma posição periférica nesse sistema, controlado por mercadores
+muçulmanos. Chaudhuri e Abu-Lughod excluíram dos seus três "circuitos" a
+costa Suaíli, mas @pradines:2020civilizacao afirma, ao contrário, que
+essa região estava desde o século XIII integrada ao circuito da Índia
+ocidental e península Arábica.
 
 ![Circuitos econômico-culturais do sistema mundial, 1250--1350, segundo Janet Lippman. Mapa por [Derfel73, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:circuits}
 
@@ -354,7 +374,7 @@ Nas margens desse sistema de rotas, várias cidades-estado prosperavam
 graças ao controle de pontos de passagem obrigatórios. Dentre muitas
 outras cidades, Palembang, Trowulan e Malacca nos estreitos malaios do
 Sudeste asiático, Lamu, Quíloa e Zanzibar na
-costa suaíle da África, e Veneza na Europa mediterrânea eram totalmente
+costa suaíli da África, e Veneza na Europa mediterrânea eram totalmente
 especializadas no comércio durante os séculos XIV e XV. A forma urbana
 dessas cidades refletia as diferentes respostas que cada uma dava às
 necessidades funcionais do comércio e às condições geográficas e
@@ -362,6 +382,8 @@ climáticas onde elas se desenvolveram. No entanto, para além dessa
 semelhança funcional, elas corporificavam diferentes paradigmas
 urbanísticos. Por isso, essas cidades divergiam significativamente
 quanto à sua forma, densidade e processo de crescimento.
+
+<!--Discutir conceito de "empório" em Chaudhuri-->
 
 
 # Cidades mercantes da península e arquipélago Malaio #
@@ -371,41 +393,48 @@ quanto à sua forma, densidade e processo de crescimento.
 ## Contexto histórico-geográfico ##
 
 A passagem do século XIV para o XV marca o
-último período de auge das cidades-estado marítimas no sistema mundial.
-Esses lugares controlam
+último período de auge das cidades-estado marítimas na economia global.
+Esses lugares controlavam
 pontos estratégicos na passagem de mercadorias em rotas comerciais de
-longa distância. Por isso, se desenvolvem formando redes de acesso a
+longa distância. Por isso, se desenvolveram formando redes de acesso a
 matérias-primas e a produtos manufaturados que atravessam continentes,
 culturas e religiões diversas.
-
 
 ![İbrahim Müteferrika. Sudeste asiático, folha do atlas [*Cihânnümâ*][] de Kâtip Çelebi, 1648](https://hcommons.org/app/uploads/sites/1002372/2022/01/lossy-page1-1021px-katip_celebis_cihannuma-map_of_south_east_asia.tif_.jpg){#fig:cihannuma}
 
 [*Cihânnümâ*]: https://commons.wikimedia.org/wiki/Category:Cihannümâ_(Kâtip_Çelebi)
 
-No Sudeste asiático ([@fig:cihannuma]), a matriz geradora do urbanismo é
+No Sudeste asiático ([@fig:cihannuma]), a matriz geradora do urbanismo era
 o *kampung*: uma gleba agrícola e residencial associada a uma família
 estendida ou a uma pequena comunidade política. As principais cidades
-mercantes se formam pelo adensamento gradual de vários *kampung* ao
+mercantes se formaram pelo adensamento gradual de vários *kampung* ao
 longo de caminhos estruturantes e à volta de templos e palácios
 fortificados.
 
 No universo das cidades-estado mercantes dos séculos XIV e
-XV, os reinos do Sudeste asiático se destacam pela sua
+XV, os reinos do Sudeste asiático se destacaram pela sua
 diversidade étnica e religiosa.
 O império hindu-budista de Majapahit com a sua capital Trowulan, na ilha
 de Java ([@fig:majapahit]), e o sultanato muçulmano de Malacca
-([@fig:malacca]), na península malaia, controlam o comércio marítimo de
+([@fig:malacca]), na península malaia, controlaram cada um a seu tempo o
+comércio marítimo de
 especiarias e as exportações chinesas para o Ocidente. Assim, Trowulan e
-Malacca se tornam centros de poder econômico e político muito prósperos.
+Malacca se tornaram centros de poder econômico e político muito prósperos.
 Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
 urbano e de construir perfeitamente adaptados ao clima equatorial.
 
-::: full
 ![Arquipélago de Nusantara no auge do império Majapahit, século XIV. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit}
-:::
 
 ![Sultanato de Malacca no final do século XV. Mapa: [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca .r-stretch}
+
+Parte dessa adaptação envolvia, segundo @abu-lughod:1991european, uma
+relativa instabilidade dos sítios dominantes. Ao contrário da China
+antiga, onde dinastias se sucediam ocupando as mesmas capitais ou sítios
+vizinhos dentro de um mesmo vale, na península e arquipélago Malaio
+lugares distantes entre si alternavam períodos de controle sobre o
+comércio marítimo. No entanto, descobertas arqueológicas desde a década
+de 190 mostraram como a *existência* dessas principais cidades não era
+tão instável nem isolada quanto se acreditava [@hall:1996ritual52].
 
 ## Urbanização do *kampung* ##
 
@@ -513,7 +542,7 @@ budista se aglomeram em volta do *pura* ([@fig:hall-trowulan]).
 
 ![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV, segundo [Kenneth Hall, 1996][], p. 97 ](https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png){#fig:hall-java .line}
 
-## Malacca ##
+## Malacca e Singapura ##
 
 À margem do império Majapahit e depois do seu declínio no final do
 século XIV, uma série de cidades-estado independentes
@@ -554,7 +583,7 @@ O *kota raja* de Malacca no século XV
 
 ![Reconstituição do *kota raja* e da cidade comercial por Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/ef/b3/33/efb3334ce5187082dad839f580334637.jpg){#fig:malacca-kotarajaC}
 
-## Singapura ##
+------------------------------------------------------------------------
 
 <!--Antigo centro palaciano baseado em Wheatley 1973-->
 
@@ -583,12 +612,12 @@ O kampung malaio é um paradigma de urbanização bioclimática que parte
 de um assentamento rural e pode se desenvolver, por adensamentos
 sucessivos, até formar um distrito urbano compacto
 ([@fig:kampung-rochor]). Em contraste com esse tipo de adensamento *para
-dentro*, a urbanização da costa Suaíle na África é um paradigma de
+dentro*, a urbanização da costa Suaíli na África é um paradigma de
 adensamento *para fora*.
 
 ![Kampung Rochor, Singapura, 1822, demolido em 1964. [Arquivo Nacional de Singapura](https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/)](https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg){#fig:kampung-rochor}
 
-# Cidades da costa Suaíle #
+# Cidades da costa Suaíli #
 
 ## Contexto histórico-geográfico ##
 
@@ -618,7 +647,7 @@ costa leste do continente, revolucionaram o entendimento acadêmico das
 tradições construtivas africanas.
 
 Na África tropical, dois modos de urbanizar se destacam pela sua
-expansão geográfica e cronológica: as cidades mercantes da costa Suaíle,
+expansão geográfica e cronológica: as cidades mercantes da costa Suaíli,
 no litoral do oceano Índico, e os complexos agropastoris do Níger-Congo
 ([@fig:urb-africa]). Esses dois modos são bem distintos entre si porque
 eles se adaptaram a contextos ambientais, econômicos e culturais muito
@@ -627,12 +656,12 @@ diferentes.
 ![Universos urbanísticos africanos, séculos XIV--XVIII. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:África_urbanismos.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/África_urbanismos.png/1084px-África_urbanismos.png){#fig:urb-africa}
 
 
-![Principais cidades e eixos comerciais da costa suaíle. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:Cidades-estado_da_costa_suaíle.png)](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cidades-estado_da_costa_suaíle.png){#fig:costa-suaile}
+![Principais cidades e eixos comerciais da costa suaíli. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:Cidades-estado_da_costa_suaíli.png)](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cidades-estado_da_costa_suaíli.png){#fig:costa-suaile}
 
-A costa Suaíle é uma parte do litoral africano do oceano Índico, com
+A costa Suaíli é uma parte do litoral africano do oceano Índico, com
 mais de três mil quilômetros de extensão de norte a sul. Ela é formada
 por uma sequência de cidades-estado especializadas no comércio marítimo,
-fundadas e habitadas por povos de etnia banto que falam a língua suaíle
+fundadas e habitadas por povos de etnia banto que falam a língua suaíli
 ([@fig:costa-suaile]). Os banto migraram para essa região no primeiro
 milênio antes de Cristo, e no século I a.C. o litoral do
 Índico já era uma rota comercial importante.
@@ -641,13 +670,13 @@ Estuários de rios, baías e ilhas ao longo da costa se tornam
 pontos de trocas entre os produtos trazidos do interior do continente e
 aqueles que chegam em navios árabes, persas, indianos e malaios, junto
 com a influência cultural vinda dessas regiões.
-As principais cidades-estado suaíle, como Lamu ([@fig:lamu-drone]), Quíloa e Sofala, se
+As principais cidades-estado suaíli, como Lamu ([@fig:lamu-drone]), Quíloa e Sofala, se
 consolidam a partir do século  VIII d.C., quando se convertem ao islã, e
 atingem o seu auge entre os séculos XII e XIV.
-Nos séculos XVI e XVII, as cidades suaíle
+Nos séculos XVI e XVII, as cidades suaíli
 perdem poder econômico para as grandes potências marítimas da época:
 Portugal e Omã. Esses dois
-impérios acabam por partilhar a costa suaíle entre si, e várias das
+impérios acabam por partilhar a costa suaíli entre si, e várias das
 antigas cidades-estado são abandonadas.
 
 :::::::::::::::::::::::::::::::::::::: {#fig:lamu-drone .iframe-wrapper}
@@ -663,17 +692,17 @@ Vista aérea da ilha de Lamu, Quênia. Filmagem: [DroneZone, 2021](https://youtu
 
 Por causa dessa partilha, e das hierarquias raciais em vigor no século
 XIX, durante muito tempo as pesquisas ocidentais consideraram as cidades
-da costa suaíle como pertencentes à esfera cultural árabe ou persa. Os
+da costa suaíli como pertencentes à esfera cultural árabe ou persa. Os
 europeus entendiam que cidades comerciais adensadas não tinham lugar
 numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
 Usam Ghaidan ([@fig:ghaidan]) defendeu a sua dissertação de mestrado demonstrando que as
-raízes socioeconômicas, culturais e construtivas da cidade suaíle de
+raízes socioeconômicas, culturais e construtivas da cidade suaíli de
 Lamu (ver [@fig:lamu-drone]) são, de fato, africanas [@ghaidan:1974lamu].
 
 
 ## Urbanização dos *mitaa* ## 
 
-Como parte da cultura banto, a urbanização suaíle também parte da
+Como parte da cultura banto, a urbanização suaíli também parte da
 unidade espacial comunitária conhecida com *mtaa* (pl. *mitaa*). O
 *mtaa* é, de certo modo, um bairro de casas organizadas por proximidade
 ao centro da sua hierarquia --- geralmente a morada de uma família
@@ -687,10 +716,10 @@ famílias dominantes com respeito ao poder central.
 > added, arranged around a central private access. [@ghaidan:1974lamu,
 > 76]
 
-O traçado geral das cidades suaíle não decorre de um plano
+O traçado geral das cidades suaíli não decorre de um plano
 centralizado, mas se organiza a partir de princípios culturais
 partilhados. A arqueóloga inglesa Stephanie Wynne-Jones mostra que a
-formação do traçado urbano suaíle ([@fig:shanga]) acontece pela
+formação do traçado urbano suaíli ([@fig:shanga]) acontece pela
 reconstrução sucessiva de bairros com casas em adobe, que são
 substituídos por bairros com casas em pedra [@wynne-jones:2014swahili,
 121].
@@ -706,7 +735,7 @@ estendidos ([@fig:shanga]). A proximidade dos bairros ao palácio indica a
 hierarquia social da nobreza mercante.
 
 
-A construção política da cidade suaíle consiste em atribuir significado
+A construção política da cidade suaíli consiste em atribuir significado
 social aos espaços livres urbanos [@wynne-jones:2014swahili]. A
 consolidação desses significados direciona o crescimento orgânico do
 tecido construído, preservando os espaços abertos com importância
@@ -726,7 +755,7 @@ e nos bairros de casas de adobe [@pradines:2018nouveau].
 
 ![Planta arqueológica da cidade de Gedi. Wynne-Jones, 2014](https://i.pinimg.com/originals/19/a9/ab/19a9abb6b9df439e95e55f846d3ce3d5.png){#fig:gedi-plan .line}
 
-Assim como o *kampung* malaio, a cidade suaíle não tem um parcelamento
+Assim como o *kampung* malaio, a cidade suaíli não tem um parcelamento
 do solo rígido e predeterminado. As casas dos comerciantes, construídas
 em calcário de coral, se organizam em bairros em volta do palácio e do
 porto. As classes baixas constroem as suas casas em adobe e pau-a-pique
@@ -735,7 +764,7 @@ moradias, principalmente aquelas perto do centro urbano, tendem a se
 alinhar e a formar ruas que se adensam gradualmente.
 
 
-Desse modo, o adensamento da cidade suaíle acontece de modo
+Desse modo, o adensamento da cidade suaíli acontece de modo
 semelhante ao do *kampung* malaio. As casas são construídas deixando
 bastante espaço livre entre elas, espaço que é usado inicialmente para
 hortas e jardins [@mwenje:2019case]. Aos poucos, o espaço livre vai sendo preenchido pela
@@ -744,9 +773,9 @@ ampliação das casas. Esse processo resulta numa malha urbana compacta
 
 ![Plano de conservação da área central de Lamu](https://i.pinimg.com/originals/45/57/96/455796a4f940e6f1723693ad4b2deb05.png){#fig:lamu-plan}
 
-## Casa suaíle ##
+## Casa suaíli ##
 
-A casa da elite suaíle tradicional é uma casa-pátio. A tipologia das
+A casa da elite suaíli tradicional é uma casa-pátio. A tipologia das
 casas com pátio emerge sempre que for preciso combinar o adensamento
 urbano com a necessidade de ventilação no clima tropical ([ver
 @fig:lamu-drone]).
@@ -767,7 +796,7 @@ alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
 ::: {.column width=50%}
 ![Primeiro pavimento](https://i.pinimg.com/originals/fe/cb/f8/fecbf81ea27d8bde8131b1d7ec944e00.png){#fig:swahili-mercanteB .line}
 :::
-Planta de casa mercante suaíle em Lamu, segundo Usam Ghaidan, 1974
+Planta de casa mercante suaíli em Lamu, segundo Usam Ghaidan, 1974
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
@@ -809,7 +838,7 @@ habitual é o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
 
-# Transformações coloniais no tecido edificado suaíle #
+# Transformações coloniais no tecido edificado suaíli #
 
 ## Contexto histórico da arabização omani e do colonialismo europeu ##
 
@@ -817,18 +846,18 @@ A islamização das margens do oceano Índico teve efeitos diferentes nos
 paradigmas urbanísticos de cada região. No Sudeste asiático e no
 arquipélago indonésio, as mesquitas se integraram à paisagem
 preexistente sem provocar rupturas na tradição do *kampung* [@tajudeen:2017mosques]. Na costa
-Suaíle, por outro lado, alguns tecidos urbanos foram fortemente
+Suaíli, por outro lado, alguns tecidos urbanos foram fortemente
 transformados ora na sua forma física, ora na distribuição demográfica
 de diferentes grupos sociais, étnicos ou religiosos.
 
-As transformações na costa Suaíle se deram em três cronologias
+As transformações na costa Suaíli se deram em três cronologias
 distintas. Primeiro, a islamização inicial da região se iniciou no
 século VIII por meio de uma gradual inserção dos equipamentos religiosos
 de praxe --- mesquita e madraçal --- dentro da espacialidade tradicional
 dos *mitaa*. A deferência que a islamização prestou às tradições
 regionais fica evidente na pouca monumentalidade das mesquitas de
 sexta-feira, mesmo em sedes de poderes soberanos como Quíloa, Lamu ou
-Zanzibar [@baumanova:2022comparative]. A configuração urbana suaíle não parece ter se alterado
+Zanzibar [@baumanova:2022comparative]. A configuração urbana suaíli não parece ter se alterado
 significativamente entre os séculos XI e início do XIX. A dominação
 portuguesa sobre essa região durante os séculos XVI e XVII se deu pelo
 sistema de feitorias fortificadas ou mesmo mediante pilhagens ocasionais
@@ -840,8 +869,8 @@ na tomada de todas as feitorias portuguesas ao norte de Moçambique pela
 marinha da dinastia Abuçaíde, intensificava-se a presença de
 uma elite mercante étnica e culturalmente árabe. Diferentemente da
 integração de homens persas e árabes nas redes familiares e políticas
-suaíle que se havia iniciado mil anos antes, a arabização da costa
-Suaíle sob o controle omani introduziu elementos espaciais exógenos nos
+suaíli que se havia iniciado mil anos antes, a arabização da costa
+Suaíli sob o controle omani introduziu elementos espaciais exógenos nos
 tecidos construídos das cidades mercantes. Esses elementos foram,
 sobretudo, um novo tipo de casa e uma forma de segregação sócio-espacial
 que acrescentava à tradicional separação entre classes sociais também a
@@ -852,9 +881,9 @@ colonial britânica, que essa segregação se tornaria mais intensa e
 explícita com o planejamento, em Zanzibar apenas, de um setor suburbano
 com princípios projetuais Beaux-Arts.
 
-## Edificações e território nas ilhas Suaíle arabizadas ##
+## Edificações e território nas ilhas Suaíli arabizadas ##
 
-A arquitetura das edificações nas principais cidades mercantes suaíle
+A arquitetura das edificações nas principais cidades mercantes suaíli
 durante os séculos XVIII e XIX evidencia processos de reorganização
 territorial mais amplos até do que a escala urbana onde essas
 edificações se inseriram. Até finais do século XVIII, a transição
@@ -863,9 +892,9 @@ Muitas casas em Lamu
 foram reconstruídas em pedra em finais do século XVIII usando, segundo
 @ghaidan:1974lamu, as mesmas projeções das fundações de construções mais
 antigas. A partir da virada do século, a dominação de Omã
-sobre a costa Suaíle implicou uma arabização cultural mais intensa. Essa
+sobre a costa Suaíli implicou uma arabização cultural mais intensa. Essa
 arabização se caracterizou pela introdução de um tipo doméstico
-caracteristicamente omani, contrastando com as casas suaíle
+caracteristicamente omani, contrastando com as casas suaíli
 tradicionais, e pela proliferação de novas fortificações.
 
 O poder omani, ao implantar novos fortes e reformar antigas
@@ -893,13 +922,13 @@ Essa centralização político-militar também contribuía, por sua vez, para
 consolidar uma área econômica integrada entre as ilhas mercantes, onde
 estavam sediados os governadores omanis e a maior parte da elite
 mercante árabe, e a terra firme. Faixa de importância estratégica, como
-mostra @salim:2010litoral, a terra firme suaíle fornecia o abastecimento
+mostra @salim:2010litoral, a terra firme suaíli fornecia o abastecimento
 agropecuário para as ilhas, mas também era a zona de passagem
 obrigatória para a maior parte das mercadorias exportadas desde as
 ilhas.
 
 De fato, completando o estabelecimento do poder da dinastia Abuçaíde
-nas ilhas da costa suaíle, vários assentamentos onde terminavam as
+nas ilhas da costa suaíli, vários assentamentos onde terminavam as
 caravanas continentais no litoral da terra firme entraram em declínio em
 meados do século XIX [@salim:2010litoral]. Essas localidades foram
 gradualmente suplantadas por estabelecimentos concorrentes implantados
@@ -912,9 +941,9 @@ século.
 ## Casas coloniais do período omani ao britânico ##
 
 À sombra das fortificações, a cultura urbana nas principais cidades
-mercantes das ilhas suaíle se transformava paulatinamente. A introdução
+mercantes das ilhas suaíli se transformava paulatinamente. A introdução
 nas ilhas do tipo arquitetônico do mercado árabe, que segundo
-@baumanova:2022urban [55] não tinha precedentes na costa suaíle a não
+@baumanova:2022urban [55] não tinha precedentes na costa suaíli a não
 ser no Husuni Kubwa em Quíloa Quisiuani, evidenciava a deslocação
 dos centros de atividade comercial da costa da terra firme para as
 ilhas. Mais ainda, os mercados faziam parte de um processo de
@@ -939,13 +968,13 @@ relações mercantis. Com isso, infere @steyn:2001analysis16, a casa omani
 podia atender mais livremente à demanda da elite árabe por mais
 privacidade e melhor desempenho bioclimático. Tratando-se de uma
 intromissão tardia e de elite em tecidos urbanos já organicamente
-consolidados com predominância da casa tradicional suaíle
+consolidados com predominância da casa tradicional suaíli
 [@amrousi:2012imperial, 75], o tipo omani nunca chegou a constituir uma
 série tipológica completa. Em vez disso, foi uma introdução pontual,
 numa forma já elaborada no estrangeiro, e ocupando apenas o extremo
 erudito do espectro arquitetônico.
 
-A aparente semelhança volumétrica entre as casas da elite suaíle
+A aparente semelhança volumétrica entre as casas da elite suaíli
 tradicional e as da elite árabe se explica tão somente pela restrição
 imposta a esta última pelo parcelamento já consolidado do solo em
 cidades como Lamu e Zanzibar e pelo uso dos mesmos materiais
@@ -960,7 +989,7 @@ da casa omani em Zanzibar podiam ser distribuídos de modo a aproveitar
 melhor a iluminação natural e a ventilação por convecção oferecidas pelo
 pátio.
 
-Embora a morada das elites nas cidades mercantes suaíle seja
+Embora a morada das elites nas cidades mercantes suaíli seja
 caracterizado pelos dois tipos já mencionados, a casa tradicional e a
 casa omani, cabe mencionar também a introdução, no início do século XX,
 de um tipo de origem indiana reformulado pelos colonizadores britânicos.
@@ -980,14 +1009,14 @@ século XX.
 
 Sob a suserania do Omã, a partir do século XVIII,
 a precedência do poder político-econômico estrangeiro dera início à
-segregação dos grupos étnicos suaíle e árabe em diferentes áreas do
+segregação dos grupos étnicos suaíli e árabe em diferentes áreas do
 tecido urbano. Isso foi especialmente o caso em Zanzibar onde a presença
 árabe foi mais intensa, e em Lamu onde ela se dividia espacialmente
 também entre a classe dominante (formada tanto por bantos quanto por
 omanis) e os iemenitas (hadramaui) subalternos.
 
 Se a arabização nas margens do oceano Índico trouxe certas
-transformações na organização urbana principalmente na costa Suaíle, a
+transformações na organização urbana principalmente na costa Suaíli, a
 colonização europeia nos séculos XIX a XX provocou uma reorganização
 sócio-espacial ainda mais profunda. A segregação étnica herdada da suserania
 omani foi intensificada pela crescente capacidade técnica, econômica e
@@ -1037,7 +1066,7 @@ rua estavam organizados por nível de renda e prestígio social
 concentravam a norte do forte omani, e as modestas casas de pau-a-pique
 da comunidade mais pobre predominavam no sul. Embora breve, o período
 colonial omani e sobretudo britânico deixou um legado sócio-espacial no
-tecido urbano das ilhas suaíle que persiste até os dias atuais.
+tecido urbano das ilhas suaíli que persiste até os dias atuais.
 
 
 # Imposição colonial do paradigma eurasiático no mundo malaio--indonésio #
@@ -1101,7 +1130,7 @@ eurasiático de propriedade individual do solo desarticulou esse sistema,
 fragilizando a situação jurídica de muitos *kampung* existentes e
 praticamente inviabilizando a continuidade dessa tradição.
 
-No caso das cidades mercantes da costa Suaíle, o desenvolvimento dos
+No caso das cidades mercantes da costa Suaíli, o desenvolvimento dos
 grandes centros urbanos coloniais no continente embotou o dinamismo
 comercial das antigas cidades nas ilhas. Sítios como Quíloa Quisiuani
 foram abandonados, enquanto Lamu estagnou --- o que permitiu a
