@@ -1746,7 +1746,7 @@ references:
   ISBN: 978-0-465-02271-7
   issued:
     - year: 2000
-  language: en-US
+  language: en
   number-of-pages: '246'
   publisher: Basic Books
   publisher-place: New York
@@ -1787,7 +1787,7 @@ references:
   ISBN: 978-1-59691-392-9
   issued:
     - year: 2008
-  language: en-US
+  language: en
   number-of-pages: '282'
   publisher: 'Bloomsbury Press : Distributed to the trade by Macmillan'
   publisher-place: New York
@@ -1853,7 +1853,7 @@ references:
     - year: 2018
       month: 12
       day: 4
-  language: en-US
+  language: en
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
   source: DOI.org (Crossref)
@@ -1945,13 +1945,41 @@ references:
   ISBN: 978-2-7467-5114-9
   issued:
     - year: 2019
-  language: fr-FR
+  language: fr
   number-of-pages: '1'
   publisher: Autrement
   publisher-place: Paris
   source: Library of Congress ISBN
   title: Atlas historique de l'Afrique
   type: book
+
+- id: ficher:2005paradigmas
+  abstract: >-
+    Em meados da década de 1950, todo um acervo de reflexões e realizações
+    urbanísticas se tornara moeda corrente nos meios profissionais — e era
+    adotado paradigmaticamente, seia em reformas e expansões de cidades
+    existentes, seja no planejamento de cidades novas. As propostas apresentadas
+    no concurso para o urbanismo da nova capital do Brasil, Brasilia, em 1957,
+    tanto aquela vencedora como as demais concorrentes, são exemplares desse
+    quadro. Não obstante, foi também naquela época que esse acervo passou s ser
+    objeto de um novo escrutínio crítico.
+  author:
+    - family: Ficher
+      given: Sylvia
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: ficher:2005paradigmas
+  container-title: >-
+    Cadernos <span smallcaps="smallcaps">PPG/AU</span> (Universidade Federal da
+    Bahia)
+  ISSN: 1679-6861
+  issued:
+    - year: 2005
+  language: pt
+  page: 49-71
+  title: Os paradigmas urbanísticos de Brasília
+  type: article-journal
+  volume: '3'
 
 - id: 'filechronological:'
   accessed:
@@ -2639,7 +2667,7 @@ references:
   ISBN: 978-0-521-20413-2
   issued:
     - year: 2000
-  language: en-GB
+  language: en
   number-of-pages: '738'
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -3424,7 +3452,7 @@ references:
   ISBN: 978-1-118-14210-3
   issued:
     - year: 2013
-  language: en-US
+  language: en
   number-of-pages: '660'
   publisher: Wiley
   publisher-place: Hoboken, N.J.

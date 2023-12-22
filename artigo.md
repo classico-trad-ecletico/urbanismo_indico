@@ -2,12 +2,10 @@
 title       : "Paradigmas urbanísticos no oceano Índico: cidades suaíli e malaias na Idade Moderna"
 #author      : Pedro P. Palazzo
 lang        : pt-BR
-bibliography: _data/biblio.yaml
+bibliography: "biblio.yaml"
 csl         : "chicago-fullnote-bibliography.csl"
 suppress-bibliography: true
 abstract: |
-  ## Resumo
-
   Palavras-chave: História urbana, Malásia e Indonésia, Costa Suaíli, Idade Moderna, Colonialidade
 
   ## Abstract
