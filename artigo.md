@@ -454,18 +454,13 @@ se preze devia ter *cidades* --- e só contam como cidades os grandes
 assentamentos muito densos encontrados na Europa, no mundo Árabe, na
 Índia e no "extremo Oriente". 
 
-O *kampung* é muito diferente do paradigma urbanístico chinês e europeu,
+O *kampung* era muito diferente do paradigma urbanístico chinês e europeu,
 de grandes cidades com um sistema cartorial de propriedade do solo e uma
 distinção nítida entre espaço público e espaço privado. Essa diferença
 já aparecia desde o século XV, com o assentamento dos primeiros
 comerciantes chineses no Sudeste asiático, e mais ainda entre os séculos
 XVII e XIX, quando os colonizadores europeus segregaram as cidades
 malaias em bairros ocidentais, chineses e "nativos".
-
-
-::: align-right
-![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers .overlay-slide}
-:::
 
 Com base nas diferenças urbanísticas, os chineses e sobretudo os
 britânicos consideravam o *kampung* malaio como primitivo ou inferior
@@ -475,20 +470,16 @@ os complexos murados e palacianos de influência indiana e chinesa no
 continente. Em contraste, abordou a cultura malaia unicamente pelo viés
 do desenvolvimento agrícola e comercial, sem nenhuma representação
 visual dos seus assentamentos.
-Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
-Evers ([@fig:evers]) apresentou, na bibliografia ocidental, o urbanismo
+Foi só no final da década de 1970 que o urbanista alemão 
+@evers:1977culture6 apresentou, na bibliografia ocidental, o urbanismo
 malaio como um paradigma alternativo ao do urbanismo chinês, e
 igualmente legítimo.
-
 
 ![Mapa da cidade de Singapura por [G.D. Coleman, 1839][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839}
 
 [G.D. Coleman, 1839]: https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg
 
-
-::: full
 ![Arrozal em terraços em Batad, Banaue, Filipinas Foto: [Uwe Aranas, 2008](https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg){#fig:arrozal}
-:::
 
 *Kampung* significa "povoado" nas línguas malaias. A configuração
 típica do *kampung* vem desde as origens da agricultura no Sudeste
@@ -496,31 +487,28 @@ asiático ([@fig:arrozal]). O conjunto se organiza em torno de um caminho
 estruturante ou de um ponto focal importante, como um templo, uma
 mesquita ou um complexo palaciano.
 
-
-O *kampung* resulta diretamente da distribuição dos arrozais
+O *kampung* resultava diretamente da distribuição dos arrozais
 ([@fig:singapore1839]) num grupo comunitário e da sucessão familiar sem
-partilha da terra. Como as terras são sempre propriedade coletiva de
-famílias estendidas, elas não se dividem em lotes menores e mais
+partilha da terra. Como as terras eram sempre propriedade coletiva de
+famílias estendidas, elas não se dividiam em lotes menores e mais
 estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
 Europa [@mohd:2012establishment].
 
-Além disso, Evers [-@evers:1977culture6] mostrou que as divisas
-geométricas entre glebas do *kampung* são pouco importantes, em
+Além disso, @evers:1977culture6 mostrou que as divisas
+geométricas entre glebas do *kampung* eram pouco importantes, em
 comparação com o uso dos espaços e dos recursos tangíveis. O critério
-mais relevante de organização do espaço é as redes de parentesco, que
-determinam a localização de casas principais e secundárias e o acesso a
+mais relevante de organização do espaço era as redes de parentesco, que
+determinavam a localização de casas principais e secundárias e o acesso a
 hortas e plantações ([@fig:kampung-sahabuddin-1]).
-À medida que a população da comunidade cresce, cada casa pode ser
+À medida que a população da comunidade crescia, cada casa podia ser
 ampliada segundo um sistema de ambientes modulares ([@fig:lim-malay])
 [@lim:1991malay *ap.* @beng:2015unleashing16].
 
 ![Esquema de um *kampung* rural simples [Mohd Sahabuddin, 2012](http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html)](https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg){#fig:kampung-sahabuddin-1}
 
-
 ![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg){#fig:lim-malay .line}
 
-
-Do mesmo modo, o *kampung* como um todo também se adensa até virar um
+Do mesmo modo, o *kampung* como um todo também se adensava até virar um
 distrito urbano compacto. Esse processo continua na urbanização
 contemporânea e tem sido um fator de manutenção da identidade regional,
 como num projeto da década de 1990 para um *kampung* nas Filipinas pela
@@ -528,26 +516,21 @@ firma americana Duany, Plater-Zyberk & co ([@fig:dpz1997]).
 
 ![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997](https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png){#fig:dpz1997}
 
-
-::: align-right
 ![*Pura* de Trowulan, século XIV, segundo [Kenneth Hall, 1996][], p. 99 ](https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png){#fig:hall-trowulan}
-:::
 
 [Kenneth Hall, 1996]: https://www.persee.fr/doc/arch_0044-8613_1996_num_52_1_3357
 
 Partindo do *kampung* como unidade social e urbanística *de base*, os
-estados malaios organizam o território em redes de poder político e
+estados malaios organizaram o território em redes de poder político e
 autoridade religiosa ([@fig:hall-java]). No século XIV, o poder político e
-religioso no império Majapahit é sinalizado pela construção de um *pura*
+religioso no império Majapahit foi sinalizado pela construção de um *pura*
 ou templo hinduísta.
 
-
-No entanto, o *pura* é mais do que um simples local de culto [@hall:1996ritual52]. O recinto
-retangular funciona também como fortificação, e dentro dela fica, além
+No entanto, o *pura* era mais do que um simples local de culto [@hall:1996ritual52]. O recinto
+retangular funcionava também como fortificação, e dentro dela ficava, além
 do templo, o palácio real. Do lado de fora da entrada principal, ao
-norte, está a praça do mercado. Outras moradias da corte e um mosteiro
-budista se aglomeram em volta do *pura* ([@fig:hall-trowulan]).
-
+norte, estava a praça do mercado. Outras moradias da corte e um mosteiro
+budista se aglomeravam em volta do *pura* ([@fig:hall-trowulan]).
 
 ![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV, segundo [Kenneth Hall, 1996][], p. 97 ](https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png){#fig:hall-java .line}
 
@@ -555,10 +538,10 @@ budista se aglomeram em volta do *pura* ([@fig:hall-trowulan]).
 
 À margem do império Majapahit e depois do seu declínio no final do
 século XIV, uma série de cidades-estado independentes
-tomam o controle do comércio marítimo. Na Malásia islâmica, do século XV
-em diante, as mesquitas não ocupam o centro do poder político, mas
-funcionam como centros comunitários em cada *kampung*. A sede do poder
-político nas cidades-estado é o *kota raja*, ou cidadela real
+tomaram o controle do comércio marítimo. Na Malásia islâmica, do século XV
+em diante, as mesquitas não ocupavam o centro do poder político, mas
+funcionavam como centros comunitários em cada *kampung*. A sede do poder
+político nas cidades-estado era o *kota raja*, ou cidadela real
 [@tajudeen:2005reading8, 5].
 
 ![Diagrama conceitual de um conjunto urbano malaio. Baseado em Tajudeen, 2005](https://i.pinimg.com/originals/c3/a8/52/c3a85244eda8a1be0ceaa0e380b410fe.png){#fig:malay-urbanism .line}
@@ -577,7 +560,7 @@ construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
 os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
 outra margem do rio.
 
-O *kota raja* funciona ele próprio como um *kampung* centrado no palácio
+O *kota raja* funcionava ele próprio como um *kampung* centrado no palácio
 e na sua mesquita ([@fig:malacca-kotaraja]).
 
 ::::::::::::::::::::::::::::::::: {#fig:malacca-kotaraja .columns .full}
@@ -603,9 +586,7 @@ adensou como uma vila comercial ([@fig:kampongglam]).
 
 ![Kampung Gelam e a expansão urbana de Singapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829](https://i.pinimg.com/originals/6d/08/26/6d0826cd3ee35fe72f8294b213f1de54.jpg){#fig:raffles} 
 
-
 ![Kampung Gelam no século XXI. Desenho de [Lee Xin Li, 2012](http://cargocollective.com/xinli/Maps)](https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg){#fig:kampongglam} 
-
 
 ![Casas comerciais na rua Kandahar, Kampung Gelam, Singapura. Foto: [Marcin Konsek, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg/1280px-2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg){#fig:shophouses}
 
@@ -615,10 +596,8 @@ A tipologia de casas comerciais característica de Singapura é um híbrido
 que resulta do adensamento dos *kampung* usando o parcelamento urbano da
 morada chinesa e as galerias cobertas introduzidas pelos britânicos.
 
-## Conclusão ## 
-
-O kampung malaio é um paradigma de urbanização bioclimática que parte
-de um assentamento rural e pode se desenvolver, por adensamentos
+O kampung malaio era, portanto, um paradigma de urbanização que partia
+de um assentamento rural e podia se desenvolver, por adensamentos
 sucessivos, até formar um distrito urbano compacto
 ([@fig:kampung-rochor]). Em contraste com esse tipo de adensamento *para
 dentro*, a urbanização da costa Suaíli na África é um paradigma de
