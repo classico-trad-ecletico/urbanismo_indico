@@ -39,12 +39,14 @@ vai de meados do século XIV até a virada do século XIX.
 Enquadrando os impérios da Ásia continental na sua margem norte, a costa
 Suaíli e o arquipélago Malaio fizeram parte do último apogeu das
 cidades-estado marítimas que controlavam gargalos nas rotas do comércio
-global ([@fig:rotas]). Porém, apesar de sua importância estratégica e
+global ([@fig:indico-redes]). Porém, apesar de sua importância estratégica e
 poderio consolidados desde a Idade Média, essas regiões ficaram
 registradas na historiografia como meros "empórios", nas palavras de
 @abu-lughod:1991european [253],
 cujos protagonistas teriam sido estrangeiros: árabes, persas, indianos,
 chineses e, sobretudo, europeus.
+
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](media/indico-redes.png){#fig:indico-redes}
 
 Por isso, as culturas urbanísticas suaíli e malaia têm sido pouco
 estudadas fora dos seus respectivos nichos disciplinares, quase que
@@ -60,6 +62,8 @@ assentamentos nativos. Esse argumento foi refutado a partir da década de
 @evers:1977differing44. Hoje pesquisada em seus próprios termos, a forma
 das cidades suaíli e malaias da Idade Moderna ainda é pouco
 representada, contudo, em abordagens comparativas e globais.
+
+<!--Importância para a formação de professores-->
 
 Um dos obstáculos à maior integração do universo suaíli e malaio na
 história urbana pré-colonial é de ordem conceitual. Tanto a história
@@ -94,6 +98,8 @@ tradição urbanística regional diante das imposições estrangeiras.
 # Do paradigma urbanístico eurasiático a uma metodologia não eurocêntrica #
 
 ## Por que paradigmas urbanísticos ##
+
+<!--Todo mundo sabe o que é uma cidade, mas ninguém sabe definir-->
 
 O paradigma como o universo de possibilidades admitido numa prática
 profissional vem do estudo da história das ciências por
@@ -140,7 +146,9 @@ extremo-oriental. Por mais que a compreensão europeia da *organização*
 de cidades fora desse eixo fosse imperfeita [@palazzo:2013fragmento10],
 o seu *status* de cidade não era posto em causa, como testemunha a
 quantidade de cidades da costa Suaíli presentes no atlas de Braun e
-Hogenberg, de 1575 ([@fig:braun.jpg]).
+Hogenberg, de 1575 ([@fig:braun]).
+
+![Georg Braun e Frans Hogenberg, Aden, Mombaça, Quíloa e Sofala, estampa publicada em *Civitates orbis terrarum*, 1575](media/braun.jpg){#fig:braun}
 
 Quanto à sua *condição* urbana, ela só chegou a ser posta em causa
 tardiamente, com
@@ -200,15 +208,21 @@ vez cada parcela delimita a área passível de ser construída por um
 agente privado --- quanto cronológica --- o arruamento vem antes do
 parcelamento, que precede a edificação ([fig:eurasiatico]).
 
+![Elementos urbanos próprios ao paradigma eurasiático](media/eurasiatico.png){#fig:eurasiatico}
+
+![Crescimentos urbanos no paradigma eurasiático](media/euro-cresce.png){#fig:euro-cresce}
+
 Além disso, como mostra o método
 italiano da tipologia processual concebido no pós-guerra por
 @muratori:1967civilta e refinado por @caniggia:2008lettura, cada
 categoria de elementos é também ela própria hierarquizada internamente.
 Esse sistema de hierarquias faz com que o crescimento das cidades no
 paradigma eurasiático tenha dois movimentos complementares: a expansão
-urbana linear ou radial ao longo dos traçados viários estruturantes, e o
-adensamento por capilarização e reparcelamento dos espaços já
-inicialmente urbanizados.
+urbana linear ao longo dos traçados viários estruturantes, com a
+formação de arrabaldes, a expansão radioconcêntrica com formação de
+cinturas marginais [@panerai:2006analise], e o adensamento por
+capilarização e reparcelamento dos espaços já inicialmente urbanizados
+[@palazzo:2021traditional] ([@fig:euro-cresce]).
 
 O paradigma urbanístico eurasiático descreve adequadamente grande parte
 dos territórios que, às vésperas da Idade Moderna, iam da bacia do
@@ -217,9 +231,10 @@ influência cultural indo-europeia, árabe islâmica e chinesa, bem como,
 desde o século XVI, os espaços americanos e africanos submetidos à
 colonização europeia ou islâmica. As margens dessa vasta zona cultural
 eram nebulosas, com culturas urbanas apenas parcialmente influenciadas
-pelo paradigma eurasiático: as sociedades arabizadas do delta interior
-do rio Níger e do Sudão, as cidades de influência persa na Ásia central,
-ou ainda aquelas de influência chinesa no nordeste deste continente.
+pelo paradigma eurasiático: as sociedades arabizadas na curva do rio
+Níger e no Sudão [@winters:1983classification10], as cidades de
+influência persa na Ásia central, ou ainda aquelas de influência chinesa
+nas imediações deste império.
 
 ## Eurocentrismo metodológico ##
 
@@ -255,8 +270,12 @@ Na margem oposta do oceano Índico, no Sudeste asiático continental e
 insular, vigora ao contrário um paradigma urbanístico relativamente
 unitário. Esse paradigma também foi, contudo, desconsiderado pelos
 colonizadores mediante nomenclaturas como "aldeia nativa", presente na
-cartografia de @coleman:1839town ([@fig:coleman]) e outros assim como no
-discurso textual.
+cartografia de @coleman:1839town ([@fig:singapore1839]) e outros assim
+como no discurso textual.
+
+![Mapa da cidade de Singapura por [G.D. Coleman, 1839][]](media/coleman.jpg){#fig:singapore1839}
+
+[G.D. Coleman, 1839]: https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg
 
 O não reconhecimento, desde o ponto de vista eurocêntrico, do caráter
 urbano nas povoações tradicionais da África e do Sudeste asiático
@@ -287,7 +306,8 @@ A esses deve ser ainda acrescentado o padrão do *kraal* zulu, incluindo
 seus antecedentes em todo o Sul da África, descritos por
 @huffman:2001central13. Reciprocamente, a existência de um paradigma
 urbanístico malaio--indonésio já foi estabelecida por autores como
-@evers:1977culture6 e @hall:1996ritual52.
+@evers:1977culture6, @hall:1996ritual52 e sobretudo
+@tajudeen:2021carving10.
 
 ## Metodologia ##
 
@@ -324,6 +344,8 @@ urbanas na orla do oceano Índico, o seu emprego ainda é incipiente e
 enviesado para o estudo da influência colonial (omani ou europeia) bem
 como das casas, em detrimento das cidades pré-coloniais no seu conjunto.
 
+<!--Arquitetura comparada: o que é como campo analítico e por que fazer?-->
+
 
 # Mundos conectados no século XIV #
 
@@ -349,11 +371,9 @@ costa Suaíli, mas @pradines:2020civilizacao afirma, ao contrário, que
 essa região estava desde o século XIII integrada ao circuito da Índia
 ocidental e península Arábica.
 
-![Circuitos econômico-culturais do sistema mundial, 1250--1350, segundo Janet Lippman. Mapa por [Derfel73, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:circuits}
+![Circuitos econômico-culturais do sistema mundial, 1250--1350, segundo Janet Lippman. Mapa por [Derfel73, 2011][]](media/circuitos.png){#fig:circuits}
 
 [Derfel73, 2011]: https://commons.wikimedia.org/wiki/File:Archaic_globalization.svg
-
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png){#fig:indico-redes}
 
 Uma combinação de mudanças climáticas, pandemias e reestruturações
 político-econômicas em todos os continentes afetou as redes comerciais e
@@ -366,8 +386,8 @@ de peste bubônica que se espalhou da China para a Europa na década de
 
 Na nova ordem econômica e política do século XIV, a rota da Seda,
 terrestre, e o sistema de navegação com as monções, no oceano Índico,
-continuavam sendo os caminhos estruturantes ([@fig:indico-redes]). No
-entanto, com a desagregação dos grandes impérios turco-mongóis na
+continuavam sendo os caminhos estruturantes (ver [@fig:indico-redes]).
+No entanto, com a desagregação dos grandes impérios turco-mongóis na
 segunda metade do século, a rota terrestre deixou de oferecer segurança
 e os percursos marítimos ganharam preeminência. Os mercadores muçulmanos
 escoavam produtos sobretudo de leste para oeste, ouro e prata fluíam no
@@ -379,7 +399,7 @@ Mediterrâneo.
 
 Nas margens desse sistema de rotas, várias cidades-estado prosperavam
 graças ao controle de pontos de passagem obrigatórios. Dentre muitas
-outras cidades, Palembang, Trowulan e Malacca nos estreitos malaios do
+outras cidades, Palimbão, Trowulan e Malaca nos estreitos malaios do
 Sudeste asiático, Lamu, Quíloa e Zanzibar na
 costa suaíli da África, e Veneza na Europa mediterrânea eram totalmente
 especializadas no comércio durante os séculos XIV e XV. A forma urbana
@@ -394,7 +414,8 @@ quanto à sua forma, densidade e processo de crescimento.
 
 Desagregação dos três circuitos na segunda metade do século XIV,
 isolamento das cidades-estado mercantes e sua posterior incorporação nos
-impérios expansionistas.
+impérios expansionistas. Dependência e fragilidade política
+[@abu-lughod:1991european].
 
 
 # Cidades da península e arquipélago Malaio #
@@ -409,7 +430,7 @@ longa distância. Por isso, se desenvolveram formando redes de acesso a
 matérias-primas e a produtos manufaturados que atravessam continentes,
 culturas e religiões diversas.
 
-![İbrahim Müteferrika. Sudeste asiático, folha do atlas [*Cihânnümâ*][] de Kâtip Çelebi, 1648](https://hcommons.org/app/uploads/sites/1002372/2022/01/lossy-page1-1021px-katip_celebis_cihannuma-map_of_south_east_asia.tif_.jpg){#fig:cihannuma}
+![İbrahim Müteferrika. Sudeste asiático, folha do atlas [*Cihânnümâ*][] de Kâtip Çelebi, 1648](media/cinnahuma.jpg){#fig:cihannuma}
 
 [*Cihânnümâ*]: https://commons.wikimedia.org/wiki/Category:Cihannümâ_(Kâtip_Çelebi)
 
@@ -424,17 +445,17 @@ No universo das cidades-estado mercantes dos séculos XIV e
 XV, os reinos do Sudeste asiático se destacaram pela sua
 diversidade étnica e religiosa.
 O império hindu-budista de Majapahit com a sua capital Trowulan, na ilha
-de Java ([@fig:majapahit]), e o sultanato muçulmano de Malacca
+de Java ([@fig:majapahit]), e o sultanato muçulmano de Malaca
 ([@fig:malacca]), na península malaia, controlaram cada um a seu tempo o
 comércio marítimo de
 especiarias e as exportações chinesas para o Ocidente. Assim, Trowulan e
-Malacca se tornaram centros de poder econômico e político muito prósperos.
+Malaca se tornaram centros de poder econômico e político muito prósperos.
 Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
 urbano e de construir perfeitamente adaptados ao clima equatorial.
 
-![Arquipélago de Nusantara no auge do império Majapahit, século XIV. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit}
+![arquipélago Malaio no auge do império Majapahit, século XIV. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](media/majapahit.png){#fig:majapahit}
 
-![Sultanato de Malacca no final do século XV. Mapa: [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca .r-stretch}
+![Sultanato de Malaca no final do século XV. Mapa: [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malaca_Sultanate-pt.svg)](media/malacca-sultanate.jpg){#fig:malacca .r-stretch}
 
 Parte dessa adaptação envolvia, segundo @abu-lughod:1991european, uma
 relativa instabilidade dos sítios dominantes. Ao contrário da China
@@ -445,52 +466,60 @@ comércio marítimo. No entanto, descobertas arqueológicas desde a década
 de 190 mostraram como a *existência* dessas principais cidades não era
 tão instável nem isolada quanto se acreditava [@hall:1996ritual52].
 
-## Urbanização do *kampung* ##
-
 Caracterizar a urbanização malaia esbarra no problema do vocabulário que
 se usa para definir e descrever o que é "urbano". Até a segunda metade
 do século XX, estava mais ou menos entendido que uma *civilização* que
 se preze devia ter *cidades* --- e só contam como cidades os grandes
 assentamentos muito densos encontrados na Europa, no mundo Árabe, na
-Índia e no "extremo Oriente". 
+Índia e no "extremo Oriente". No entanto, o registro arqueológico do
+Sudeste asiático e do arquipélago Malaio é ambíguo a esse respeito, o
+que levou autores como @bronson:1976palembang19 [236] a classificar as
+sociedades dessa região como "sem cidades, porém civilizadas".
 
-O *kampung* era muito diferente do paradigma urbanístico chinês e europeu,
-de grandes cidades com um sistema cartorial de propriedade do solo e uma
-distinção nítida entre espaço público e espaço privado. Essa diferença
-já aparecia desde o século XV, com o assentamento dos primeiros
+## Urbanização do *kampung* ##
+
+*Kampung* significa "povoado" em malaio e indonésio, talvez derivado,
+segundo @widodo:2009morphogenesis [81], da designação de "uma área
+próxima a um embarcadouro fluvial e a caminho do povoado". Na história
+urbana, esse termo é empregado para designar a unidade elementar do
+processo de urbanização em partes do Sudeste asiático e no arquipélago
+Malaio [@samsudin:2020adaptation447]. A configuração típica do *kampung*
+vem desde as origens da agricultura no Sudeste asiático
+([@fig:arrozal]). O conjunto se organiza em torno de um caminho
+estruturante ou de um ponto focal importante, como um local de culto, a
+casa de um núcleo familiar dominante, ou um edifício comunitário civil.
+
+![*Kampung* organizado em torno de uma antiga igreja (com cobertura em cobre e campanário), em meio a um arrozal em terraços, em Batad, Banaue, Filipinas. Foto: [CEphoto, Uwe Aranas, 2008][]](media/banaue.jpg){#fig:arrozal}
+
+[Uwe Aranas, 2008]: https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg
+
+O *kampung* era muito diferente do paradigma urbanístico eurasiático,
+caracterizado por grandes cidades com um sistema cartorial de
+propriedade pessoal do solo e uma distinção nítida entre espaço público
+e espaço privado, sem classificações intermediárias. Essa diferença já
+aparecia desde o século XII, com o assentamento dos primeiros
 comerciantes chineses no Sudeste asiático, e mais ainda entre os séculos
-XVII e XIX, quando os colonizadores europeus segregaram as cidades
-malaias em bairros ocidentais, chineses e "nativos".
+XIX e XX, quando os colonizadores europeus segregaram as cidades
+africanas e malaias em bairros ocidentais, asiáticos e nativos
+[@widodo:2009morphogenesis; sobre a África colonial, ver também
+@nnaemeka:2008racialization123].
 
 Com base nas diferenças urbanísticas, os chineses e sobretudo os
 britânicos consideravam o *kampung* malaio como primitivo ou inferior
-([@fig:singapore1839]). Na sua síntese sobre o urbanismo do Sudeste
+(ver [@fig:singapore1839]). Na sua síntese sobre o urbanismo do Sudeste
 asiático, em 1983, o geógrafo @wheatley:1983nagara ilustrou extensamente
 os complexos murados e palacianos de influência indiana e chinesa no
 continente. Em contraste, abordou a cultura malaia unicamente pelo viés
 do desenvolvimento agrícola e comercial, sem nenhuma representação
-visual dos seus assentamentos.
-Foi só no final da década de 1970 que o urbanista alemão 
-@evers:1977culture6 apresentou, na bibliografia ocidental, o urbanismo
-malaio como um paradigma alternativo ao do urbanismo chinês, e
+visual dos seus assentamentos. Foi apenas a partir da década de 1970 que
+pesquisas de cunho antropológico e arqueológico começaram a reconhecer o
+urbanismo malaio como um paradigma alternativo ao do urbanismo chinês, e
 igualmente legítimo.
 
-![Mapa da cidade de Singapura por [G.D. Coleman, 1839][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839}
-
-[G.D. Coleman, 1839]: https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg
-
-![Arrozal em terraços em Batad, Banaue, Filipinas Foto: [Uwe Aranas, 2008](https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg){#fig:arrozal}
-
-*Kampung* significa "povoado" nas línguas malaias. A configuração
-típica do *kampung* vem desde as origens da agricultura no Sudeste
-asiático ([@fig:arrozal]). O conjunto se organiza em torno de um caminho
-estruturante ou de um ponto focal importante, como um templo, uma
-mesquita ou um complexo palaciano.
-
-O *kampung* resultava diretamente da distribuição dos arrozais
-([@fig:singapore1839]) num grupo comunitário e da sucessão familiar sem
-partilha da terra. Como as terras eram sempre propriedade coletiva de
-famílias estendidas, elas não se dividiam em lotes menores e mais
+O *kampung* resultava diretamente da distribuição dos arrozais (ver
+[@fig:singapore1839]) num grupo comunitário e da sucessão familiar sem
+partilha da terra. Como as terras eram sempre propriedade coletiva desses
+grupos, elas não se dividiam em lotes menores e mais
 estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
 Europa [@mohd:2012establishment].
 
@@ -499,24 +528,27 @@ geométricas entre glebas do *kampung* eram pouco importantes, em
 comparação com o uso dos espaços e dos recursos tangíveis. O critério
 mais relevante de organização do espaço era as redes de parentesco, que
 determinavam a localização de casas principais e secundárias e o acesso a
-hortas e plantações ([@fig:kampung-sahabuddin-1]).
+hortas e plantações ([@fig:kampung-idid]).
 À medida que a população da comunidade crescia, cada casa podia ser
 ampliada segundo um sistema de ambientes modulares ([@fig:lim-malay])
 [@lim:1991malay *ap.* @beng:2015unleashing16].
 
-![Esquema de um *kampung* rural simples [Mohd Sahabuddin, 2012](http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html)](https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg){#fig:kampung-sahabuddin-1}
+![Esquema de um *kampung* rural simples. Idid e Salim, 2011 [-@idid:2011traditional]](media/idid-salim.jpg){#fig:kampung-idid}
 
-![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg){#fig:lim-malay .line}
+![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](media/lim-malay.jpg){#fig:lim-malay .line}
 
 Do mesmo modo, o *kampung* como um todo também se adensava até virar um
 distrito urbano compacto. Esse processo continua na urbanização
-contemporânea e tem sido um fator de manutenção da identidade regional,
-como num projeto da década de 1990 para um *kampung* nas Filipinas pela
-firma americana Duany, Plater-Zyberk & co ([@fig:dpz1997]).
+contemporânea e tem sido um fator de manutenção ou recuperação da
+identidade cultural malaia e indonésia. Isso tem ocorrido principalmente
+na urbanização de condomínios de casas e conjuntos habitacionais de
+interesse social ou de classe média [@misnat:2018re-adaptation]. No
+entanto, esse resgate da forma espacial do *kampung* vem sendo feito
+sobre o arcabouço jurídico herdado do período colonial, que substituiu a
+propriedade comunitária do espaço pelo parcelamento individualizado do
+solo.
 
-![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997](https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png){#fig:dpz1997}
-
-![*Pura* de Trowulan, século XIV, segundo [Kenneth Hall, 1996][], p. 99 ](https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png){#fig:hall-trowulan}
+![*Pura* de Trowulan, século XIV, segundo [Kenneth Hall, 1996][], p. 99 ](media/trowulan-pura.png){#fig:hall-trowulan}
 
 [Kenneth Hall, 1996]: https://www.persee.fr/doc/arch_0044-8613_1996_num_52_1_3357
 
@@ -532,9 +564,9 @@ do templo, o palácio real. Do lado de fora da entrada principal, ao
 norte, estava a praça do mercado. Outras moradias da corte e um mosteiro
 budista se aglomeravam em volta do *pura* ([@fig:hall-trowulan]).
 
-![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV, segundo [Kenneth Hall, 1996][], p. 97 ](https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png){#fig:hall-java .line}
+![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV, segundo [Kenneth Hall, 1996][], p. 97 ](media/trowulan-network.png){#fig:hall-java .line}
 
-## Malacca e Singapura ##
+## Malaca e Singapura ##
 
 À margem do império Majapahit e depois do seu declínio no final do
 século XIV, uma série de cidades-estado independentes
@@ -544,40 +576,31 @@ funcionavam como centros comunitários em cada *kampung*. A sede do poder
 político nas cidades-estado era o *kota raja*, ou cidadela real
 [@tajudeen:2005reading8, 5].
 
-![Diagrama conceitual de um conjunto urbano malaio. Baseado em Tajudeen, 2005](https://i.pinimg.com/originals/c3/a8/52/c3a85244eda8a1be0ceaa0e380b410fe.png){#fig:malay-urbanism .line}
+![Diagrama conceitual de um conjunto urbano malaio. Desenho do autor baseado em @tajudeen:2005reading8](https://i.pinimg.com/originals/c3/a8/52/c3a85244eda8a1be0ceaa0e380b410fe.png){#fig:malay-urbanism .line}
 
 <!--Diagramar distribuição étnica baseada em Wheatley 1973-->
 
-![Planta das fortificações holandesas em Malacca, no sítio do antigo forte português e anterior cidadela real malaia, Norte à esquerda. [Desenho holandês de 1656][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg/1280px-AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg){#fig:fortr-malacca}
+![Planta das fortificações holandesas em Malaca, no sítio do antigo forte português e anterior cidadela real malaia, Norte à esquerda. [Desenho holandês de 1656][]](media/fort.jpg){#fig:fortr-malacca}
 
 [Desenho holandês de 1656]: https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
 
-Malacca foi um dos reinos muçulmanos mais poderosos do século XV. A
+Malaca foi um dos reinos muçulmanos mais poderosos do século XV. A
 cidade controlava o estreito marítimo por onde passava uma grande parte
-do comércio chinês e indiano. O palácio de Malacca ficava onde seria
+do comércio chinês e indiano. O palácio de Malaca ficava onde seria
 construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
 ([@fig:fortr-malacca]). Era uma posição estratégica na foz do rio, entre
 os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
 outra margem do rio.
-
 O *kota raja* funcionava ele próprio como um *kampung* centrado no palácio
 e na sua mesquita ([@fig:malacca-kotaraja]).
 
-::::::::::::::::::::::::::::::::: {#fig:malacca-kotaraja .columns .full}
-::: {.column width="75%"}
-![Reconstituição do palácio por Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/53/c8/e5/53c8e5ddb750df9eeedb22a27723b629.jpg){#fig:malacca-kotarajaB}
-:::
-::: {.column width="25%"}
-![Planta reconstituída por William G. Shellabear, 1891](https://i.pinimg.com/originals/eb/d1/6e/ebd16e3bdcd83966a5273061d529397b.png){#fig:malacca-kotarajaA .line .overlay-slide .fragment}
-:::
-O *kota raja* de Malacca no século XV
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Reconstituição do *kota raja* e da cidade comercial por Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/ef/b3/33/efb3334ce5187082dad839f580334637.jpg){#fig:malacca-kotarajaC}
+![Implantação de Malaca no século XV. Reconstituição e desenho do autor](media/malaca.png){#fig:malacca-kotaraja}
 
 ------------------------------------------------------------------------
 
 <!--Antigo centro palaciano baseado em Wheatley 1973-->
+
+![Conjunto urbano de Singapura às vésperas da renovação urbana imposta pelo governo britânico (1819). Reconstituição do autor](media/sg-pre-uk.png){#fig:sg-pre-uk}
 
 O Kampung Gelam, em Singapura, é outra antiga cidadela real malaia [@tajudeen:kampung].
 Durante a ocupação britânica, do início do século XIX até a metade do
@@ -588,7 +611,7 @@ adensou como uma vila comercial ([@fig:kampongglam]).
 
 ![Kampung Gelam no século XXI. Desenho de [Lee Xin Li, 2012](http://cargocollective.com/xinli/Maps)](https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg){#fig:kampongglam} 
 
-![Casas comerciais na rua Kandahar, Kampung Gelam, Singapura. Foto: [Marcin Konsek, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg/1280px-2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg){#fig:shophouses}
+![Casas comerciais na rua Kandahar, Kampung Gelam, Singapura. Foto: [Marcin Konsek, 2016][]](media/kandahar.jpg){#fig:shophouses}
 
 [Marcin Konsek, 2016]: https://commons.wikimedia.org/wiki/File:2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg
 
@@ -604,6 +627,8 @@ dentro*, a urbanização da costa Suaíli na África é um paradigma de
 adensamento *para fora*.
 
 ![Kampung Rochor, Singapura, 1822, demolido em 1964. [Arquivo Nacional de Singapura](https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/)](https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg){#fig:kampung-rochor}
+
+## Arquitetura ##
 
 # Cidades da costa Suaíli #
 
@@ -629,43 +654,32 @@ viário.
 
 Longe de ser um exemplo de construção "primitiva" ou derivativa da
 influência islâmica, a arquitetura africana tem história e
-desenvolvimento autônomo (não significa isolado). Estudos arqueológicos
+desenvolvimento autônomo (o que não significa isolado). Estudos arqueológicos
 e antropológicos desde a década de 1980, sobretudo na África do Sul e na
 costa leste do continente, revolucionaram o entendimento acadêmico das
 tradições construtivas africanas.
 
-Na África tropical, dois modos de urbanizar se destacam pela sua
-expansão geográfica e cronológica: as cidades mercantes da costa Suaíli,
-no litoral do oceano Índico, e os complexos agropastoris do Níger-Congo
-([@fig:urb-africa]). Esses dois modos são bem distintos entre si porque
-eles se adaptaram a contextos ambientais, econômicos e culturais muito
-diferentes.
-
-![Universos urbanísticos africanos, séculos XIV--XVIII. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:África_urbanismos.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/África_urbanismos.png/1084px-África_urbanismos.png){#fig:urb-africa}
-
-
-![Principais cidades e eixos comerciais da costa suaíli. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:Cidades-estado_da_costa_suaíli.png)](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cidades-estado_da_costa_suaíli.png){#fig:costa-suaile}
+![Principais cidades e eixos comerciais da costa suaíli. Desenho do autor](media/costa-suaili.png){#fig:costa-suaili}
 
 A costa Suaíli é uma parte do litoral africano do oceano Índico, com
 mais de três mil quilômetros de extensão de norte a sul. Ela é formada
 por uma sequência de cidades-estado especializadas no comércio marítimo,
 fundadas e habitadas por povos de etnia banto que falam a língua suaíli
-([@fig:costa-suaile]). Os banto migraram para essa região no primeiro
-milênio antes de Cristo, e no século I a.C. o litoral do
-Índico já era uma rota comercial importante.
+([@fig:costa-suaili]). Os banto migraram para essa região no primeiro
+milênio antes de Cristo, e no século I a.C. o litoral do Índico já era
+uma rota comercial importante [@costa:2011enxada].
 
-Estuários de rios, baías e ilhas ao longo da costa se tornam
+Estuários de rios, baías e ilhas ao longo da costa se tornaram
 pontos de trocas entre os produtos trazidos do interior do continente e
-aqueles que chegam em navios árabes, persas, indianos e malaios, junto
+aqueles que chegavam em navios árabes, persas, indianos e malaios, junto
 com a influência cultural vinda dessas regiões.
-As principais cidades-estado suaíli, como Lamu, Quíloa e Sofala, se
-consolidam a partir do século  VIII d.C., quando se convertem ao islã, e
-atingem o seu auge entre os séculos XII e XIV.
-Nos séculos XVI e XVII, as cidades suaíli
-perdem poder econômico para as grandes potências marítimas da época:
-Portugal e Omã. Esses dois
-impérios acabam por partilhar a costa suaíli entre si, e várias das
-antigas cidades-estado são abandonadas.
+As principais cidades-estado suaíli, como Shanga, Lamu, Quíloa e Sofala, se
+consolidaram a partir do século  VIII d.C., quando se converteram ao
+islã, e atingiram o seu auge entre os séculos XII e XIV [@costa:2011enxada].
+Nos séculos XVI e XVII, as cidades suaíli perderam poder econômico para
+as grandes potências marítimas da época: Portugal e Omã. Esses dois
+impérios acabaram por partilhar a costa suaíli entre si, e várias das
+antigas cidades-estado foram abandonadas [@salim:2010costa].
 
 Por causa dessa partilha, e das hierarquias raciais em vigor no século
 XIX, durante muito tempo as pesquisas ocidentais consideraram as cidades
@@ -674,7 +688,9 @@ europeus entendiam que cidades comerciais adensadas não tinham lugar
 numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
 @ghaidan:1974lamu defendeu a sua dissertação de mestrado demonstrando
 que as raízes socioeconômicas, culturais e construtivas da cidade suaíli
-de Lamu são, de fato, africanas.
+de Lamu são, de fato, africanas. Essa conclusão foi paulatinamente
+estendida por outros pesquisadores ao conjunto da costa Suaíli, e
+atualmente é a interpretação pacificada.
 
 
 ## Urbanização dos *mitaa* ## 
@@ -687,13 +703,27 @@ dominante. Os vários *mitaa* que compunham uma cidade, por sua vez, eram
 dispostos concentricamente segundo a proximidade sociopolítica dessas
 famílias dominantes com respeito ao poder central.
 
-<!--Contextualizar e comentar citação-->
+Deve-se a @ghaidan:1974lamu [76, tradução nossa] a primeira síntese em
+inglês sobre a natureza do *mtaa* no contexto da urbanização adensada
+das cidades suaíli:
 
-> A study of Swahili house groupings suggests that the *mtaa* may have
-> developed along the following lines: a house was built on a large
-> site; with the demand for additional accommodation other units were
-> added, arranged around a central private access. [@ghaidan:1974lamu,
-> 76]
+> Um estudo de agrupamentos domésticos suaíli sugere que o *mtaa* pode
+> ter se formado como segue: uma casa foi construída num sítio espaçoso;
+> com a demanda por mais moradias, outras construções foram
+> acrescentadas, dispostas em torno de um acesso privativo central.
+
+Trata-se, portanto, de uma forma de ocupação do espaço onde um conjunto
+de moradias subsidiárias gravitava em torno de uma casa dominante. O
+adensamento do *mtaa* se dava pelo preenchimento gradual dos
+interstícios livres entre as construções existentes. Na sua forma final,
+o *mtaa* terminava por ter uma configuração introvertida, onde as
+frentes das casas estavam, segundo @steyn:2001analysis16,
+preferencialmente orientadas para uma praça de dimensões mínimas. Essa
+praça era discretamente acessível por ruelas que garantiam o afastamento
+entre as edificações, de modo a permitir a ventilação cruzada
+([@fig:mtaa]).
+
+![Esquema da formação e adensamento de um *mtaa*. Desenho do autor](media/mtaa.png){#fig:mtaa}
 
 O traçado geral das cidades suaíli não decorria de um plano
 centralizado, mas se organizava a partir de princípios culturais
@@ -718,15 +748,6 @@ tecido construído, preservando os espaços abertos com importância
 cívica, por exemplo em volta das mesquitas de bairro e nas áreas dos
 mercados [Horton *ap.* @fleisher:2012finding29].
 
-O próprio comércio tinha significado político: a compra e venda dos
-carregamentos dos navios e das caravanas em Quíloa acontecia no palácio
-([@fig:kilwa-palacio]) e nas residências da nobreza mercante
-[@allen:1981swahili14]. Essa atividade se distinguia, assim, do mercado
-de subsistência local, que acontecia nos largos junto às portas da cidade
-e nos bairros de casas de adobe [@pradines:2018nouveau].
-
-![Planta do palácio de Quíloa Quisiuani](https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png){#fig:kilwa-palacio .line}
-
 ![Planta arqueológica da cidade de Gedi. Wynne-Jones, 2014](https://i.pinimg.com/originals/19/a9/ab/19a9abb6b9df439e95e55f846d3ce3d5.png){#fig:gedi-plan .line}
 
 Assim como o *kampung* malaio, a cidade suaíli não tinha um parcelamento
@@ -749,6 +770,15 @@ entre as casas, necessária no clima extremamente úmido da costa
 equatorial do oceano Índico.
 
 ![Plano de conservação da área central de Lamu](https://i.pinimg.com/originals/45/57/96/455796a4f940e6f1723693ad4b2deb05.png){#fig:lamu-plan}
+
+![Planta do palácio de Quíloa Quisiuani](https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png){#fig:kilwa-palacio .line}
+
+O próprio comércio tinha significado político: a compra e venda dos
+carregamentos dos navios e das caravanas em Quíloa acontecia no palácio
+([@fig:kilwa-palacio]) e nas residências da nobreza mercante
+[@allen:1981swahili14]. Essa atividade se distinguia, assim, do mercado
+de subsistência local, que acontecia nos largos junto às portas da cidade
+e nos bairros de casas de adobe [@pradines:2018nouveau].
 
 ## Arquitetura ##
 
@@ -775,7 +805,7 @@ alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
 Planta de casa mercante suaíli em Lamu, segundo Usam Ghaidan, 1974
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg){#fig:songo-mnara} 
+![Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg)](media/songo-casa.jpg){#fig:songo-mnara} 
 
 ![Mesquita na vila de Shela, ilha de Lamu, 1738. Planta e corte segundo Usam Ghaidan, 1974](https://i.pinimg.com/originals/83/aa/33/83aa33eb2c76ea24d82383d1683abc3c.png){#fig:shela-plan .line}
 
@@ -788,12 +818,12 @@ também para as casas nos bairros centrais da cidade. Corais vivos eram
 usados para executar acabamentos coloridos e conchas são trituradas para
 produzir argamassa.
 
-![Exterior da mesquita maior de Quíloa Quisiuani. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg){#fig:kilwa-mesquita-ext}
+![Exterior da mesquita maior de Quíloa Quisiuani. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#)](media/kilwa-masjid.jpg){#fig:kilwa-mesquita-ext}
 
-![Interior da mesquita maior de Quíloa Quisiuani. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg){#fig:kilwa-mesquita-int .r-stretch}
+![Interior da mesquita maior de Quíloa Quisiuani. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](media/kilwa-stanley.jpg){#fig:kilwa-mesquita-int .r-stretch}
 
 A configuração espacial e estrutural das principais mesquitas dos
-séculos XI a XVIII era inspirada na arquitetura persa e egípcia. O partido
+séculos XI a XVIII era inspirada, segundo @costa:2011enxada, na arquitetura iemenita. O partido
 habitual era o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
@@ -826,12 +856,12 @@ significativa dos tecidos edificados.
 
 Entretanto, desde a guerra entre Portugal e Omã em 1658--98 que culminou
 na tomada de todas as feitorias portuguesas ao norte de Moçambique pela
-marinha da dinastia Abuçaíde, intensificava-se a presença de
-uma elite mercante étnica e culturalmente árabe. Diferentemente da
+marinha da dinastia Abuçaíde [@salim:2010costa], intensificava-se a presença
+de uma elite mercante étnica e culturalmente árabe. Diferentemente da
 integração de homens persas e árabes nas redes familiares e políticas
 suaíli que se havia iniciado mil anos antes, a arabização da costa
 Suaíli sob o controle omani introduziu elementos espaciais exógenos nos
-tecidos construídos das cidades mercantes. Esses elementos foram,
+tecidos construídos das cidades mercantes [@steyn:2003search18]. Esses elementos foram,
 sobretudo, um novo tipo de casa e uma forma de segregação sócio-espacial
 que acrescentava à tradicional separação entre classes sociais também a
 segregação étnica.
@@ -839,7 +869,7 @@ segregação étnica.
 No entanto, seria apenas no terceiro ciclo, quando da implantação
 colonial britânica, que essa segregação se tornaria mais intensa e
 explícita com o planejamento, em Zanzibar apenas, de um setor suburbano
-com princípios projetuais Beaux-Arts.
+com princípios projetuais pitorescos, de inspiração anglo-indiana.
 
 ## Edificações e território nas ilhas Suaíli arabizadas ##
 
@@ -882,10 +912,10 @@ Essa centralização político-militar também contribuía, por sua vez, para
 consolidar uma área econômica integrada entre as ilhas mercantes, onde
 estavam sediados os governadores omanis e a maior parte da elite
 mercante árabe, e a terra firme. Faixa de importância estratégica, como
-mostra @salim:2010litoral, a terra firme suaíli fornecia o abastecimento
+mostra @salim:2010litoral, a terra firme suaíli fornecia, de longa data, o abastecimento
 agropecuário para as ilhas, mas também era a zona de passagem
 obrigatória para a maior parte das mercadorias exportadas desde as
-ilhas.
+ilhas [@costa:2011enxada].
 
 De fato, completando o estabelecimento do poder da dinastia Abuçaíde
 nas ilhas da costa suaíli, vários assentamentos onde terminavam as
@@ -1001,7 +1031,7 @@ funcionários ou empreendedores europeus:
 > argumentar, [um papel] no contexto urbano que atendia prioritariamente
 > ao viajante, ao colono e a seus patrocinadores, e secundariamente aos
 > seus [habitantes] indígenas.
-> [@amrousi:2012imperial, 68]
+> [@amrousi:2012imperial, 68, tradução nossa]
 
 Após a tomada direta do poder em Zanzibar pelo Reino Unido em 1913, a
 segregação dos bairros urbanos segundo critérios étnico-raciais se
@@ -1029,24 +1059,23 @@ colonial omani e sobretudo britânico deixou um legado sócio-espacial no
 tecido urbano das ilhas suaíli que persiste até os dias atuais.
 
 
-# Imposição colonial do paradigma eurasiático no mundo malaio--indonésio #
-
-Desenvolver ou eliminar?
-
-## Infraestrutura como discurso colonial em Jacarta ##
-
-Argumento acerca da incapacidade dos nativos em reconhecer o valor ou
-dar manutenção na infraestrutura de canais que conferia viabilidade
-ambiental à Jacarta colonial, mas declínio do sítio antecede a
-independência, com partida dos holandeses para um sítio mais salubre.
-
-## Reconstrução britânica de Singapura ##
-
-- Destruição do kampung palaciano original para implantação do forte
-- Isolamento do Kampong Gelam com demolição de bairros lindeiros
-- Demarcação das vilas nativas
-- Criação tardia e demolição do Kampong Rochor
-
+<!--
+   -# Imposição colonial do paradigma eurasiático no mundo malaio--indonésio #
+   -
+   -## Infraestrutura como discurso colonial em Jacarta ##
+   -
+   -Argumento acerca da incapacidade dos nativos em reconhecer o valor ou
+   -dar manutenção na infraestrutura de canais que conferia viabilidade
+   -ambiental à Jacarta colonial, mas declínio do sítio antecede a
+   -independência, com partida dos holandeses para um sítio mais salubre.
+   -
+   -## Reconstrução britânica de Singapura ##
+   -
+   -- Destruição do kampung palaciano original para implantação do forte
+   -- Isolamento do Kampong Gelam com demolição de bairros lindeiros
+   -- Demarcação das vilas nativas
+   -- Criação tardia e demolição do Kampong Rochor
+   -->
 
 # Conclusão #
 
@@ -1105,4 +1134,11 @@ urbano europeu. Após a independência, o urbanismo modernista de amplas
 avenidas e grandes edifícios isolados em concreto armado contribuiu para
 uma rutura ainda maior entre o paradigma urbanístico tradicional e os
 novos crescimentos urbanos.
+
+<!--
+   -Não falei do sul da Índia nem no Sudeste asiático continental, muito
+   -menos da hinterlândia africana.
+   -->
+
+<!--Importância desse conteúdo para a formação de professores-->
 
