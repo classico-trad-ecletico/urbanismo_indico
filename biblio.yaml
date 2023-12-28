@@ -4456,76 +4456,6 @@ references:
   type: article-journal
   volume: '13'
 
-- id: mohd:2012establishment
-  accessed:
-    - year: 2020
-      month: 8
-      day: 4
-  author:
-    - family: Mohd Sahabuddin
-      given: Mohd Firrdhaus
-  citation-key: mohd:2012establishment
-  container-title: Firrbudi aka Lensahijau
-  issued:
-    - year: 2012
-      month: 10
-      day: 18
-  language: en
-  source: Blogger
-  title: 'The establishment of ''air house'' standard in tropical countries : part 2'
-  type: post-weblog
-  URL: >-
-    http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html
-
-- id: mohd:2015traditional9
-  abstract: >-
-    Large migration from rural areas to urban areas like Kuala Lumpur has led to
-    some implications for economic, social and cultural development. This high
-    population has placed enormous demand on the existing housing stocks,
-    especially for low-income groups. However, some issues arise, one of which
-    is overheated indoor air temperature. This problem contributes to the
-    high-energy usage that forces huge sums of money to be spent on cooling the
-    house by using mechanical equipment. Therefore, this study focuses on
-    thermal comfort in social housing, and incorporates traditional values into
-    its design to achieve a certain measurement of natural ventilation in a
-    house. From the study, the carbon emission and energy consumption for an
-    air-conditioned house is 67%, 66% higher than a naturally ventilated house.
-    Therefore, this research has come up with a new typology design, which has a
-    large exposed wall area and full-length openings on the opposite walls to
-    increase cross ventilation. At the end of this research, the measurement of
-    thermal comfort for a naturally ventilated building called 'Air House' has
-    been identified.
-  accessed:
-    - year: 2020
-      month: 8
-      day: 4
-  author:
-    - family: Mohd Sahabuddin
-      given: Mohd Firrdhaus
-    - family: Gonzalez-Longo
-      given: Cristina
-  citation-key: mohd:2015traditional9
-  container-title: 'ArchNet-IJAR: International Journal of Architectural Research'
-  ISSN: 1938-7806
-  issue: '2'
-  issued:
-    - year: 2015
-      month: 7
-      day: 31
-  language: en
-  license: cc_by_nc_nd
-  number: '2'
-  number-of-pages: '14'
-  page: 31-44
-  source: strathprints.strath.ac.uk
-  title: >-
-    Traditional values and their adaptation in social housing design : towards a
-    new typology and establishment of 'Air House' standard in Malaysia
-  title-short: Traditional values and their adaptation in social housing design
-  type: article-journal
-  URL: https://strathprints.strath.ac.uk/53996/
-  volume: '9'
-
 - id: morris:1985historia
   author:
     - family: Morris
@@ -4990,6 +4920,47 @@ references:
   title-short: '*Ile Timi*'
   type: paper-conference
   URL: http://library.witpress.com/viewpaper.asp?pcode=STR11-009-1
+
+- id: palazzo:2021vernacular
+  abstract: >-
+    Traditional towns in Portugal and Brazil have evolved a finely tuned
+    coordination between, on the one hand, modular dimensions for street widths
+    and lot sizes, and on the other, a typology of room shapes and layouts
+    within houses. Despite being well documented in urban history, this
+    coordination was in the last century often interpreted as contingent, a
+    result of the limited material means of pre-industrial societies. But the
+    continued application and gradual adaptation of these urban and
+    architectural patterns through periods of industrialization and economic
+    development suggests that they respond both to enduring housing requirements
+    and to piecemeal urban growth. This article surveys the persistence of urban
+    and architectural patterns up to the early 20th century, showing their
+    resilience in addressing modern housing and urbanization requirements.
+  accessed:
+    - year: 2021
+      month: 11
+      day: 10
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021vernacular
+  container-title: Journal of Traditional Building, Architecture and Urbanism
+  DOI: 10.51303/jtbau.vi2.524
+  ISSN: 2660-583X
+  issue: '2'
+  issued:
+    - year: 2021
+      month: 11
+      day: 10
+  language: en
+  license: >-
+    Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+    License (CC-BY-NC-ND)
+  page: 359-370
+  source: traditionalarchitecturejournal.com
+  title: 'Vernacular patterns in Portugal and Brazil: evolution and adaptations'
+  title-short: Vernacular patterns in Portugal and Brazil
+  type: article-journal
+  URL: https://traditionalarchitecturejournal.com/index.php/home/article/view/524
 
 - id: panerai:2006analise
   author:
@@ -5797,6 +5768,76 @@ references:
   URL: https://doi.org/10.1080/1360236032000134835
   volume: '8'
 
+- id: sahabuddin:2012establishment
+  accessed:
+    - year: 2020
+      month: 8
+      day: 4
+  author:
+    - family: Sahabuddin
+      given: Mohd Firrdhaus
+  citation-key: sahabuddin:2012establishment
+  container-title: Firrbudi aka Lensahijau
+  issued:
+    - year: 2012
+      month: 10
+      day: 18
+  language: en
+  source: Blogger
+  title: 'The establishment of ''air house'' standard in tropical countries : part 2'
+  type: post-weblog
+  URL: >-
+    http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html
+
+- id: sahabuddin:2015traditional
+  abstract: >-
+    Large migration from rural areas to urban areas like Kuala Lumpur has led to
+    some implications for economic, social and cultural development. This high
+    population has placed enormous demand on the existing housing stocks,
+    especially for low-income groups. However, some issues arise, one of which
+    is overheated indoor air temperature. This problem contributes to the
+    high-energy usage that forces huge sums of money to be spent on cooling the
+    house by using mechanical equipment. Therefore, this study focuses on
+    thermal comfort in social housing, and incorporates traditional values into
+    its design to achieve a certain measurement of natural ventilation in a
+    house. From the study, the carbon emission and energy consumption for an
+    air-conditioned house is 67%, 66% higher than a naturally ventilated house.
+    Therefore, this research has come up with a new typology design, which has a
+    large exposed wall area and full-length openings on the opposite walls to
+    increase cross ventilation. At the end of this research, the measurement of
+    thermal comfort for a naturally ventilated building called 'Air House' has
+    been identified.
+  accessed:
+    - year: 2020
+      month: 8
+      day: 4
+  author:
+    - family: Sahabuddin
+      given: Mohd Firrdhaus
+    - family: Gonzalez-Longo
+      given: Cristina
+  citation-key: sahabuddin:2015traditional
+  container-title: 'ArchNet-IJAR: International Journal of Architectural Research'
+  ISSN: 1938-7806
+  issue: '2'
+  issued:
+    - year: 2015
+      month: 7
+      day: 31
+  language: en
+  license: cc_by_nc_nd
+  number: '2'
+  number-of-pages: '14'
+  page: 31-44
+  source: strathprints.strath.ac.uk
+  title: >-
+    Traditional values and their adaptation in social housing design : towards a
+    new typology and establishment of 'Air House' standard in Malaysia
+  title-short: Traditional values and their adaptation in social housing design
+  type: article-journal
+  URL: https://strathprints.strath.ac.uk/53996/
+  volume: '9'
+
 - id: said:2008parametric6
   abstract: >-
     A parametric shape grammar of the traditional Malay houses (TMH) built in
@@ -5882,6 +5923,37 @@ references:
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S1877042813044194
   volume: '105'
+
+- id: saladin:2019views
+  abstract: "AbstractThe physical object of architecture is a manifestation of thoughtful concept of the architect. Philosophically, in vernacular architecture, the concept of thoughts is being revealed in the form of local wisdom. Kampung Naga, as one of the vernacular villages in West Java, maintains its traditional culture although the inhabitants have undergone modern thought. The modern era has developed immensely which could affect the decline in preserving the local wisdom. To anticipate the decline, it is necessary to make an effort to formulate the local wisdom which is still existed. This paper aims to explain the results of research in Kampung Naga which focusing on physical elements and accommodating the results of previous research concerning on local wisdom. Data and information as written materials were obtained through field survey, literature review, and previous research studies. The results of the study show that local wisdom in Kampung Naga has an effect on the aspects of life in terms of social interaction, land law, physical building ideas and its spatial order. The paper will be ended with the diagrammatic conceptual model of the aspects of the manifestation of local wisdom in Kampung Naga.\_Keywords: manifestation, local wisdom, Kampung Naga"
+  accessed:
+    - year: 2023
+      month: 12
+      day: 26
+  author:
+    - family: Saladin
+      given: Agus
+    - family: Purnomo
+      given: Agus Budi
+    - family: Tundono
+      given: Sri
+  citation-key: saladin:2019views
+  container-title: International Journal on Livable Space
+  container-title-short: Int.J.Livable.Sp.
+  DOI: 10.25105/livas.v3i1.3868
+  ISSN: 2548-7515, 2580-7552
+  issue: '1'
+  issued:
+    - year: 2019
+      month: 2
+      day: 12
+  page: 13-22
+  source: DOI.org (Crossref)
+  title: 'Views on the manifestation of local wisdom (case: kampung Naga, West Java)'
+  title-short: Views on the manifestation of local wisdom
+  type: article-journal
+  URL: https://e-journal.trisakti.ac.id/index.php/livas/article/view/3868
+  volume: '3'
 
 - id: salim:2010costa
   author:
@@ -7435,7 +7507,7 @@ references:
     - family: Fleisher
       given: Jeffrey
   citation-key: wynne-jones:2014swahili
-  container-title: Making Ancient Cities
+  container-title: Making ancient cities
   DOI: 10.1017/CBO9781107110274.005
   editor:
     - family: Creekmore

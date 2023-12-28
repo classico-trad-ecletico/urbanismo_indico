@@ -208,7 +208,16 @@ vez cada parcela delimita a área passível de ser construída por um
 agente privado --- quanto cronológica --- o arruamento vem antes do
 parcelamento, que precede a edificação ([fig:eurasiatico]).
 
-![Elementos urbanos próprios ao paradigma eurasiático](media/eurasiatico.png){#fig:eurasiatico}
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:eurasiatico}
+![Traçados viários](media/pico-viario.png){#fig:picoA width=50%}
+![Parcelamento do solo](media/pico-lotes.png){#fig:picoB width=50%}
+
+![Edificações](media/pico-edificios.png){#fig:picoC}
+![Síntese do tecido construído](media/pico-tudo.png){#fig:picoD}
+
+Elementos urbanos próprios ao paradigma eurasiático: reconstituição do
+tecido urbano pré-moderno das Lajes do Pico, Açores. Desenhos do autor
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Crescimentos urbanos no paradigma eurasiático](media/euro-cresce.png){#fig:euro-cresce}
 
@@ -222,7 +231,7 @@ urbana linear ao longo dos traçados viários estruturantes, com a
 formação de arrabaldes, a expansão radioconcêntrica com formação de
 cinturas marginais [@panerai:2006analise], e o adensamento por
 capilarização e reparcelamento dos espaços já inicialmente urbanizados
-[@palazzo:2021traditional] ([@fig:euro-cresce]).
+[@palazzo:2021vernacular] ([@fig:euro-cresce]).
 
 O paradigma urbanístico eurasiático descreve adequadamente grande parte
 dos territórios que, às vésperas da Idade Moderna, iam da bacia do
@@ -521,7 +530,7 @@ O *kampung* resultava diretamente da distribuição dos arrozais (ver
 partilha da terra. Como as terras eram sempre propriedade coletiva desses
 grupos, elas não se dividiam em lotes menores e mais
 estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
-Europa [@mohd:2012establishment].
+Europa [@sahabuddin:2012establishment].
 
 Além disso, @evers:1977culture6 mostrou que as divisas
 geométricas entre glebas do *kampung* eram pouco importantes, em
@@ -789,8 +798,9 @@ urbano com a necessidade de ventilação no clima tropical.
 As casas da elite mercante quase sempre tinham a entrada principal
 voltada para
 o norte ou, mais raramente, para o leste. Essas casas eram uma simples
-enfiada longitudinal de cômodos muito alongados para os lados. Essa
-enfiada se ampliava para cima, para os lados e para os fundos conforme a
+enfiada longitudinal de cômodos muito alongados para os lados,
+terminando em alcovas mais estreitas [@ghaidan:1974lamu]. Essa enfiada
+se ampliava para cima, para os lados e para os fundos conforme a
 necessidade. As casas nesse núcleo adensado terminavam por se organizar
 num gradiente de privacidade dos ambientes mais próximos à rua para as
 alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
@@ -814,8 +824,8 @@ Em Quíloa, palácios e mesquitas ([@fig:kilwa-palacio;
 ilhas de Quíloa são cercadas de arrecifes, e os corais fossilizados se
 transformam em pedra calcária. Essas pedras eram o material de construção
 usado para as paredes e abóbodas dos palácios e das mesquitas, mas
-também para as casas nos bairros centrais da cidade. Corais vivos eram
-usados para executar acabamentos coloridos e conchas são trituradas para
+também para as casas nos bairros centrais da cidade [@costa:2011enxada]. Corais vivos eram
+usados para executar acabamentos coloridos e conchas eram trituradas para
 produzir argamassa.
 
 ![Exterior da mesquita maior de Quíloa Quisiuani. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#)](media/kilwa-masjid.jpg){#fig:kilwa-mesquita-ext}
@@ -946,7 +956,8 @@ Desde os primeiros contatos registrados entre comerciantes árabes e a
 elite autóctone, no século VIII, o comércio internacional que era a
 razão de ser dessas cidades se desenvolvera sob o sistema de patrocínio
 privado discutido acima e conduzido em casas de famílias autóctones, de
-organização matrilocal. A partir do século XVIII, com a primazia dos
+organização matrilocal [@wynne-jones:2014swahili]. A partir do século
+XVIII, com a primazia dos
 estrangeiros árabes e a presença crescente também de muçulmanos de todas
 as margens do oceano Índico, porém, esse patrocínio deixou de ser a
 condição *sine qua non* para a realização das trocas mercantis.
