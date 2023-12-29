@@ -48,7 +48,7 @@ chineses e, sobretudo, europeus.
 
 ![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](media/indico-redes.png){#fig:indico-redes}
 
-Por isso, as culturas urbanísticas suaíli e malaia têm sido pouco
+Por isso, as culturas urbanísticas suaíli e malaia foram até recentemente pouco
 estudadas fora dos seus respectivos nichos disciplinares, quase que
 estritamente arqueológicos, e dos seus idiomas maternos. Fora desses
 nichos, era comum até recentemente o argumento de que essas culturas
@@ -288,7 +288,8 @@ como no discurso textual.
 
 O não reconhecimento, desde o ponto de vista eurocêntrico, do caráter
 urbano nas povoações tradicionais da África e do Sudeste asiático
-evidencia a inadequação de se empregar os modelos descritivos do
+evidencia, como mostram @laviolette:2005archaeology, a inadequação de se
+empregar os modelos descritivos do
 paradigma urbanístico eurasiático como indicadores universais. Todavia,
 mesmo numa abordagem ostensivamente global e culturalista, como a de
 @barke:2018importance [17], coloca no mesmo nível de análise
@@ -330,9 +331,16 @@ definido por @cataldi:1989introduzione [13], a premissa da
 tipo-morfologia é a ocorrência de uma "sucessão espaço-temporal contínua
 de transformações orgânicas". Essas transformações são orgânicas
 enquanto se der a continuidade de uma série tipológica tradicional.
+
 Inversamente, quebras de paradigmas resultantes de imposições exógenas
 --- por exemplo, coloniais --- ou revoluções culturais endógenas marcam
-a separação entre processos tipológicos distintos.
+a separação entre processos tipológicos distintos. Um exemplo de quebra
+de paradigmas é a introdução, no período colonial da costa Suaíli, de
+mercados públicos que suplantam as atividades mercantis
+descentralizadas. A análise morfológica permite, como mostra
+@baumanova:2022transitory14, discernir os vestígios dessa transformação
+funcional na forma física dos lugares e, assim, verificar por meio do
+respaldo arqueológico a validade de interpretações etnográfica.
 
 Por fim, fazendo uma analogia dessa sucessão contínua com um filme, cada
 instantâneo do processo tipológico pode ser lido como um organismo

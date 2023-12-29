@@ -157,25 +157,6 @@ references:
       given: Sieni Maria
   type: book
 
-- id: akuma:2010archaeological
-  abstract: >-
-    Semantic Scholar extracted view of "Archaeological Investigations at Songo
-    Mnara, Tanzania, 2011" by Nyame Akuma et al.
-  author:
-    - family: Akuma
-      given: Nyame
-    - family: Wynne-Jones
-      given: Stephanie
-    - family: Fleisher
-      given: Jeffrey
-  citation-key: akuma:2010archaeological
-  issued:
-    - year: 2010
-  language: en
-  source: Semantic Scholar
-  title: Archaeological investigations at Songo Mnara, Tanzania, 2011
-  type: paper-conference
-
 - id: alexander:2002process
   author:
     - family: Alexander
@@ -3961,6 +3942,32 @@ references:
   title: The architecture of community
   type: book
 
+- id: laviolette:2005archaeology
+  author:
+    - family: LaViolette
+      given: Adria Jean
+    - family: Fleisher
+      given: Jeffrey B.
+  call-number: DT13 .A354 2005
+  citation-key: laviolette:2005archaeology
+  collection-title: Blackwell studies in global archaeology
+  container-title: 'African archaeology: a critical introduction'
+  editor:
+    - family: Stahl
+      given: Ann Brower
+  event-place: Malden, Mass.
+  ISBN: 978-1-4051-0155-4 978-1-4051-0156-1
+  issued:
+    - year: 2005
+  language: en
+  page: 327-352
+  publisher: Blackwell
+  publisher-place: Malden, Mass.
+  source: Library of Congress ISBN
+  title: 'The archaeology of sub-Saharan urbanism: cities and their countrysides'
+  title-short: The archaeology of sub-Saharan urbanism
+  type: chapter
+
 - id: lawrence:1983interpretation14
   abstract: >-
     This article presents a critical review of diverse yet recurrent
@@ -7450,6 +7457,28 @@ references:
   title: Historic Sites of Kilwa
   type: webpage
   URL: https://www.wmf.org/project/historic-sites-kilwa
+
+- id: wynne-jones:2010archaeological
+  abstract: >-
+    Semantic Scholar extracted view of "Archaeological Investigations at Songo
+    Mnara, Tanzania, 2011" by Nyame Akuma et al.
+  author:
+    - family: Wynne-Jones
+      given: Stephanie
+    - family: Fleisher
+      given: Jeffrey
+  citation-key: wynne-jones:2010archaeological
+  container-title: 'Nyame Akuma: Bulletin of the Society of Africanist Archaeologists'
+  container-title-short: Nyame Akuma
+  issue: '73'
+  issued:
+    - year: 2010
+      month: 6
+  language: en
+  page: 2-9
+  source: Semantic Scholar
+  title: Archaeological investigations at Songo Mnara, Tanzania, 2011
+  type: article-journal
 
 - id: wynne-jones:2013public32
   abstract: >-
