@@ -74,8 +74,24 @@ assentamentos nativos. Esse argumento foi refutado a partir da década de
 @evers:1977differing44.
 
 <!--Importância para a formação de professores-->
-O desconhecimento da história urbana do oceano Índico é especialmente
-problemático no Brasil. É uma região de presença multissecular
+Este artigo foi concebido a partir da busca por dar ao ensino da
+História da Arquitetura e Urbanismo na universidade uma abordagem
+verdadeiramente global. O propósito era que os conteúdos de regiões como
+o ocean Índico fossem tratados com a mesma centralidade conferida à
+Europa e ao mundo colonial europeu. Nesse contexto, a ausência de uma
+bibliografia de referência em língua portuguesa era problemática para a
+aplicação desses conteúdos em sala de aula. Mais importante, porém, é
+que o campo temático da história urbana nas margens do oceano Índico
+é formado por estudos altamente fragmentados no seu recorte disciplinar
+--- privilegiando a arqueologia --- e no seu escopo geográfico e
+cronológico. Carece portanto, até o momento, de uma sistematização
+interpretativa mais ampla (mesmo em inglês ou francês) que seja capaz de
+ressaltar os processos de urbanização na longa duração e em esferas
+culturais vistas no seu conjunto. Este artigo vem oferecer justamente
+uma interpretação abrangente e sistemática dos processos de urbanização
+pré-coloniais nos extremos oriental e ocidental do oceano Índico.
+
+As margens do oceano Índico são uma região de presença multissecular
 portuguesa na região, que tem recebido crescente atenção acadêmica em
 Portugal nas últimas décadas no âmbito dos estudos do patrimônio
 ultramarino [@mattoso:2010patrimonio; @carita:1999arquitectura]. É
@@ -789,9 +805,7 @@ construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
 os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
 outra margem do rio.
 O *kota raja* funcionava ele próprio como um *kampung* centrado no palácio
-e na sua mesquita ([@fig:malacca-kotaraja]).
-
-![Implantação de Malaca no século XV. Reconstituição e desenho do autor](media/malaca.png){#fig:malacca-kotaraja}
+e na sua mesquita.
 
 Do mesmo modo que o *kampung* como um todo podia crescer irradiando
 novas construções que gravitavam em torno do seu centro simbólico,
@@ -803,14 +817,6 @@ mesmo sistema construtivo: um esqueleto em madeira com o piso elevado
 sobre pilotis e coberturas muito inclinadas. A hierarquia social era,
 então, determinada tanto pela posição relativa das construções em torno
 do centro, quanto pelas suas dimensões e riqueza decorativa.
-
-## Arquitetura ##
-
-À medida que a população da comunidade crescia, cada casa podia ser
-ampliada segundo um sistema de ambientes modulares ([@fig:lim-malay])
-[@lim:1991malay *ap.* @beng:2015unleashing16].
-
-![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](media/lim-malay.jpg){#fig:lim-malay .line}
 
 # Cidades da costa Suaíli #
 
@@ -832,7 +838,10 @@ estruturantes, e se adensavam ao longo desses percursos predeterminados.
 Já nas formas de urbanização de influência banto na África, por mais
 diferentes que elas fossem entre si, era sempre a expansão e o adensamento
 do conjunto edificado que iam, gradualmente, constituindo o traçado
-viário.
+viário. A particularidade da urbanização na costa Suaíli, porém, era que
+o módulo elementar de organização dos bairros --- conhecido como *mtaa*
+--- era urbano desde a sua origem, e não uma gradual urbanização a
+partir de uma raiz rural.
 
 ![Principais cidades e eixos comerciais da costa suaíli. Desenho do autor](media/costa-suaili.png){#fig:costa-suaili}
 
@@ -1016,341 +1025,6 @@ Contrariamente ao contexto malaio, portanto, na costa Suaíle os sistemas
 construtivos desempenhavam um papel importante na demarcação da
 estratificação social.
 
-O próprio comércio tinha significado político: a compra e venda dos
-carregamentos dos navios e das caravanas em Quíloa acontecia no palácio
-([@fig:kilwa-palacio]) e nas residências da nobreza mercante
-[@allen:1981swahili14]. Essa atividade se distinguia, assim, do mercado
-de subsistência local, que acontecia nos largos junto às portas da cidade
-e nos bairros de casas de adobe [@pradines:2018nouveau].
-
-## Arquitetura ##
-
-A casa da elite suaíli tradicional é uma casa-pátio. A tipologia das
-casas com pátio emerge sempre que for preciso combinar o adensamento
-urbano com a necessidade de ventilação no clima tropical.
-
-As casas da elite mercante quase sempre tinham a entrada principal
-voltada para
-o norte ou, mais raramente, para o leste. Essas casas eram uma simples
-enfiada longitudinal de cômodos muito alongados para os lados,
-terminando em alcovas mais estreitas [@ghaidan:1974lamu]. Essa enfiada
-se ampliava para cima, para os lados e para os fundos conforme a
-necessidade. As casas nesse núcleo adensado terminavam por se organizar
-num gradiente de privacidade dos ambientes mais próximos à rua para as
-alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
-
-::::::::::::::::::::::::::::::::::::::: {#fig:swahili-mercante .columns}
-::: {.column width=50%}
-![Pavimento térreo](https://i.pinimg.com/originals/1d/4b/d3/1d4bd323f09b12a29187eaee14ab4971.png){#fig:swahili-mercanteA .line}
-:::
-::: {.column width=50%}
-![Primeiro pavimento](https://i.pinimg.com/originals/fe/cb/f8/fecbf81ea27d8bde8131b1d7ec944e00.png){#fig:swahili-mercanteB .line}
-:::
-Planta de casa mercante suaíli em Lamu, segundo Usam Ghaidan, 1974
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg)](media/songo-casa.jpg){#fig:songo-mnara} 
-
-![Mesquita na vila de Shela, ilha de Lamu, 1738. Planta e corte segundo Usam Ghaidan, 1974](https://i.pinimg.com/originals/83/aa/33/83aa33eb2c76ea24d82383d1683abc3c.png){#fig:shela-plan .line}
-
-As ilhas de Quíloa são cercadas de arrecifes, e os corais fossilizados se
-transformam em pedra calcária. Essas pedras eram o material de
-construção usado para as paredes e abóbodas dos palácios e das mesquitas
-([@fig:kilwa-mesquita-ext]), mas também para as casas nos bairros
-centrais da cidade [@costa:2011enxada]. Corais vivos eram usados para
-executar acabamentos coloridos e conchas eram trituradas para produzir
-argamassa.
-
-![Exterior da mesquita maior de Quíloa Quisiuani. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#)](media/kilwa-masjid.jpg){#fig:kilwa-mesquita-ext}
-
-![Interior da mesquita maior de Quíloa Quisiuani. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](media/kilwa-stanley.jpg){#fig:kilwa-mesquita-int .r-stretch}
-
-A configuração espacial e estrutural das principais mesquitas dos
-séculos XI a XVIII era inspirada, segundo @costa:2011enxada, na arquitetura iemenita. O partido
-habitual era o de um salão com uma grelha de pilares que sustentam uma
-malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
-([@fig:kilwa-mesquita-int]).
-
-
-# Transformações coloniais no tecido edificado #
-
-## Contexto histórico-geográfico ##
-
-A islamização das margens do oceano Índico teve efeitos diferentes nos
-paradigmas urbanísticos de cada região. No Sudeste asiático e no
-arquipélago indonésio, as mesquitas se integraram à paisagem
-preexistente sem provocar rupturas na tradição do *kampung* [@tajudeen:2017mosques]. Na costa
-Suaíli, por outro lado, alguns tecidos urbanos foram fortemente
-transformados ora na sua forma física, ora na distribuição demográfica
-de diferentes grupos sociais, étnicos ou religiosos.
-
-As transformações na costa Suaíli se deram em três cronologias
-distintas. Primeiro, a islamização inicial da região se iniciou no
-século VIII por meio de uma gradual inserção dos equipamentos religiosos
-de praxe --- mesquita e madraçal --- dentro da espacialidade tradicional
-dos *mitaa*. A deferência que a islamização prestou às tradições
-regionais fica evidente na pouca monumentalidade das mesquitas de
-sexta-feira, mesmo em sedes de poderes soberanos como Quíloa, Lamu ou
-Zanzibar [@baumanova:2022comparative]. A configuração urbana suaíli não parece ter se alterado
-significativamente entre os séculos XI e início do XIX. A dominação
-portuguesa sobre essa região durante os séculos XVI e XVII se deu pelo
-sistema de feitorias fortificadas ou mesmo mediante pilhagens ocasionais
-[@salim:2010costa], sem colonização do território ou alteração
-significativa dos tecidos edificados.
-
-Entretanto, desde a guerra entre Portugal e Omã em 1658--98 que culminou
-na tomada de todas as feitorias portuguesas ao norte de Moçambique pela
-marinha da dinastia Abuçaíde [@salim:2010costa], intensificava-se a presença
-de uma elite mercante étnica e culturalmente árabe. Diferentemente da
-integração de homens persas e árabes nas redes familiares e políticas
-suaíli que se havia iniciado mil anos antes, a arabização da costa
-Suaíli sob o controle omani introduziu elementos espaciais exógenos nos
-tecidos construídos das cidades mercantes [@steyn:2003search18]. Esses elementos foram,
-sobretudo, um novo tipo de casa e uma forma de segregação sócio-espacial
-que acrescentava à tradicional separação entre classes sociais também a
-segregação étnica.
-
-No entanto, seria apenas no terceiro ciclo, quando da implantação
-colonial britânica, que essa segregação se tornaria mais intensa e
-explícita com o planejamento, em Zanzibar apenas, de um setor suburbano
-com princípios projetuais pitorescos, de inspiração anglo-indiana.
-
-## Edificações e território nas ilhas Suaíli arabizadas ##
-
-A arquitetura das edificações nas principais cidades mercantes suaíli
-durante os séculos XVIII e XIX evidencia processos de reorganização
-territorial mais amplos até do que a escala urbana onde essas
-edificações se inseriram. Até finais do século XVIII, a transição
-tipológica de casas e fortificações ainda era incipiente.
-Muitas casas em Lamu
-foram reconstruídas em pedra em finais do século XVIII usando, segundo
-@ghaidan:1974lamu, as mesmas projeções das fundações de construções mais
-antigas. A partir da virada do século, a dominação de Omã
-sobre a costa Suaíli implicou uma arabização cultural mais intensa. Essa
-arabização se caracterizou pela introdução de um tipo doméstico
-caracteristicamente omani, contrastando com as casas suaíli
-tradicionais, e pela proliferação de novas fortificações.
-
-O poder omani, ao implantar novos fortes e reformar antigas
-fortificações portuguesas, não se inseria apenas na continuidade do
-sistema das feitorias quinhentistas. As fortificações
-eram implantações pontuais no espaço que, porém, segundo
-@baumanova:2022urban [55], reorganizaram a percepção do "controle, [e]
-especialmente do poderio militar", no
-território e os vetores de crescimento ou consolidação urbana. O tipo
-arquitetônico dos fortes imperiais, como o de Lamu, era, segundo
-@pradines:2019zanzibar47 [47], "puramente omani", desde as plantas
-baseadas nos castelos e caravançarais da península arábica até as
-características ameias em ponta. Outra característica omani, encontrada
-em fortes como o de Pemba, continuam @pradines:2019zanzibar47, era a
-torre quadrangular abrigando a portada.
-
-A campanha omani de fortificação dos séculos XVIII e XIX consistiu, ainda
-segundo @pradines:2019zanzibar47, num projeto de longo prazo visando à
-supressão do poder político de elites locais, como os Mazrui de Mombaça.
-Enquanto equipamentos simbólicos da dominação indireta do Omã, os fortes
-suplantaram os antigos palácios, pois os governadores árabes viviam
-dentro ou junto àqueles, enquanto estes caíam em desuso.
-
-Essa centralização político-militar também contribuía, por sua vez, para
-consolidar uma área econômica integrada entre as ilhas mercantes, onde
-estavam sediados os governadores omanis e a maior parte da elite
-mercante árabe, e a terra firme. Faixa de importância estratégica, como
-mostra @salim:2010litoral, a terra firme suaíli fornecia, de longa data, o abastecimento
-agropecuário para as ilhas, mas também era a zona de passagem
-obrigatória para a maior parte das mercadorias exportadas desde as
-ilhas [@costa:2011enxada].
-
-De fato, completando o estabelecimento do poder da dinastia Abuçaíde
-nas ilhas da costa suaíli, vários assentamentos onde terminavam as
-caravanas continentais no litoral da terra firme entraram em declínio em
-meados do século XIX [@salim:2010litoral]. Essas localidades foram
-gradualmente suplantadas por estabelecimentos concorrentes implantados
-pelos governadores omanis das ilhas. Era especialmente o caso dos
-mercados escravistas, já que a proximidade com as fortificações
-omanis, sobretudo em Zanzibar, permitia aos traficantes evadirem as
-patrulhas navais britânicas que se intensificavam ao longo daquele
-século.
-
-## Casas coloniais do período omani ao britânico ##
-
-À sombra das fortificações, a cultura urbana nas principais cidades
-mercantes das ilhas suaíli se transformava paulatinamente. A introdução
-nas ilhas do tipo arquitetônico do mercado árabe, que segundo
-@baumanova:2022urban [55] não tinha precedentes na costa suaíli a não
-ser no Husuni Kubwa em Quíloa Quisiuani, evidenciava a deslocação
-dos centros de atividade comercial da costa da terra firme para as
-ilhas. Mais ainda, os mercados faziam parte de um processo de
-rebaixamento no *status* antes dominante e exclusivo das elites
-africanas em favor dos comerciantes árabes. Uma consequência dessa
-deslocação do poder econômico foi a introdução de um novo tipo de casa
-nas cidades mercantes das ilhas.
-
-Desde os primeiros contatos registrados entre comerciantes árabes e a
-elite autóctone, no século VIII, o comércio internacional que era a
-razão de ser dessas cidades se desenvolvera sob o sistema de patrocínio
-privado discutido acima e conduzido em casas de famílias autóctones, de
-organização matrilocal [@wynne-jones:2014swahili]. A partir do século
-XVIII, com a primazia dos
-estrangeiros árabes e a presença crescente também de muçulmanos de todas
-as margens do oceano Índico, porém, esse patrocínio deixou de ser a
-condição *sine qua non* para a realização das trocas mercantis.
-
-A partir daí, os mercadores omanis introduziram em lugares como Zanzibar
-um novo tipo doméstico originário da península arábica. Esse tipo estava
-desvinculado da necessidade funcional de oferecer um espaço para as
-relações mercantis. Com isso, infere @steyn:2001analysis16, a casa omani
-podia atender mais livremente à demanda da elite árabe por mais
-privacidade e melhor desempenho bioclimático. Tratando-se de uma
-intromissão tardia e de elite em tecidos urbanos já organicamente
-consolidados com predominância da casa tradicional suaíli
-[@amrousi:2012imperial, 75], o tipo omani nunca chegou a constituir uma
-série tipológica completa. Em vez disso, foi uma introdução pontual,
-numa forma já elaborada no estrangeiro, e ocupando apenas o extremo
-erudito do espectro arquitetônico.
-
-A aparente semelhança volumétrica entre as casas da elite suaíli
-tradicional e as da elite árabe se explica tão somente pela restrição
-imposta a esta última pelo parcelamento já consolidado do solo em
-cidades como Lamu e Zanzibar e pelo uso dos mesmos materiais
-construtivos --- calcário de coral e madeira de mangue. Por trás dessa
-aparência, a casa omani era um espaço voltado para a separação estrita
-entre os espaços da vida íntima familiar, concentrados segundo
-@sheriff:2001spatial36 no andar nobre, e as funções utilitárias ou, mais
-raramente, varejistas do térreo. Ausente a necessidade de estruturar o
-pátio como espaço de interação entre o hóspede mercador e a família que
-o patrocinava, @steyn:2001analysis16 mostra que os ambientes domésticos
-da casa omani em Zanzibar podiam ser distribuídos de modo a aproveitar
-melhor a iluminação natural e a ventilação por convecção oferecidas pelo
-pátio.
-
-Embora a morada das elites nas cidades mercantes suaíli seja
-caracterizado pelos dois tipos já mencionados, a casa tradicional e a
-casa omani, cabe mencionar também a introdução, no início do século XX,
-de um tipo de origem indiana reformulado pelos colonizadores britânicos.
-Trata-se do bangalô com varanda, uma solução que atendia ao desejo
-europeu por uma habitação de baixa densidade, suburbana
-[@desai:2012bungalow], porém adaptada
-ao clima quente e úmido do oceano Índico equatorial
-[@amrousi:2012imperial, 69]. Essa adaptação climática por meio da
-negação da cultura e do urbanismo locais, com a importação de um
-paradigma apropriado de outra cultura também colonizada, é a epítome da
-distinção entre o colonialismo omani e o britânico. Essa distinção
-também se fez ver na intensificação da setorização étnico-religiosa no
-século XX.
-
-
-## Colonialismo europeu e segregação urbana ##
-
-Sob a suserania do Omã, a partir do século XVIII,
-a precedência do poder político-econômico estrangeiro dera início à
-segregação dos grupos étnicos suaíli e árabe em diferentes áreas do
-tecido urbano. Isso foi especialmente o caso em Zanzibar onde a presença
-árabe foi mais intensa, e em Lamu onde ela se dividia espacialmente
-também entre a classe dominante (formada tanto por bantos quanto por
-omanis) e os iemenitas (hadramaui) subalternos.
-
-Se a arabização nas margens do oceano Índico trouxe certas
-transformações na organização urbana principalmente na costa Suaíli, a
-colonização europeia nos séculos XIX a XX provocou uma reorganização
-sócio-espacial ainda mais profunda. A segregação étnica herdada da suserania
-omani foi intensificada pela crescente capacidade técnica, econômica e
-administrativa das potências coloniais para replanejar trechos urbanos
-por inteiro, remover e confinar populações numa escala nunca antes
-vista. Além disso, com o imperialismo omani nas margens do oceano Índico
-sendo substituído pelo imperialismo europeu, os colonizadores do século
-XX introduziram uma hierarquia racial nas regiões islamizadas,
-estabelecendo, segundo @nnaemeka:2008racialization123 [1750], a
-distinção entre um islã árabe e um islã "negro".
-
-Ao mesmo tempo, as autoridades coloniais europeias conceberam a
-fragmentação de relações étnico-culturais e sócio-espaciais em unidades
-estanques no espaço e fixas no tempo. Essa fixação tinha por objetivo,
-segundo @ranger:2010invention [458], "estabelecer ou aumentar o [...]
-controle" administrativo colonial por meio de uma imagem artificialmente
-simplificada de "costumes codificados e reificados". Tal simplicidade
-servia convenientemente à natureza transitória da presença de
-funcionários ou empreendedores europeus:
-
-> Essas cidades portuárias foram conformadas para desempenhar, pode-se
-> argumentar, [um papel] no contexto urbano que atendia prioritariamente
-> ao viajante, ao colono e a seus patrocinadores, e secundariamente aos
-> seus [habitantes] indígenas.
-> [@amrousi:2012imperial, 68, tradução nossa]
-
-Após a tomada direta do poder em Zanzibar pelo Reino Unido em 1913, a
-segregação dos bairros urbanos segundo critérios étnico-raciais se
-intensificou. Os europeus e árabes partilhavam a beira-mar enquanto o
-bairro africano, Ng'ambo, foi rigidamente setorizado para a periferia
-além do manguezal [@amrousi:2012imperial, 76]. Se a segregação
-étnico-religiosa havia se iniciado sob o domínio Abuçaíde, em comparação
-com a intensidade do projeto segregacionista europeu as divisões
-anteriores podem parecer quase inexistentes. Isso leva mesmo
-@sheriff:2001spatial36 [80] a alegar que "concepções de Zanzibar como
-uma cidade dual, dividida entre uma Cidade de Pedra aristocrática e um
-'bairro nativo' de classe operária são fundamentalmente um produto do
-[período] colonial" britânico.
-
-Entre essas duas zonas, por mais nebulosas que fossem suas divisas,
-ficavam os bairros indianos. Em Lamu, uma cidade que teve escassa
-presença de árabes e europeus, a beira-mar foi, segundo
-@ghaidan:1974lamu [41], estabelecida a leste da rua Direita pela
-comunidade indiana no século XIX. Os *mitaa* ou distritos a oeste dessa
-rua estavam organizados por nível de renda e prestígio social
-[@mutonga:2020origin14, 1939]: casas em pedra da elite local se
-concentravam a norte do forte omani, e as modestas casas de pau-a-pique
-da comunidade mais pobre predominavam no sul. Embora breve, o período
-colonial omani e sobretudo britânico deixou um legado sócio-espacial no
-tecido urbano das ilhas suaíli que persiste até os dias atuais.
-
-
-<!--
-   -# Imposição colonial do paradigma eurasiático no mundo malaio--indonésio #
-   -
-   -## Infraestrutura como discurso colonial em Jacarta ##
-   -
-   -Argumento acerca da incapacidade dos nativos em reconhecer o valor ou
-   -dar manutenção na infraestrutura de canais que conferia viabilidade
-   -ambiental à Jacarta colonial, mas declínio do sítio antecede a
-   -independência, com partida dos holandeses para um sítio mais salubre.
-   -
-   -## Reconstrução britânica de Singapura ##
-   -
-   -- Destruição do kampung palaciano original para implantação do forte
-   -- Isolamento do Kampong Gelam com demolição de bairros lindeiros
-   -- Demarcação das vilas nativas
-   -- Criação tardia e demolição do Kampong Rochor
-   -->
-
-## Singapura ##
-
-Asim como Malaca, Singapura também se originou de um núcleo planejado.
-Mas esse núcleo de Singapura é uma criação colonial britânica, incluindo
-o seu *kota raja*.
-
-<!--Antigo centro palaciano baseado em Wheatley 1973-->
-
-![Conjunto urbano de Singapura às vésperas da renovação urbana imposta pelo governo britânico (1819). Reconstituição do autor](media/sg-pre-uk.png){#fig:sg-pre-uk}
-
-O Kampung Gelam, em Singapura, é outra antiga cidadela real malaia [@tajudeen:kampung].
-Durante a ocupação britânica, do início do século XIX até a metade do
-século XX ([@fig:raffles]), ele perdeu a função de centro político e se
-adensou como uma vila comercial ([@fig:kampongglam]).
-
-![Kampung Gelam e a expansão urbana de Singapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829](https://i.pinimg.com/originals/6d/08/26/6d0826cd3ee35fe72f8294b213f1de54.jpg){#fig:raffles} 
-
-![Kampung Gelam no século XXI. Desenho de [Lee Xin Li, 2012](http://cargocollective.com/xinli/Maps)](https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg){#fig:kampongglam} 
-
-![Casas comerciais na rua Kandahar, Kampung Gelam, Singapura. Foto: [Marcin Konsek, 2016][]](media/kandahar.jpg){#fig:shophouses}
-
-[Marcin Konsek, 2016]: https://commons.wikimedia.org/wiki/File:2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg
-
-A tipologia de casas comerciais característica de Singapura é um híbrido
-que resulta do adensamento dos *kampung* usando o parcelamento urbano da
-morada chinesa e as galerias cobertas introduzidas pelos britânicos.
-
-![Kampung Rochor, Singapura, 1822, demolido em 1964. [Arquivo Nacional de Singapura](https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/)](https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg){#fig:kampung-rochor}
-
 # Conclusão #
 
 A partir do século XVII, as cidades mercantes do oceano Índico sofreriam
@@ -1370,7 +1044,7 @@ oceano Índico justifica em parte que grande parte da bibliografia sobre
 essas regiões se concentre nos problemas da urbanização contemporânea
 decorrente desse legado. Grande parte do marco jurídico que disciplina o
 desenvolvimento urbano nos países oriundos da colonização europeia foi
-moldada com base no paradigma urbanístico eurasiático. Nesse contexto,
+moldada a partir do paradigma urbanístico eurasiático. Nesse contexto,
 os paradigmas tradicionais de urbanização persistem enquanto um
 patrimônio material que carece de instrumentos adequados para a sua
 preservação, e mais ainda para serem revitalizados como identidade
