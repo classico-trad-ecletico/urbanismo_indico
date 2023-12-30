@@ -723,8 +723,20 @@ Esquema do processo de urbanização de um *kampung*. Desenho do autor
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Dada as condições e a demanda para tanto, o *kampung* como um todo podia
-se adensar até virar um distrito urbano compacto ([@fig:kampungB;
-@fig:kampungC; @fig:kampungD]). Esse processo continua na urbanização
+se adensar até virar um distrito urbano compacto. O processo para tanto
+envolvia dois movimentos complementares, aqui ilustrados sucessivamente,
+mas que podiam ocorrer simultaneamente. O primeiro movimento consistia
+em continuar agregando novas casas que gravitavam em torno da edificação
+dominante, estendendo e ao mesmo tempo adensando a mancha construída do
+*kampung* ([@fig:kampungB]). O segundo movimento dependia de haver
+atrativos socioeconômicos nos limites do *kampung*: estradas troncais,
+portos, mercados, pontes sobre rios, e assim por diante. Nesse caso,
+desenvolvia-se uma ocupação linear até preencher a extensão limítrofe
+entre o *kampung* e esse atrativo ([@fig:kampungC]). Em casos de grande
+complementaridade entre essas duas dinâmicas, poderia ocorrer um
+adensamento quase completo do *kampung* todo ([@fig:kampungD]).
+
+Esse processo continua na urbanização
 contemporânea e tem sido um fator de manutenção ou recuperação da
 identidade cultural malaia e indonésia. Isso tem ocorrido principalmente
 na urbanização de condomínios de casas e conjuntos habitacionais de
@@ -734,6 +746,8 @@ sobre o arcabouço jurídico herdado do período colonial, que substituiu a
 propriedade comunitária do espaço pelo parcelamento individualizado do
 solo.
 
+## De Majapait a Malaca ##
+
 Partindo do *kampung* como unidade social e urbanística de base, os
 estados malaios organizaram o território em redes de poder político e
 autoridade religiosa. No século XIV, o poder político e
@@ -742,8 +756,6 @@ religioso no império Majapait foi sinalizado pela construção de um
 O complexo se inseria num traçado monumental ainda mais vasto, com eixos
 axiais e diagonais, uma praça de mercado, templos hinduístas e mosteiros
 budistas.
-
-## Malaca e Singapura ##
 
 Trowulan foi apenas uma de sucessivas cidades que controlaram o comércio
 de especiarias e a navegação intercontinental nos estreitos Malaios. No
@@ -781,41 +793,16 @@ e na sua mesquita ([@fig:malacca-kotaraja]).
 
 ![Implantação de Malaca no século XV. Reconstituição e desenho do autor](media/malaca.png){#fig:malacca-kotaraja}
 
-------------------------------------------------------------------------
-
-Asim como Malaca, Singapura também se originou de um núcleo planejado.
-Mas a atual cidade de Singapura é uma criação colonial britânica,
-incluindo o seu *kota raja*.
-
-<!--Antigo centro palaciano baseado em Wheatley 1973-->
-
-![Conjunto urbano de Singapura às vésperas da renovação urbana imposta pelo governo britânico (1819). Reconstituição do autor](media/sg-pre-uk.png){#fig:sg-pre-uk}
-
-O Kampung Gelam, em Singapura, é outra antiga cidadela real malaia [@tajudeen:kampung].
-Durante a ocupação britânica, do início do século XIX até a metade do
-século XX ([@fig:raffles]), ele perdeu a função de centro político e se
-adensou como uma vila comercial ([@fig:kampongglam]).
-
-![Kampung Gelam e a expansão urbana de Singapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829](https://i.pinimg.com/originals/6d/08/26/6d0826cd3ee35fe72f8294b213f1de54.jpg){#fig:raffles} 
-
-![Kampung Gelam no século XXI. Desenho de [Lee Xin Li, 2012](http://cargocollective.com/xinli/Maps)](https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg){#fig:kampongglam} 
-
-![Casas comerciais na rua Kandahar, Kampung Gelam, Singapura. Foto: [Marcin Konsek, 2016][]](media/kandahar.jpg){#fig:shophouses}
-
-[Marcin Konsek, 2016]: https://commons.wikimedia.org/wiki/File:2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg
-
-A tipologia de casas comerciais característica de Singapura é um híbrido
-que resulta do adensamento dos *kampung* usando o parcelamento urbano da
-morada chinesa e as galerias cobertas introduzidas pelos britânicos.
-
-O kampung malaio era, portanto, um paradigma de urbanização que partia
-de um assentamento rural e podia se desenvolver, por adensamentos
-sucessivos, até formar um distrito urbano compacto
-([@fig:kampung-rochor]). Em contraste com esse tipo de adensamento *para
-dentro*, a urbanização da costa Suaíli na África é um paradigma de
-adensamento *para fora*.
-
-![Kampung Rochor, Singapura, 1822, demolido em 1964. [Arquivo Nacional de Singapura](https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/)](https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg){#fig:kampung-rochor}
+Do mesmo modo que o *kampung* como um todo podia crescer irradiando
+novas construções que gravitavam em torno do seu centro simbólico,
+também cada casa num *kampung* podia ser estendida por meio de
+acréscimos modulares sucessivos [@lim:1991malay *ap.*
+@beng:2015unleashing16]. Isso era o caso pois todas as construções,
+inclusive o casarão, palácio ou mesquita central, adotavam em geral o
+mesmo sistema construtivo: um esqueleto em madeira com o piso elevado
+sobre pilotis e coberturas muito inclinadas. A hierarquia social era,
+então, determinada tanto pela posição relativa das construções em torno
+do centro, quanto pelas suas dimensões e riqueza decorativa.
 
 ## Arquitetura ##
 
@@ -993,7 +980,11 @@ cercas mais ou menos concêntricas. No interior da cerca interna ficava
 uma mesquita maior que a média e um grande espaço aberto com sepulturas
 monumentais. A distância de cada *mtaa* com respeito a esse centro era,
 provavelmente, função da posição de cada um na hierarquia
-político-econômica da cidade.
+político-econômica da cidade. No entanto, quando o poder estava
+concentrado num sultão ou governador, o seu palácio se situava fora da
+cerca exterior e, eventualmente, bastante afastado da zona urbana, como
+em Quíloa Quisiuani. O mesmo podia ocorrer com a mesquita de
+sexta-feira.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:config-swahili}
 ![configuração concêntrica](media/swahili-concentrica.png){#fig:swahili-concentrica width=50%}
@@ -1004,29 +995,26 @@ Tipos de configuração urbanística das cidades suaíli. Desenho do autor
 
 O segundo tipo tem uma configuração bipartida sem cerca
 ([@fig:swahili-bipartida]), e ocorre em cidades dispostas de modo
-predominantemente linear ao longo da orla marítima. Essas cidades em
-geral permanecem habitadas até hoje, como Lamu, Zanzibar ou a ilha de
+predominantemente linear ao longo da orla marítima. Nesse tipo, a mancha
+urbana está dividida em duas zonas claramente distintas entre si: uma
+"cidade de pedra e cal" formada pelos *mitaa* de elite e uma "cidade de
+macuti", onde *macuti* designa em quissuaíli a cobertura com choça de
+palmeira. As casas de macuti em geral têm estrutura em adobe ou
+pau-a-pique.
+
+As cidades bipartidas permanecem em geral habitadas até hoje, como Lamu,
+Zanzibar ou a ilha de
 Moçambique. Essa continuidade faz com que seja mais difícil interpretar
 o processo de formação desse tipo. Assim, não é possível ter certeza se
 essa configuração estava presente desde as origens das respectivas
 cidades ou se resultou de alterações na organização sócio-espacial
-endógenas ou coloniais.
-
-No tipo bipartido, a hierarquia social era menos visivelmente
-estratificada. Apenas duas condições sociais se manifestavam nessa
-configuração: uma oligarquia cujos *mitaa* eram, pelo menos a partir do
-século XV, formados por casas construídas ou reconstruídas em pedra e
-cal, e uma classe popular que habitava as chamadas "casas de macuti"
-(nome dado nessa região às coberturas em choça), as quais não estavam
-organizadas em *mitaa*.
+endógenas ou coloniais. Em vez de um gradiente de proximidade ao poder,
+como nas cidade de cercas concêntricas, as cidades bipartidas manifestam
+na sua configuração apenas essas duas condições sociais.
 
 Contrariamente ao contexto malaio, portanto, na costa Suaíle os sistemas
 construtivos desempenhavam um papel importante na demarcação da
 estratificação social.
-
-![Plano de conservação da área central de Lamu](https://i.pinimg.com/originals/45/57/96/455796a4f940e6f1723693ad4b2deb05.png){#fig:lamu-plan}
-
-![Planta do palácio de Quíloa Quisiuani](https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png){#fig:kilwa-palacio .line}
 
 O próprio comércio tinha significado político: a compra e venda dos
 carregamentos dos navios e das caravanas em Quíloa acontecia no palácio
@@ -1065,14 +1053,13 @@ Planta de casa mercante suaíli em Lamu, segundo Usam Ghaidan, 1974
 
 ![Mesquita na vila de Shela, ilha de Lamu, 1738. Planta e corte segundo Usam Ghaidan, 1974](https://i.pinimg.com/originals/83/aa/33/83aa33eb2c76ea24d82383d1683abc3c.png){#fig:shela-plan .line}
 
-Em Quíloa, palácios e mesquitas ([@fig:kilwa-palacio;
-@fig:kilwa-mesquita-ext]) sinalizavam o centro de cada núcleo urbano. As
-ilhas de Quíloa são cercadas de arrecifes, e os corais fossilizados se
-transformam em pedra calcária. Essas pedras eram o material de construção
-usado para as paredes e abóbodas dos palácios e das mesquitas, mas
-também para as casas nos bairros centrais da cidade [@costa:2011enxada]. Corais vivos eram
-usados para executar acabamentos coloridos e conchas eram trituradas para
-produzir argamassa.
+As ilhas de Quíloa são cercadas de arrecifes, e os corais fossilizados se
+transformam em pedra calcária. Essas pedras eram o material de
+construção usado para as paredes e abóbodas dos palácios e das mesquitas
+([@fig:kilwa-mesquita-ext]), mas também para as casas nos bairros
+centrais da cidade [@costa:2011enxada]. Corais vivos eram usados para
+executar acabamentos coloridos e conchas eram trituradas para produzir
+argamassa.
 
 ![Exterior da mesquita maior de Quíloa Quisiuani. Foto: [Ron van Oers, 2009](https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#)](media/kilwa-masjid.jpg){#fig:kilwa-mesquita-ext}
 
@@ -1084,7 +1071,8 @@ habitual era o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
 
-# Transformações coloniais no tecido edificado suaíli #
+
+# Transformações coloniais no tecido edificado #
 
 ## Contexto histórico-geográfico ##
 
@@ -1334,7 +1322,48 @@ tecido urbano das ilhas suaíli que persiste até os dias atuais.
    -- Criação tardia e demolição do Kampong Rochor
    -->
 
+## Singapura ##
+
+Asim como Malaca, Singapura também se originou de um núcleo planejado.
+Mas esse núcleo de Singapura é uma criação colonial britânica, incluindo
+o seu *kota raja*.
+
+<!--Antigo centro palaciano baseado em Wheatley 1973-->
+
+![Conjunto urbano de Singapura às vésperas da renovação urbana imposta pelo governo britânico (1819). Reconstituição do autor](media/sg-pre-uk.png){#fig:sg-pre-uk}
+
+O Kampung Gelam, em Singapura, é outra antiga cidadela real malaia [@tajudeen:kampung].
+Durante a ocupação britânica, do início do século XIX até a metade do
+século XX ([@fig:raffles]), ele perdeu a função de centro político e se
+adensou como uma vila comercial ([@fig:kampongglam]).
+
+![Kampung Gelam e a expansão urbana de Singapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829](https://i.pinimg.com/originals/6d/08/26/6d0826cd3ee35fe72f8294b213f1de54.jpg){#fig:raffles} 
+
+![Kampung Gelam no século XXI. Desenho de [Lee Xin Li, 2012](http://cargocollective.com/xinli/Maps)](https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg){#fig:kampongglam} 
+
+![Casas comerciais na rua Kandahar, Kampung Gelam, Singapura. Foto: [Marcin Konsek, 2016][]](media/kandahar.jpg){#fig:shophouses}
+
+[Marcin Konsek, 2016]: https://commons.wikimedia.org/wiki/File:2016_Singapur,\_Kampong_Glam,\_Ulica_Kandahar,\_Domy-sklepy_(01).jpg
+
+A tipologia de casas comerciais característica de Singapura é um híbrido
+que resulta do adensamento dos *kampung* usando o parcelamento urbano da
+morada chinesa e as galerias cobertas introduzidas pelos britânicos.
+
+![Kampung Rochor, Singapura, 1822, demolido em 1964. [Arquivo Nacional de Singapura](https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/)](https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg){#fig:kampung-rochor}
+
 # Conclusão #
+
+A partir do século XVII, as cidades mercantes do oceano Índico sofreriam
+de modo mais intenso os efeitos do colonialismo eurasiático. Na costa
+leste da África, Portugal e Omã competiam pelo domínio sobre as cidades
+suaíli. No arquipélago Malaio, após uma breve passagem dos portugueses
+em Malaca, a disputa se deu entre as Companhias das Índias Orientais do
+Reino Unido e dos Países Baixos, sempre com o apoio militar e político
+dos seus respectivos governos. O aprofundamento dos regimes coloniais
+árabe e europeus nos séculos XVIII e XIX causou intensas transformações
+não apenas na forma urbana das cidades existentes, mas também no regime
+jurídico e nos processos político-econômicos de urbanização e construção
+na costa Suaíli e no arquipélago Malaio.
 
 A profundidade do legado urbanístico colonial nas cidades às margens do
 oceano Índico justifica em parte que grande parte da bibliografia sobre
@@ -1378,7 +1407,19 @@ eurasiático de propriedade individual do solo desarticulou esse sistema,
 fragilizando a situação jurídica de muitos *kampung* existentes e
 praticamente inviabilizando a continuidade dessa tradição.
 
-No caso das cidades mercantes da costa Suaíli, o desenvolvimento dos
+No caso das cidades mercantes da costa Suaíli, os elementos geradores do
+tecido urbano mais central eram os *mitaa*, bairros cujo processo de
+crescimento tinha algumas semelhanças com o dos *kampung*. Em ambos os
+casos, a urbanização partia de uma edificação importante, que no caso do
+*mtaa* era a casa de uma família de elite. No entanto, o paradigma do
+*mtaa* se distingue daquele do *kampung* devido ao caráter
+necessariamente urbano do *mtaa*, por oposição à origem rural do
+*kampung*, o que implicava também uma diferença nas dimensões absolutas
+e no grau de adensamento possível em cada paradigma. A ventilação
+cruzada ainda era possível nas casas dos *mitaa*, mas de modo menos
+eficiente do que nos *kampung*.
+
+Como quer que seja, o desenvolvimento dos
 grandes centros urbanos coloniais no continente embotou o dinamismo
 comercial das antigas cidades nas ilhas. Sítios como Quíloa Quisiuani
 foram abandonados, enquanto Lamu estagnou --- o que permitiu a
@@ -1386,18 +1427,23 @@ conservação do seu núcleo histórico. Zanzibar pôde manter algum
 protagonismo político-econômico, mas sofreu um processo semelhante ao de
 outras cidades coloniais do século XX: os bairros europeus se afastaram
 do centro histórico, isolando-o e justapondo formas urbanas
-intencionalmente diferentes para demarcar a superioridade do desenho
-urbano europeu. Após a independência, o urbanismo modernista de amplas
-avenidas e grandes edifícios isolados em concreto armado contribuiu para
-uma rutura ainda maior entre o paradigma urbanístico tradicional e os
-novos crescimentos urbanos.
+intencionalmente diferentes como modo de afirmar a superioridade do
+desenho urbano europeu. Este mesmo processo foi posto em prática também
+nas cidades coloniais do arquipélago Malaio.
+Após a independência, o urbanismo modernista de
+amplas avenidas e grandes edifícios isolados em concreto armado
+contribuiu para uma rutura ainda maior entre os paradigmas urbanísticos
+tradicionais e os novos crescimentos urbanos.
 
-<!--
-   -Não falei do sul da Índia nem no Sudeste asiático continental, muito
-   -menos da hinterlândia africana.
-   -->
-
-<!--Importância desse conteúdo para a formação de professores-->
+O ápice da colonização estrangeira e o seu legado contemporâneo não
+fazem parte do escopo cronológico deste artigo. Reciprocamente, o
+recorte geográfico limitou-se aos extremos oriental e ocidental do
+oceano Índico, excluindo a urbanização pré-colonial do sul da Índia ou
+do Sudeste asiático continental. Todas essas temáticas são, ainda hoje,
+lacunas na bibliografia em língua portuguesa sobre história urbana. A
+gradual expansão da pesquisa para cobrir toda a extensão geográfica e
+cronológica do oceano Índico é uma tarefa importante para que o domínio
+historiográfico lusófono atinja um olhar verdadeiramente global.
 
 
 [^1]: Por conveniência, no restante deste artigo a expressão
