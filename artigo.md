@@ -829,37 +829,30 @@ ampliada segundo um sistema de ambientes modulares ([@fig:lim-malay])
 
 ## Contexto histórico-geográfico ##
 
-A urbanização em regiões tropicais úmidas, do Sudeste asiático até a
-África, apresenta algumas características comuns. Ela parte de espaços
+A urbanização tradicional em regiões tropicais úmidas, do Sudeste asiático até a
+África, apresentava algumas características comuns. Ela partia de espaços
 rurais ocupados em baixa densidade, com uma divisão do solo pouco
-rígida. Como vimos no Sudeste asiático, essa divisão é baseada
+rígida. Como vimos no Sudeste asiático, essa divisão era baseada
 principalmente na repartição do acesso a recursos tangíveis, como hortas
 ou árvores frutíferas, entre famílias estendidas. Na África, e
 especialmente nas formas urbanas influenciadas pela cultura banto, as
-hierarquias comunitárias dão ordem à forma urbana.
+hierarquias comunitárias davam ordem à forma urbana.
 
 A principal diferença entre a urbanização do Sudeste asiático e a da
-África diz respeito à precedência do traçado viário ou da ocupação do
-espaço. Os *kampung* malaios são dispostos ao longo de caminhos ou corpos d'água
-estruturantes, e se adensam ao longo desses percursos predeterminados.
+África dizia respeito à precedência do traçado viário ou da ocupação do
+espaço. Os *kampung* malaios eram dispostos ao longo de caminhos ou corpos d'água
+estruturantes, e se adensavam ao longo desses percursos predeterminados.
 Já nas formas de urbanização de influência banto na África, por mais
-diferentes que elas sejam entre si, é sempre a expansão e o adensamento
-do conjunto edificado que vão, gradualmente, constituindo o traçado
+diferentes que elas fossem entre si, era sempre a expansão e o adensamento
+do conjunto edificado que iam, gradualmente, constituindo o traçado
 viário.
-
-Longe de ser um exemplo de construção "primitiva" ou derivativa da
-influência islâmica, a arquitetura africana tem história e
-desenvolvimento autônomo (o que não significa isolado). Estudos arqueológicos
-e antropológicos desde a década de 1980, sobretudo na África do Sul e na
-costa leste do continente, revolucionaram o entendimento acadêmico das
-tradições construtivas africanas.
 
 ![Principais cidades e eixos comerciais da costa suaíli. Desenho do autor](media/costa-suaili.png){#fig:costa-suaili}
 
 A costa Suaíli é uma parte do litoral africano do oceano Índico, com
-mais de três mil quilômetros de extensão de norte a sul. Ela é formada
-por uma sequência de cidades-estado especializadas no comércio marítimo,
-fundadas e habitadas por povos de etnia banto que falam a língua suaíli
+mais de três mil quilômetros de extensão de norte a sul. Ela era formada, no início da Idade Moderna,
+por uma sequência de cidades autônomas especializadas no comércio marítimo,
+fundadas e habitadas por povos de etnia banto que falam a língua quissuaíli
 ([@fig:costa-suaili]). Os banto migraram para essa região no primeiro
 milênio antes de Cristo, e no século I a.C. o litoral do Índico já era
 uma rota comercial importante [@costa:2011enxada].
@@ -868,12 +861,12 @@ Estuários de rios, baías e ilhas ao longo da costa se tornaram
 pontos de trocas entre os produtos trazidos do interior do continente e
 aqueles que chegavam em navios árabes, persas, indianos e malaios, junto
 com a influência cultural vinda dessas regiões.
-As principais cidades-estado suaíli, como Shanga, Lamu, Quíloa e Sofala, se
-consolidaram a partir do século  VIII d.C., quando se converteram ao
+As principais cidades-estado suaíli, como Shanga, Lamu, Quíloa e Gedi, se
+consolidaram a partir do século  VIII, quando suas elites se converteram ao
 islã, e atingiram o seu auge entre os séculos XII e XIV [@costa:2011enxada].
 Nos séculos XVI e XVII, as cidades suaíli perderam poder econômico para
 as grandes potências marítimas da época: Portugal e Omã. Esses dois
-impérios acabaram por partilhar a costa suaíli entre si, e várias das
+impérios acabaram por competir pelo domínio sobre a costa Suaíli, e várias das
 antigas cidades-estado foram abandonadas [@salim:2010costa].
 
 Por causa dessa partilha, e das hierarquias raciais em vigor no século
@@ -881,11 +874,28 @@ XIX, durante muito tempo as pesquisas ocidentais consideraram as cidades
 da costa suaíli como pertencentes à esfera cultural árabe ou persa. Os
 europeus entendiam que cidades comerciais adensadas não tinham lugar
 numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
-@ghaidan:1974lamu defendeu a sua dissertação de mestrado demonstrando
+@ghaidan:1974lamu defendeu a sua dissertação de mestrado argumentando
 que as raízes socioeconômicas, culturais e construtivas da cidade suaíli
-de Lamu são, de fato, africanas. Essa conclusão foi paulatinamente
+de Lamu eram, de fato, africanas. Essa conclusão foi paulatinamente
 estendida por outros pesquisadores ao conjunto da costa Suaíli, e
-atualmente é a interpretação pacificada.
+atualmente é a interpretação pacificada [@horton:1991primitive].
+
+Há elementos arqueológicos da cultura material suaíli que respaldam esse
+argumento, além de indícios antropológicos. Um elemento arqueológico,
+estudado por @wynnejones:2007creating81, é a continuidade no *corpus* de
+cerâmicas de uso cotidiano. Essa continuidade se evidencia tanto no
+tempo --- desde antes da consolidação das cidades mercantes até o
+abandono de localidades como Quíloa Quisiuani, Songo Mnara ou Gedi, nos
+séculos XV--XVIII --- quanto no espaço --- das aldeias rurais nas ilhas
+e no litoral do continente até as casas de elite. Sob o aspecto
+antropológico, @sheriff:2001spatial36 mostrou que o padrão de segregação
+socioespacial das cidades suaíli pré-coloniais era diferente tanto da
+setorização étnico-religiosa adotada nas cidades árabe-islâmicas quanto
+da segregação racial mais estrita implementada pelos colonizadores
+europeus. Em menor ecala, o agrupamento familiar e clientelista que
+caracterizou a formação dos bairros urbanos nas cidades suaíli, descrito
+por @mutonga:2020origin14, era semelhante às configurações espaciais das
+povoações banto já mencionadas mais acima.
 
 
 ## Urbanização dos *mitaa* ## 
@@ -897,7 +907,6 @@ ao centro da sua hierarquia --- geralmente a morada de uma família
 dominante. Os vários *mitaa* que compunham uma cidade, por sua vez, eram
 dispostos concentricamente segundo a proximidade sociopolítica dessas
 famílias dominantes com respeito ao poder central.
-
 Deve-se a @ghaidan:1974lamu [76, tradução nossa] a primeira síntese em
 inglês sobre a natureza do *mtaa* no contexto da urbanização adensada
 das cidades suaíli:
@@ -908,61 +917,112 @@ das cidades suaíli:
 > acrescentadas, dispostas em torno de um acesso privativo central.
 
 Trata-se, portanto, de uma forma de ocupação do espaço onde um conjunto
-de moradias subsidiárias gravitava em torno de uma casa dominante. O
-adensamento do *mtaa* se dava pelo preenchimento gradual dos
-interstícios livres entre as construções existentes. Na sua forma final,
-o *mtaa* terminava por ter uma configuração introvertida, onde as
+de moradias subsidiárias gravitava em torno de uma casa dominante. Essa
+casa dominante era inicialmente implantada junto a um amplo espaço
+livre, sem parcelamento do solo nem demarcação de traçado viário
+([@fig:mtaaA]). Com o tempo, a família dominante crescia e agregava em
+torno de si uma clientela dependente dela. Com isso, novas casas iam
+sendo construídas, ocupando o espaço aberto e formando um perímetro em
+torno dele. O adensamento do *mtaa* se dava então pelo preenchimento
+gradual dos interstícios livres entre as construções existentes
+([@fig:mtaaB; @fig:mtaaC]).
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:mtaa}
+![](media/mtaa-0.png){#fig:mtaaA}
+![](media/mtaa-2.png){#fig:mtaaB}
+
+![](media/mtaa-3.png){#fig:mtaaC}
+![](media/mtaa-4.png){#fig:mtaaD}
+
+Esquema da formação e adensamento de um *mtaa*. Desenho do autor
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Entretanto, esse espaço aberto não era apenas uma área residual e
+ociosa. Prospecções arqueológicas em cidades abandonadas antes de
+atingirem o seu completo adensamento, como Shanga e Takwa, mostram que
+esses espaços eram usados para múltiplas atividades, incluindo comércio
+de varejo, hortas e pomares, e celebrações comunitárias
+[@wynne-jones:2013public32]. Na sua forma final, o espaço aberto
+restante ficava quase inteiramente encerrado entre as casas
+([@fig:mtaaD]). Assim, ficava garantida uma maior privacidade para as
+casas lindeiras, porém ao custo de resultar numa paisagem dominada pela
+vida doméstica. O espaço das atividades comunitária e econômicas ficava,
+assim, bastante reduzido.
+
+O *mtaa* terminava por ter uma configuração introvertida, onde as
 frentes das casas estavam, segundo @steyn:2001analysis16,
 preferencialmente orientadas para uma praça de dimensões mínimas. Essa
 praça era discretamente acessível por ruelas que garantiam o afastamento
-entre as edificações, de modo a permitir a ventilação cruzada
-([@fig:mtaa]).
+entre as edificações, de modo a permitir a ventilação cruzada. Como mostra
+@steyn:2001analysis16, essa configuração preservava uma boa ventilação
+entre as casas, necessária no clima extremamente úmido da costa
+equatorial do oceano Índico.
 
-![Esquema da formação e adensamento de um *mtaa*. Desenho do autor](media/mtaa.png){#fig:mtaa}
+A configuração dos *mitaa* decorre, portanto, de relações familiares e
+clientelistas organizadas e, segundo @fleisher:2012finding29,
+ritualizadas. Logo, trata-se de um tipo urbanístico vinculado ao
+desenvolvimento da estratificação social e da autoimagem das oligarquias
+mercantes. Nos bairros periféricos das cidades suaíli, não é possível
+discernir a mesma organização espacial. As casas das classes baixas
+eram, aparentemente, dispostas lado a lado em configurações de crescente
+adensamento, mas sem uma hierarquia espacial clara.
 
-O traçado geral das cidades suaíli não decorria de um plano
-centralizado, mas se organizava a partir de princípios culturais
-partilhados. A arqueóloga inglesa @wynne-jones:2014swahili [121] mostra que a
-formação do traçado urbano suaíli ([@fig:shanga]) aconteceu pela
-reconstrução sucessiva de bairros com casas em adobe, que foram sendo
-substituídos por bairros com casas em pedra.
-
-![Planta arqueológica de Takwa e esquema do assentamento inicial de Shanga, segundo Wynne-Jones](https://i.pinimg.com/originals/8e/69/f3/8e69f3a382fcc77f5d01347025aff2a4.png){#fig:shanga .line}
-
-Durante o processo de consolidação e adensamento da cidade, a autoridade
-política se fazia presente em vários níveis. O palácio, geralmente
-fortificado e associado à mesquita maior, dominava o porto. Os bairros
-eram, pelo menos num primeiro momento, associados a grupos familiares
-estendidos ([@fig:shanga]). A proximidade dos bairros ao palácio indicava a
-hierarquia social da nobreza mercante.
+## Configuração urbana ##
 
 A construção política da cidade suaíli consistia em atribuir significado
 social aos espaços livres urbanos [@wynne-jones:2014swahili]. A
 consolidação desses significados direcionava o crescimento orgânico do
 tecido construído, preservando os espaços abertos com importância
-cívica, por exemplo em volta das mesquitas de bairro e nas áreas dos
-mercados [Horton *ap.* @fleisher:2012finding29].
+cívica, por exemplo em volta das mesquitas de bairro e nas áreas do
+comércio de varejo local [Horton *ap.* @fleisher:2012finding29].
 
-![Planta arqueológica da cidade de Gedi. Wynne-Jones, 2014](https://i.pinimg.com/originals/19/a9/ab/19a9abb6b9df439e95e55f846d3ce3d5.png){#fig:gedi-plan .line}
+Assim como no paradigma urbanístico malaio, o paradigma suaíli tampouco
+pressupunha um plano ou mecanismo estruturante para o crescimento das
+cidades. Se, na escala do *mtaa*, o elemento gerador da espacialidade
+suaíli era a casa da família dominante, na escala da cidade como um
+todo, essa hierarquia não era tão clara. Até onde se pode discernir a
+partir do registro arqueológico e da morfologia urbana, coexistiram dois
+tipos de configurações urbanas na costa Suaíli.
 
-Assim como o *kampung* malaio, a cidade suaíli não tinha um parcelamento
-do solo rígido e predeterminado. As casas dos comerciantes, construídas
-em calcário de coral, se organizavam em bairros em volta do palácio e do
-porto. As classes baixas construíam as suas casas em adobe e pau-a-pique
-na periferia, do lado de fora das muralhas ([@fig:gedi-plan]). As
-moradias, principalmente aquelas perto do centro urbano, tendiam a se
-alinhar e a formar ruas que se adensavam gradualmente.
+O primeiro tipo tinha uma configuração concêntrica e compacta
+([@fig:swahili-concentrica]). Ele pode ser discernido em cidades que
+estavam em formação por volta do século IX e que foram abandonadas entre
+os séculos XV e XVII, como Shanga, Gedi, Quíloa Quisiuane ou Songo
+Mnara. O espaço urbano nessas cidades era organizado a partir de duas
+cercas mais ou menos concêntricas. No interior da cerca interna ficava
+uma mesquita maior que a média e um grande espaço aberto com sepulturas
+monumentais. A distância de cada *mtaa* com respeito a esse centro era,
+provavelmente, função da posição de cada um na hierarquia
+político-econômica da cidade.
 
-Desse modo, o adensamento da cidade suaíli se dava de modo
-semelhante ao do *kampung* malaio. As casas eram construídas deixando
-bastante espaço livre entre elas, espaço que era inicialmente para
-hortas e jardins [@mwenje:2019case]. Aos poucos, o espaço livre ia sendo
-preenchido pela ampliação das casas. Esse processo resultava numa malha urbana
-intensamente capilarizada por espaços livres cada vez mais estreitos
-entre as casas maiores ([@fig:lamu-plan]). Como mostra
-@steyn:2001analysis16, essa configuração preservava uma boa ventilação
-entre as casas, necessária no clima extremamente úmido da costa
-equatorial do oceano Índico.
+:::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:config-swahili}
+![configuração concêntrica](media/swahili-concentrica.png){#fig:swahili-concentrica width=50%}
+![configuração bipartida](media/swahili-bipartida.png){#fig:swahili-bipartida width=50%}
+
+Tipos de configuração urbanística das cidades suaíli. Desenho do autor
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+O segundo tipo tem uma configuração bipartida sem cerca
+([@fig:swahili-bipartida]), e ocorre em cidades dispostas de modo
+predominantemente linear ao longo da orla marítima. Essas cidades em
+geral permanecem habitadas até hoje, como Lamu, Zanzibar ou a ilha de
+Moçambique. Essa continuidade faz com que seja mais difícil interpretar
+o processo de formação desse tipo. Assim, não é possível ter certeza se
+essa configuração estava presente desde as origens das respectivas
+cidades ou se resultou de alterações na organização sócio-espacial
+endógenas ou coloniais.
+
+No tipo bipartido, a hierarquia social era menos visivelmente
+estratificada. Apenas duas condições sociais se manifestavam nessa
+configuração: uma oligarquia cujos *mitaa* eram, pelo menos a partir do
+século XV, formados por casas construídas ou reconstruídas em pedra e
+cal, e uma classe popular que habitava as chamadas "casas de macuti"
+(nome dado nessa região às coberturas em choça), as quais não estavam
+organizadas em *mitaa*.
+
+Contrariamente ao contexto malaio, portanto, na costa Suaíle os sistemas
+construtivos desempenhavam um papel importante na demarcação da
+estratificação social.
 
 ![Plano de conservação da área central de Lamu](https://i.pinimg.com/originals/45/57/96/455796a4f940e6f1723693ad4b2deb05.png){#fig:lamu-plan}
 
