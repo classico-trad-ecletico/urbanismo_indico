@@ -520,6 +520,55 @@ references:
   type: chapter
   URL: https://link.springer.com/10.1007/978-3-031-14697-8_3
 
+- id: baumanova:2022transitory14
+  abstract: >-
+    The tropical urbanism of coastal East Africa has a thousand-year-long
+    history, making it a recognized example of sustainable urbanism. Although
+    economically dependent on trade, the precolonial Islamic towns of the
+    so-called Swahili coast did not feature markets or other public buildings
+    dedicated to mercantile activities before the European colonial involvement.
+    In this regard, Swahili urban tradition differed from other tropical Islamic
+    cities, such as in Morocco, Mali, Egypt or the Middle East, where markets
+    fulfilled the role of social and economic hubs and, in terms of movement,
+    major transitory/meeting spaces in the trading towns. Yet, the Swahili urban
+    tradition thrived for centuries as a well-connected cosmopolitan type of
+    tropical urbanism. As research has suggested, the public role of spaces
+    associated with trade might have been fulfilled by houses. Using approaches
+    of space syntax and network analysis, this article studies the morphology of
+    the houses considering whether it could have been the courtyards that
+    simulated the role of markets thanks to their transitory spatial
+    configuration. The results are discussed reflecting on other models of
+    houses with courtyards, especially the modern Swahili house appearing later
+    in the colonial era when markets began to be established, and Islamic houses
+    known from elsewhere.
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Baumanova
+      given: Monika
+  citation-key: baumanova:2022transitory14
+  container-title: Sustainability
+  DOI: 10.3390/su14031759
+  ISSN: 2071-1050
+  issue: '3'
+  issued:
+    - year: 2022
+      month: 1
+  language: en
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '3'
+  page: '1759'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: >-
+    Transitory courtyards as a feature of sustainable urbanism on the East
+    African coast
+  type: article-journal
+  URL: https://www.mdpi.com/2071-1050/14/3/1759
+  volume: '14'
+
 - id: baumanova:2022urban
   abstract: >-
     This book offers an interdisciplinary perspective on the precolonial to
@@ -835,14 +884,16 @@ references:
   author:
     - family: Braun
       given: Georg
+    - family: Hogenberg
+      given: Frans
   citation-key: braun:1575civitates
-  contributor:
-    - literal: John Carter Brown Library
+  event-place: Antwerpia
   issued:
     - year: 1575
   language: lat
   number-of-pages: '294'
-  publisher: 'Antwerpiae : Apud Aegidium Radeum'
+  publisher: Aegidius Radeus
+  publisher-place: Antwerpia
   source: Internet Archive
   title: Civitates orbis terrarum
   type: book
@@ -1280,6 +1331,32 @@ references:
   type: thesis
   URL: https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0093945
 
+- id: coelho:2014tempos
+  author:
+    - family: Coelho
+      given: Carlos Dias
+  citation-key: coelho:2014tempos
+  collection-number: '2'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  container-title: O Tempo e a Forma
+  contributor:
+    - literal: Forma Urbis Lab
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  event-place: Lisboa
+  ISBN: 978-972-8479-79-4
+  issued:
+    - year: 2014
+  language: pt
+  page: 13–31
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Os tempos da cidade. Uma metamorfose imperfeita
+  title-short: Os tempos da cidade
+  type: chapter
+
 - id: conzen:2018core
   accessed:
     - year: 2018
@@ -1525,6 +1602,54 @@ references:
   type: post-weblog
   URL: >-
     https://www.architectural-review.com/places/india/the-origin-and-indigenisation-of-the-imperial-bungalow-in-india
+
+- id: diez:2023documentacao
+  accessed:
+    - year: 2023
+      month: 10
+      day: 17
+  author:
+    - family: Díez Oronoz
+      given: Aritz
+    - family: Baganha
+      given: José Franqueira
+    - family: García Hermida
+      given: Alejandro
+    - family: Iparraguirre Barbero
+      given: Imanol
+    - family: Martinez
+      given: Frank
+    - family: Palazzo
+      given: Pedro P.
+    - family: Silva
+      given: Jorge Santos
+    - family: Steil
+      given: Lucien
+  citation-key: diez:2023documentacao
+  container-title: >-
+    Um projecto de futuro para Lajes do Pico: com base na arquitectura e
+    urbanismo da tradição local
+  editor:
+    - family: García Hermida
+      given: Alejandro
+    - family: Gil Fernández
+      given: Guillermo
+    - family: Gómez-Gordo Villa
+      given: Rebeca
+  event-place: Lisboa
+  ISBN: 978-989-33-4329-6
+  issued:
+    - year: 2023
+  language: pt
+  page: 79-131
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  source: dialnet.unirioja.es
+  title: >-
+    Documentação da construção, arquitetura e urbanismo tradicionais da ilha do
+    Pico
+  type: chapter
+  URL: https://www.premiorafaelmanzano.com/pt-pt/publicacoes/
 
 - id: dovey:2012informal34
   accessed:
@@ -2717,6 +2842,44 @@ references:
   title: The Cambridge history of Africa c. 1600 to c. 1790
   type: book
 
+- id: gunawan:2013colonial40
+  abstract: "Most of morphological studies of cities in Java tended to place the elements of traditional urban space – such as Alun-alun, Mosque, Palace and Market – as the main elements of city. Other elements such as the colonial urban space –\_ Resident Office, Fort, Church, Park and so on – are often considered separately or placed as a complementary part. Through a morphological study\_ by exploring ten cities in Java, I found both elements of traditional and colonial urban space were set in a unique and various pattern. There are some findings indicating that the elements of colonial urban space significantly influence the city structure as well as those of the traditional ones. Therefore, understanding the urban space form in Java should include and put elements of both of traditional and colonial urban space as an integral part."
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Gunawan
+      given: Sunaryo Rony
+    - family: Nindyo
+      given: Soewarno
+    - family: Ikaputra
+      given: Ikaputra
+    - family: Bakti
+      given: Setiawan
+  citation-key: gunawan:2013colonial40
+  container-title: 'DIMENSI: Journal of Architecture and Built Environment'
+  DOI: 10.9744/dimensi.40.2.77-88
+  ISSN: 2338-7858
+  issue: '2'
+  issued:
+    - year: 2013
+      month: 12
+      day: 1
+  language: en
+  license: Copyright (c)
+  number: '2'
+  page: 77-88
+  source: 203.189.121.7
+  title: >-
+    Colonial and traditional urban space in Java: a morphological study of ten
+    cities
+  title-short: Colonial and traditional urban space in java
+  type: article-journal
+  URL: >-
+    http://203.189.121.7/~puslit2_ejournal/ejournal/index.php/ars/article/view/18981
+  volume: '40'
+
 - id: hakim:1995missing11
   author:
     - family: Hakim
@@ -3341,6 +3504,53 @@ references:
   URL: https://mail.planningmalaysia.org/index.php/pmj/article/view/747
   volume: '18'
 
+- id: ibrahim:2020patterns13
+  abstract: >-
+    This study discusses urbanism in pre-colonial Melaka city, focusing on
+    pre-colonial Melaka city during the Malay Sultanate of Melaka. This study
+    aims to (i) explore the urbanism of the pre-colonial Melaka, and ii) study
+    the matrix analysis of pre-colonial Melaka. Data was gathered through
+    secondary data content analysis drawn from previous works such as documented
+    textual analyses and lithographs. The results demonstrate that pre-colonial
+    Melaka urbanism is characterised by sustainable traditional urban forms such
+    as palatial fort, mosques, market, settlements, and padang. Furthermore, the
+    close proximity from the palace to the estuary and bridge reflects the idea
+    that a palace serves as a defence building, centre of administration, and
+    royal residence. Observations of pre-colonial Melaka urbanism shows a degree
+    of city planning, reflecting that sustainable and natural growth is embedded
+    in the Melaka Sultanate era.DOI:
+    https://doi.org/10.20365/disegnarecon.25.2020.21
+  accessed:
+    - year: 2022
+      month: 10
+      day: 19
+  author:
+    - family: Ibrahim
+      given: Illyani
+    - family: Kassim
+      given: Puteri Shireen Jahn
+    - family: Abdullah
+      given: Alias
+  citation-key: ibrahim:2020patterns13
+  container-title: DISEGNARECON
+  ISSN: 1828-5961
+  issue: '25'
+  issued:
+    - year: 2020
+      month: 12
+      day: 31
+  language: en
+  license: >-
+    Copyright (c) 2020 Illyani Ibrahim; Puteri Shireen Jahn Kassim; Alias
+    Abdullah
+  number: '25'
+  page: 21-21.13
+  source: disegnarecon.univaq.it
+  title: Patterns of physical form of a Malay-rooted urbanism in historical Melaka
+  type: article-journal
+  URL: https://disegnarecon.univaq.it/ojs/index.php/disegnarecon/article/view/804
+  volume: '13'
+
 - id: idid:2011traditional
   accessed:
     - year: 2023
@@ -3625,6 +3835,32 @@ references:
   URL: https://www.ejournals.eu/GP/Vol-18/art/15223/
   volume: '18'
 
+- id: katip:1957balance
+  abstract: Microfilm
+  accessed:
+    - year: 2023
+      month: 12
+      day: 30
+  author:
+    - literal: Kâtip Çelebi
+  citation-key: katip:1957balance
+  editor:
+    - family: Lewis
+      given: Geoffrey L.
+  event-place: London
+  issued:
+    date-parts:
+      - - '1957'
+  language: eng
+  original-date:
+    - year: 1957
+  publisher: Allen and Unwin
+  publisher-place: London
+  source: Internet Archive
+  title: The balance of truth
+  type: book
+  URL: http://archive.org/details/MN40230ucmf_5
+
 - id: kennet:2013reconsidering
   author:
     - family: Kennet
@@ -3652,6 +3888,25 @@ references:
     Reconsidering the decline of urbanism in late Early Historic and Early
     Medieval South Asia
   type: chapter
+
+- id: khair:2005other
+  call-number: G460 .O84 2005
+  citation-key: khair:2005other
+  editor:
+    - family: Khair
+      given: Tabish
+  event-place: Bloomington, Ind.
+  ISBN: 978-0-253-21821-6
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: '421'
+  publisher: Indiana University Press
+  publisher-place: Bloomington, Ind.
+  source: Library of Congress ISBN
+  title: 'Other routes: 1500 years of African and Asian travel writing'
+  title-short: Other routes
+  type: book
 
 - id: kiamba:2014climate-responsive
   abstract: >-
@@ -4101,6 +4356,37 @@ references:
     - family: Frias
       given: Rubens Eduardo
   type: book
+
+- id: lewis:1957introduction
+  abstract: Microfilm
+  accessed:
+    - year: 2023
+      month: 12
+      day: 30
+  author:
+    - family: Lewis
+      given: Geoffrey L.
+  citation-key: lewis:1957introduction
+  container-author:
+    - literal: Kâtip Çelebi
+  container-title: The balance of truth
+  editor:
+    - family: Lewis
+      given: Geoffrey L.
+  event-place: London
+  issued:
+    date-parts:
+      - - '1957'
+  language: eng
+  original-date:
+    - year: 1957
+  page: 7-20
+  publisher: Allen and Unwin
+  publisher-place: London
+  source: Internet Archive
+  title: Introduction
+  type: chapter
+  URL: http://archive.org/details/MN40230ucmf_5
 
 - id: lim:1991malay
   abstract: 'The Malay House: Rediscovering Malaysia''s Indigenous Shelter System'
