@@ -1,16 +1,49 @@
 ---
-title       : "Paradigmas urbanísticos no oceano Índico: cidades suaíli e malaias na Idade Moderna"
+title       : "Paradigmas urbanísticos do oceano Índico: cidades mercantes suaíli e malaias na Idade Moderna"
 #author      : Pedro P. Palazzo
 lang        : pt-BR
 bibliography: "biblio.yaml"
 csl         : "chicago-fullnote-bibliography-with-ibid.csl"
 suppress-bibliography: true
 abstract: |
-  Palavras-chave: História urbana, Malásia e Indonésia, Costa Suaíli, Idade Moderna, Colonialidade
+  Na história global das cidades, as margens do oceano Índico na Idade
+  Moderna exibiam culturas urbanas diversificadas. A sua reduzida
+  presença na historiografia lusófona não é, porém, condizente com o
+  papel central que essas cidades mercantes desempenhavam na economia
+  global. Este artigo classifica e compara as tradições urbanísticas do
+  arquipélago Malaio, no Sudeste asiático, e da costa Suaíli, na África.
+  Valendo-se do conceito de paradigma proposto por Thomas Kuhn, mostra
+  como o processo de ocupação do espaço nessas duas tradições difere do
+  paradigma europeu e asiático hegemônico na atualidade. O paradigma
+  urbanístico malaio decorre do *kampung* ou povoado de raiz rural,
+  caracterizado pela propriedade comunitária do espaço. Já o paradigma
+  suaíli parte da agregação de *mitaa* ou bairros urbanos organizados
+  em hierarquias familiares e clientelistas. As características
+  peculiares a esses dois paradigmas urbanísticos oferecem uma
+  alternativa ao modelo eurocêntrico, respeitando o clima equatorial e a
+  diversidade cultural dos seus lugares.
+
+  Palavras-chave: História urbana, Malásia e Indonésia, Costa Suaíli, Idade Moderna, Morfologia urbana
 
   ## Abstract
 
-  Keywords: Urban history, Malaysia and Indonesia, Swahili coast, Early Modern age, Coloniality
+  In the global history of towns and cities, the Early Modern Indian
+  ocean rim hosted diverse urban cultures. The lack of awareness about
+  them in Portuguese-language historiography does not do justice to
+  their pivotal role in the global economy. This article classifies and
+  compares the town-building traditions in the Malay archipelago in
+  Southeast Asia and on the Swahili coast of Africa. Leveraging the
+  concept of paradigm put forward by Thomas Kuhn, it shows how spatial
+  development within both traditions differs from the now-hegemonic
+  European and Asian paradigm. The Malay town-building paradigm stems
+  from the rural *kampong*, or settlement, marked by land ownership at
+  the community scale. As for the Swahili paradigm, it develops from the
+  accretion of *mitaa* or urban neighborhoods structured around kinship
+  hierarchies. The distinctive features of both paradigms offer an
+  alternative to the Eurocentric model while addressing the Equatorial
+  climate and the cultural diversity of their places.
+
+  Keywords: Urban history, Malaysia and Indonesia, Swahili coast, Early Modern age, Morfologia urbana
 keywords:
 - História urbana
 - Malásia e Indonésia
@@ -618,7 +651,7 @@ europeias, como é o caso do atlas do intelectual turco Kâtip Çelebi
 No universo das cidades mercantes dos séculos XIV e XV, as do Sudeste
 asiático se destacaram pela sua diversidade étnica e religiosa.
 Sucedendo ao império Serivijaia baseado em Palimbão, na ilha de Sumatra,
-o império hindu-budista de Majapahit com a sua capital Trowulan, na ilha
+o império hindu-budista de Majapait com a sua capital Trowulan, na ilha
 de Java ([@fig:majapahit]), e o sultanato muçulmano de Malaca
 ([@fig:malacca]), na península malaia, controlaram cada um a seu tempo o
 comércio marítimo de
@@ -627,7 +660,7 @@ Malaca se tornaram centros de poder econômico e político muito prósperos.
 Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
 urbano e de construir perfeitamente adaptados ao clima equatorial.
 
-![arquipélago Malaio no auge do império Majapahit, século XIV. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](media/majapahit.png){#fig:majapahit}
+![arquipélago Malaio no auge do império Majapait, século XIV. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](media/majapahit.png){#fig:majapahit}
 
 ![Sultanato de Malaca no final do século XV. Mapa: [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malaca_Sultanate-pt.svg)](media/malacca-sultanate.jpg){#fig:malacca .r-stretch}
 
@@ -672,7 +705,7 @@ casa de um núcleo familiar dominante, ou um edifício comunitário civil.
 
 ![*Kampung* organizado em torno de uma antiga igreja (com cobertura em cobre e campanário), em meio a um arrozal em terraços, em Batad, Banaue, Filipinas. Foto: [CEphoto, Uwe Aranas, 2008][]](media/banaue.jpg){#fig:arrozal}
 
-[Uwe Aranas, 2008]: https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg
+[CEphoto, Uwe Aranas, 2008]: https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg
 
 O *kampung* era muito diferente do paradigma urbanístico eurasiático.
 Este último, como já foi visto, se
