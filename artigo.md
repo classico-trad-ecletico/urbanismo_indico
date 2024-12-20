@@ -652,7 +652,7 @@ conhecimento chegasse apenas em segunda mão a partir de fontes
 europeias, como é o caso do atlas do intelectual turco Kâtip Çelebi
 ([@fig:cihannuma]).
 
-![Ibrahim Müteferrika, mapa do Sudeste asiático, 1648. Reproduzido no atlas [*Cihânnümâ*][] de Kâtip Çelebi, Istambul: İbrahim Müteferrika, 1728](media/cinnahuma.jpg){#fig:cihannuma}
+![Mapa do Sudeste asiático, 1648. Reproduzido no atlas [*Cihânnümâ*][] de Kâtip Çelebi, Istambul: İbrahim Müteferrika, 1728](media/cinnahuma.jpg){#fig:cihannuma}
 
 [*Cihânnümâ*]: https://commons.wikimedia.org/wiki/Category:Cihannümâ_(Kâtip_Çelebi)
 
