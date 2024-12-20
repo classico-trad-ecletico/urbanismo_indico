@@ -1045,7 +1045,7 @@ macuti", onde *macuti* designa em quissuaíli a cobertura com choça de
 palmeira. As casas de macuti em geral têm estrutura em adobe ou
 pau-a-pique.
 
-![Configuração bipartida de uma cidade suaíli: centro histórico de Lamu. Fonte: desenho do autor com base no dossiê do Comitê do Patrimônio Mundial](media/lamu.png){#fig:lamu}
+![Configuração bipartida de uma cidade suaíli: centro histórico de Lamu. Fonte: desenho do autor com base no dossiê do Comitê do Patrimônio Mundial](media/lamu-town.png){#fig:lamu}
 
 As cidades bipartidas permanecem em geral habitadas até hoje, como Lamu,
 Zanzibar ou a ilha de
