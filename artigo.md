@@ -1,5 +1,5 @@
 ---
-title       : "Paradigmas urbanísticos do oceano Índico: cidades mercantes suaíli e malaias na Idade Moderna"
+title       : "Paradigmas urbanísticos do oceano Índico: cidades suaíli e malaias na Idade Moderna"
 #author      : Pedro P. Palazzo
 lang        : pt-BR
 bibliography: "biblio.yaml"
@@ -27,8 +27,9 @@ abstract: |
 
   ## Abstract
 
-  In the global history of towns and cities, the Early Modern Indian
-  ocean rim hosted diverse urban cultures. The lack of awareness about
+  In the global history of towns and cities, the Indian ocean rim
+  in the Early Modern period played host to diverse urban cultures.
+  The lack of awareness about
   them in Portuguese-language historiography does not do justice to
   their pivotal role in the global economy. This article classifies and
   compares the town-building traditions in the Malay archipelago in
@@ -61,47 +62,58 @@ tblPrefix:
 
 # Introdução #
 
-Este artigo classifica e compara duas culturas urbanas da Idade Moderna
+Este artigo descreve e compara duas culturas urbanas da Idade Moderna
 pertencentes ao principal circuito do comércio internacional naquela
-época, a bacia do oceano Índico. Em suas margens ocidental e oriental
-ficavam, respectivamente, as cidades da costa Suaíli, na África, e as da
-península e arquipélago Malaio, na extremidade meridional do Sudeste
-asiático.[^1] O recorte cronológico postula uma Idade Moderna expandida que
-vai de meados do século XIV até a virada do século XIX.
-Hoje pesquisada em seus próprios termos, a forma das cidades
-tradicionais suaíli e malaias ainda é pouco representada, contudo, em
-abordagens comparativas e globais.
+época, a bacia do oceano Índico.
+Em suas margens oriental e ocidental ficavam, respetivamente,
+as cidades da península e arquipélago Malaio,
+na extremidade meridional do Sudeste asiático, e
+as cidades da costa Suaíli, na África.[^1]
+O recorte cronológico deste artigo postula uma Idade Moderna expandida
+que vai de meados do século XIV até a virada do século XIX.
 
-Enquadrando os impérios da Ásia continental na sua margem norte, a costa
-Suaíli e o arquipélago Malaio fizeram parte do último apogeu das
-cidades-estado marítimas [A classificação das cidades Suaíli como
-cidades-estado é pacificada no campo disciplinar, e confirmada por
-exemplo por @baumanova:2022transitory14. @fauvelle:2018rinoceronte
-prefere o termo "pequenos estados". No caso das cidades do arquipélago
-Malaio, há cidades que dominam vastos "impérios" comerciais marítimos
-mas que não estendem seu controle administrativo à sua hinterlândia
-agrária, como afirmam @ibrahim:2020patterns13]
-que controlavam gargalos nas rotas do comércio
-global ([@fig:indico-redes]). Porém, apesar de sua importância estratégica e
+Enquadrando os impérios da Ásia continental na sua margem norte,
+o arquipélago Malaio e a costa Suaíli fizeram parte do último apogeu das
+cidades-estado marítimas[^2] que controlavam gargalos
+nas rotas do comércio global ([@fig:indico-redes]).
+Porém, apesar de sua importância estratégica e
 poderio consolidados desde a Idade Média, essas regiões ficaram
 registradas na historiografia como meros "empórios", nas palavras de
 @abu-lughod:1991european [253],
 cujos protagonistas teriam sido estrangeiros: árabes, persas, indianos,
 chineses e, sobretudo, europeus.
 
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](media/indico-redes.png){#fig:indico-redes}
+![Os três circuitos mercantes do oceano Índico no século XIV. Fonte: desenho do autor com base em K.N. Chaudhuri, Janet Abu-Lughod e Stéphane Pradines](media/circuitos.png){#fig:indico-redes}
+
+Hoje pesquisada em seus próprios termos, a forma das cidades
+tradicionais suaíli e malaias ainda é pouco representada, contudo, em
+abordagens comparativas e globais.
+Os paradigmas urbanísticos de tradição malaia e suaíli apresentam
+algumas características em comum entre si,
+que justificam serem abordados conjuntamente neste artigo, para além
+da sua inserção no circuito econômico--religioso do oceano Índico
+da Idade Moderna.
+A principal dessas características é o crescimento de distritos
+por agregação de casas em torno de uma edificação dominante,
+sem parcelamento prévio da propriedade do solo.
+A partir daí evidenciam-se, também, suas diferenças,
+por exemplo na hierarquia resultante do tecido urbano como um todo.
+Tanto no arquipélago Malaio quanto na costa Suaíli, porém,
+a imposição a partir do século XVIII de paradigmas urbanísticos
+coloniais (europeu e árabe, respetivamente) provocou uma rutura
+na continuidade das tradições regionais.
 
 ## Contexto científico e pedagógico ##
 
 Por isso, as culturas urbanísticas suaíli e malaia foram até recentemente pouco
-estudadas fora dos seus respectivos nichos disciplinares, quase que
+estudadas fora dos seus respetivos nichos disciplinares, quase que
 estritamente arqueológicos, e dos seus idiomas maternos. Fora desses
 nichos, era comum até recentemente o argumento de que essas culturas
 seriam desprovidas de uma tradição urbanística própria [Por exemplo,
 segundo @bronson:1976palembang19]. Seus entrepostos comerciais teriam
 sido, segundo esse argumento, concebidos e operados por mercadores
-oriundos de verdadeiras sociedades urbanas --- Oriente Médio e China
----, e portanto isolados espacial e culturalmente com respeito aos
+oriundos de sociedades verdadeiramente urbanas --- Oriente Médio e China
+---, isolados espacial e culturalmente com respeito aos
 assentamentos nativos. Esse argumento foi refutado a partir da década de
 1970, começando com autores como @ghaidan:1974lamu e e
 @evers:1977differing44.
@@ -170,7 +182,7 @@ epistemologicamente rigorosa.
 
 Estabelecido o princípio dos paradigmas como instrumental interpretativo
 para as tradições urbanísticas do oceano Índico, estas são apresentadas
-diante do contexto histórico da desagregação do sistema mundial do
+diante do contexto histórico da desagregação do sistema mundo do
 século XIV. As características específicas dos paradigmas malaio e
 suaíli são o objeto central de discussão deste artigo. Como epílogo, as
 sucessivas transformações dessas cidades sob a influência colonial
@@ -217,27 +229,26 @@ critérios explícitos é, na melhor das hipóteses, impossível, e na pior
 das hipóteses, uma pretensão etnocêntrica.
 
 Evitando os percalços dessas definições, o conceito de paradigma
-circunscreve um universo de práticas e de produtos comuns que não se
+circunscreve um universo de práticas e de produtos comuns que se não
 podem reduzir a princípios ou regras absolutas. @ficher:2005paradigmas
 mostram como, na história das cidades modernas, a vigência de práticas
 paradigmáticas transcende as fronteiras mais limitantes da classificação
 por estilos ou períodos histórico-econômicos. Mesmo as funções de
 determinadas práticas paradigmáticas são facilmente apropriadas e
-ressignificadas para novos contextos socioculturais. Até os manifestos
-ideologicamente rígidos e moralistas do movimento Moderno não impediram
-que seus próprios autores se valessem de paradigmas herdados de séculos
-passados [@ficher:2005paradigmas]. O paradigma é, portanto, um
-instrumento de identificação e aproximação, em vez de separação e
-exclusão.
+ressignificadas para novos contextos socioculturais.
+O paradigma é, portanto, um instrumento de identificação e aproximação,
+em vez de separação e exclusão.
 
-<!--Repensar a posição do parágrafo abaixo-->
-
-O que isso implica para o estudo de cidades não ocidentais é que a sua
-natureza urbana não depende de elas atenderem a alguma definição
-explícita do que é uma cidade, nem de se criar uma nova definição que
-seja suficientemente inclusiva. Por maior que seja o contraste entre
-culturas, quem vê uma cidade imediatamente a reconhece enquanto tal. Foi
-o caso para o embaixador chinês Zhou Daguan no Camboja em finais do
+Essa perspetiva permite reorientar o estudo das cidades pré-coloniais
+fora do eixo Europa--Extremo Oriente.
+Por maior que seja o contraste entre
+culturas, quem vê uma cidade imediatamente a reconhece enquanto tal.
+Os relatos de viajantes europeus e chineses, por exemplo, mostram que
+o reconhecimento do caráter urbano das cidades africanas e do Sudeste
+asiático *nunca* dependera, antes da era do neocolonialismo,
+de elas atenderem a alguma definição etnocêntrica *a priori*,
+nem de se criar uma nova definição que seja suficientemente inclusiva.
+Foi o caso para o embaixador chinês Zhou Daguan no Camboja em finais do
 século XIII [@khair:2005other] assim como para os viajante europeus que
 trouxeram relatos das cidades da costa Suaíli que constam do atlas de
 @braun:1575civitates ([@fig:braun]).
@@ -245,15 +256,12 @@ trouxeram relatos das cidades da costa Suaíli que constam do atlas de
 ![Georg Braun e Frans Hogenberg, Aden, Mombaça, Quíloa e Sofala, estampa publicada em *Civitates orbis terrarum*, 1575](media/braun.jpg){#fig:braun}
 
 Essa percepção intuitiva da existência de cidades não ocidentais
-foi apenas obscurecida por um
-modelo colonialista empenhado, segundo @campbell:2008indian, em fabricar
-um marco conceitual para negar *status* urbano às cidades africanas,
+foi apenas temporariamente obscurecida por um
+modelo neocolonialista empenhado, segundo @campbell:2008indian,
+em fabricar um marco conceitual para negar *status* urbano
+às cidades africanas,
 como também em suprimir, de acordo com @ibrahim:2020patterns13, a longa
 história urbana malaia anterior à colonização portuguesa e holandesa.
-Assim, não é que o *reconhecimento* global e pré-moderno do fenômeno
-urbano seja uma inovação conceitual decolonial. Pelo contrário, é a sua
-*negação* com base em definições e regras que foi uma inovação
-colonialista e relativamente recente.
 
 Em síntese, portanto, uma epistemologia da história urbana baseada em
 regras e definições dá uma ilusão de precisão conceitual ao preço de
@@ -310,18 +318,17 @@ somente de posse de um lote que o proprietário fundiário eurasiático
 pode, então, começar a construir uma edificação ([@fig:picoC]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:eurasiatico}
-![Traçados viários](media/pico-viario.png){#fig:picoA}
-![Parcelamento do solo](media/pico-lotes.png){#fig:picoB}
-
-![Edificações](media/pico-edificios.png){#fig:picoC}
-![Síntese do tecido construído](media/pico-tudo.png){#fig:picoD}
+![Traçados viários](media/pico-viario.png){#fig:picoA width="49%"}
+![Parcelamento do solo](media/pico-lotes.png){#fig:picoB width="49%"}
+![Edificações](media/pico-edificios.png){#fig:picoC width="49%"}
+![Síntese do tecido construído](media/pico-tudo.png){#fig:picoD width="49%"}
 
 Elementos urbanos próprios ao paradigma eurasiático: reconstituição do
 tecido urbano pré-moderno das Lajes do Pico, Açores. Desenhos do autor
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Claro que, uma vez estabelecidos esses elementos iniciais, os tecidos
-urbanos vão se "sedimentando" [@coelho:2014tempos] ao longo de séculos
+urbanos se vão "sedimentando" [@coelho:2014tempos] ao longo de séculos
 por meio da constante reconstrução de edificações, da gradual
 reorganização do parcelamento ao sabor do mercado imobiliário, e
 eventualmente das reformas nos traçados viários impostas pelo poder
@@ -362,7 +369,7 @@ nas imediações deste império.
 
 ## Eurocentrismo metodológico ##
 
-Dessa extensão geográfica *eurasiática* decorre, por sua vez, um
+Dessa expansão física e cultural *eurasiática* decorre, por sua vez, um
 enquadramento metodológico *eurocêntrico* nos estudos da forma urbana. A
 metodologia atualmente hegemônica nos estudos de morfologia urbana,
 consolidada por pesquisadores de formação britânica, se baseia na
@@ -374,7 +381,7 @@ China e Japão [Ver também @whitehand:2006research30 e, no contexto
 luso-brasileiro, @oliveira:2018diferentes].
 
 Para além dessas margens, porém, vigoram outros paradigmas urbanísticos
-que não se definem pela mesma hierarquia de elementos nem pelos mesmos
+que se não definem pela mesma hierarquia de elementos nem pelos mesmos
 processos de crescimento. Reconhecer a existência de tais paradigmas é,
 todavia, um desafio intelectual tanto perante as categorias conceituais
 oriundas do colonialismo que até recentemente permeavam a nomenclatura
@@ -390,9 +397,10 @@ aponta @njoh:2008colonial38 [584], à segregação e hierarquização racial.
 Na margem oposta do oceano Índico, no Sudeste asiático continental e
 insular, vigora, ao contrário, um paradigma urbanístico relativamente
 unitário. Esse paradigma também foi, contudo, desconsiderado pelos
-colonizadores mediante nomenclaturas como "aldeia nativa", presente na
-cartografia de @coleman:1839town ([@fig:singapore1839]) e outros assim
-como no discurso textual.
+colonizadores mediante nomenclaturas como "aldeia nativa",
+presente entre outros na cartografia de Singapura por
+@coleman:1839town ([@fig:singapore1839]),
+assim como no discurso textual.
 
 ![Mapa da cidade de Singapura por [G.D. Coleman, 1839][]](media/coleman.jpg){#fig:singapore1839}
 
@@ -403,21 +411,23 @@ urbano nas povoações tradicionais da África e do Sudeste asiático
 evidencia, como mostram @laviolette:2005archaeology, a inadequação de se
 empregar os modelos descritivos do
 paradigma urbanístico eurasiático como indicadores universais. Todavia,
-mesmo numa abordagem ostensivamente global e culturalista, como a de
-@barke:2018importance [17], coloca no mesmo nível de análise
+mesmo uma abordagem ostensivamente global e culturalista, como a de
+@barke:2018importance [17], situa na mesma hierarquia de análise os
 subconjuntos do paradigma eurasiático --- "a cidade norteamericana, a
 cidade soviética, [...] a cidade latinoamericana, a cidade da Europa
 ocidental, a cidade islâmica, a cidade chinesa [...] e a cidade
-mediterrânea" --- e a "cidade africana" como se esta fosse descrita por
+mediterrânea" --- e a "cidade africana" como se esta pertencesse a
 um paradigma morfológico unitário. Embora tal paradigma seja
 implicitamente moderno, referindo-se à cidade africana industrializada e
 pós-colonial, o mesmo se aplicava às culturas tradicionais encontradas
 pelos colonizadores europeus no século XIX. Para tanto, estes
 construíram o conceito das sociedades primitivas e tribais
 [@ranger:2010invention] incapazes de se erguerem acima do estágio da
-aldeia a não ser pela intervenção de uma potência colonial (primeiro
-árabe, depois europeia) ou, no máximo, pela migração de mercadores
-chineses e indianos.
+aldeia.
+A  cidade propriamente dita na África e no Sudeste asiático seria,
+segundo essa lógica, prerrogativa de uma potência colonial
+(primeiro árabe, depois europeia) ou
+oriunda da influência de mercadores chineses e indianos.
 
 Desde a década de 1980, porém, @winters:1983classification10 identificou
 ao menos dois paradigmas urbanísticos
@@ -438,10 +448,12 @@ autores como @evers:1977culture6, @hall:1996ritual52 e refinada por
 
 ## Metodologia ##
 
-Apesar de tais vieses e amarras conceituais, o uso de *alguma* base
-metodológica em história urbana é indispensável para se definir os
-paradigmas urbanísticos do oceano Índico em seus próprios termos, e não
-como realizações incompletas do paradigma eurasiático. Para tanto, a
+Apesar de tais vieses e amarras conceituais eurocêntricos,
+o uso de *alguma* base metodológica em história urbana
+é indispensável para se definir os paradigmas urbanísticos
+do oceano Índico em seus próprios termos, e não
+como realizações incompletas do paradigma eurasiático.
+Para tanto, a
 abordagem tipo-morfológica processual oferece princípios fundamentais
 que permitem transcender o rol de categorias eurasiáticas. Tal como
 definido por @cataldi:1989introduzione [13], a premissa da
@@ -486,7 +498,7 @@ como das casas, em detrimento das cidades pré-coloniais no seu conjunto.
 
 <!--O que mais incluir nesta seção? Está curta comparada com as outras-->
 
-## Sistema mundial ##
+## Sistema mundo ##
 
 O alcance cronológico dos paradigmas urbanísticos da costa Suaíli e do
 arquipélago Malaio se inscreve numa Idade Moderna expandida que vai de
@@ -494,15 +506,11 @@ meados do século XIV até a segunda metade do XIX. Nas redes globais do
 século XIV em diante, o oceano Índico ocupava um lugar privilegiado como
 articulador de trocas econômicas, culturais e religiosas. Segundo a
 historiadora da urbanização @abu-lughod:1991european, entre 1250 e 1350
-o comércio internacional formou pela primeira vez um "sistema mundial"
+o comércio internacional formou pela primeira vez um "sistema mundo"
 altamente integrado com a maior parte da Ásia, África e Europa.
 
-![Circuitos econômico-culturais do sistema mundial, 1250--1350, segundo Janet Lippman Abu-Lughod. Mapa por [Derfel73, 2011][]](media/circuitos.png){#fig:circuits}
-
-[Derfel73, 2011]: https://commons.wikimedia.org/wiki/File:Archaic_globalization.svg
-
 O centro desse sistema estava na navegação no oceano Índico
-([@fig:circuits]), em três circuitos originalmente descritos por
+([ver @fig:indico-redes]), em três circuitos originalmente descritos por
 @chaudhuri:1985trade. A bacia do Mediterrâneo e mesmo a China
 ocupavam uma posição periférica nesse sistema, controlado por mercadores
 muçulmanos. Cada circuito correspondia, primariamente, a um calendário
@@ -513,7 +521,7 @@ marinhas mercantes (mas também com caráter político--imperialista)
 chinesas e tâmeis; no meio, o percurso de cabotagem ao longo das costas
 da Índia e do Ceilão; e a oeste, o domínio dos navegantes persas e
 árabes, em geral agentes da iniciativa privada. Se os protagonistas do
-comércio circulavam predominantemente dentro dos seus respectivos
+comércio circulavam predominantemente dentro dos seus respetivos
 circuitos (mas viajantes globais como Marco Polo, Ibn Battūta, ou Zheng
 He relativizaram esses limites), as próprias mercadorias cobriam
 distâncias muito maiores do que qualquer um dos seus transportadores.
@@ -531,7 +539,7 @@ controlavam os estreitos por onde passava, e passa até hoje, a maior
 parte da carga marítima proveniente da China. As especiarias
 provenientes do próprio arquipélago Malaio foram ou outro fator que
 promoveu a ascensão de impérios mercantes como Serivijaia ou Majapait. O
-mundo malaio não se limitava, porém, ao arquipélago, uma vez que esses
+mundo malaio se não limitava, porém, ao arquipélago, uma vez que esses
 adeptos navegantes povoaram também Madagáscar e as ilhas Comoros. Na
 costa noroeste de Madagáscar e em Comoros, desenvolveu-se então uma
 cultura étnica e economicamente sincrética malaio-suaíli
@@ -630,7 +638,7 @@ grassavam em todo o Sudeste asiático entre hinduístas e budistas.
 A passagem do século XIV para o XV marcou o último período de auge das
 cidades-estado marítimas na economia global. Esses lugares controlavam
 pontos estratégicos na passagem de mercadorias em rotas comerciais de
-longa distância. Por isso, se desenvolveram formando redes de acesso a
+longa distância. Por isso, desenvolveram-se formando redes de acesso a
 matérias-primas e a produtos manufaturados que atravessavam continentes,
 culturas e religiões diversas. Embora os protagonistas mais imediatos
 dessas redes fossem os mercadores muçulmanos, de origem africana, árabe,
@@ -644,25 +652,21 @@ conhecimento chegasse apenas em segunda mão a partir de fontes
 europeias, como é o caso do atlas do intelectual turco Kâtip Çelebi
 ([@fig:cihannuma]).
 
-![Kâtip Çelebi, Sudeste asiático, 1648. Reproduzido no atlas [*Cihânnümâ*][], Istambul: İbrahim Müteferrika, 1728](media/cinnahuma.jpg){#fig:cihannuma}
+![Ibrahim Müteferrika, mapa do Sudeste asiático, 1648. Reproduzido no atlas [*Cihânnümâ*][] de Kâtip Çelebi, Istambul: İbrahim Müteferrika, 1728](media/cinnahuma.jpg){#fig:cihannuma}
 
 [*Cihânnümâ*]: https://commons.wikimedia.org/wiki/Category:Cihannümâ_(Kâtip_Çelebi)
 
 No universo das cidades mercantes dos séculos XIV e XV, as do Sudeste
 asiático se destacaram pela sua diversidade étnica e religiosa.
 Sucedendo ao império Serivijaia baseado em Palimbão, na ilha de Sumatra,
-o império hindu-budista de Majapait com a sua capital Trowulan, na ilha
-de Java ([@fig:majapahit]), e o sultanato muçulmano de Malaca
-([@fig:malacca]), na península malaia, controlaram cada um a seu tempo o
-comércio marítimo de
+o império hindu-budista de Majapait com a sua capital Trowulan
+na ilha de Java, e o sultanato muçulmano de Malaca na península Malaia
+([ver @fig:indico-redes]),
+controlaram cada um a seu tempo o comércio marítimo de
 especiarias e as exportações chinesas para o Ocidente. Assim, Trowulan e
 Malaca se tornaram centros de poder econômico e político muito prósperos.
 Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
 urbano e de construir perfeitamente adaptados ao clima equatorial.
-
-![arquipélago Malaio no auge do império Majapait, século XIV. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](media/majapahit.png){#fig:majapahit}
-
-![Sultanato de Malaca no final do século XV. Mapa: [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malaca_Sultanate-pt.svg)](media/malacca-sultanate.jpg){#fig:malacca .r-stretch}
 
 Parte dessa adaptação envolvia, segundo @abu-lughod:1991european, uma
 relativa instabilidade dos sítios dominantes. Ao contrário da China
@@ -675,12 +679,13 @@ tão instável nem isolada quanto se acreditava [@hall:1996ritual52].
 
 Caracterizar a urbanização malaia esbarra no problema do vocabulário que
 se usa para definir e descrever o que é "urbano". Até a segunda metade
-do século XX, a arqueologia europeia associava o *status* de civilização
+do século XX, a arqueologia europeia associava o *status* de civilização urbana
 à ocorrência de cidades de padrão mediterrâneo ou chinês, com alta
-densidade do tecido construído e arquitetura monumental em pedra
+densidade do tecido construído e arquitetura monumental em alvenaria
 [@laviolette:2005archaeology]. No entanto, o registro arqueológico do
-Sudeste asiático e do arquipélago Malaio é ambíguo a esse respeito, o
-que levou autores como @bronson:1976palembang19 [236] a classificarem as
+Sudeste asiático e do arquipélago Malaio é ambíguo a esse respeito.
+Até ao menos a segunda metade da década de 1970,
+autores como @bronson:1976palembang19 [236] ainda classificavam as
 sociedades dessa região como "sem cidades, porém civilizadas".
 
 ## Urbanização do *kampung* ##
@@ -694,9 +699,10 @@ fortificados.
 
 *Kampung* significa "povoado" em malaio e indonésio, talvez derivado,
 segundo @widodo:2009morphogenesis [81], da designação de "uma área
-próxima a um embarcadouro fluvial e a caminho do povoado". Na história
-urbana, esse termo é empregado para designar a unidade elementar do
-processo de urbanização em partes do Sudeste asiático e no arquipélago
+próxima a um embarcadouro fluvial e a caminho do povoado". Na historiografia
+urbana, esse termo é correntemente empregado para designar
+qualquer unidade elementar do processo de urbanização
+em partes do Sudeste asiático e no arquipélago
 Malaio [@samsudin:2020adaptation447]. A configuração típica do *kampung*
 vem desde as origens da agricultura no Sudeste asiático
 ([@fig:arrozal]). O conjunto se organiza em torno de um caminho
@@ -715,7 +721,7 @@ e espaço privado, sem classificações intermediárias. Já o *kampung*
 resultava diretamente da ocupação de um espaço agrário num grupo
 comunitário e da sucessão familiar sem
 partilha da terra. Como as terras eram sempre propriedade coletiva desses
-grupos, elas não se dividiam em lotes menores e mais
+grupos, elas não eram reparceladas em lotes menores e mais
 estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
 Europa [@sahabuddin:2012establishment]. A gleba do *kampung* era,
 portanto, um espaço comunitário distinto tanto da privacidade de cada
@@ -751,9 +757,10 @@ do desenvolvimento agrícola e comercial, sem nenhuma representação
 visual dos seus assentamentos.
 
 Foi apenas a partir da década de 1970 que
-pesquisas de cunho antropológico e arqueológico começaram a reconhecer o
-urbanismo malaio como um paradigma alternativo ao do urbanismo chinês ou
-europeu, e não como uma ausência de urbanização.
+pesquisas de cunho antropológico e arqueológico começaram a reconhecer
+o urbanismo malaio como um paradigma urbanístico
+com características próprias,
+e não como ausência de urbanização.
 Além disso, @evers:1977culture6 mostrou que as divisas
 geométricas entre glebas do *kampung* eram pouco importantes, em
 comparação com o uso dos espaços e dos recursos tangíveis. O critério
@@ -762,11 +769,10 @@ determinavam a localização de casas principais e secundárias e o acesso a
 hortas e plantações ([@fig:kampungA]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kampung}
-![implantação inicial em torno de um edifício comunitário e espaço aberto, em meio a arrozais](media/kampung-0.png){#fig:kampungA}
-![crescimento da comunidade com construção de mais casas gravitando em torno do edifício dominante](media/kampung-1.png){#fig:kampungB}
-
-![o crescimento atinge a divisa do *kampung* com as glebas vizinhas ou com acidentes geográficos](media/kampung-2.png){#fig:kampungC}
-![após ocupar todo o perímetro, o crescimento continua por meio do adensamento do interior da gleba](media/kampung-3.png){#fig:kampungD}
+![implantação inicial em torno de um edifício comunitário e espaço aberto, em meio a arrozais](media/kampung-0.png){#fig:kampungA width="48%"}
+![crescimento da comunidade com construção de mais casas gravitando em torno do edifício dominante](media/kampung-1.png){#fig:kampungB width="48%"}
+![o crescimento atinge a divisa do *kampung* com as glebas vizinhas ou com acidentes geográficos](media/kampung-2.png){#fig:kampungC width="48%"}
+![após ocupar todo o perímetro, o crescimento continua por meio do adensamento do interior da gleba](media/kampung-3.png){#fig:kampungD width="48%"}
 
 Esquema do processo de urbanização de um *kampung*. Desenho do autor
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -876,13 +882,11 @@ o módulo elementar de organização dos bairros --- conhecido como *mtaa*
 --- era urbano desde a sua origem, e não uma gradual urbanização a
 partir de uma raiz rural.
 
-![Principais cidades e eixos comerciais da costa suaíli. Desenho do autor](media/costa-suaili.png){#fig:costa-suaili}
-
 A costa Suaíli é uma parte do litoral africano do oceano Índico, com
 mais de três mil quilômetros de extensão de norte a sul. Ela era formada, no início da Idade Moderna,
 por uma sequência de cidades autônomas especializadas no comércio marítimo,
 fundadas e habitadas por povos de etnia banto que falam a língua quissuaíli
-([@fig:costa-suaili]). Os banto migraram para essa região no primeiro
+([ver @fig:indico-redes]). Os banto migraram para essa região no primeiro
 milênio antes de Cristo, e no século I a.C. o litoral do Índico já era
 uma rota comercial importante [@costa:2011enxada].
 
@@ -907,11 +911,11 @@ numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
 que as raízes socioeconômicas, culturais e construtivas da cidade suaíli
 de Lamu eram, de fato, africanas. Essa conclusão foi paulatinamente
 estendida por outros pesquisadores ao conjunto da costa Suaíli, e
-atualmente é a interpretação pacificada [@horton:1991primitive].
+atualmente é a interpretação paradigmática [@horton:1991primitive8].
 
 Há elementos arqueológicos da cultura material suaíli que respaldam esse
 argumento, além de indícios antropológicos. Um elemento arqueológico,
-estudado por @wynnejones:2007creating81, é a continuidade no *corpus* de
+estudado por @wynne-jones:2007creating81, é a continuidade no *corpus* de
 cerâmicas de uso cotidiano. Essa continuidade se evidencia tanto no
 tempo --- desde antes da consolidação das cidades mercantes até o
 abandono de localidades como Quíloa Quisiuani, Songo Mnara ou Gedi, nos
@@ -930,7 +934,7 @@ povoações banto já mencionadas mais acima.
 ## Urbanização dos *mitaa* ## 
 
 Como parte da cultura banto, a urbanização suaíli também partia da
-unidade espacial comunitária conhecida com *mtaa* (pl. *mitaa*). O
+unidade espacial comunitária conhecida como *mtaa* (pl. *mitaa*). O
 *mtaa* era, de certo modo, um bairro de casas organizadas por proximidade
 ao centro da sua hierarquia --- geralmente a morada de uma família
 dominante. Os vários *mitaa* que compunham uma cidade, por sua vez, eram
@@ -957,13 +961,12 @@ gradual dos interstícios livres entre as construções existentes
 ([@fig:mtaaB; @fig:mtaaC]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:mtaa}
-![](media/mtaa-0.png){#fig:mtaaA}
-![](media/mtaa-2.png){#fig:mtaaB}
+![](media/mtaa-0.png){#fig:mtaaA width="49%"}
+![](media/mtaa-2.png){#fig:mtaaB width="49%"}
+![](media/mtaa-3.png){#fig:mtaaC width="49%"}
+![](media/mtaa-4.png){#fig:mtaaD width="49%"}
 
-![](media/mtaa-3.png){#fig:mtaaC}
-![](media/mtaa-4.png){#fig:mtaaD}
-
-Esquema da formação e adensamento de um *mtaa*. Desenho do autor
+Diagrama da formação e adensamento de um *mtaa*. Fonte: desenho do autor
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Entretanto, esse espaço aberto não era apenas uma área residual e
@@ -975,7 +978,8 @@ de varejo, hortas e pomares, e celebrações comunitárias
 restante ficava quase inteiramente encerrado entre as casas
 ([@fig:mtaaD]). Assim, ficava garantida uma maior privacidade para as
 casas lindeiras, porém ao custo de resultar numa paisagem dominada pela
-vida doméstica. O espaço das atividades comunitária e econômicas ficava,
+vida doméstica.
+O espaço das atividades comunitárias e econômicas ficava,
 assim, bastante reduzido.
 
 O *mtaa* terminava por ter uma configuração introvertida, onde as
@@ -988,12 +992,14 @@ entre as casas, necessária no clima extremamente úmido da costa
 equatorial do oceano Índico.
 
 A configuração dos *mitaa* decorre, portanto, de relações familiares e
-clientelistas organizadas e, segundo @fleisher:2012finding29,
+clientelistas formalizadas e, segundo @fleisher:2012finding29,
 ritualizadas. Logo, trata-se de um tipo urbanístico vinculado ao
 desenvolvimento da estratificação social e da autoimagem das oligarquias
-mercantes. Nos bairros periféricos das cidades suaíli, não é possível
-discernir a mesma organização espacial. As casas das classes baixas
-eram, aparentemente, dispostas lado a lado em configurações de crescente
+mercantes.
+Nos bairros periféricos das cidades suaíli não é possível discernir
+a mesma organização espacial.
+As casas das classes baixas eram, aparentemente,
+dispostas lado a lado em configurações de crescente
 adensamento, mas sem uma hierarquia espacial clara.
 
 ## Configuração urbana ##
@@ -1013,6 +1019,8 @@ todo, essa hierarquia não era tão clara. Até onde se pode discernir a
 partir do registro arqueológico e da morfologia urbana, coexistiram dois
 tipos de configurações urbanas na costa Suaíli.
 
+![Diagrama ideal de uma cidade suaíli de configuração concêntrica. Fonte: desenho do autor com base nos levantamentos arqueológicos de Shanga e Takwa em @fleisher:2012finding29](media/swahili-concentrica.png){#fig:swahili-concentrica}
+
 O primeiro tipo tinha uma configuração concêntrica e compacta
 ([@fig:swahili-concentrica]). Ele pode ser discernido em cidades que
 estavam em formação por volta do século IX e que foram abandonadas entre
@@ -1028,15 +1036,8 @@ cerca exterior e, eventualmente, bastante afastado da zona urbana, como
 em Quíloa Quisiuani. O mesmo podia ocorrer com a mesquita de
 sexta-feira.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:config-swahili}
-![configuração concêntrica](media/swahili-concentrica.png){#fig:swahili-concentrica width=50%}
-![configuração bipartida](media/swahili-bipartida.png){#fig:swahili-bipartida width=50%}
-
-Tipos de configuração urbanística das cidades suaíli. Desenho do autor
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 O segundo tipo tem uma configuração bipartida sem cerca
-([@fig:swahili-bipartida]), e ocorre em cidades dispostas de modo
+([@fig:lamu]), e ocorre em cidades dispostas de modo
 predominantemente linear ao longo da orla marítima. Nesse tipo, a mancha
 urbana está dividida em duas zonas claramente distintas entre si: uma
 "cidade de pedra e cal" formada pelos *mitaa* de elite e uma "cidade de
@@ -1044,29 +1045,32 @@ macuti", onde *macuti* designa em quissuaíli a cobertura com choça de
 palmeira. As casas de macuti em geral têm estrutura em adobe ou
 pau-a-pique.
 
+![Configuração bipartida de uma cidade suaíli: centro histórico de Lamu. Fonte: desenho do autor com base no dossiê do Comitê do Patrimônio Mundial](media/lamu.png){#fig:lamu}
+
 As cidades bipartidas permanecem em geral habitadas até hoje, como Lamu,
 Zanzibar ou a ilha de
 Moçambique. Essa continuidade faz com que seja mais difícil interpretar
 o processo de formação desse tipo. Assim, não é possível ter certeza se
-essa configuração estava presente desde as origens das respectivas
-cidades ou se resultou de alterações na organização sócio-espacial
-endógenas ou coloniais. Em vez de um gradiente de proximidade ao poder,
-como nas cidade de cercas concêntricas, as cidades bipartidas manifestam
-na sua configuração apenas essas duas condições sociais.
+essa configuração estava presente desde as origens das respetivas
+cidades ou se resultou de alterações na organização socioespacial
+com raízes endógenas ou coloniais.
+Em vez de um gradiente de proximidade ao poder,
+como nas cidade concêntricas, as cidades bipartidas manifestam
+na sua configuração apenas essa dicotomia de condições sociais.
 
 Contrariamente ao contexto malaio, portanto, na costa Suaíle os sistemas
 construtivos desempenhavam um papel importante na demarcação da
-estratificação social.
+estratificação social. <!--Elaborar?-->
 
-# Conclusão #
+# Epílogo #
 
 A partir do século XVII, as cidades mercantes do oceano Índico sofreriam
 de modo mais intenso os efeitos do colonialismo eurasiático. Na costa
 leste da África, Portugal e Omã competiam pelo domínio sobre as cidades
 suaíli. No arquipélago Malaio, após uma breve passagem dos portugueses
-em Malaca, a disputa se deu entre as Companhias das Índias Orientais do
-Reino Unido e dos Países Baixos, sempre com o apoio militar e político
-dos seus respectivos governos. O aprofundamento dos regimes coloniais
+em Malaca, a disputa se deu entre as Companhias inglesa e neerlandesa 
+das Índias Orientais, sempre com o apoio militar e político
+dos seus respetivos governos. O aprofundamento dos regimes coloniais
 árabe e europeus nos séculos XVIII e XIX causou intensas transformações
 não apenas na forma urbana das cidades existentes, mas também no regime
 jurídico e nos processos político-econômicos de urbanização e construção
@@ -1076,12 +1080,12 @@ A profundidade do legado urbanístico colonial nas cidades às margens do
 oceano Índico justifica em parte que grande parte da bibliografia sobre
 essas regiões se concentre nos problemas da urbanização contemporânea
 decorrente desse legado. Grande parte do marco jurídico que disciplina o
-desenvolvimento urbano nos países oriundos da colonização europeia foi
+desenvolvimento urbano atual nos países oriundos da colonização europeia foi
 moldada a partir do paradigma urbanístico eurasiático. Nesse contexto,
 os paradigmas tradicionais de urbanização persistem enquanto um
 patrimônio material que carece de instrumentos adequados para a sua
-preservação, e mais ainda para serem revitalizados como identidade
-cultural de suas respectivas sociedades.
+preservação, e mais ainda para sua revitalização como identidade
+cultural de suas respetivas sociedades.
 
 Ao explicitar a natureza dos paradigmas urbanísticos nas margens do
 oceano Índico enquanto processos de produção social do espaço, torna-se
@@ -1092,7 +1096,7 @@ individual de parcelas do solo e no crescimento periférico por meio da
 agregação, também individual, de projetos singulares ao longo de
 traçados viários estruturantes. Em contraste, os dois paradigmas
 urbanísticos estudados neste artigo, em extremos opostos do oceano
-Índico, atribuem a outras unidades sócio-espaciais, eminentemente
+Índico, atribuem a outras unidades socioespaciais, eminentemente
 coletivas e introvertidas, o papel de geradoras da forma urbana. Ambos
 eram formados pela agregação de unidades morfologicamente similares,
 porém hierarquizadas de diferentes modos.
@@ -1109,7 +1113,8 @@ estabelecia limites bioclimáticos ao adensamento edilício nos *kampung*.
 
 A governança do *kampung* dependia da aceitação de normas e
 hierarquias sociais que estabeleciam os mecanismos de gestão coletiva e
-de autoridade político-familiar. A imposição colonial do paradigma
+de autoridade político--familiar.
+A imposição colonial do paradigma
 eurasiático de propriedade individual do solo desarticulou esse sistema,
 fragilizando a situação jurídica de muitos *kampung* existentes e
 praticamente inviabilizando a continuidade dessa tradição.
@@ -1143,8 +1148,9 @@ contribuiu para uma rutura ainda maior entre os paradigmas urbanísticos
 tradicionais e os novos crescimentos urbanos.
 
 O ápice da colonização estrangeira e o seu legado contemporâneo não
-fazem parte do escopo cronológico deste artigo. Reciprocamente, o
-recorte geográfico limitou-se aos extremos oriental e ocidental do
+fazem parte do escopo cronológico e conceitual deste artigo.
+Reciprocamente, o recorte geográfico limitou-se
+aos extremos oriental e ocidental do
 oceano Índico, excluindo a urbanização pré-colonial do sul da Índia ou
 do Sudeste asiático continental. Todas essas temáticas são, ainda hoje,
 lacunas na bibliografia em língua portuguesa sobre história urbana. A
@@ -1160,3 +1166,11 @@ historicamente vinculada ao arquipélago. Regiões lindeiras, como o
 Camboja e as Filipinas, também apresentam semelhanças culturais e
 urbanísticas com o arquipélago Malaio, mas não foram estudadas no âmbito
 desta pesquisa.
+
+[^2]: A classificação das cidades Suaíli como
+cidades-estado é hegemônica no campo disciplinar, e confirmada por
+exemplo por @baumanova:2022transitory14. @fauvelle:2018rinoceronte,
+prefere o termo "pequenos estados". No caso das cidades do arquipélago
+Malaio, há cidades que dominam vastos "impérios" comerciais marítimos
+mas que não estendem seu controle administrativo à sua hinterlândia
+agrária, como afirmam @ibrahim:2020patterns13.
