@@ -791,6 +791,13 @@ entre o *kampung* e esse atrativo ([@fig:kampungC]). Em casos de grande
 complementaridade entre essas duas dinâmicas, poderia ocorrer um
 adensamento quase completo do *kampung* todo ([@fig:kampungD]).
 
+Em qualquer caso, os limites práticos para o adensamento de um *kampung*
+tradicional eram as considerações bioclimáticas, algo que o urbanismo
+colonial levou em consideração apenas parcialmente. A boa ventilação e
+abundância de áreas verdes tem sido uma característica resgatada pela
+pesquisa urbanística malaia atual, como no trabalho de
+@kassim:2019tropicalized18.
+
 Esse processo continua na urbanização
 contemporânea e tem sido um fator de manutenção ou recuperação da
 identidade cultural malaia e indonésia. Isso tem ocorrido principalmente
@@ -801,7 +808,7 @@ sobre o arcabouço jurídico herdado do período colonial, que substituiu a
 propriedade comunitária do espaço pelo parcelamento individualizado do
 solo.
 
-## De Majapait a Malaca ##
+## O *kampung* real de Majapait a Malaca ##
 
 Partindo do *kampung* como unidade social e urbanística de base, os
 estados malaios organizaram o território em redes de poder político e
@@ -827,14 +834,21 @@ mesquitas não ocupavam o centro do poder político como o templo
 hinduísta havia feito anteriormente, mas funcionavam como centros
 comunitários em cada *kampung*. A sede do poder político
 era o *kota raja*, ou cidadela real [@tajudeen:2005reading8, 5].
+O *kota raja* funcionava ele próprio como um *kampung* centrado no palácio
+e na sua mesquita.
 
-![Diagrama conceitual de um conjunto urbano malaio. Desenho do autor baseado em @tajudeen:2005reading8](media/kotaraja-alpha.png){#fig:malay-urbanism}
+![Reconstituição de Malaca ca. 1500, hipótese do autor com base em Tajudeen, Kassim e Kamaruddin. Fonte: desenho do autor](media/malaca.png){#fig:melaka}
 
-<!--Diagramar distribuição étnica baseada em Wheatley 1973-->
-
-![Planta das fortificações holandesas em Malaca, no sítio do antigo forte português e anterior cidadela real malaia, Norte à esquerda. [Desenho holandês de 1656][]](media/fort.jpg){#fig:fortr-malacca}
-
-[Desenho holandês de 1656]: https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
+Malaca é um exemplar paradigmático do *kota raja*
+com sua cidade mercante ao redor, tal como reconstituído por
+@kassim:2019centre12.
+A hipótese de reconstituição ilustrada na @fig:melaka mostra todos os
+elementos canônicos duma cidade real malaia
+com exceção dos pomares reais, cuja localização ainda é incerta.
+O mapa mostra relação direta entre o *kota raja* e
+a área mercante da cidade, base do poder econômico do sultão.
+Esse binômio é circundado pelos *kampung* residenciais e agrários
+que sustentam a população local.
 
 Malaca foi um dos reinos muçulmanos mais poderosos do século XV. A
 cidade controlava o estreito marítimo por onde passava uma grande parte
@@ -843,8 +857,10 @@ construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
 ([@fig:fortr-malacca]). Era uma posição estratégica na foz do rio, entre
 os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
 outra margem do rio.
-O *kota raja* funcionava ele próprio como um *kampung* centrado no palácio
-e na sua mesquita.
+
+![Planta das fortificações holandesas em Malaca, no sítio do antigo forte português e anterior cidadela real malaia, Norte à esquerda. Fonte: [desenho holandês de 1656][]](media/fort.jpg){#fig:fortr-malacca}
+
+[Desenho holandês de 1656]: https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
 
 Do mesmo modo que o *kampung* como um todo podia crescer irradiando
 novas construções que gravitavam em torno do seu centro simbólico,
