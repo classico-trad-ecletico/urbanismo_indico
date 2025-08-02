@@ -22,7 +22,7 @@ references:
     - year: 2015
       month: 2
       day: 24
-  language: fr
+  language: fre
   page: 383-399
   publisher: Presses universitaires de Rennes
   publisher-place: Rennes
@@ -43,7 +43,7 @@ references:
   ISBN: 978-0-19-506774-3 978-0-19-505886-4
   issued:
     - year: 1991
-  language: en
+  language: eng
   number-of-pages: '443'
   publisher: Oxford University Press
   publisher-place: New York
@@ -90,7 +90,7 @@ references:
   issue: '13'
   issued:
     - year: 2013
-  language: en
+  language: eng
   page: 126-130
   source: www.iiste.org
   title: 'Learning from traditional architecture: the example of Somba'
@@ -113,7 +113,7 @@ references:
   issue: '1'
   issued:
     - year: 2002
-  language: en
+  language: eng
   license: Copyright (c) 2017 SEAMEO SPAFA
   number: '1'
   page: 41-51
@@ -137,11 +137,15 @@ references:
     978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
   issued:
     - year: 2010
-  language: pt
-  publisher: <span smallcaps="smallcaps">UNESCO</span>
+  language: por
+  publisher: >-
+    <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">UNESCO</span>
   publisher-place: Brasília
   source: Open WorldCat
-  title: África do século <span smallcaps="smallcaps">XIX</span> à década de 1880
+  title: >-
+    África do século <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">XIX</span> à década de 1880
   translator:
     - family: Chaigne
       given: David Yann
@@ -164,13 +168,13 @@ references:
   citation-key: alexander:2002process
   collection-number: '2'
   collection-title: The nature of order
-  event-place: Berkeley, Calif.
+  event-place: Berkeley, Cal.
   ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
   issued:
     - year: 2002
-  language: en
+  language: eng
   publisher: Center for Environmental Structure
-  publisher-place: Berkeley, Calif.
+  publisher-place: Berkeley, Cal.
   source: Open WorldCat
   title: The process of creating life
   type: book
@@ -182,7 +186,7 @@ references:
   citation-key: allen:1974lamu
   issued:
     - year: 1974
-  language: en
+  language: eng
   number-of-pages: '56'
   publisher: Allen
   source: Google Books
@@ -206,7 +210,7 @@ references:
   issue: '2'
   issued:
     - year: 1974
-  language: en
+  language: eng
   page: 42-84
   publisher: UCLA James S. Coleman African Studies Center
   source: JSTOR
@@ -231,7 +235,7 @@ references:
   issue: '2'
   issued:
     - year: 1981
-  language: en
+  language: eng
   page: 306-334
   publisher: Boston University African Studies Center
   source: JSTOR
@@ -257,7 +261,7 @@ references:
   ISBN: 978-0-7546-7512-9
   issued:
     - year: 2012
-  language: en
+  language: eng
   page: 67-83
   publisher: Ashgate
   publisher-place: Farnham, Surrey ; Burlington, Ver.
@@ -303,8 +307,8 @@ references:
   ISBN: 978-3-030-33323-2 978-3-030-33322-5 978-3-030-33324-9 978-3-030-33325-6
   issued:
     - year: 2020
-  language: en
-  publisher: 'Springer International Publishing : Imprint: Springer'
+  language: eng
+  publisher: Springer International
   publisher-place: Cham
   source: Open WorldCat
   title: Innovative models for sustainable development in emerging African countries
@@ -340,7 +344,7 @@ references:
   issued:
     - year: 1990
       month: 10
-  language: en
+  language: eng
   page: 661-682
   source: DOI.org (Crossref)
   title: A seventeenth-century ‘general crisis’ in east Asia?
@@ -358,7 +362,7 @@ references:
   event-place: New York
   issued:
     - year: 1974
-  language: en
+  language: eng
   publisher: Penguin
   publisher-place: New York
   title: Design of cities
@@ -384,7 +388,7 @@ references:
   issue: '190'
   issued:
     - year: 2009
-  language: en
+  language: eng
   page: 148-155
   source: Scopus
   title: >-
@@ -424,7 +428,7 @@ references:
     - year: 2021
       month: 11
       day: 30
-  language: en
+  language: eng
   number: '1'
   publisher: The Open Library Of Humanities
   source: journal.eahn.org
@@ -455,7 +459,7 @@ references:
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
-  language: en
+  language: eng
   page: 11-30
   publisher: Springer
   publisher-place: Cham
@@ -484,7 +488,7 @@ references:
   ISBN: 978-3-031-14697-8
   issued:
     - year: 2022
-  language: en
+  language: eng
   page: 153-167
   publisher: Springer International Publishing
   publisher-place: Cham
@@ -556,7 +560,7 @@ references:
   issued:
     - year: 2022
       month: 1
-  language: en
+  language: eng
   license: http://creativecommons.org/licenses/by/3.0/
   number: '3'
   page: '1759'
@@ -614,7 +618,7 @@ references:
   issue: '35'
   issued:
     - year: 1998
-  language: en
+  language: eng
   page: 7-17
   source: JSTOR
   title: >-
@@ -648,7 +652,7 @@ references:
   issue: '4'
   issued:
     - year: 1988
-  language: en
+  language: eng
   license: '##submission.copyrightStatement##'
   number: '4'
   page: 16-30
@@ -690,7 +694,7 @@ references:
     - year: 2016
       month: 7
       day: 14
-  language: en
+  language: eng
   page: 47-56
   source: ScienceDirect
   title: >-
@@ -710,7 +714,7 @@ references:
   ISBN: 978-0-415-01635-3 978-0-415-05406-5
   issued:
     - year: 1994
-  language: en
+  language: eng
   number-of-pages: '285'
   publisher: Routledge
   publisher-place: London ; New York
@@ -730,8 +734,8 @@ references:
     - year: 2010
       month: 6
       day: 22
-  language: pt
-  publisher: Editora <span smallcaps="smallcaps">UFMG</span>
+  language: por
+  publisher: Editora UFMG
   publisher-place: Belo Horizonte
   source: Câmara Brasileira do Livro ISBN
   title: O local da cultura
@@ -754,7 +758,7 @@ references:
   ISBN: 978-0-253-22255-8 978-0-253-35543-0
   issued:
     - year: 2011
-  language: en
+  language: eng
   number-of-pages: '378'
   publisher: Indiana University Press
   publisher-place: Bloomington, In.
@@ -772,7 +776,7 @@ references:
   ISBN: 978-0-89862-349-9 978-0-89862-348-2
   issued:
     - year: 1993
-  language: en
+  language: eng
   number-of-pages: '246'
   publisher: Guilford
   publisher-place: New York
@@ -810,7 +814,7 @@ references:
   ISBN: 978-0-226-05861-0
   issued:
     - year: 1994
-  language: en
+  language: eng
   number-of-pages: '335'
   publisher: University of Chicago Press
   source: Google Books
@@ -850,7 +854,7 @@ references:
   issued:
     - year: 1999
       month: 5
-  language: en
+  language: eng
   license: Copyright © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
@@ -934,7 +938,7 @@ references:
       day: 20
   citation-key: 'british:'
   container-title: Archaeology Data Service
-  language: en
+  language: eng
   source: archaeologydataservice.ac.uk
   title: British Institute in Eastern Africa Image Archive
   type: webpage
@@ -957,7 +961,7 @@ references:
   issue: '2'
   issued:
     - year: 1976
-  language: en
+  language: eng
   page: 220-239
   publisher: University of Hawai'i Press
   source: JSTOR
@@ -969,7 +973,7 @@ references:
   URL: https://www.jstor.org/stable/42927923
   volume: '19'
 
-- id: burton:1872zanzibar
+- id: burton:1872zanzibar1
   abstract: "In the preface, Burton attempts to explain why he has taken so long to publish this material, which dates back for the most part to 1858, and had been rediscovered and returned to him in 1865, but was only appeared in 1872.\_ The reasons he gives do not include what seems most likely, the renewed interest in the Nile and the East African region sparked by the Livingstone Relief expedition.\n\nPREFACE.\n\nI FEEL that the reader will expect some allusion to the circumstances which have delayed, till 1871, the publication of a journal ready to appear in 1860. \nThe following letter will explain the recovery of a long report, forwarded by me in 1857, under an address, very legibly written in ink, upon its cover, to the late Dr Norton Shaw, then Secretary Royal Geographical Society of Great Britain.\n\n'No. 9, of 1865.\n\n'General Department,\n\n\tBombay Castle, 2811 February, 1865.\n\n'To\n\n\tThe Under Secretary of State for India,\n\n\tLondon.\n\nSir,'\n\n'With reference to the packet addressed, as per margin, which was sent to you via Southampton from the Separate Department, by the Overland Mail of the 14th instant,\_ I have the honour to subjoin for your information \tcopy of a note on the subject from the Hon. W. E. Frere, dated the 5th idem.\n\t\n\n'When searching the strong box belonging to the Bombay Branch of the Royal Asiatic Society yesterday I found the accompanying parcel, directed to the Secretary Royal Geographical Society, with a pencil note upon it, requesting that it might be sent to the Secretary of State, Foreign Office. From the signature in the corner, R. F. B., I conclude that it must be the manuscript he sent to Colonel Rigby at Zanzibar, and which, from some statements of Mr. Burton (to which I cannot at present refer, but of which I have a clear recollection), never reached its destination.'[1]\n\n'I have not been able to discover when or how the parcel was received, nor how the Bombay Branch of the Royal Asiatic Society was to send it to the \n\tForeign Office, except through Government. I therefore send it to you, and perhaps you would send it to the Under Secretary at the India House, with the above explanation, and request that it be sent to its direction.'\n\n'I have, &c.,\n\n\t(Signed) C. RAVENSCROFT,\n\n\tActing Chief Secretary to Government.'\n\nIt is not a little curious that, as my first report upon the subject of Zanzibar was diverted from its destination, so the ' Letts' containing my excursions to Sa'adani and to Kilwa also came to temporary grief. Annexed by a skipper on the West African coast, appropriated by his widow, and exposed at a London bookseller's stall (labelled outside, `Burton Original MS. Diary in Africa'), it was accidentally left by the buyer, an English Artillery officer, in the hall of one of H. M. 's Ministers of State. Here being recognized, it was kindly and courteously returned to me. The meteorological observations made by me on the East African seaboard and at other places during the discovery of the Lakes were also, I would remark, mislaid for years, deep hidden in certain pigeonholes at Whitehall Place. May these three accidents be typical of the fate of my East African Expedition, which, so long the victim of uncontrollable circumstance, appears now, after many weary years, likely to emerge from the shadow which overcast it, and to occupy the position which I ever desired to see it conquer.\n\nThe two old documents are published with the less compunction as Zanzibar, though increasing in importance and now the head-quarters of an Admiralty Court and of two Mission-Schools, with a printing-press and other civilized \nappliances, has not of late been worked out. The best authorities are still those who appeared about a quarter of a century ago, always excepting, however, the four magnificent volumes, Baron Carl Clare von der Decken's Reisen in Ost-Afrika, in den Jahren 1859 bis 1861, which I first saw at Jerusalem: there too I had the pleasure of making acquaintance with Dr Otto Kersten, who accompanied the unfortunate traveller during the earlier portion of his peregrinations, and who has so ably and efficiently performed his part as editor. Had a certain publisher carried out his expressed intention of introducing a resume of this fine work in English dress to the British public, I should have saved myself the trouble of writing these volumes: the Reisen, however, in the original form are hardly likely to become popular. Moreover, the long interval of a decade has borne fruit : it has given me time to work out the subject, and, better still, to write with calmness and temper upon a theme of the most temper-trying nature, - chap. xii. vol. II. will explain what is meant. Finally, I have something important to say upon the subject of\_ the so-called Victoria Nyanza Lake.\n\nI had proposed to enrich the Appendix with extracts from Arab and other mediaeval authors, who have treated of Zanzibar, Island and Coast. Such an addition, however, would destroy all proportion between the book and its subject: I have therefore confined myself to notes on commerce and tariffs of prices in 1857 to 1859, to meteorological observations, and to Capt. Smee's coasting voyage, which dates from January, 1811. The latter will supply an excellent birds-eye view of those parts of the Zanzibar mainland which were not visited by the East African Expedition.\n\nRICHARD F. BURTON.\n\nLondon, Oct. 15, 1871.\n\n[1].\_ Mr. Frere's memory is unusually short. I intrusted the \nMS. to the Eurasian apothecary of the Zanzibar Consulate, and I suspected (Lake Regions of Central Africa, vol. i. chap. i.) that it bad come to an untimely end. The white population at Zanzibar had in those days a great horror of publication, and thus is easily explained how a parcel legibly addressed to the Royal Geographical Society had the honour of passing eight years in the strong box of the Bombay Branch of the Royal Asiatic Society."
   accessed:
     - year: 2020
@@ -978,11 +982,11 @@ references:
   author:
     - family: Burton
       given: Richard Francis
-  citation-key: burton:1872zanzibar
+  citation-key: burton:1872zanzibar1
   event-place: London
   issued:
     - year: 1872
-  language: en
+  language: eng
   license: http://creativecommons.org/publicdomain/mark/1.0/
   publisher: Tinsley Brothers
   publisher-place: London
@@ -993,7 +997,7 @@ references:
   URL: http://archive.org/details/ZanzibarCityIslandAndCoastv1RichardFrancisBurton
   volume: '1'
 
-- id: campbell:2008indian
+- id: campbell:2008indian3
   abstract: >-
     This paper outlines the debate surrounding the emergence of the first
     ‘global’ economy and discusses the role within it of Africa. First, it
@@ -1010,14 +1014,14 @@ references:
   author:
     - family: Campbell
       given: Gwyn
-  citation-key: campbell:2008indian
+  citation-key: campbell:2008indian3
   container-title: Transforming Cultures eJournal
   DOI: 10.5130/tfc.v3i2.920
   ISSN: 1833-8542
   issue: '2'
   issued:
     - year: 2008
-  language: en
+  language: eng
   license: Copyright (c)
   number: '2'
   source: epress.lib.uts.edu.au
@@ -1047,7 +1051,7 @@ references:
   ISBN: 978-88-6055-182-5
   issued:
     - year: 2008
-  language: it
+  language: ita
   number-of-pages: '276'
   publisher: Alinea
   publisher-place: Firenze
@@ -1071,7 +1075,7 @@ references:
   event-place: Firenze
   issued:
     - year: 1989
-  language: it
+  language: ita
   page: 11-34
   publisher: Alinea
   publisher-place: Firenze
@@ -1098,7 +1102,7 @@ references:
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
-  language: en
+  language: eng
   page: 65-78
   publisher: Springer
   publisher-place: Cham
@@ -1117,14 +1121,15 @@ references:
   ISBN: 978-0-19-563870-7
   issued:
     - year: 1996
-  language: en
+  language: eng
   number-of-pages: '485'
   publisher: Oxford University Press
   publisher-place: Delhi ; New York
   source: Library of Congress ISBN
   title: >-
     Trade, ideology, and urbanization: South India 300 <span
-    class="smallcaps">BC</span> to <span class="smallcaps">AD</span> 1300
+    smallcaps="smallcaps">BC</span> to <span smallcaps="smallcaps">AD</span>
+    1300
   title-short: Trade, ideology, and urbanization
   type: book
 
@@ -1138,7 +1143,7 @@ references:
   ISBN: 978-0-521-24226-4 978-0-521-28542-1
   issued:
     - year: 1985
-  language: en
+  language: eng
   number-of-pages: '269'
   publisher: Cambridge University Press
   publisher-place: Cambridge ; New York
@@ -1169,7 +1174,7 @@ references:
   issued:
     - year: 2008
       month: 11
-  language: en
+  language: eng
   page: 247-254
   source: DOI.org (Crossref)
   title: The typological rule system of Malay houses in peninsula Malaysia
@@ -1189,7 +1194,7 @@ references:
   DOI: 10.13140/2.1.1385.5528
   issued:
     - year: 2015
-  language: en
+  language: eng
   publisher: Unpublished
   source: DOI.org (Datacite)
   title: New pathways to socio-political complexity
@@ -1222,8 +1227,10 @@ references:
   ISBN: 978-9956-550-05-0
   issued:
     - year: 2019
-  language: en
-  publisher: Langaa <span class="smallcaps">RPCIG</span>
+  language: eng
+  publisher: >-
+    Langaa <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">RPCIG</span>
   publisher-place: Mankon
   source: Open WorldCat
   title: >-
@@ -1242,7 +1249,7 @@ references:
   ISBN: 978-84-206-3519-4
   issued:
     - year: 1977
-  language: es
+  language: spa
   publisher: Alianza
   publisher-place: Madrid
   source: Open WorldCat
@@ -1324,7 +1331,7 @@ references:
   DOI: 10.14288/1.0093945
   issued:
     - year: 1976
-  language: en
+  language: eng
   publisher: University of British Columbia
   source: open.library.ubc.ca
   title: Land and neighbourhood as features of Malay urbanism
@@ -1348,7 +1355,7 @@ references:
   ISBN: 978-972-8479-79-4
   issued:
     - year: 2014
-  language: pt
+  language: por
   page: 13–31
   publisher: Argumentum
   publisher-place: Lisboa
@@ -1376,7 +1383,7 @@ references:
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
-  language: en
+  language: eng
   page: 123–143
   publisher: Springer
   publisher-place: Cham
@@ -1404,7 +1411,7 @@ references:
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
-  language: en
+  language: eng
   page: 51-64
   publisher: Springer
   publisher-place: Cham
@@ -1426,7 +1433,7 @@ references:
   ISBN: 978-989-33-2888-0
   issued:
     - year: 2022
-  language: pt
+  language: por
   original-date:
     - year: 1960
   publisher: Urban Forms
@@ -1467,7 +1474,7 @@ references:
     - year: 2011
       month: 4
       day: 1
-  language: pt
+  language: por
   publisher: Nova Fronteira
   publisher-place: Rio de Janeiro
   title: 'A enxada e a lança: A África antes dos portugueses'
@@ -1499,7 +1506,7 @@ references:
   ISBN: 978-981-10-7317-5
   issued:
     - year: 2018
-  language: en
+  language: eng
   page: 275-289
   publisher: Springer
   publisher-place: Singapore
@@ -1523,7 +1530,7 @@ references:
   ISBN: 978-0-7546-7512-9
   issued:
     - year: 2012
-  language: en
+  language: eng
   number-of-pages: '438'
   publisher: Ashgate
   publisher-place: Farnham, Surrey ; Burlington, Ver.
@@ -1566,7 +1573,7 @@ references:
   ISBN: 978-1-4094-2738-4
   issued:
     - year: 2012
-  language: en
+  language: eng
   number-of-pages: '234'
   publisher: Ashgate
   publisher-place: Farnham, Surrey ; Burlington, Ver.
@@ -1597,7 +1604,7 @@ references:
     - year: 2016
       month: 6
       day: 22
-  language: en
+  language: eng
   title: The origin and indigenisation of the Imperial bungalow in India
   type: post-weblog
   URL: >-
@@ -1640,7 +1647,8 @@ references:
   ISBN: 978-989-33-4329-6
   issued:
     - year: 2023
-  language: pt
+  language: por
+  license: All rights reserved
   page: 79-131
   publisher: Fundação Serra Henriques
   publisher-place: Lisboa
@@ -1668,7 +1676,7 @@ references:
   issued:
     - year: 2012
       month: 1
-  language: en
+  language: eng
   page: 349-368
   source: DOI.org (Crossref)
   title: Informal urbanism and complex adaptive assemblage
@@ -1699,7 +1707,7 @@ references:
   issued:
     - year: 2020
       month: 10
-  language: en
+  language: eng
   page: '102240'
   source: DOI.org (Crossref)
   title: Towards a morphogenesis of informal settlements
@@ -1758,7 +1766,7 @@ references:
     - year: 2007
       month: 9
       day: 4
-  language: en-US
+  language: eng
   license: © 2007 by The National Academy of Sciences of the USA
   page: 14277-14282
   PMID: '17717084'
@@ -1800,7 +1808,7 @@ references:
   issued:
     - year: 2015
       month: 12
-  language: en
+  language: eng
   page: 1402-1419
   source: DOI.org (Crossref)
   title: The landscape of Angkor Wat redefined
@@ -1840,7 +1848,7 @@ references:
   issue: '3'
   issued:
     - year: 1977
-  language: en
+  language: eng
   page: 205-216
   source: JSTOR
   title: >-
@@ -1866,7 +1874,7 @@ references:
   issue: '263'
   issued:
     - year: 1977
-  language: en
+  language: eng
   page: 220-225
   publisher: Athens Center of Ekistics
   source: JSTOR
@@ -1894,7 +1902,7 @@ references:
   ISBN: 978-3-902811-96-7
   issued:
     - year: 2013
-  language: en
+  language: eng
   number-of-pages: '221'
   publisher: Innsbruck University Press
   publisher-place: Innsbruck, Austria
@@ -1913,7 +1921,7 @@ references:
   ISBN: 978-0-465-02271-7
   issued:
     - year: 2000
-  language: en
+  language: eng
   number-of-pages: '246'
   publisher: Basic Books
   publisher-place: New York
@@ -1954,35 +1962,13 @@ references:
   ISBN: 978-1-59691-392-9
   issued:
     - year: 2008
-  language: en
+  language: eng
   number-of-pages: '282'
   publisher: 'Bloomsbury Press : Distributed to the trade by Macmillan'
   publisher-place: New York
   source: Library of Congress ISBN
   title: 'The great warming: climate change and the rise and fall of civilizations'
   title-short: The great warming
-  type: book
-
-- id: fage:1975cambridge
-  call-number: DT20 .C28
-  citation-key: fage:1975cambridge
-  collection-editor:
-    - family: Fage
-      given: J. D.
-  collection-number: '3'
-  editor:
-    - family: Oliver
-      given: Roland Anthony
-  event-place: Cambridge ; New York
-  ISBN: 978-0-521-20981-6
-  issued:
-    - year: 1975
-  language: en
-  number-of-pages: '8'
-  publisher: Cambridge University Press
-  publisher-place: Cambridge ; New York
-  source: Library of Congress ISBN
-  title: The Cambridge history of Africa c. 1050 to c. 1600
   type: book
 
 - id: fauvelle-aymar:2013rhinoceros
@@ -1995,7 +1981,7 @@ references:
   ISBN: 978-2-36279-045-4
   issued:
     - year: 2013
-  language: fr
+  language: fre
   number-of-pages: '317'
   publisher: Alma
   publisher-place: Paris
@@ -2020,7 +2006,7 @@ references:
     - year: 2018
       month: 12
       day: 4
-  language: en
+  language: eng
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
   source: DOI.org (Crossref)
@@ -2041,7 +2027,7 @@ references:
   ISBN: 978-85-314-1699-6
   issued:
     - year: 2018
-  language: pt
+  language: por
   publisher: Edusp
   publisher-place: São Paulo
   source: Amazon
@@ -2081,7 +2067,7 @@ references:
   ISBN: 978-0-691-18126-4
   issued:
     - year: 2018
-  language: en
+  language: eng
   page: 143-148
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
@@ -2112,15 +2098,14 @@ references:
   ISBN: 978-2-7467-5114-9
   issued:
     - year: 2019
-  language: fr
-  number-of-pages: '1'
+  language: fre
   publisher: Autrement
   publisher-place: Paris
   source: Library of Congress ISBN
   title: Atlas historique de l'Afrique
   type: book
 
-- id: ficher:2005paradigmas
+- id: ficher:2005paradigmas3
   abstract: >-
     Em meados da década de 1950, todo um acervo de reflexões e realizações
     urbanísticas se tornara moeda corrente nos meios profissionais — e era
@@ -2135,14 +2120,14 @@ references:
       given: Sylvia
     - family: Palazzo
       given: Pedro P.
-  citation-key: ficher:2005paradigmas
+  citation-key: ficher:2005paradigmas3
   container-title: >-
     Cadernos <span smallcaps="smallcaps">PPG/AU</span> (Universidade Federal da
     Bahia)
   ISSN: 1679-6861
   issued:
     - year: 2005
-  language: pt
+  language: por
   page: 49-71
   title: Os paradigmas urbanísticos de Brasília
   type: article-journal
@@ -2155,7 +2140,7 @@ references:
       day: 31
   citation-key: 'filechronological:'
   container-title: Wikipedia
-  language: en
+  language: eng
   license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: >-
@@ -2182,7 +2167,7 @@ references:
     - year: 2014
       month: 5
       day: 9
-  language: en
+  language: eng
   title: 19. Benin
   type: post-weblog
   URL: https://196plus.com/2014/05/09/19-benin/
@@ -2199,7 +2184,7 @@ references:
   event-title: International Seminar on Vernacular Settlements
   issued:
     - year: 2016
-  language: en
+  language: eng
   publisher: Hasanuddin University
   publisher-place: Makassar
   title: >-
@@ -2235,7 +2220,7 @@ references:
     - year: 2022
       month: 11
       day: 30
-  language: en
+  language: eng
   page: arp.1885
   source: DOI.org (Crossref)
   title: >-
@@ -2286,7 +2271,7 @@ references:
     - year: 2012
       month: 9
       day: 1
-  language: en
+  language: eng
   page: 171-207
   source: Springer Link
   title: Finding meaning in ancient Swahili spatial practices
@@ -2346,7 +2331,7 @@ references:
   issue: '2'
   issued:
     - year: 2012
-  language: en
+  language: eng
   page: 207-220
   publisher: Africa Magna Verlag
   source: JSTOR
@@ -2396,7 +2381,7 @@ references:
     - year: 2014
       month: 9
       day: 1
-  language: en
+  language: eng
   page: 1-22
   source: ScienceDirect
   title: The complexity of public space at the Swahili town of Songo Mnara, Tanzania
@@ -2435,7 +2420,7 @@ references:
   issued:
     - year: 2015
       month: 12
-  language: en
+  language: eng
   page: 1388-1401
   source: DOI.org (Crossref)
   title: 'Angkor Wat: an introduction'
@@ -2463,12 +2448,12 @@ references:
   issued:
     - year: 2012
       month: 12
-  language: pt-BR
+  language: por
   page: 259-297
   source: Crossref
   title: >-
     Uma morfologia dos quilombos nas Américas, séculos <span
-    smallcaps="smallcaps">XVI-XIX</span>
+    style="font-variant: all-small-caps" smallcaps="smallcaps">XVI-XIX</span>
   title-short: Uma morfologia dos quilombos nas Américas
   type: article-journal
   URL: >-
@@ -2496,7 +2481,7 @@ references:
   ISBN: 978-3-030-01075-1
   issued:
     - year: 2019
-  language: en
+  language: eng
   publisher: Springer
   publisher-place: Cham
   source: Springer Link
@@ -2531,7 +2516,7 @@ references:
   ISBN: 978-3-030-01075-1
   issued:
     - year: 2019
-  language: en
+  language: eng
   page: 40-81
   publisher: Springer
   publisher-place: Cham
@@ -2573,7 +2558,7 @@ references:
     - year: 2015
       month: 10
       day: 21
-  language: en
+  language: eng
   page: 869-888
   source: Taylor and Francis+NEJM
   title: >-
@@ -2594,7 +2579,7 @@ references:
   ISBN: 978-0-19-284261-9
   issued:
     - year: 2002
-  language: en
+  language: eng
   number-of-pages: '214'
   publisher: Oxford University Press
   publisher-place: Oxford
@@ -2646,7 +2631,7 @@ references:
     - year: 2014
       month: 10
       day: 1
-  language: en
+  language: eng
   page: 157-170
   source: ScienceDirect
   title: What can we learn from Malay vernacular houses?
@@ -2698,7 +2683,7 @@ references:
     - year: 2015
       month: 5
       day: 5
-  language: en
+  language: eng
   license: >-
     Copyright (c) 2015 International Journal of Built Environment and
     Sustainability
@@ -2718,7 +2703,7 @@ references:
   genre: Thesis (M.A. in Architecture)
   issued:
     - year: 1974
-  language: en
+  language: eng
   publisher: University of Nairobi
   publisher-place: Nairobi
   source: Zotero
@@ -2733,7 +2718,7 @@ references:
   citation-key: ghaidan:1975lamu
   issued:
     - year: 1975
-  language: en
+  language: eng
   number-of-pages: '122'
   publisher: East African Literature Bureau
   source: Google Books
@@ -2753,7 +2738,6 @@ references:
   citation-key: gilbert:2013zanzibar
   collection-title: Edited volume series
   container-title: 'Globalization and the city: two connected phenomena in past and present'
-  edition: 1st edition
   editor:
     - family: Exenberger
       given: Andreas
@@ -2767,7 +2751,7 @@ references:
   ISBN: 978-3-902811-96-7
   issued:
     - year: 2013
-  language: en
+  language: eng
   page: 123-140
   publisher: Innsbruck University Press
   publisher-place: Innsbruck, Austria
@@ -2788,7 +2772,7 @@ references:
   ISBN: 978-85-336-0127-7
   issued:
     - year: 1992
-  language: pt
+  language: por
   publisher: <span smallcaps="smallcaps">WMF</span> Martins Fontes
   publisher-place: São Paulo
   source: Amazon
@@ -2812,7 +2796,7 @@ references:
   issue: '1'
   issued:
     - year: 1978
-  language: en
+  language: eng
   page: 28-49
   publisher: >-
     [Cambridge University Press, Department of History, National University of
@@ -2834,7 +2818,7 @@ references:
   ISBN: 978-0-521-20413-2
   issued:
     - year: 2000
-  language: en
+  language: eng
   number-of-pages: '738'
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -2866,7 +2850,7 @@ references:
     - year: 2013
       month: 12
       day: 1
-  language: en
+  language: eng
   license: Copyright (c)
   number: '2'
   page: 77-88
@@ -2880,6 +2864,119 @@ references:
     http://203.189.121.7/~puslit2_ejournal/ejournal/index.php/ars/article/view/18981
   volume: '40'
 
+- id: gunawan:2022typology2
+  abstract: >-
+    The development of Pontianak begins from the influence of the existence of
+    the Kapuas River and its tributaries. The river used to be a space for
+    community activities, with many houses and villages built based on their
+    proximity to the river. The settlement grew to fill the land on the banks of
+    Kapuas River first until they spread to its tributaries. This research aims
+    to identify the typology of settlement development in riverside communities
+    in Pontianak from time to time. This research employed a qualitative method
+    with a comparative study. The researcher collected secondary data in the
+    form of a map of the condition of settlements in Pontianak from time to time
+    obtained from the historical records of Pontianak. Then, the data were
+    compared and analyzed to obtain a typology of settlement development in the
+    riverside communities in Pontianak. The study’s results, namely the typology
+    of settlements on the riverbanks in Pontianak, revealed the settlements that
+    follow the structure of the riverbanks, ditch canals, and the settlements
+    that lead to land roads. This can happen because of an increase in the
+    number of people every year, accessibility range, and economic movement
+    factors.
+  accessed:
+    - year: 2025
+      month: 7
+      day: 27
+  author:
+    - family: Gunawan
+      given: Ivan
+    - family: Soemardiono
+      given: Bambang
+    - family: Septanti
+      given: Dewi
+  citation-key: gunawan:2022typology2
+  container-title: International Journal of Environment, Architecture, and Societies
+  container-title-short: IJEAS
+  DOI: 10.26418/ijeas.2022.2.02.73-84
+  ISSN: 2775-8540
+  issue: '02'
+  issued:
+    - year: 2022
+      month: 8
+      day: 31
+  language: eng
+  license: https://creativecommons.org/licenses/by-sa/4.0/
+  page: 73-84
+  publisher: Tanjungpura University
+  source: Crossref
+  title: Typology of settlement development in riverbanks in Pontianak
+  type: article-journal
+  URL: https://ijeas.untan.ac.id/index.php/home/article/view/gunawan_et_al_v2n2
+  volume: '2'
+
+- id: gunawan:2023typology1218
+  abstract: >-
+    Abstract               City development is a concrete picture between human
+    activities and the progress of process experienced by humans. City
+    development can be shown by changes in regional styling planning patterns.
+    Understanding the changes that have occurred is an important step in finding
+    patterns of development as a basis for knowledge and preparation for future
+    developments so that the city does not lose its identity. The Pontianak city
+    is known as the city of a thousand rivers which started the formation of the
+    city from the water’s edge. The Pontianak city is a city with various
+    ethnicities, one of the largest being ethnic Malays. This condition is the
+    reason the research focuses on the development of spatial planning in
+    Pontianak City with the waterfront area and the Malay ethnicity. The purpose
+    of this study was to determine the typology of the development of the Malay
+    ethnic spatial pattern on the waterfront of Pontianak City and its causes.
+    The object of this research is every river lanes and ditches in the
+    Pontianak City area that mapped through satellite mapping. The method used
+    in this research is a combination of quantitative and qualitative. This
+    research was started using a qualitative approach in the form of secondary
+    data collection (historical records of the distribution of spatial patterns)
+    which was then followed by a quantitative approach in the form of analysis
+    of water transportation routes (rivers and ditches) with space syntax. The
+    results showed that there was a development of typology of waterfront
+    spatial patterns in the Malay ethnic group in Pontianak City, which was
+    originally a linear pattern that followed the shape of the main route
+    (Kapuas and Landak River ) to become a cluster pattern (more random in shape
+    and protrudes into). This is due to the development of transportation routes
+    so that the integration value becomes even. An even integration value makes
+    it easier to reach between regions and does not only focus on the main water
+    transportation routes (Kapuas and Landak River)
+  accessed:
+    - year: 2025
+      month: 7
+      day: 27
+  author:
+    - family: Gunawan
+      given: I
+    - family: Soemardiono
+      given: B
+    - family: Septanti
+      given: D
+  citation-key: gunawan:2023typology1218
+  container-title: 'IOP Conference Series: Earth and Environmental Science'
+  container-title-short: 'IOP Conf. Ser.: Earth Environ. Sci.'
+  DOI: 10.1088/1755-1315/1218/1/012012
+  ISSN: 1755-1307, 1755-1315
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 11
+      day: 1
+  language: eng
+  license: http://creativecommons.org/licenses/by/3.0/
+  page: '012012'
+  publisher: IOP Publishing
+  source: Crossref
+  title: >-
+    Typology of development at spatial patterns of water edge area in Malay
+    ethnic community in Pontianak
+  type: article-journal
+  URL: https://iopscience.iop.org/article/10.1088/1755-1315/1218/1/012012
+  volume: '1218'
+
 - id: hakim:1995missing11
   author:
     - family: Hakim
@@ -2889,7 +2986,7 @@ references:
   issue: 3-4
   issued:
     - year: 1995
-  language: en
+  language: eng
   page: 221-226
   source: Zotero
   title: Missing elements for a theory of urban form in traditional Islamic cultures
@@ -2920,7 +3017,7 @@ references:
     - year: 1999
       month: 2
       day: 1
-  language: en
+  language: eng
   page: 51-55
   source: ScienceDirect
   title: >-
@@ -2962,7 +3059,7 @@ references:
   issue: '1'
   issued:
     - year: 2006
-  language: en
+  language: eng
   page: 1-26
   publisher: Locke Science Publishing Company, Inc.
   source: JSTOR
@@ -2995,7 +3092,7 @@ references:
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
-  language: en
+  language: eng
   page: 663-676
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -3004,17 +3101,17 @@ references:
   type: chapter
   volume: '1'
 
-- id: hakim:2010generative
+- id: hakim:2010generative4
   author:
     - family: Hakim
       given: Besim Selim
-  citation-key: hakim:2010generative
+  citation-key: hakim:2010generative4
   container-title: International Journal of Architectural Research
   issue: '1'
   issued:
     - year: 2010
       month: 3
-  language: en
+  language: eng
   page: '6'
   source: Zotero
   title: The generative nature of islamic rules for the built environment
@@ -3035,7 +3132,7 @@ references:
   issue: '1'
   issued:
     - year: 1996
-  language: en
+  language: eng
   license: free
   page: 95-118
   publisher: Persée - Portail des revues scientifiques en SHS
@@ -3054,12 +3151,11 @@ references:
   call-number: DT3025.G84 H35 2006
   citation-key: hall:2006great
   collection-title: Digging for the past
-  edition: '1'
   event-place: New York
   ISBN: 978-0-19-515773-4
   issued:
     - year: 2006
-  language: en
+  language: eng
   number-of-pages: '47'
   publisher: Oxford University Press
   publisher-place: New York
@@ -3089,7 +3185,7 @@ references:
     - year: 2018
       month: 11
       day: 30
-  language: fr
+  language: fre
   publisher: Archaeopress
   source: DOI.org (Crossref)
   title: >-
@@ -3127,7 +3223,7 @@ references:
   issued:
     - year: 1987
       month: 11
-  language: en
+  language: eng
   page: 791-826
   publisher: Cambridge University Press
   source: Cambridge University Press
@@ -3151,7 +3247,7 @@ references:
   issued:
     - year: 2021
       month: 6
-  language: en
+  language: eng
   number-of-pages: '144'
   publisher: Lund University, Department of Architecture and Built Environment
   publisher-place: Lund
@@ -3195,7 +3291,7 @@ references:
   ISSN: 2090-4274
   issued:
     - year: 2019
-  language: en
+  language: eng
   publisher: TextRoad Publication
   source: repository.unpar.ac.id
   title: >-
@@ -3231,7 +3327,7 @@ references:
   issue: '2'
   issued:
     - year: 1978
-  language: en
+  language: eng
   page: 92-104
   source: JSTOR
   title: Traditional town planning in Burma
@@ -3253,7 +3349,7 @@ references:
   issue: '4'
   issued:
     - year: 1927
-  language: en
+  language: eng
   page: 615-624
   publisher: '[American Anthropological Association, Wiley]'
   source: JSTOR
@@ -3293,7 +3389,7 @@ references:
   issued:
     - year: 1987
       month: 9
-  language: en
+  language: eng
   page: 290-323
   publisher: Cambridge University Press
   source: Cambridge University Press
@@ -3306,7 +3402,7 @@ references:
     https://www.cambridge.org/core/journals/antiquaries-journal/article/early-muslim-trading-settlements-on-the-east-african-coast-new-evidence-from-shanga/4380B8CD8CC7F45EB77B98FD48C5E766
   volume: '67'
 
-- id: horton:1991primitive
+- id: horton:1991primitive8
   accessed:
     - year: 2022
       month: 10
@@ -3314,13 +3410,13 @@ references:
   author:
     - family: Horton
       given: Mark
-  citation-key: horton:1991primitive
+  citation-key: horton:1991primitive8
   container-title: Muqarnas
   DOI: 10.2307/1523158
   ISSN: 0732-2992
   issued:
     - year: 1991
-  language: en
+  language: eng
   page: 103-116
   publisher: Brill
   source: JSTOR
@@ -3346,7 +3442,7 @@ references:
     - year: 1990
       month: 1
       day: 1
-  language: en
+  language: eng
   page: 1-12
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -3376,7 +3472,7 @@ references:
     - year: 2001
       month: 1
       day: 1
-  language: en
+  language: eng
   page: 19-35
   source: IngentaConnect
   title: The central cattle pattern and interpreting the past
@@ -3411,7 +3507,7 @@ references:
     - year: 2009
       month: 3
       day: 1
-  language: en
+  language: eng
   page: 37-54
   source: ScienceDirect
   title: >-
@@ -3422,7 +3518,7 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S0278416508000585
   volume: '28'
 
-- id: huffman:2011khami
+- id: huffman:2011khami9
   accessed:
     - year: 2020
       month: 7
@@ -3433,7 +3529,7 @@ references:
     - family: Piesanie
       given: Justin
       non-dropping-particle: du
-  citation-key: huffman:2011khami
+  citation-key: huffman:2011khami9
   container-title: Journal of African Archaeology
   container-title-short: JAA
   DOI: 10.3213/2191-5784-10197
@@ -3442,13 +3538,80 @@ references:
   issued:
     - year: 2011
       month: 12
-  language: en
+  language: eng
   page: 189-206
   source: DOI.org (Crossref)
   title: Khami and the Venda in the Mapungubwe landscape
   type: article-journal
   URL: https://brill.com/abstract/journals/jaa/9/2/article-p189_5.xml
   volume: '9'
+
+- id: hutama:2018hidden158
+  abstract: >-
+    Some urban kampungs are registered as informal settlements in Indonesian
+    cities. The existence of a kampung amidst the cities is crucial in providing
+    an affordable access to housing for most of the city’s residents. As an
+    integral part of the city, urban kampungs face many problems such as social
+    segregation, low and deteriorated physical quality, and exclusion from
+    spatial plans which may worsen the residents’ quality of life. Apart from
+    this condition, an urban kampung is believed to have a strong social
+    cohesion and resilient community which are able to persist and survive
+    socially and economically. Towards the sustainability of the city, kampungs
+    as part of the city structure need to be addressed spatially through proper
+    plan and design strategy. In doing so, planners and architects must
+    understand the unique characteristics of urban kampungs to appreciate their
+    positive contribution to the cities. This paper is presented to understand
+    the underlying information on the organic spatial layout of the informal
+    kampung and its impact on social composition within the framework of lively,
+    vibrant, and safe neighborhoods. We utilized Space Syntax (SSX) combined
+    with activity snapshot to understand the socio-spatial relationship and then
+    triangulated the results with a questionnaire on the residents’ perception.
+    Kampung Code, located in the inner city of Yogyakarta, was selected as the
+    case study area as it represents the informal-like settlements. This study
+    revealed that the complex interplays of the organic spatial layout does not
+    significantly affect the frequency of outdoor activities. However, the
+    presence of eight popular spaces (streets, house’s terraces, local
+    shops/taverns, small open spaces, riverbanks, guard posts, community
+    buildings, and small mosques) distributed within Kampung Code does influence
+    it, and it is the driving factor for the residents to engage with others in
+    the form of social interactions. Popular places are able to accommodate
+    residents’ need for various activities from informal business, community
+    interaction, and hobbies. Eventually, the continuous process of interaction
+    and encounter in the same shared public places shapes the strong social
+    connection and conducive living situation, ensuring the kampung to be a
+    lively, vibrant, and safe neighborhood. Reflecting from this study, where
+    organic spatial layout has little effect on social composition and
+    encounters, planners and architects should be aware that proper spatial
+    layout design (e.g., high integration street networks in global and local
+    scale) could generate constant flow of both locals and passersby – enhancing
+    the vibrancy and vitality of the public realm in the kampungs.
+  accessed:
+    - year: 2025
+      month: 7
+      day: 27
+  author:
+    - family: Hutama
+      given: I A W
+  citation-key: hutama:2018hidden158
+  container-title: 'IOP Conference Series: Earth and Environmental Science'
+  container-title-short: 'IOP Conf. Ser.: Earth Environ. Sci.'
+  DOI: 10.1088/1755-1315/158/1/012003
+  ISSN: 1755-1307, 1755-1315
+  issued:
+    - year: 2018
+      month: 5
+  language: eng
+  license: http://iopscience.iop.org/info/page/text-and-data-mining
+  page: '012003'
+  publisher: IOP Publishing
+  source: Crossref
+  title: >-
+    The hidden structure of organic informal-like settlements in Jogjakarta
+    city: an investigation of socio-spatial relationship in an urban kampung
+  title-short: The hidden structure of organic informal-like settlements in Jogjakarta city
+  type: article-journal
+  URL: https://iopscience.iop.org/article/10.1088/1755-1315/158/1/012003
+  volume: '158'
 
 - id: ibrahim:2020analysis18
   abstract: >-
@@ -3491,7 +3654,7 @@ references:
     - year: 2020
       month: 5
       day: 10
-  language: en
+  language: eng
   license: >-
     Copyright (c) 2020 Illyani Ibrahim, Noranisa Roslee, Alias Abdullah, Mansor
     Ibrahim, Fatin Farhana N Murtaza
@@ -3539,7 +3702,7 @@ references:
     - year: 2020
       month: 12
       day: 31
-  language: en
+  language: eng
   license: >-
     Copyright (c) 2020 Illyani Ibrahim; Puteri Shireen Jahn Kassim; Alias
     Abdullah
@@ -3565,7 +3728,7 @@ references:
   container-title: Asian Planning School Association Conference
   issued:
     - year: 2011
-  language: en
+  language: eng
   page: 1538–1547
   source: Google Scholar
   title: Traditional values in modern living, a dilemma of choice
@@ -3584,7 +3747,7 @@ references:
   ISBN: 978-0-19-064647-9
   issued:
     - year: 2018
-  language: en
+  language: eng
   publisher: Oxford University Press
   publisher-place: New York
   source: Library of Congress ISBN
@@ -3622,12 +3785,35 @@ references:
   ISBN: 978-1-76087-839-9
   issued:
     - year: 2022
-  language: en
+  language: eng
   publisher: Allen & Unwin
   source: Open WorldCat
   title: 'Australian architecture: a history'
   title-short: Australian architecture
   type: book
+
+- id: jahnkassim:2020serendipitious
+  author:
+    - family: Jahnkassim
+      given: Puteri Shireen
+    - family: Kamaruddin
+      given: Kamariah
+    - family: Latip
+      given: Nurul Syala Abdul
+    - family: Nawawi
+      given: Norwina Mohd
+  citation-key: jahnkassim:2020serendipitious
+  container-title: Architecture and Design Review
+  issued:
+    - year: 2020
+  language: eng
+  page: '21'
+  source: Google Scholar
+  title: >-
+    The serendipitious city in South East Asia: urban archetypal design
+    principles from the morphological ‘vernacular’
+  title-short: The serendipitious city in South East Asia
+  type: article-journal
 
 - id: james-chakraborty:2014africa
   abstract: >-
@@ -3650,12 +3836,14 @@ references:
       given: Kathleen
   citation-key: james-chakraborty:2014africa
   container-title: Architecture since 1400
+  event-place: Minneapolis
   ISBN: 978-0-8166-7397-1
   issued:
     - year: 2014
-  language: en
+  language: eng
   page: 411-423
   publisher: University of Minnesota Press
+  publisher-place: Minneapolis
   source: JSTOR
   title: 'Africa: villages and cities'
   title-short: Africa
@@ -3696,7 +3884,7 @@ references:
   ISBN: 978-0-8166-7396-4 978-0-8166-7397-1
   issued:
     - year: 2014
-  language: en
+  language: eng
   number-of-pages: '513'
   publisher: University of Minnesota Press
   publisher-place: Minneapolis
@@ -3726,7 +3914,7 @@ references:
   ISBN: 978-1-118-14210-3
   issued:
     - year: 2013
-  language: en
+  language: eng
   number-of-pages: '660'
   publisher: Wiley
   publisher-place: Hoboken, N.J.
@@ -3753,7 +3941,7 @@ references:
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
-  language: en
+  language: eng
   number-of-volumes: '2'
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -3793,7 +3981,7 @@ references:
     - year: 2012
       month: 1
       day: 1
-  language: en
+  language: eng
   page: 63-68
   publisher: Taylor & Francis
   source: Taylor and Francis+NEJM
@@ -3803,6 +3991,69 @@ references:
   type: article-journal
   URL: https://www.tandfonline.com/doi/abs/10.7158/14488388.2012.11464845
   volume: '9'
+
+- id: kassim:2019centre12
+  abstract: >-
+    This paper attempts to reconstruct the famed city of Melaka at its height in
+    the 15th and 16th centuries, to its subsequent dispersion in the 17th to
+    19th centuries. Melaka’s cultural-political influences and impact as a
+    center of the common Melayu based culture and civilisation can be gauged
+    fromits original center in Melaka city as its initial axis of power; which
+    dispersed into surrounding regions. Through visual, cartographic and
+    lithographic sources, the city – before 1511 - is reconstructed and its
+    architecture and core areas are modelled. Subsequently, after its fall, its
+    influences was traced as centrifugal forces, which manifest in terms of
+    cultural and stylistic forms that expanded beyond the realm of its initial
+    center and limits of its port city. As its center of power reconsolidated
+    into surrounding regions; its influence goes beyond the compact Melayu city
+    and re-consolidated into a transnational regional and cultural powerbase.
+    The paper combines both historical and modelling methods to demonstrate the
+    essentially ‘Melayu’ or Malay urban-architectural form of the center, and
+    its survival in terms of a socio-cultural dominion rather than physical
+    city-form. It remained a Malay-based yet multilcultural polity which
+    survived despite changes in its center of power. Its centrifugal dispersion
+    is represented by reverberations of its architectural stylistic forms in
+    surrounding regions and its centripetal influence was its cultural force
+    that can still be seen throughout centuries in the sketches, paintings and
+    depictions of urban life, landscape and architecture of the 17th to the 19
+    th centuries in the South East Asian archipelago region. The paper reflects
+    how forms of architecture, landscape and urban design are traces of a common
+    culture and civilisation that stretches beyond present national borders and
+    which reflect and resonates with the nature of a maritime-based culture
+    which is reflective of a transnational, multinational and multicultural
+    nature of a regionally-based nation-state in medieval times.DOI:
+    https://doi.org/10.20365/disegnarecon.22.2019.9
+  accessed:
+    - year: 2024
+      month: 12
+      day: 21
+  author:
+    - family: Kassim
+      given: Puteri Shireen Jahn
+    - family: Ibrahim
+      given: Illyani
+    - family: Kamaruddin
+      given: Kamariah
+  citation-key: kassim:2019centre12
+  container-title: Disegnarecon
+  DOI: 10.20365/disegnarecon.22.2019.9
+  ISSN: 1828-5961
+  issue: '22'
+  issued:
+    - year: 2019
+      month: 6
+      day: 30
+  language: eng
+  license: >-
+    Copyright (c) 2019 Puteri Shireen Jahn Kassim, Illyani Ibrahim, Kamariah
+    Kamaruddin
+  number: '22'
+  page: 9-9.17
+  source: disegnarecon.univaq.it
+  title: From centre to centrifugal dispersion of the maritime ‘Melayu’
+  type: article-journal
+  URL: https://disegnarecon.univaq.it/ojs/index.php/disegnarecon/article/view/599
+  volume: '12'
 
 - id: kassim:2019tropicalized18
   accessed:
@@ -3825,7 +4076,7 @@ references:
   ISSN: 21995923, 21995923
   issued:
     - year: 2019
-  language: en
+  language: eng
   page: 7-30
   source: DOI.org (Crossref)
   title: >-
@@ -3880,7 +4131,7 @@ references:
   event-place: Paris
   issued:
     - year: 2013
-  language: en
+  language: eng
   page: 331-353
   publisher: De Boccard
   publisher-place: Paris
@@ -3899,7 +4150,7 @@ references:
   ISBN: 978-0-253-21821-6
   issued:
     - year: 2005
-  language: en
+  language: eng
   number-of-pages: '421'
   publisher: Indiana University Press
   publisher-place: Bloomington, Ind.
@@ -3948,7 +4199,7 @@ references:
   citation-key: kiamba:2014climate-responsive
   issued:
     - year: 2014
-  language: en
+  language: eng
   source: Semantic Scholar
   title: Climate-responsive vernacular Swahili housing
   type: paper-conference
@@ -3971,7 +4222,7 @@ references:
     - year: 2020
       month: 8
       day: 3
-  language: en
+  language: eng
   license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Kilwa Kisiwani
@@ -3999,7 +4250,7 @@ references:
     - year: 2020
       month: 7
       day: 3
-  language: en
+  language: eng
   license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Kilwa Sultanate
@@ -4024,9 +4275,11 @@ references:
     978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
   issued:
     - year: 2010
-  language: pt
+  language: por
   page: 275-316
-  publisher: <span smallcaps="smallcaps">UNESCO</span>
+  publisher: >-
+    <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">UNESCO</span>
   publisher-place: Brasília
   source: Open WorldCat
   title: O litoral e o interior da África oriental de 1845 a 1880
@@ -4092,7 +4345,7 @@ references:
     - year: 2021
       month: 5
       day: 1
-  language: en
+  language: eng
   license: >-
     Copyright © 2021 The Authors, some rights reserved; exclusive licensee
     American Association for the Advancement of Science. No claim to original
@@ -4162,7 +4415,7 @@ references:
     - year: 2019
       month: 6
       day: 1
-  language: en
+  language: eng
   page: 68-83
   source: ScienceDirect
   title: >-
@@ -4189,12 +4442,40 @@ references:
   ISBN: 978-1-59726-578-2
   issued:
     - year: 2009
-  language: en
+  language: eng
   number-of-pages: '459'
   publisher: Island Press
   publisher-place: Washington, <span smallcaps="smallcaps">D.C.</span>
   source: Library of Congress ISBN
   title: The architecture of community
+  type: book
+
+- id: lassance:2021cidade
+  author:
+    - family: Lassance
+      given: Guilherme
+  citation-key: lassance:2021cidade
+  contributor:
+    - family: Sabaia
+      given: Luciana
+    - family: Capillé
+      given: Cauê
+    - family: Pescatori
+      given: Carolina
+    - family: Correa
+      given: Denise
+  event-place: Rio de Janeiro
+  ISBN: 978-65-87913-62-9
+  issued:
+    - year: 2021
+      month: 9
+      day: 20
+  language: por
+  publisher: Rio Books
+  publisher-place: Rio de Janeiro
+  source: Câmara Brasileira do Livro ISBN
+  title: 'Cidade pós compacta: Estratégias de projeto a partir de Brasilia'
+  title-short: Cidade pós compacta
   type: book
 
 - id: laviolette:2005archaeology
@@ -4214,7 +4495,7 @@ references:
   ISBN: 978-1-4051-0155-4 978-1-4051-0156-1
   issued:
     - year: 2005
-  language: en
+  language: eng
   page: 327-352
   publisher: Blackwell
   publisher-place: Malden, Mass.
@@ -4253,7 +4534,7 @@ references:
     - year: 1983
       month: 6
       day: 1
-  language: en
+  language: eng
   page: 19-28
   source: Taylor and Francis+NEJM
   title: The interpretation of vernacular architecture
@@ -4309,7 +4590,7 @@ references:
   citation-key: leblanc:2010brunei
   issued:
     - year: 2010
-  language: en
+  language: eng
   source: dl.lib.mrt.ac.lk
   title: >-
     Brunei Kampong Ayer: an analysis of the structure and the conditions of
@@ -4317,6 +4598,27 @@ references:
   title-short: Brunei Kampong Ayer
   type: article-journal
   URL: http://dl.lib.mrt.ac.lk/handle/123/8353
+
+- id: lee:2016history
+  accessed:
+    - year: 2024
+      month: 12
+      day: 26
+  author:
+    - family: Lee
+      given: Wen Hao
+  citation-key: lee:2016history
+  DOI: 10.13140/RG.2.1.1719.3367
+  event-place: Brisbane
+  issued:
+    - year: 2016
+  language: eng
+  publisher: Unpublished
+  publisher-place: Brisbane
+  source: DOI.org (Datacite)
+  title: The history of Melaka's urban morphology
+  type: article
+  URL: http://rgdoi.net/10.13140/RG.2.1.1719.3367
 
 - id: lefebvre:1968droit
   author:
@@ -4330,7 +4632,7 @@ references:
   event-place: Paris
   issued:
     - year: 1968
-  language: fr
+  language: fre
   number-of-pages: '164'
   publisher: Anthropos
   publisher-place: Paris
@@ -4347,7 +4649,7 @@ references:
   ISBN: 978-85-88208-97-1
   issued:
     - year: 2001
-  language: pt
+  language: por
   publisher: Centauro
   publisher-place: São Paulo
   source: Câmara Brasileira do Livro ISBN
@@ -4400,7 +4702,7 @@ references:
     - year: 1991
       month: 7
       day: 30
-  language: en
+  language: eng
   number-of-pages: '152'
   publisher: 'Institut Masyarakat : Central Books'
   publisher-place: Pinang
@@ -4419,9 +4721,9 @@ references:
   ISBN: 978-0-262-12004-3 978-0-262-62001-7
   issued:
     - year: 1960
-  language: en
+  language: eng
   number-of-pages: '194'
-  publisher: <span smallcaps="smallcaps">MIT</span> Press
+  publisher: MIT Press
   publisher-place: Cambridge, Mass.
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: The image of the city
@@ -4433,14 +4735,13 @@ references:
       given: Kevin
   call-number: HT166 .L96 1984
   citation-key: lynch:1981theory
-  edition: '1'
   event-place: Cambridge, Mass.
   ISBN: 978-0-262-62046-8 978-0-262-12085-2
   issued:
     - year: 1981
-  language: en
+  language: eng
   number-of-pages: '514'
-  publisher: <span smallcaps="smallcaps">MIT</span> Press
+  publisher: MIT Press
   publisher-place: Cambridge, Mass.
   source: Library of Congress ISBN
   title: A theory of good city form
@@ -4464,7 +4765,7 @@ references:
     - year: 1969
       month: 3
       day: 1
-  language: en
+  language: eng
   license: Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
@@ -4508,7 +4809,7 @@ references:
   ISBN: 978-9956-550-05-0
   issued:
     - year: 2019
-  language: en
+  language: eng
   page: 177-200
   publisher: Langaa RPCIG
   publisher-place: Mankon
@@ -4554,7 +4855,7 @@ references:
   issue: '2'
   issued:
     - year: 2014
-  language: en
+  language: eng
   page: 155-172
   publisher: Taylor & Francis, Ltd.
   source: JSTOR
@@ -4574,7 +4875,7 @@ references:
   ISBN: 978-0-253-34155-6
   issued:
     - year: 2002
-  language: en
+  language: eng
   number-of-pages: '208'
   publisher: Indiana University Press
   publisher-place: Bloomington, In.
@@ -4619,7 +4920,7 @@ references:
   issued:
     - year: 2019
       month: 11
-  language: en
+  language: eng
   page: '042011'
   publisher: IOP Publishing
   source: Institute of Physics
@@ -4662,7 +4963,7 @@ references:
     - year: 2016
       month: 5
       day: 3
-  language: en
+  language: eng
   page: 218-236
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -4674,7 +4975,7 @@ references:
   URL: https://doi.org/10.1080/13264826.2017.1316752
   volume: '21'
 
-- id: misnat:2018re-adaptation
+- id: misnat:2018re-adaptation7
   abstract: "Home is a basic need of human life and plays an important role in wellbeing human life. The quality of design should meet the needs and way of life as every human being deserves to enjoy it. Today's housing design failed to respond in meeting the needs of the occupants. The designs are now too much influenced from the west and contrary to the needs of the local design, especially the Malays. The space for the Malay Muslims is the reflection of the fulfilment of its way of life. The occupants are experiencing\_ multiple unfavourable housing issues. This paper highlight the housing issues and conditions on how certain issues of housing affordability affect societal wellbeing. The writing of this study will discuss the issues and problems of residential low and medium cost-of-modern design houses. Forty-five willing\_ respondents were randomly selected to answer questionnaires based on their willingness and the data were analysed using SPSS statistics to interpret these issues. The findings will be the basis for addressing the main issues and to proposed the application of the conceptual Malay heritage design in the design towards the creation of quality interior design dwelling."
   accessed:
     - year: 2023
@@ -4689,7 +4990,7 @@ references:
       given: Ismar
     - family: Binti Ahmad
       given: Norfazillah
-  citation-key: misnat:2018re-adaptation
+  citation-key: misnat:2018re-adaptation7
   container-title: International Journal of Engineering & Technology
   container-title-short: IJET
   DOI: 10.14419/ijet.v7i3.9.15261
@@ -4699,7 +5000,7 @@ references:
     - year: 2018
       month: 7
       day: 9
-  language: en
+  language: eng
   page: '1'
   source: DOI.org (Crossref)
   title: >-
@@ -4739,7 +5040,7 @@ references:
   issued:
     - year: 2020
       month: 5
-  language: en
+  language: eng
   page: '10'
   source: Zotero
   title: >-
@@ -4758,7 +5059,7 @@ references:
   ISBN: 978-84-252-1181-2
   issued:
     - year: 1985
-  language: es
+  language: spa
   publisher: Gustavo Gili
   publisher-place: Barcelona
   source: Open WorldCat
@@ -4777,7 +5078,7 @@ references:
   ISBN: 978-85-336-0847-4
   issued:
     - year: 1998
-  language: pt
+  language: por
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -4786,10 +5087,6 @@ references:
   type: book
 
 - id: muratori:1967civilta
-  accessed:
-    - year: 2020
-      month: 1
-      day: 16
   author:
     - family: Muratori
       given: Saverio
@@ -4797,13 +5094,12 @@ references:
   event-place: Roma
   issued:
     - year: 1967
-  language: it
+  language: ita
   publisher: Centro studi di storia urbanistica
   publisher-place: Roma
   source: Open WorldCat
   title: Civiltà e territorio
   type: book
-  URL: http://books.google.com/books?id=RtE8AQAAIAAJ
 
 - id: mustafa:2020spatial11
   accessed:
@@ -4829,7 +5125,7 @@ references:
   issue: '2'
   issued:
     - year: 2020
-  language: en
+  language: eng
   page: 1-17
   publisher: TUENGR Group
   source: DOI.org (Datacite)
@@ -4869,7 +5165,7 @@ references:
     - year: 2020
       month: 12
       day: 23
-  language: en
+  language: eng
   license: Copyright (c)
   number: '3'
   page: 1935-1947
@@ -4935,7 +5231,7 @@ references:
   ISBN: 978-981-10-8887-2
   issued:
     - year: 2019
-  language: en
+  language: eng
   page: 313-327
   publisher: Springer
   publisher-place: Cham
@@ -4967,7 +5263,7 @@ references:
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
-  language: en
+  language: eng
   page: 3-46
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -5003,7 +5299,7 @@ references:
   issue: '4'
   issued:
     - year: 2008
-  language: en
+  language: eng
   page: 579-599
   publisher: Sage Publications, Inc.
   source: JSTOR
@@ -5029,7 +5325,7 @@ references:
   issue: '5'
   issued:
     - year: 2008
-  language: en
+  language: eng
   page: 1748-1751
   publisher: Modern Language Association
   source: JSTOR
@@ -5041,18 +5337,48 @@ references:
   URL: https://www.jstor.org/stable/25501982
   volume: '123'
 
-- id: oers:2013swahilia
+- id: octifanny:2021review107
+  accessed:
+    - year: 2025
+      month: 7
+      day: 27
+  author:
+    - family: Octifanny
+      given: Yustina
+    - family: Norvyani
+      given: Dini Aprilia
+  citation-key: octifanny:2021review107
+  container-title: Habitat International
+  DOI: 10.1016/j.habitatint.2020.102295
+  ISSN: 0197-3975
+  issued:
+    - year: 2021
+      month: 1
+  language: eng
+  license: https://www.elsevier.com/tdm/userlicense/1.0/
+  page: '102295'
+  publisher: Elsevier BV
+  source: Crossref
+  title: >-
+    A review of urban kampung development: The perspective of livelihoods and
+    space in two urban kampungs in pontianak, Indonesia
+  title-short: A review of urban kampung development
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0197397520314193
+  volume: '107'
+
+- id: oers:2013swahili
   author:
     - family: Oers
       given: Ron Van
     - family: Haraguchi
       given: Sachiko
-  citation-key: oers:2013swahilia
+  citation-key: oers:2013swahili
   event-place: Paris
   issued:
     - year: 2013
       month: 1
-  language: en
+  language: eng
   number: CLT-2013/WS/17
   page: '129'
   publisher: <span smallcaps="smallcaps">UNESCO</span> World Heritage Centre
@@ -5076,7 +5402,7 @@ references:
   ISBN: 978-85-7652-127-3
   issued:
     - year: 2010
-  language: pt
+  language: por
   publisher: Unesco
   publisher-place: Brasília
   title: >-
@@ -5121,7 +5447,7 @@ references:
   ISBN: 978-3-319-32081-6
   issued:
     - year: 2016
-  language: en
+  language: eng
   publisher: Springer
   publisher-place: Cham
   source: www.springer.com
@@ -5147,7 +5473,7 @@ references:
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
-  language: en
+  language: eng
   publisher: Springer
   publisher-place: Cham
   source: Crossref
@@ -5177,13 +5503,34 @@ references:
     - year: 2021
       month: 12
       day: 10
-  language: en
+  language: eng
   license: © 2021 Informa UK Limited, trading as Taylor & Francis Group
   publisher: Routledge
   source: www.tandfonline.com
   title: Urban form and the socioeconomic and environmental dimensions of cities
   type: article-journal
   URL: https://www.tandfonline.com/doi/abs/10.1080/17549175.2021.2011378
+
+- id: oliver:1975cambridge
+  call-number: DT20 .C28
+  citation-key: oliver:1975cambridge
+  collection-editor:
+    - family: Fage
+      given: J. D.
+  collection-number: '3'
+  editor:
+    - family: Oliver
+      given: Roland Anthony
+  event-place: Cambridge ; New York
+  ISBN: 978-0-521-20981-6
+  issued:
+    - year: 1975
+  language: eng
+  publisher: Cambridge University Press
+  publisher-place: Cambridge ; New York
+  source: Library of Congress ISBN
+  title: The Cambridge history of Africa c. 1050 to c. 1600
+  type: book
 
 - id: osasona:2011ile
   accessed:
@@ -5198,12 +5545,14 @@ references:
   citation-key: osasona:2011ile
   DOI: 10.2495/STR110091
   event-place: Chianciano Terme, Tuscany, Italy
-  event-title: <span class="smallcaps">STREMAH</span> 2011
+  event-title: >-
+    <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">STREMAH</span> 2011
   issued:
     - year: 2011
       month: 9
       day: 5
-  language: en
+  language: eng
   page: 99-114
   publisher-place: Chianciano Terme, Tuscany, Italy
   source: DOI.org (Crossref)
@@ -5244,7 +5593,7 @@ references:
     - year: 2021
       month: 11
       day: 10
-  language: en
+  language: eng
   license: >-
     Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
     License (CC-BY-NC-ND)
@@ -5265,7 +5614,7 @@ references:
   ISBN: 978-85-230-0923-6
   issued:
     - year: 2006
-  language: pt
+  language: por
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -5317,7 +5666,7 @@ references:
   ISBN: 978-981-10-8887-2
   issued:
     - year: 2019
-  language: en
+  language: eng
   publisher: Springer
   publisher-place: Cham
   source: Open WorldCat
@@ -5352,7 +5701,7 @@ references:
   issue: '21'
   issued:
     - year: 2018
-  language: es
+  language: spa
   page: 1-28
   publisher: Instituto Universitario de Urbanística
   section: >-
@@ -5362,6 +5711,45 @@ references:
   title: Un marco teórico y metodológico para la arquitectura vernácula
   type: article-journal
   URL: https://dialnet.unirioja.es/servlet/articulo?codigo=6420412
+
+- id: pescatori:2019leitura1a
+  abstract: >-
+    Parte das teorias contemporâneas sobre a forma da cidade foca-se em um
+    debate dual: de um lado, estudos demonstram a intensidade do crescimento e a
+    expansão da urbanização, formando uma leitura de cidade dispersa,
+    considerada, por alguns autores, como a morte da cidade; de outro,
+    investigações objetivam frear essa dispersão e prover respostas urbanísticas
+    baseadas no resgate da cidade "tradicional", formando uma leitura de cidade
+    compacta. O embate entre essas leituras é central para a discussão acerca da
+    urbanização contemporânea, que ainda carece de leituras que considerem a
+    dispersão urbana dentro de uma perspectiva historiográfica.
+  accessed:
+    - year: 2025
+      month: 7
+      day: 27
+  author:
+    - family: Pescatori
+      given: Carolina
+    - family: Faria
+      given: Rodrigo
+      non-dropping-particle: de
+  citation-key: pescatori:2019leitura1a
+  container-title: Revista Jatobá
+  container-title-short: Jatobá
+  DOI: 10.54686/revjat.v1i.61697
+  ISSN: 2675-1119
+  issued:
+    - year: 2019
+      month: 12
+      day: 20
+  language: por
+  license: http://creativecommons.org/licenses/by/4.0
+  publisher: Universidade Federal de Goias
+  source: Crossref
+  title: Por uma leitura historiográfica da dispersão urbana
+  type: article-journal
+  URL: https://www.revistas.ufg.br/revjat/article/view/61697
+  volume: '1'
 
 - id: petruccioli:1998typological
   accessed:
@@ -5380,7 +5768,7 @@ references:
   event-place: Cambridge, Mass.
   issued:
     - year: 1998
-  language: en
+  language: eng
   publisher: >-
     Aga Khan Program for Islamic Architecture at Harvard University :
     Massachusetts Institute of Technology
@@ -5416,7 +5804,7 @@ references:
   ISBN: 978-1-136-85131-5
   issued:
     - year: 2013
-  language: en
+  language: eng
   publisher: Taylor and Francis
   publisher-place: Florence
   source: Open WorldCat
@@ -5457,7 +5845,7 @@ references:
     - year: 2009
       month: 7
       day: 1
-  language: en
+  language: eng
   page: 103-125
   source: Taylor and Francis+NEJM
   title: Different approaches in the study of urban form
@@ -5498,7 +5886,7 @@ references:
     - year: 2019
       month: 7
       day: 15
-  language: en
+  language: eng
   page: 294-313
   source: DOI.org (Crossref)
   title: 'The self-built city: theorizing urban design of informal settlements'
@@ -5525,7 +5913,7 @@ references:
   issue: 1/2
   issued:
     - year: 1973
-  language: en
+  language: eng
   license: Copyright © 1973 International Center of Medieval Art
   page: 123–132
   source: JSTOR
@@ -5603,7 +5991,7 @@ references:
       given: Eric
   issued:
     - year: 2018
-  language: fr
+  language: fre
   page: 153-168
   publisher: Archaeopress
   source: JSTOR
@@ -5628,7 +6016,7 @@ references:
   container-title: 'FORT: J Fortress Study Group'
   issued:
     - year: 2019
-  language: en
+  language: eng
   page: 39–69
   source: Google Scholar
   title: >-
@@ -5653,12 +6041,14 @@ references:
   ISBN: 978-989-702-566-2
   issued:
     - year: 2020
-  language: pt
+  language: por
   page: 42-45
   publisher: Guerra & Paz
   publisher-place: Lisboa
   source: Open WorldCat
-  title: A civilização Suaíli (séculox VIII–XV)
+  title: >-
+    A civilização Suaíli (séculox <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">VIII–XV</span>)
   translator:
     - family: Lopes
       given: Isabel
@@ -5679,7 +6069,7 @@ references:
   issue: '2'
   issued:
     - year: 1968
-  language: en
+  language: eng
   page: 32-74
   source: JSTOR
   title: The architecture of Islam in West Africa
@@ -5717,7 +6107,7 @@ references:
   genre: Ph.D. Dissertation
   issued:
     - year: 2001
-  language: en
+  language: eng
   publisher: University of Hong Kong
   publisher-place: Hong Kong
   source: eLibrary.ru
@@ -5738,7 +6128,7 @@ references:
   ISBN: 978-3-932565-30-4
   issued:
     - year: 2012
-  language: en
+  language: eng
   number-of-pages: '296'
   publisher: Menges
   publisher-place: Stuttgart
@@ -5765,7 +6155,7 @@ references:
   ISBN: 978-0-7546-7880-9
   issued:
     - year: 2012
-  language: en
+  language: eng
   number-of-pages: '336'
   publisher: Ashgate Publishing, Ltd.
   source: Google Books
@@ -5809,7 +6199,7 @@ references:
     - year: 2010
       month: 5
       day: 17
-  language: en
+  language: eng
   page: 450-461
   publisher: John Wiley & Sons
   publisher-place: Hoboken, N.J.
@@ -5825,7 +6215,7 @@ references:
   event-place: Englewood Cliffs, N.J.
   issued:
     - year: 1969
-  language: en
+  language: eng
   publisher: Prentice-Hall
   publisher-place: Englewood Cliffs, N.J.
   source: Open WorldCat
@@ -5853,7 +6243,7 @@ references:
   issue: '1'
   issued:
     - year: 2006
-  language: en
+  language: eng
   page: 59-70
   source: Wiley Online Library
   title: Archaeology and environment–behavior studies
@@ -5920,7 +6310,7 @@ references:
     - year: 2012
       month: 12
       day: 1
-  language: en
+  language: eng
   page: 889-924
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -5956,7 +6346,7 @@ references:
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
-  language: en
+  language: eng
   page: 47-70
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -5996,7 +6386,7 @@ references:
     - year: 2015
       month: 6
       day: 1
-  language: en
+  language: eng
   page: 334-355
   source: Springer Link
   title: 'Zanzibar: a nineteenth-century landscape of the Omani elite'
@@ -6052,7 +6442,7 @@ references:
     - year: 2003
       month: 1
       day: 1
-  language: en
+  language: eng
   page: 337-354
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -6061,28 +6451,29 @@ references:
   URL: https://doi.org/10.1080/1360236032000134835
   volume: '8'
 
-- id: sahabuddin:2012establishment
+- id: sahabuddin:2012establishment2
   accessed:
-    - year: 2020
-      month: 8
-      day: 4
+    - year: 2024
+      month: 7
+      day: 1
   author:
     - family: Sahabuddin
       given: Mohd Firrdhaus
-  citation-key: sahabuddin:2012establishment
+  citation-key: sahabuddin:2012establishment2
   container-title: Firrbudi aka Lensahijau
   issued:
     - year: 2012
       month: 10
       day: 18
-  language: en
+  language: eng
   source: Blogger
-  title: 'The establishment of ''air house'' standard in tropical countries : part 2'
+  title: 'The establishment of ''air house'' standard in tropical countries: part 2'
+  title-short: The establishment of 'air house' standard in tropical countries
   type: post-weblog
   URL: >-
     http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html
 
-- id: sahabuddin:2015traditional
+- id: sahabuddin:2015traditional9
   abstract: >-
     Large migration from rural areas to urban areas like Kuala Lumpur has led to
     some implications for economic, social and cultural development. This high
@@ -6109,7 +6500,7 @@ references:
       given: Mohd Firrdhaus
     - family: Gonzalez-Longo
       given: Cristina
-  citation-key: sahabuddin:2015traditional
+  citation-key: sahabuddin:2015traditional9
   container-title: 'ArchNet-IJAR: International Journal of Architectural Research'
   ISSN: 1938-7806
   issue: '2'
@@ -6117,7 +6508,7 @@ references:
     - year: 2015
       month: 7
       day: 31
-  language: en
+  language: eng
   license: cc_by_nc_nd
   number: '2'
   number-of-pages: '14'
@@ -6166,7 +6557,7 @@ references:
     - year: 2008
       month: 6
       day: 1
-  language: en
+  language: eng
   page: 121-144
   publisher: SAGE Publications
   source: SAGE Journals
@@ -6209,7 +6600,7 @@ references:
     - year: 2013
       month: 12
       day: 3
-  language: en
+  language: eng
   page: 418-428
   source: ScienceDirect
   title: Heritage conservation and regeneration of historic areas in Malaysia
@@ -6217,7 +6608,7 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S1877042813044194
   volume: '105'
 
-- id: saladin:2019views
+- id: saladin:2019views3
   abstract: "AbstractThe physical object of architecture is a manifestation of thoughtful concept of the architect. Philosophically, in vernacular architecture, the concept of thoughts is being revealed in the form of local wisdom. Kampung Naga, as one of the vernacular villages in West Java, maintains its traditional culture although the inhabitants have undergone modern thought. The modern era has developed immensely which could affect the decline in preserving the local wisdom. To anticipate the decline, it is necessary to make an effort to formulate the local wisdom which is still existed. This paper aims to explain the results of research in Kampung Naga which focusing on physical elements and accommodating the results of previous research concerning on local wisdom. Data and information as written materials were obtained through field survey, literature review, and previous research studies. The results of the study show that local wisdom in Kampung Naga has an effect on the aspects of life in terms of social interaction, land law, physical building ideas and its spatial order. The paper will be ended with the diagrammatic conceptual model of the aspects of the manifestation of local wisdom in Kampung Naga.\_Keywords: manifestation, local wisdom, Kampung Naga"
   accessed:
     - year: 2023
@@ -6230,7 +6621,7 @@ references:
       given: Agus Budi
     - family: Tundono
       given: Sri
-  citation-key: saladin:2019views
+  citation-key: saladin:2019views3
   container-title: International Journal on Livable Space
   container-title-short: Int.J.Livable.Sp.
   DOI: 10.25105/livas.v3i1.3868
@@ -6240,6 +6631,7 @@ references:
     - year: 2019
       month: 2
       day: 12
+  language: eng
   page: 13-22
   source: DOI.org (Crossref)
   title: 'Views on the manifestation of local wisdom (case: kampung Naga, West Java)'
@@ -6267,7 +6659,7 @@ references:
   ISBN: 978-85-7652-127-3
   issued:
     - year: 2010
-  language: pt
+  language: por
   page: 883-914
   publisher: Unesco
   publisher-place: Brasília
@@ -6292,9 +6684,11 @@ references:
     978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
   issued:
     - year: 2010
-  language: pt
+  language: por
   page: 249-274
-  publisher: <span smallcaps="smallcaps">UNESCO</span>
+  publisher: >-
+    <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">UNESCO</span>
   publisher-place: Brasília
   source: Open WorldCat
   title: O litoral e o interior da África oriental de 1800 a 1845
@@ -6334,6 +6728,7 @@ references:
     - year: 2020
       month: 2
       day: 1
+  language: eng
   page: '012026'
   source: DOI.org (Crossref)
   title: >-
@@ -6366,10 +6761,10 @@ references:
   issued:
     - year: 2002
       month: 8
-  language: en
+  language: eng
   publisher: Foundation for Science, Technology, and Civilisation
   publisher-place: Manchester
-  title: Introduction to the Islamic City
+  title: Introduction to the Islamic city
   type: book
   URL: http://www.muslimheritage.com/article/introduction-islamic-city
 
@@ -6382,7 +6777,7 @@ references:
   ISBN: 978-981-10-7317-5 978-981-10-7316-8
   issued:
     - year: 2018
-  language: en
+  language: eng
   number-of-pages: '371'
   publisher: Palgrave Macmillan
   publisher-place: Singapore
@@ -6392,6 +6787,84 @@ references:
     historical and contemporary dimensions
   title-short: Cultural and civilisational links between India and Southeast Asia
   type: book
+
+- id: schefold:2003indonesian1
+  abstract: >-
+    The traditional houses and settlements of the several hundred ethnic groups
+    of Indonesia are extremely varied and all have their own unique history.
+    Underlying this rich diversity are fundamental similarities rooted in the
+    ancient heritage that is shared by all the peoples in the Indonesian field
+    of study. The multiplicity of ways in which this heritage is given shape in
+    each local situation bears witness to an amazing creativity in adapting to
+    regional circumstances and social changes. Inter-ethnic comparison of the
+    architectural structures is a way to arrive at a better understanding of
+    both the shared traditions and the diverging developments. In many cases,
+    the variety of house forms will reflect successful attempts at one group's
+    making distinct its buildings from those of neighbouring groups in an
+    ongoing ethnic process of what could be called 'mutual contrasting',
+    although sometimes by means of pseudo-traditions which have little to do
+    with indigenous customs of the past. The contributions to this volume are
+    grouped in four sections. The first consists of essays describing approaches
+    to the transformation and variation of houses. The second set presents
+    applications of these approaches in case studies of specific Sumatran
+    cultures. The third group widens the perspective through the inclusion of a
+    number of cultures from outside Sumatra, namely from Flores, Sulawesi,
+    Kalimantan, Palu'é, and Roti. The final set deals not so much with houses as
+    with settlements. In their pursuit of the cultural dimension of houses, the
+    contributions focus on villages and towns, exploring their cosmological and
+    symbolic organization
+  citation-key: schefold:2003indonesian1
+  collection-number: '207'
+  collection-title: Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde
+  editor:
+    - family: Schefold
+      given: Reimar
+    - family: Nas
+      given: Peter J. M.
+    - family: Domenig
+      given: Gaudenz
+  event-place: Leiden Boston
+  ISBN: 978-90-6718-205-8 978-90-04-48325-5
+  issued:
+    - year: 2003
+  language: eng
+  publisher: Brill
+  publisher-place: Leiden Boston
+  source: K10plus ISBN
+  title: >-
+    Indonesian Houses: Volume 1: Tradition and Transformation in Vernacular
+    Architecture
+  title-short: Indonesian Houses
+  type: book
+  volume: '1'
+
+- id: schefold:2008indonesian2
+  citation-key: schefold:2008indonesian2
+  collection-number: '251'
+  collection-title: Leiden series on Indonesian architecture
+  DOI: 10.1163/9789004253988
+  editor:
+    - family: Schefold
+      given: Reimar
+    - family: Nas
+      given: Petrus Jacobus Maria
+    - family: Domenig
+      given: Gaudenz
+    - family: Wessing
+      given: Robert
+  event-place: Leiden
+  ISBN: 978-90-04-25398-8
+  issued:
+    - year: 2008
+  language: eng
+  number-of-pages: '722'
+  publisher: KITLV Press
+  publisher-place: Leiden
+  source: K10plus ISBN
+  title: 'Indonesian houses: survey of vernacular architecture in western Indonesia'
+  title-short: Indonesian houses
+  type: book
+  volume: '2'
 
 - id: schindler:2017paradigm21
   abstract: >-
@@ -6430,7 +6903,7 @@ references:
     - year: 2017
       month: 1
       day: 2
-  language: en
+  language: eng
   page: 47-64
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -6453,7 +6926,7 @@ references:
   issue: '1'
   issued:
     - year: 1982
-  language: en
+  language: eng
   license: free
   page: 189-203
   publisher: Persée - Portail des revues scientifiques en SHS
@@ -6497,7 +6970,7 @@ references:
     - year: 2012
       month: 1
       day: 1
-  language: en
+  language: eng
   page: 238-253
   source: ScienceDirect
   title: >-
@@ -6529,7 +7002,7 @@ references:
     - year: 2001
       month: 1
       day: 1
-  language: en
+  language: eng
   license: Copyright Taylor and Francis Group, LLC
   page: 63-81
   publisher: Taylor & Francis Group
@@ -6551,7 +7024,7 @@ references:
   event-place: Washington, D.C.
   issued:
     - year: 2010
-  language: en
+  language: eng
   page: 1-36
   publisher: Smithsonian Institution
   publisher-place: Washington, D.C.
@@ -6577,7 +7050,7 @@ references:
     - year: 2019
       month: 7
       day: 1
-  language: en-US
+  language: eng
   title: Tata somba, Batammaliba architecture at its height
   title-short: Tata somba
   type: webpage
@@ -6598,7 +7071,7 @@ references:
   event-place: Glasgow
   issued:
     - year: 1877
-  language: en
+  language: eng
   number-of-pages: '72'
   publisher: J. Maclehose
   publisher-place: Glasgow
@@ -6648,7 +7121,7 @@ references:
   ISSN: 0258-3542
   issued:
     - year: 2001
-  language: en
+  language: eng
   license: Art Historical Work Group of South Africa
   medium: Pdf
   page: 110-131
@@ -6697,7 +7170,7 @@ references:
   issued:
     - year: 2007
       month: 1
-  language: en
+  language: eng
   page: 49-65
   publisher: AHWG
   source: journals.co.za (Atypon)
@@ -6721,7 +7194,7 @@ references:
   ISSN: '24456004'
   issued:
     - year: 2015
-  language: en
+  language: eng
   page: 55-80
   source: DOI.org (Crossref)
   title: The impacts of islandness on the urbanism and architecture of Mombasa
@@ -6781,7 +7254,7 @@ references:
     - year: 2017
       month: 1
       day: 1
-  language: en
+  language: eng
   page: 52-63
   source: ScienceDirect
   title: >-
@@ -6791,6 +7264,50 @@ references:
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S0305440316300814
   volume: '77'
+
+- id: tagliacozzo:2007urban33
+  abstract: >-
+    While there are universalizing trends in global urbanization currently
+    taking place, several Southeast Asian cities will adopt these new frameworks
+    and institutions at least partly within a local model that is already
+    several centuries old. Particular to the region, this model does not
+    parallel South and East Asia's urban evolutions, the two regions
+    traditionally regarded as the well-springs of Southeast Asian culture.
+    Rather, it contradicts it. The cities of this arena have been and will
+    continue to be primarily their own creatures from a variety of vantage
+    points. Yet it is only by first examining the pattern of these cities'
+    evolutions that we can hope to gain any insight into how these urban centers
+    may unfold in the future. It is in the distant and colonial past that we can
+    sift for geographic and demographic clues that auger how the new Asian
+    ?super-capitals? sitting astride the equator may evolve in the years to
+    come.
+  accessed:
+    - year: 2022
+      month: 10
+      day: 15
+  author:
+    - family: Tagliacozzo
+      given: Eric
+  citation-key: tagliacozzo:2007urban33
+  container-title: Journal of Urban History
+  DOI: 10.1177/0096144207304035
+  ISSN: 0096-1442
+  issue: '6'
+  issued:
+    - year: 2007
+      month: 9
+      day: 1
+  language: eng
+  page: 911-932
+  publisher: SAGE Publications Inc
+  source: SAGE Journals
+  title: >-
+    An urban ocean: notes on the historical evolution of coastal cities in
+    greater Southeast Asia
+  title-short: An urban ocean
+  type: article-journal
+  URL: https://doi.org/10.1177/0096144207304035
+  volume: '33'
 
 - id: tagliaventi:2006european18
   abstract: 'Author(s): Tagliaventi, Gabriele'
@@ -6809,7 +7326,7 @@ references:
     - year: 2006
       month: 8
       day: 1
-  language: en
+  language: eng
   page: 46–52
   source: escholarship.org
   title: >-
@@ -6829,7 +7346,7 @@ references:
   container-title: Journal of Southeast Asian Architecture
   issued:
     - year: 2005
-  language: en
+  language: eng
   page: 1-25
   title: >-
     Reading the traditional city of maritime Southeast Asia: reconstructing the
@@ -6864,7 +7381,7 @@ references:
   ISBN: 978-0-7546-7880-9
   issued:
     - year: 2012
-  language: en
+  language: eng
   publisher: Ashgate
   source: Google Books
   title: >-
@@ -6888,7 +7405,7 @@ references:
   issue: '4'
   issued:
     - year: 2017
-  language: en
+  language: eng
   source: DOI.org (Crossref)
   title: >-
     Mosques and minaretes: transregional connections in eighteenth-century
@@ -6914,7 +7431,7 @@ references:
     - year: 2021
       month: 1
       day: 1
-  language: en
+  language: eng
   page: 217-232
   source: DOI.org (Crossref)
   title: >-
@@ -6964,7 +7481,7 @@ references:
     - year: 2012
       month: 10
       day: 5
-  language: en
+  language: eng
   license: © Cahiers d’Études africaines
   number: '208'
   page: 813-844
@@ -6997,7 +7514,7 @@ references:
     - year: 1967
       month: 1
       day: 1
-  language: en
+  language: eng
   page: 442-475
   publisher: Brill
   section: >-
@@ -7024,7 +7541,7 @@ references:
   issue: '1'
   issued:
     - year: 2004
-  language: en
+  language: eng
   page: 32-94
   source: JSTOR
   title: Origin traditions and history in central Africa
@@ -7044,7 +7561,7 @@ references:
   event-place: 'Madrid : Barcelona'
   issued:
     - year: 1902
-  language: es
+  language: spa
   number-of-pages: '212'
   publisher: Fernando Fé ; Antonio López
   publisher-place: 'Madrid : Barcelona'
@@ -7062,7 +7579,7 @@ references:
   ISBN: 978-0-415-14477-3
   issued:
     - year: 1997
-  language: en
+  language: eng
   number-of-pages: '208'
   publisher: Routledge
   publisher-place: London ; New York
@@ -7089,7 +7606,7 @@ references:
   issue: '6'
   issued:
     - year: 2011
-  language: en
+  language: eng
   page: '683'
   source: DOI.org (Crossref)
   title: >-
@@ -7130,7 +7647,7 @@ references:
     - year: 2024
       month: 1
       day: 1
-  language: en
+  language: eng
   page: '104662'
   source: ScienceDirect
   title: >-
@@ -7180,7 +7697,7 @@ references:
     - year: 2013
       month: 8
       day: 1
-  language: en
+  language: eng
   page: 570-590
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -7196,7 +7713,7 @@ references:
       day: 16
   citation-key: 'vernacular:'
   container-title: Archnet
-  language: en
+  language: eng
   title: Vernacular Housing of Lamu (Swahili Housing)
   type: webpage
   URL: https://archnet.org/sites/6076
@@ -7210,7 +7727,7 @@ references:
   event-place: Bogotá
   issued:
     - year: 1993
-  language: es
+  language: spa
   publisher: Escala
   publisher-place: Bogotá
   source: Open WorldCat
@@ -7220,7 +7737,7 @@ references:
   title-short: El interior de la historia
   type: book
 
-- id: wang:2019urban
+- id: wang:2019urban1
   abstract: >-
     In the process of urban development and regeneration, a city always
     gradually derives multiple morphological characteristics from its original
@@ -7247,7 +7764,7 @@ references:
       given: Han
     - family: Jia
       given: Beisi
-  citation-key: wang:2019urban
+  citation-key: wang:2019urban1
   container-title: Journal of Chinese Architecture and Urbanism
   container-title-short: '1'
   DOI: 10.36922/jcau.v1i1.841
@@ -7255,7 +7772,7 @@ references:
   issue: '1'
   issued:
     - year: 2019
-  language: en
+  language: eng
   license: Copyright (c) 2019 Wang H & Jia BS
   number: '1'
   page: 1-13
@@ -7287,7 +7804,7 @@ references:
   ISBN: 978-3-8365-7818-9
   issued:
     - year: 2019
-  language: en
+  language: eng
   publisher: Taschen
   publisher-place: Cologne [Paris]
   source: BnF ISBN
@@ -7358,7 +7875,7 @@ references:
   ISBN: 978-0-8371-6808-1
   issued:
     - year: 1973
-  language: en
+  language: eng
   number-of-pages: '388'
   publisher: Greenwood
   publisher-place: Westport, Conn.
@@ -7405,7 +7922,7 @@ references:
   ISSN: 0078-7809
   issued:
     - year: 1982
-  language: en
+  language: eng
   page: 201-219
   publisher: Frobenius Institute
   source: JSTOR
@@ -7431,7 +7948,7 @@ references:
     - year: 1983
       month: 11
       day: 1
-  language: en
+  language: eng
   page: 3-31
   publisher: SAGE Publications Inc
   source: SAGE Journals
@@ -7455,7 +7972,7 @@ references:
     - year: 2012
       month: 12
       day: 27
-  language: en
+  language: eng
   license: Copyright (c)
   page: 115-131
   source: mjes.um.edu.my
@@ -7494,7 +8011,7 @@ references:
     - year: 2013
       month: 12
       day: 1
-  language: en
+  language: eng
   page: 217-227
   source: ScienceDirect
   title: >-
@@ -7535,7 +8052,7 @@ references:
   ISBN: 978-981-4585-04-0
   issued:
     - year: 2014
-  language: en
+  language: eng
   number-of-pages: '192'
   publisher: Springer
   publisher-place: Singapore ; New York
@@ -7578,10 +8095,10 @@ references:
     History and Theory of Urban Settlement
   DOI: 10.1007/978-981-13-8972-6_8
   event-place: Singapore
-  ISBN: '9789811389726'
+  ISBN: 978-981-13-8972-6
   issued:
     - year: 2020
-  language: en
+  language: eng
   page: 181-204
   publisher: Springer
   publisher-place: Singapore
@@ -7599,10 +8116,10 @@ references:
     - family: Wiryomartono
       given: Bagoes
   citation-key: wiryomartono:2020livability
-  ISBN: '9789811389726'
+  ISBN: 978-981-13-8972-6
   issued:
     - year: 2020
-  language: en
+  language: eng
   source: Open WorldCat
   title: >-
     Livability and sustainability of urbanism: an interdisciplinary study on
@@ -7638,10 +8155,10 @@ references:
       given: Bagoes
   citation-key: wiryomartono:2020traditions
   event-place: Singapore
-  ISBN: '9789811534058'
+  ISBN: 978-981-15-3405-8
   issued:
     - year: 2020
-  language: en
+  language: eng
   publisher: Springer Singapore
   publisher-place: Singapore
   source: Open WorldCat
@@ -7680,10 +8197,10 @@ references:
     History and Theory of Urban Settlement
   DOI: 10.1007/978-981-13-8972-6_9
   event-place: Singapore
-  ISBN: '9789811389726'
+  ISBN: 978-981-13-8972-6
   issued:
     - year: 2020
-  language: en
+  language: eng
   page: 205-238
   publisher: Springer
   publisher-place: Singapore
@@ -7720,10 +8237,10 @@ references:
     History and Theory of Urban Settlement
   DOI: 10.1007/978-981-13-8972-6_10
   event-place: Singapore
-  ISBN: '9789811389726'
+  ISBN: 978-981-13-8972-6
   issued:
     - year: 2020
-  language: en
+  language: eng
   page: 239-263
   publisher: Springer
   publisher-place: Singapore
@@ -7739,10 +8256,46 @@ references:
       day: 24
   citation-key: wmf:kilwa
   container-title: World Monuments Fund
-  language: en
+  language: eng
   title: Historic Sites of Kilwa
   type: webpage
   URL: https://www.wmf.org/project/historic-sites-kilwa
+
+- id: wynne-jones:2007creating81
+  abstract: >-
+    Urban communities on the medieval East African coast have been previously
+    discussed in terms of ethnicity and migration. Here assemblages from coastal
+    towns and from surface survey in the interior are used to paint a different
+    picture of urban (Swahili) origins. The author shows that coast and interior
+    shared a common culture, but that coastal sites grew into ‘stonetowns’
+    thanks to the social impact of imports: the material culture structured the
+    society.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 20
+  author:
+    - family: Wynne-Jones
+      given: Stephanie
+  citation-key: wynne-jones:2007creating81
+  container-title: Antiquity
+  DOI: 10.1017/S0003598X00095247
+  ISSN: 0003-598X, 1745-1744
+  issue: '312'
+  issued:
+    - year: 2007
+      month: 6
+      day: 1
+  language: eng
+  page: 368-380
+  source: DOI.org (Crossref)
+  title: >-
+    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
+    smallcaps="smallcaps">AD</span> 800-1300
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
+  volume: '81'
 
 - id: wynne-jones:2010archaeological
   abstract: >-
@@ -7760,7 +8313,7 @@ references:
   issued:
     - year: 2010
       month: 6
-  language: en
+  language: eng
   page: 2-9
   source: Semantic Scholar
   title: Archaeological investigations at Songo Mnara, Tanzania, 2011
@@ -7801,7 +8354,7 @@ references:
     - year: 2013
       month: 12
       day: 1
-  language: en
+  language: eng
   page: 759-773
   source: ScienceDirect
   title: >-
@@ -7833,7 +8386,7 @@ references:
   ISBN: 978-1-107-11027-4
   issued:
     - year: 2014
-  language: en
+  language: eng
   page: 111-144
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -7855,46 +8408,53 @@ references:
       given: Jeffrey
   citation-key: wynne-jones:ruins
   container-title: Zamani Project
-  language: en
+  language: eng
   title: 'Ruins of Songo Mnara: a Swahili Stone Town'
   type: webpage
   URL: https://www.zamaniproject.org/site-tanzania-songo-mnara.html
 
-- id: wynnejones:2007creating81
+- id: zain:2023identifikasi23
   abstract: >-
-    Urban communities on the medieval East African coast have been previously
-    discussed in terms of ethnicity and migration. Here assemblages from coastal
-    towns and from surface survey in the interior are used to paint a different
-    picture of urban (Swahili) origins. The author shows that coast and interior
-    shared a common culture, but that coastal sites grew into ‘stonetowns’
-    thanks to the social impact of imports: the material culture structured the
-    society.
+    Sebagai etnis yang telah menetap turun-temurun di pesisir Sungai Kapuas,
+    Kalimantan Barat, telah banyak kampung-kampung Melayu yang terbentuk dan
+    berkembang. Walaupun berada di satu kota dan suku yang sama, tentunya setiap
+    kampung memiliki perbedaan karakteristik sebagai bentuk penyesuaian kondisi
+    daerah yang ditinggali masing-masing kelompok masyarakat. Karakteristik juga
+    dapat ditemukan dari bentuk formasi atau pola permukiman kampung. Oleh
+    karena itu, tulisan ini bertujuan untuk mengidentifikasi karakteristik dan
+    formasi pada kampung-kampung Melayu di Kota Pontianak, khususnya Kampung
+    Tambelan Sampit, Kampung Bansir, dan Kampung Beting. Metode penelitian
+    deskriptif kualitatif dengan pendekatan studi komparasi yang digunakan
+    menghasilkan penemuan bahwa pola permukiman pada Kampung Melayu di Kota
+    Pontianak mengikuti pola sirkulasi jalan, arah bangunan tetap menghadap ke
+    Sungai Kapuas dan karakteristik pada masing-masing kampung karena pengaruh
+    lingkungan atau kebiasaan dari suku lain.
   accessed:
-    - year: 2020
+    - year: 2025
       month: 7
-      day: 20
+      day: 26
   author:
-    - family: Wynne-Jones
-      given: Stephanie
-  citation-key: wynnejones:2007creating81
-  container-title: Antiquity
-  DOI: 10.1017/S0003598X00095247
-  ISSN: 0003-598X, 1745-1744
-  issue: '312'
+    - family: Zain
+      given: Zairin
+    - family: Dewi
+      given: Zsazsa Pradnyaparamita Candra
+  citation-key: zain:2023identifikasi23
+  container-title: NALARs
+  DOI: 10.24853/nalars.23.1.17-28
+  ISSN: 2549-6832, 1412-3266
+  issue: '1'
   issued:
-    - year: 2007
-      month: 6
-      day: 1
-  language: en
-  page: 368-380
-  source: DOI.org (Crossref)
-  title: >-
-    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
-    smallcaps="smallcaps">AD</span> 800-1300
+    - year: 2023
+      month: 12
+      day: 29
+  language: ind
+  page: '17'
+  publisher: Universitas Muhammadiyah Jakarta
+  source: Crossref
+  title: Identifikasi Karakteristik dan Formasi Kampung Melayu di Kota Pontianak
   type: article-journal
-  URL: >-
-    https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
-  volume: '81'
+  URL: https://jurnal.umj.ac.id/index.php/nalars/article/view/16979
+  volume: '23'
 
 - id: zamani:2016animation
   accessed:
@@ -7910,7 +8470,7 @@ references:
     - year: 2016
       month: 9
       day: 19
-  language: en
+  language: eng
   note: 'ZSCC: NoCitationData[s0]'
   publisher: University of Cape Town
   publisher-place: Cape Town
@@ -7926,7 +8486,7 @@ references:
       day: 24
   citation-key: zamaniproject:swaheli
   container-title: Zamani Project
-  language: en
+  language: eng
   title: Swaheli House Museum
   type: webpage
   URL: https://zamaniproject.org/site-kenya-lamu-swahili-house-musemu.html
@@ -7939,9 +8499,9 @@ references:
   event-place: Cambridge, Mass.
   issued:
     - year: 1970
-  language: en
+  language: eng
   number-of-pages: xxiii, 287 p.
-  publisher: <span smallcaps="smallcaps">MIT</span> Press
+  publisher: MIT Press
   publisher-place: Cambridge, Mass.
   title: 'Town and square: from the agora to the village green'
   type: book
