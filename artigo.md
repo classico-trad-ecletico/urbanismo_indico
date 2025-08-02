@@ -3,7 +3,7 @@ title       : "Paradigmas urbanísticos do oceano Índico: cidades suaíli e mal
 #author      : Pedro P. Palazzo
 lang        : pt-BR
 bibliography: "biblio.yaml"
-csl         : "chicago-fullnote-bibliography-with-ibid.csl"
+csl         : "chicago-notes.csl"
 suppress-bibliography: true
 abstract: |
   Na história global das cidades, as margens do oceano Índico na Idade
@@ -83,7 +83,9 @@ registradas na historiografia como meros "empórios", nas palavras de
 cujos protagonistas teriam sido estrangeiros: árabes, persas, indianos,
 chineses e, sobretudo, europeus.
 
-![Os três circuitos mercantes do oceano Índico no século XIV. Fonte: desenho do autor com base em K.N. Chaudhuri, Janet Abu-Lughod e Stéphane Pradines](media/circuitos.png){#fig:indico-redes}
+![Os três circuitos mercantes do oceano Índico no século XIV.  
+  Fonte: desenho do autor com base em K.N. Chaudhuri, Janet Abu-Lughod e Stéphane Pradines
+  ](media/circuitos.pdf){#fig:indico-redes width="12cm" height="12cm"}
 
 Hoje pesquisada em seus próprios termos, a forma das cidades
 tradicionais suaíli e malaias ainda é pouco representada, contudo, em
@@ -257,7 +259,8 @@ trouxeram relatos das cidades da costa Suaíli que constam do atlas de
 
 Essa percepção intuitiva da existência de cidades não ocidentais
 foi apenas temporariamente obscurecida por um
-modelo neocolonialista empenhado, segundo @campbell:2008indian,
+modelo neocolonialista empenhado, segundo Gwyn Campbell
+[-@campbell:2008indian],
 em fabricar um marco conceitual para negar *status* urbano
 às cidades africanas,
 como também em suprimir, de acordo com @ibrahim:2020patterns13, a longa
@@ -288,9 +291,7 @@ eurasiático, define-se a extensão geográfica principal --- mas não
 exclusiva --- onde vigorava esse paradigma em finais da Idade Média.
 
 Esse paradigma foi descrito com mais clareza pelo geógrafo alemão
-M.R.G. Conzen na primeira metade do século XX [Ver
-@whitehand:2009conzen33. O exemplar canônico de um método analítico para
-esse paradigma se encontra em @conzen:2022alnwick], e formulado de
+M.R.G. Conzen na primeira metade do século XX[^3], e formulado de
 modo mais metódico pelo urbanista francês @panerai:2006analise.
 O paradigma eurasiático consiste num processo de urbanização que se dá
 por uma sucessão de três categorias de elementos:
@@ -311,20 +312,23 @@ passo da urbanização eurasiática tradicional. Esse arruamento pode ser
 dede uma preexistência orgânica do território, como um caminho
 ancestral, até um projeto concebido do zero, como no plano de fundação
 da vila das Lajes do Pico pouco tempo depois do descobrimento dos Açores,
-no século XV ([@fig:picoA]). Quase sempre, o parcelamento dos lotes vai
+no século XV ([@fig:picoA]).
+O traçado viário é quase sempre hierarquizado em torno de um
+percurso principal ou estruturante.
+Quase sempre, o parcelamento dos lotes vai
 então ser estritamente confinado pelas divisas do espaço público que
 constitui essa rede de caminhos ([@fig:picoB]). Em condições normais, é
 somente de posse de um lote que o proprietário fundiário eurasiático
 pode, então, começar a construir uma edificação ([@fig:picoC]).
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:eurasiatico}
-![Traçados viários](media/pico-viario.png){#fig:picoA width="49%"}
-![Parcelamento do solo](media/pico-lotes.png){#fig:picoB width="49%"}
-![Edificações](media/pico-edificios.png){#fig:picoC width="49%"}
-![Síntese do tecido construído](media/pico-tudo.png){#fig:picoD width="49%"}
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:pico}
+![Malha viária ideal](media/pico-malha.pdf){#fig:picoA width="12cm" height="7.5cm"}
+![Parcelamento do solo inicial em lotes de 25 e 50 palmos de testada](media/pico-lotes.pdf){#fig:picoB width="12cm" height="7.5cm"}
+![Tecido construído existente](media/pico-edificado.pdf){#fig:picoC width="12cm" height="7.5cm"}
 
-Elementos urbanos próprios ao paradigma eurasiático: reconstituição do
-tecido urbano pré-moderno das Lajes do Pico, Açores. Desenhos do autor
+Elementos urbanos próprios ao paradigma eurasiático:
+tecido urbano das Lajes do Pico, Açores.  
+Fonte: Reconstituição e desenho do autor
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Claro que, uma vez estabelecidos esses elementos iniciais, os tecidos
@@ -335,7 +339,7 @@ eventualmente das reformas nos traçados viários impostas pelo poder
 público. O resultado desse processo é a forma urbana caracteristicamente
 vernacular [Acerca do tecido vernacular das Lajes do Pico, ver
 @diez:2023documentacao] que assumem as cidades multisseculares, mesmo
-aquelas originalmente planejadas ([@fig:picoD]).
+aquelas originalmente planejadas.
 
 <!--![Crescimentos urbanos no paradigma eurasiático](media/euro-cresce.png){#fig:euro-cresce}-->
 
@@ -344,7 +348,7 @@ italiano da tipologia processual concebido no pós-guerra por
 @muratori:1967civilta e refinado por @caniggia:2008lettura, cada
 categoria de elementos é também ela própria hierarquizada internamente.
 Esse sistema de hierarquias faz com que o crescimento das cidades no
-paradigma eurasiático tenha dois movimentos complementares: a expansão
+paradigma eurasiático tenha três movimentos complementares: a expansão
 urbana linear ao longo dos traçados viários estruturantes, com a
 formação de arrabaldes, a expansão radioconcêntrica com formação de
 cinturas marginais [@panerai:2006analise], e o adensamento por
@@ -377,11 +381,10 @@ identificação daqueles elementos, processos e "conceitos centrais"
 [@conzen:2018core] característicos do paradigma eurasiático. As
 "comparações interculturais distantes" pensadas por @conzen:2018notes
 [60], de fato, se restringem ao eixo eurasiático --- Noroeste da Europa,
-China e Japão [Ver também @whitehand:2006research30 e, no contexto
-luso-brasileiro, @oliveira:2018diferentes].
+China e Japão[^4].
 
 Para além dessas margens, porém, vigoram outros paradigmas urbanísticos
-que se não definem pela mesma hierarquia de elementos nem pelos mesmos
+que não se definem pela mesma hierarquia de elementos nem pelos mesmos
 processos de crescimento. Reconhecer a existência de tais paradigmas é,
 todavia, um desafio intelectual tanto perante as categorias conceituais
 oriundas do colonialismo que até recentemente permeavam a nomenclatura
@@ -431,13 +434,13 @@ oriunda da influência de mercadores chineses e indianos.
 
 Desde a década de 1980, porém, @winters:1983classification10 identificou
 ao menos dois paradigmas urbanísticos
-africanos dominantes: o da cidade mercante no Sael, Sudão e costa
+genuinamente africanos: o da cidade mercante no Sael, Sudão e costa
 Suaíli, e o da metrópole político-religiosa na região do golfo da Guiné.
 A originalidade da configuração urbana suaíli na costa do oceano Índico,
 distinta tanto dos paradigmas vigentes no interior do continente quanto
 da cidade árabe--islâmica, já havia sido notada no
 trabalho pioneiro de @ghaidan:1974lamu uma década antes e vem sendo cada
-vez mais evidenciada pela arqueologia recente. A esses deve
+vez mais evidenciada pela arqueologia recente. A esses paradigmas deve
 ser ainda acrescentado o padrão do *kraal* zulu, uma tipologia de aldeia
 circular com curral no centro, incluindo seus antecedentes em toda a
 África meridional, como os conjuntos monumentais de Mapungubwe e
@@ -469,7 +472,7 @@ mercados públicos que suplantam as atividades mercantis
 descentralizadas. A análise morfológica permite, como mostra
 @baumanova:2022transitory14, discernir os vestígios dessa transformação
 funcional na forma física dos lugares e, assim, verificar por meio do
-respaldo arqueológico a validade de interpretações etnográfica.
+respaldo arqueológico a validade de interpretações etnográficas.
 
 Por fim, fazendo uma analogia dessa sucessão contínua com um filme, cada
 instantâneo do processo tipológico pode ser lido como um organismo
@@ -487,7 +490,7 @@ A abordagem tipo-morfológica já foi extensamente aplicada nos circuitos
 mediterrâneo [@costa:2015arquitetura] e árabe islâmico
 [@petruccioli:1998typological]. No entanto, no contexto das culturas
 urbanas na orla do oceano Índico, o seu emprego ainda é incipiente e
-enviesado para o estudo da influência colonial (omani ou europeia) ou
+enviesado para o estudo da influência colonial (omani ou europeia) e
 cultural (indiana ou chinesa), bem
 como das casas, em detrimento das cidades pré-coloniais no seu conjunto.
 
@@ -510,7 +513,7 @@ o comércio internacional formou pela primeira vez um "sistema mundo"
 altamente integrado com a maior parte da Ásia, África e Europa.
 
 O centro desse sistema estava na navegação no oceano Índico
-([ver @fig:indico-redes]), em três circuitos originalmente descritos por
+(ver [@fig:indico-redes]), em três circuitos originalmente descritos por
 @chaudhuri:1985trade. A bacia do Mediterrâneo e mesmo a China
 ocupavam uma posição periférica nesse sistema, controlado por mercadores
 muçulmanos. Cada circuito correspondia, primariamente, a um calendário
@@ -535,14 +538,14 @@ tinham desde o século VIII na circulação de mercadorias e pessoas entre
 a região dos grandes lagos na África, a península Arábica e a Índia.
 
 No extremo oriental dos circuitos do oceano Índico, as cidades malaias
-controlavam os estreitos por onde passava, e passa até hoje, a maior
+controlavam os estreitos por onde passa ainda hoje a maior
 parte da carga marítima proveniente da China. As especiarias
-provenientes do próprio arquipélago Malaio foram ou outro fator que
+provenientes do próprio arquipélago Malaio foram outro fator que
 promoveu a ascensão de impérios mercantes como Serivijaia ou Majapait. O
-mundo malaio se não limitava, porém, ao arquipélago, uma vez que esses
-adeptos navegantes povoaram também Madagáscar e as ilhas Comoros. Na
+mundo malaio não se limitava, porém, ao arquipélago, uma vez que esses
+hábeis navegantes povoaram também Madagáscar e as ilhas Comoros. Na
 costa noroeste de Madagáscar e em Comoros, desenvolveu-se então uma
-cultura étnica e economicamente sincrética malaio-suaíli
+cultura etnicamente miscigenada e economicamente sincrética malaio--suaíli
 [@costa:2011enxada]. No entanto, o estudo arqueológico da urbanização
 pré-colonial nessas ilhas ainda é muito incipiente para ser investigado
 neste artigo.
@@ -564,7 +567,8 @@ continuavam sendo os caminhos mais trilhados (ver [@fig:indico-redes]).
 No entanto, com a desagregação dos grandes impérios turco-mongóis na
 segunda metade do século, a rota terrestre deixou de oferecer segurança
 e os percursos marítimos ganharam preeminência. Os mercadores muçulmanos
-escoavam produtos sobretudo de leste para oeste, ouro e prata fluíam no
+escoavam produtos sobretudo de leste para oeste,
+enquanto matérias-primas, escravizados e metais fluíam no
 sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
 China, tapeçarias da Ásia central chegavam à costa leste da África e ao
 Mediterrâneo.
@@ -583,9 +587,10 @@ urbanísticos. Por isso, essas cidades divergiam significativamente
 quanto à sua forma, densidade e processo de crescimento.
 
 As cambiantes condições climáticas e políticas na Ásia da segunda metade
-do século XIV, no entanto, causaram a desagregação dos três circuitos
-econômicos do oceano Índico entre si. Embora a navegação de longo curso
-tenha continuado a prosperar, @abu-lughod:1991european teorizou que o
+do século XIV, no entanto, causaram a desagregação entre si dos
+três circuitos econômicos do oceano Índico.
+Embora a navegação de longo curso tenha continuado a prosperar,
+@abu-lughod:1991european teorizou que o
 *status* dependente da economia nas cidades malaias, com respeito aos
 centros produtores de mercadorias na China e na Índia, foi um fator de
 instabilidade política. Isso ajuda a explicar a relativa brevidade nos
@@ -614,11 +619,20 @@ XV, a resiliência das demais é excepcional tendo em vista que a regra na
 África subsaariana tradicional sempre foi, segundo
 @laviolette:2005archaeology, a relativa efemeridade das povoações.
 
+![Interior da mesquita de Quíloa Quisiuane, século XIV,
+  mostrando arcos e abóbadas de influência persa sobre uma
+  estrutura portante suaíli autóctone em coral argamassado.<br />
+  Foto: [David Stanley, 2017][]
+  ](media/kilwa-stanley.jpg){#fig:kilwa-stanley}
+
+[David Stanley, 2017]: https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg
+
 As culturas islâmicas tiveram um papel ativo no ciclo de ascensão e
 declínio das cidades mercantes do oceano Índico. Na sua margem
-ocidental, a islamização das elites suaíli acompanhou de perto a sua
-ascensão como parceiros comerciais privilegiados dos navegantes persas e
-árabes. De igual modo, segundo @fleisher:2012finding29, a imposição da
+ocidental, a islamização das elites suaíli acompanhou de perto o seu
+crescimento como parceiros comerciais privilegiados dos navegantes persas e
+árabes ([@fig:kilwa-stanley]).
+De igual modo, segundo @fleisher:2012finding29, a imposição da
 religião islâmica parece ter sido um instrumento de demarcação da
 crescente estratificação social nas cidades suaíli. Já na margem
 oriental do oceano Índico, a fragilidade político-econômica dos empórios
@@ -661,7 +675,7 @@ asiático se destacaram pela sua diversidade étnica e religiosa.
 Sucedendo ao império Serivijaia baseado em Palimbão, na ilha de Sumatra,
 o império hindu-budista de Majapait com a sua capital Trowulan
 na ilha de Java, e o sultanato muçulmano de Malaca na península Malaia
-([ver @fig:indico-redes]),
+(ver [@fig:indico-redes]),
 controlaram cada um a seu tempo o comércio marítimo de
 especiarias e as exportações chinesas para o Ocidente. Assim, Trowulan e
 Malaca se tornaram centros de poder econômico e político muito prósperos.
@@ -697,11 +711,11 @@ mercantes se formaram pelo adensamento gradual de vários *kampung* ao
 longo de caminhos estruturantes e à volta de templos e palácios
 fortificados.
 
-*Kampung* significa "povoado" em malaio e indonésio, talvez derivado,
-segundo @widodo:2009morphogenesis [81], da designação de "uma área
-próxima a um embarcadouro fluvial e a caminho do povoado". Na historiografia
-urbana, esse termo é correntemente empregado para designar
-qualquer unidade elementar do processo de urbanização
+A palavra *kampung* significa "povoado" em malaio e indonésio,
+talvez derivado, segundo @widodo:2009morphogenesis [81], da designação
+de "uma área próxima a um embarcadouro fluvial e a caminho do povoado".
+Na historiografia urbana, esse termo é correntemente empregado para
+designar qualquer unidade elementar do processo de urbanização
 em partes do Sudeste asiático e no arquipélago
 Malaio [@samsudin:2020adaptation447]. A configuração típica do *kampung*
 vem desde as origens da agricultura no Sudeste asiático
@@ -709,14 +723,17 @@ vem desde as origens da agricultura no Sudeste asiático
 estruturante ou de um ponto focal importante, como um local de culto, a
 casa de um núcleo familiar dominante, ou um edifício comunitário civil.
 
-![*Kampung* organizado em torno de uma antiga igreja (com cobertura em cobre e campanário), em meio a um arrozal em terraços, em Batad, Banaue, Filipinas. Foto: [CEphoto, Uwe Aranas, 2008][]](media/banaue.jpg){#fig:arrozal}
+![*Kampung* organizado em torno de uma antiga igreja
+  (com cobertura em cobre e campanário),
+  em meio a um arrozal em terraços, em Batad, Banaue, Filipinas.<br />
+  Foto: [CEphoto, Uwe Aranas, 2008][]](media/banaue.jpg){#fig:arrozal}
 
 [CEphoto, Uwe Aranas, 2008]: https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg
 
 O *kampung* era muito diferente do paradigma urbanístico eurasiático.
 Este último, como já foi visto, se
 caracterizava por grandes cidades com um sistema cartorial de
-propriedade pessoal do solo e uma distinção nítida entre espaço público
+propriedade individual do solo e uma distinção nítida entre espaço público
 e espaço privado, sem classificações intermediárias. Já o *kampung*
 resultava diretamente da ocupação de um espaço agrário num grupo
 comunitário e da sucessão familiar sem
@@ -731,7 +748,7 @@ Essa diferença ficava patente pela proximidade física entre os dois
 paradigmas urbanísticos desde o século XII, com a migração dos primeiros
 comerciantes chineses para o Sudeste asiático, e mais ainda entre os
 séculos XIX e XX, quando os colonizadores europeus segregaram as cidades
-africanas e malaias em bairros ocidentais, asiáticos e nativos
+africanas e malaias em bairros ocidentais, sino-indianos e nativos
 [@widodo:2009morphogenesis; sobre o mesmo processo imposto à África
 colonial, ver também @nnaemeka:2008racialization123].
 
@@ -765,31 +782,70 @@ Além disso, @evers:1977culture6 mostrou que as divisas
 geométricas entre glebas do *kampung* eram pouco importantes, em
 comparação com o uso dos espaços e dos recursos tangíveis. O critério
 mais relevante de organização do espaço era as redes de parentesco, que
-determinavam a localização de casas principais e secundárias e o acesso a
-hortas e plantações ([@fig:kampungA]).
+determinavam a localização de casas principais e secundárias e o acesso
+a hortas e plantações.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kampung}
-![implantação inicial em torno de um edifício comunitário e espaço aberto, em meio a arrozais](media/kampung-0.png){#fig:kampungA width="48%"}
-![crescimento da comunidade com construção de mais casas gravitando em torno do edifício dominante](media/kampung-1.png){#fig:kampungB width="48%"}
-![o crescimento atinge a divisa do *kampung* com as glebas vizinhas ou com acidentes geográficos](media/kampung-2.png){#fig:kampungC width="48%"}
-![após ocupar todo o perímetro, o crescimento continua por meio do adensamento do interior da gleba](media/kampung-3.png){#fig:kampungD width="48%"}
+Um exemplo do processo completo de desenvolvimento do *kampung*
+se encontra no centro histórico de Pontianak, uma antiga cidade real
+na costa oeste da ilha de Bornéu, na atual Indonésia.
+O assentamento de Pontianak se desenvolveu no início do século XVIII
+como um porto comercial próxima à foz do rio Kapuas.
+O núcleo histórico da cidade ocupa a cunha
+na confluência dos rios Kapuas e Landak (@fig:pontianak),
+e é constituído por dois *kampung* e pelo complexo palaciano (*istana*)
+construído no último terço do século,
+além de um terceiro *kampung* na margem esquerda do
+rio Kapuas, não mostrado na figura [@gunawan:2022typology2].
+O terreno é plano e inundável, e só pôde ser ocupado graças à criação
+de uma extensa rede de canais para drenar o solo e da construção
+de edificações sobre palafitas, principalmente junto às margens.
 
-Esquema do processo de urbanização de um *kampung*. Desenho do autor
+Cada um desses trechos do centro histórico apresenta um processo de
+crescimento e adensamento peculiar, ilustrando no seu conjunto
+as dinâmicas urbanísticas do paradigma urbanístico do *kampung*.
+Os mapas abaixo ilustram uma hipótese de desenvolvimento do
+núcleo urbano em fases lógicas sucessivas.
+Na prática, as diferentes fases podem ocorrer simultaneamente,
+mas são aqui separadas para maior clareza explicativa.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:pontianak}
+![implantação inicial com aglomerados em torno de pontos focais](media/pontianak-0.pdf){#fig:pontianak0 width="8cm" height="8cm"}
+![crescimento linear ao longo de caminhos e da orla fluvial](media/pontianak-1.pdf){#fig:pontianak1 width="8cm" height="8cm"}
+![preenchimento de áreas centrais](media/pontianak-2.pdf){#fig:pontianak2 width="8cm" height="8cm"}
+![ocupação dos perímetros](media/pontianak-3.pdf){#fig:pontianak3 width="8cm" height="8cm"}
+![adensamento até a situação atual](media/pontianak-4.pdf){#fig:pontianak4 width="8cm" height="8cm"}
+
+Desenvolvimento urbano no núcleo histórico de Pontianak desde o
+séc. XVIII até a atualidade.  
+Fonte: hipótese e desenho do autor com base em trabalhos de
+Gunawan *et al.*, Kassim *et al.*, Zain e Dewi
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Dada as condições e a demanda para tanto, o *kampung* como um todo podia
-se adensar até virar um distrito urbano compacto. O processo para tanto
-envolvia dois movimentos complementares, aqui ilustrados sucessivamente,
-mas que podiam ocorrer simultaneamente. O primeiro movimento consistia
-em continuar agregando novas casas que gravitavam em torno da edificação
-dominante, estendendo e ao mesmo tempo adensando a mancha construída do
-*kampung* ([@fig:kampungB]). O segundo movimento dependia de haver
-atrativos socioeconômicos nos limites do *kampung*: estradas troncais,
-portos, mercados, pontes sobre rios, e assim por diante. Nesse caso,
-desenvolvia-se uma ocupação linear até preencher a extensão limítrofe
-entre o *kampung* e esse atrativo ([@fig:kampungC]). Em casos de grande
-complementaridade entre essas duas dinâmicas, poderia ocorrer um
-adensamento quase completo do *kampung* todo ([@fig:kampungD]).
+Os *kampung*, incluindo o *istana* (complexo palaciano) e o *medan*
+(praça do mercado com a mesquita maior), se formam a partir da
+agregação de moradas em torno de um ponto focal ou de um
+eixo estruturante, que pode ser um caminho ou a orla do rio
+(@fig:pontianak0).
+Os caminhos de maior interesse, que podem se situar nos limites entre
+diferentes *kampung* ou no interior destes, passam então a atrair
+o crescimento linear da área urbanizada (@fig:pontianak1).
+A orientação mais frequente das edificações e das ruas tira proveito
+da direção dos ventos dominantes, que na região sopram de nordeste
+e sudoeste [@kassim:2019tropicalized18].
+Entretanto, o conjunto urbano continua a se desenvolver com o
+preenchimento gradual das áreas livres dentro de cada *kampung* e
+a intensificação dos corredores principais de circulação
+(@fig:pontianak2).
+A situação privilegiada de Pontianak enquanto
+centro comercial e político, dotado de relativa autonomia mesmo durante
+o período colonial neerlandês, fomentou um adensamento ainda maior
+ao longo do século XIX (@fig:pontianak3).
+Nessa época, os perímetros dos *kampung*, do *medan* e da
+esplanada central do *istana*, bem como caminhos secundários,
+foram sendo ocupados com intensidade crescente.
+O ímpeto de urbanização na segunda metade do século XX, que
+multiplicou por dez a população da cidade,
+completou o processo de adensamento da mancha urbana (@fig:pontianak4).
 
 Em qualquer caso, os limites práticos para o adensamento de um *kampung*
 tradicional eram as considerações bioclimáticas, algo que o urbanismo
@@ -797,6 +853,22 @@ colonial levou em consideração apenas parcialmente. A boa ventilação e
 abundância de áreas verdes tem sido uma característica resgatada pela
 pesquisa urbanística malaia atual, como no trabalho de
 @kassim:2019tropicalized18.
+Em Pontianak, a paisagem urbana na primeira metade do século XX
+evidencia a adequação do processo de adensamento urbano à necessidade
+de farta ventilação cruzada que caracteriza o clima equatorial.
+A fotografia de uma rua no *kampung* Beting (@fig:pontianak-honda)
+mostra uma rua comercial completamente adensada, porém com
+edificações baixas que não geram ilhas de calor ou de umidade,
+afastamentos laterais frequentes e amplas áreas livres e arborizadas.
+As galerias cobertas sobre a calçada, guarnecidas com toldos leves,
+protegem do sol e da chuva sem impedir a ventilação cruzada.
+
+![Vista de uma rua comercial no bairro chinês de Pontianak, Bornéu.  
+  Foto: M. Honda, ca. 1930--34. Coleção de imagens do Sudeste asiático
+  e do Caribe, [KITLV, Bibliotecas da Universidade de Leiden]
+  ](media/Vermoedelijk_straatbeeld_van_Pontianak_KITLV_1404034.jpg){#fig:pontianak-honda}
+
+[KITLV, Bibliotecas da Universidade de Leiden]: http://hdl.handle.net/1887.1/item:853410
 
 Esse processo continua na urbanização
 contemporânea e tem sido um fator de manutenção ou recuperação da
@@ -808,7 +880,7 @@ sobre o arcabouço jurídico herdado do período colonial, que substituiu a
 propriedade comunitária do espaço pelo parcelamento individualizado do
 solo.
 
-## O *kampung* real de Majapait a Malaca ##
+## O *kampung* régio ##
 
 Partindo do *kampung* como unidade social e urbanística de base, os
 estados malaios organizaram o território em redes de poder político e
@@ -837,7 +909,7 @@ era o *kota raja*, ou cidadela real [@tajudeen:2005reading8, 5].
 O *kota raja* funcionava ele próprio como um *kampung* centrado no palácio
 e na sua mesquita.
 
-![Reconstituição de Malaca ca. 1500, hipótese do autor com base em Tajudeen, Kassim e Kamaruddin. Fonte: desenho do autor](media/malaca.png){#fig:melaka}
+![Reconstituição de Malaca ca. 1500, hipótese do autor com base em Tajudeen, Kassim e Kamaruddin. Fonte: desenho do autor](media/malaca.pdf){#fig:melaka width="12cm" height="12cm"}
 
 Malaca é um exemplar paradigmático do *kota raja*
 com sua cidade mercante ao redor, tal como reconstituído por
@@ -858,7 +930,10 @@ construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
 os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
 outra margem do rio.
 
-![Planta das fortificações holandesas em Malaca, no sítio do antigo forte português e anterior cidadela real malaia, Norte à esquerda. Fonte: [desenho holandês de 1656][]](media/fort.jpg){#fig:fortr-malacca}
+![Planta das fortificações holandesas em Malaca,
+  no sítio do antigo forte português e anterior cidadela real malaia,
+  Norte à esquerda.  
+  Fonte: [desenho holandês de 1656][]](media/AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg){#fig:fortr-malacca}
 
 [Desenho holandês de 1656]: https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
 
@@ -969,20 +1044,24 @@ Trata-se, portanto, de uma forma de ocupação do espaço onde um conjunto
 de moradias subsidiárias gravitava em torno de uma casa dominante. Essa
 casa dominante era inicialmente implantada junto a um amplo espaço
 livre, sem parcelamento do solo nem demarcação de traçado viário
-([@fig:mtaaA]). Com o tempo, a família dominante crescia e agregava em
+([@fig:mtaaA; @fig:mtaaB]).
+Com o tempo, a família dominante crescia e agregava em
 torno de si uma clientela dependente dela. Com isso, novas casas iam
 sendo construídas, ocupando o espaço aberto e formando um perímetro em
 torno dele. O adensamento do *mtaa* se dava então pelo preenchimento
 gradual dos interstícios livres entre as construções existentes
-([@fig:mtaaB; @fig:mtaaC]).
+([@fig:mtaaC; @fig:mtaaD]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:mtaa}
-![](media/mtaa-0.png){#fig:mtaaA width="49%"}
-![](media/mtaa-2.png){#fig:mtaaB width="49%"}
-![](media/mtaa-3.png){#fig:mtaaC width="49%"}
-![](media/mtaa-4.png){#fig:mtaaD width="49%"}
+![](media/mtaa-0.pdf){#fig:mtaaA width="32%"}
+![](media/mtaa-1.pdf){#fig:mtaaB width="32%"}
+![](media/mtaa-2.pdf){#fig:mtaaC width="32%"}
+![](media/mtaa-3.pdf){#fig:mtaaD width="32%"}
+![](media/mtaa-4.pdf){#fig:mtaaE width="32%"}
 
-Diagrama da formação e adensamento de um *mtaa*. Fonte: desenho do autor
+Diagrama da formação e adensamento de um *mtaa*.  
+Fonte: hipótese e desenho do autor com base em análise do
+quarteirão a oeste do forte de Lamu.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Entretanto, esse espaço aberto não era apenas uma área residual e
@@ -992,7 +1071,7 @@ esses espaços eram usados para múltiplas atividades, incluindo comércio
 de varejo, hortas e pomares, e celebrações comunitárias
 [@wynne-jones:2013public32]. Na sua forma final, o espaço aberto
 restante ficava quase inteiramente encerrado entre as casas
-([@fig:mtaaD]). Assim, ficava garantida uma maior privacidade para as
+([@fig:mtaaE]). Assim, ficava garantida uma maior privacidade para as
 casas lindeiras, porém ao custo de resultar numa paisagem dominada pela
 vida doméstica.
 O espaço das atividades comunitárias e econômicas ficava,
@@ -1000,12 +1079,24 @@ assim, bastante reduzido.
 
 O *mtaa* terminava por ter uma configuração introvertida, onde as
 frentes das casas estavam, segundo @steyn:2001analysis16,
-preferencialmente orientadas para uma praça de dimensões mínimas. Essa
-praça era discretamente acessível por ruelas que garantiam o afastamento
-entre as edificações, de modo a permitir a ventilação cruzada. Como mostra
-@steyn:2001analysis16, essa configuração preservava uma boa ventilação
+preferencialmente orientadas para uma praça de dimensões mínimas.
+Um exemplo de praça é a que confronta a casa do mercador e potentado
+de finais do século XIX, Tippu Tip, em Zanzibar (@fig:tippu).
+Essa praça é discretamente acessível por ruelas que garantem
+o afastamento entre as edificações,
+de modo a permitir a ventilação cruzada.
+Como mostra @steyn:2001analysis16,
+essa configuração preservava uma boa ventilação
 entre as casas, necessária no clima extremamente úmido da costa
-equatorial do oceano Índico.
+equatorial do oceano Índico, embora em Zanzibar a influência árabe
+tenha exagerado a reclusão desse espaço em detrimento da
+qualidade da ventilação.
+
+![Casa de Tippu Tip, Zanzibar.  
+  Foto: [Hebron Geofrey, 2021]
+  ](media/Tippu_Tipp_House_2.jpg){#fig:tippu}
+
+[Hebron Geofrey, 2021]: https://commons.wikimedia.org/wiki/File:Tippu_Tipp_House_2.jpg
 
 A configuração dos *mitaa* decorre, portanto, de relações familiares e
 clientelistas formalizadas e, segundo @fleisher:2012finding29,
@@ -1035,13 +1126,17 @@ todo, essa hierarquia não era tão clara. Até onde se pode discernir a
 partir do registro arqueológico e da morfologia urbana, coexistiram dois
 tipos de configurações urbanas na costa Suaíli.
 
-![Diagrama ideal de uma cidade suaíli de configuração concêntrica. Fonte: desenho do autor com base nos levantamentos arqueológicos de Shanga e Takwa em @fleisher:2012finding29](media/swahili-concentrica.png){#fig:swahili-concentrica}
+![Diagrama ideal de uma cidade suaíli de configuração concêntrica.  
+  Fonte: desenho do autor com base nos levantamentos arqueológicos
+  de Shanga e Takwa em por Fleisher e Wynne-Jones
+  ](media/swahili-concentrica.pdf){#fig:swahili-concentrica width="16cm" height="14cm"}
 
 O primeiro tipo tinha uma configuração concêntrica e compacta
 ([@fig:swahili-concentrica]). Ele pode ser discernido em cidades que
 estavam em formação por volta do século IX e que foram abandonadas entre
 os séculos XV e XVII, como Shanga, Gedi, Quíloa Quisiuane ou Songo
-Mnara. O espaço urbano nessas cidades era organizado a partir de duas
+Mnara [@fleisher:2012finding29].
+O espaço urbano nessas cidades era organizado a partir de duas
 cercas mais ou menos concêntricas. No interior da cerca interna ficava
 uma mesquita maior que a média e um grande espaço aberto com sepulturas
 monumentais. A distância de cada *mtaa* com respeito a esse centro era,
@@ -1061,7 +1156,10 @@ macuti", onde *macuti* designa em quissuaíli a cobertura com choça de
 palmeira. As casas de macuti em geral têm estrutura em adobe ou
 pau-a-pique.
 
-![Configuração bipartida de uma cidade suaíli: centro histórico de Lamu. Fonte: desenho do autor com base no dossiê do Comitê do Patrimônio Mundial](media/lamu-town.png){#fig:lamu}
+![Configuração bipartida de uma cidade suaíli:
+  centro histórico de Lamu.  
+  Fonte: desenho do autor com base no dossiê do
+  Comitê do Patrimônio Mundial](media/lamu-town.pdf){#fig:lamu width="10.5cm" height="6.5cm"}
 
 As cidades bipartidas permanecem em geral habitadas até hoje, como Lamu,
 Zanzibar ou a ilha de
@@ -1074,9 +1172,9 @@ Em vez de um gradiente de proximidade ao poder,
 como nas cidade concêntricas, as cidades bipartidas manifestam
 na sua configuração apenas essa dicotomia de condições sociais.
 
-Contrariamente ao contexto malaio, portanto, na costa Suaíle os sistemas
+Contrariamente ao contexto malaio, portanto, na costa Suaíli os sistemas
 construtivos desempenhavam um papel importante na demarcação da
-estratificação social. <!--Elaborar?-->
+estratificação social.
 
 # Epílogo #
 
@@ -1093,7 +1191,7 @@ jurídico e nos processos político-econômicos de urbanização e construção
 na costa Suaíli e no arquipélago Malaio.
 
 A profundidade do legado urbanístico colonial nas cidades às margens do
-oceano Índico justifica em parte que grande parte da bibliografia sobre
+oceano Índico ajuda a explicar por que grande parte da bibliografia sobre
 essas regiões se concentre nos problemas da urbanização contemporânea
 decorrente desse legado. Grande parte do marco jurídico que disciplina o
 desenvolvimento urbano atual nos países oriundos da colonização europeia foi
@@ -1139,8 +1237,8 @@ No caso das cidades mercantes da costa Suaíli, os elementos geradores do
 tecido urbano mais central eram os *mitaa*, bairros cujo processo de
 crescimento tinha algumas semelhanças com o dos *kampung*. Em ambos os
 casos, a urbanização partia de uma edificação importante, que no caso do
-*mtaa* era a casa de uma família de elite. No entanto, o paradigma do
-*mtaa* se distingue daquele do *kampung* devido ao caráter
+*mtaa* era a casa de uma família de elite. No entanto, este paradigma
+se distingue daquele do *kampung* devido ao caráter
 necessariamente urbano do *mtaa*, por oposição à origem rural do
 *kampung*, o que implicava também uma diferença nas dimensões absolutas
 e no grau de adensamento possível em cada paradigma. A ventilação
@@ -1155,7 +1253,7 @@ conservação do seu núcleo histórico. Zanzibar pôde manter algum
 protagonismo político-econômico, mas sofreu um processo semelhante ao de
 outras cidades coloniais do século XX: os bairros europeus se afastaram
 do centro histórico, isolando-o e justapondo formas urbanas
-intencionalmente diferentes como modo de afirmar a superioridade do
+intencionalmente diferentes como modo de afirmar a pretensa superioridade do
 desenho urbano europeu. Este mesmo processo foi posto em prática também
 nas cidades coloniais do arquipélago Malaio.
 Após a independência, o urbanismo modernista de
@@ -1190,3 +1288,10 @@ prefere o termo "pequenos estados". No caso das cidades do arquipélago
 Malaio, há cidades que dominam vastos "impérios" comerciais marítimos
 mas que não estendem seu controle administrativo à sua hinterlândia
 agrária, como afirmam @ibrahim:2020patterns13.
+
+[^3]: Ver @whitehand:2009conzen33.
+      O exemplar canônico de um método analítico para
+      esse paradigma se encontra em @conzen:2022alnwick.
+
+[^4]: Ver também @whitehand:2006research30 e, no contexto
+      luso-brasileiro, @oliveira:2018diferentes
