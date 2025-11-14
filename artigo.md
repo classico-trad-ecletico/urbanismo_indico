@@ -88,9 +88,11 @@ chineses e, sobretudo, europeus.
   Fonte: desenho do autor com base em K.N. Chaudhuri, Janet Abu-Lughod e Stéphane Pradines
   ](media/circuitos.pdf){#fig:indico-redes width="12cm" height="12cm"}
 
-Hoje pesquisada em seus próprios termos, a forma das cidades
+Hoje pesquisada em seus próprios termos e sobretudo no domínio da 
+arqueologia, a forma das cidades
 tradicionais suaíli e malaias ainda é pouco representada, contudo, em
-abordagens comparativas e globais.
+abordagens comparativas e globais nos campos da história e da história 
+da arquitetura.
 Os paradigmas urbanísticos de tradição malaia e suaíli apresentam
 algumas características em comum entre si,
 que justificam serem abordados conjuntamente neste artigo, para além
@@ -155,15 +157,16 @@ da Idade Moderna, e talvez continue a sê-lo até hoje do ponto de vista
 da navegação mercante. Mesmo as regiões de menor influência portuguesa,
 como o arquipélago Malaio (exceção feita à breve ocupação de Malaca),
 podem enriquecer a imagem de um mundo interconectado e não centrado na
-Europa ocidental ou nos horizonte estreitos da história política do
-Brasil.
+Europa ocidental ou na história política e demográfica do Brasil.
 
 Um dos obstáculos à maior integração do universo suaíli e malaio na
 história urbana pré-colonial é de ordem conceitual. Tanto a história
 social das cidades quanto a morfologia urbana são dominadas,
 segundo @laviolette:2005archaeology, por uma
-definição do processo de urbanização calcada nas cidades do eixo
-eurasiático, da Europa ocidental passando pela bacia do Mediterrâneo,
+definição do processo de urbanização calcada nas cidades preindustriais 
+do eixo eurasiático.
+Esse eixo corresponde aos territórios que vão da
+Europa ocidental passando pela bacia do Mediterrâneo,
 Oriente Médio, Ásia central, Norte da Índia e até a esfera cultural
 chinesa. As culturas urbanas nas margens do oceano Índico são, todavia,
 de naturezas bem diferentes desse modelo canônico eurasiático, tanto do
@@ -248,7 +251,7 @@ Por maior que seja o contraste entre
 culturas, quem vê uma cidade imediatamente a reconhece enquanto tal.
 Os relatos de viajantes europeus e chineses, por exemplo, mostram que
 o reconhecimento do caráter urbano das cidades africanas e do Sudeste
-asiático *nunca* dependera, antes da era do neocolonialismo,
+asiático nunca dependera, antes da era do neocolonialismo,
 de elas atenderem a alguma definição etnocêntrica *a priori*,
 nem de se criar uma nova definição que seja suficientemente inclusiva.
 Foi o caso para o embaixador chinês Zhou Daguan no Camboja em finais do
@@ -323,9 +326,11 @@ somente de posse de um lote que o proprietário fundiário eurasiático
 pode, então, começar a construir uma edificação ([@fig:picoC]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:pico}
-![Malha viária ideal](media/pico-malha.pdf){#fig:picoA width="12cm" height="7.5cm"}
-![Parcelamento do solo inicial em lotes de 25 e 50 palmos de testada](media/pico-lotes.pdf){#fig:picoB width="12cm" height="7.5cm"}
-![Tecido construído existente](media/pico-edificado.pdf){#fig:picoC width="12cm" height="7.5cm"}
+![Malha viária ideal](media/pico-malha.pdf){#fig:picoA width="9cm" height="5.625cm"}
+
+![Parcelamento do solo inicial em lotes de 25 e 50 palmos de testada](media/pico-lotes.pdf){#fig:picoB width="9cm" height="5.625cm"}
+
+![Tecido construído existente](media/pico-edificado.pdf){#fig:picoC width="9cm" height="5.625cm"}
 
 Elementos urbanos próprios ao paradigma eurasiático:
 tecido urbano das Lajes do Pico, Açores.  
@@ -338,7 +343,7 @@ por meio da constante reconstrução de edificações, da gradual
 reorganização do parcelamento ao sabor do mercado imobiliário, e
 eventualmente das reformas nos traçados viários impostas pelo poder
 público. O resultado desse processo é a forma urbana caracteristicamente
-vernacular [Acerca do tecido vernacular das Lajes do Pico, ver
+vernácula [Acerca do tecido vernacular das Lajes do Pico, ver
 @diez:2023documentacao] que assumem as cidades multisseculares, mesmo
 aquelas originalmente planejadas.
 
@@ -375,8 +380,8 @@ nas imediações deste império.
 ## Eurocentrismo metodológico ##
 
 Dessa expansão física e cultural *eurasiática* decorre, por sua vez, um
-enquadramento metodológico *eurocêntrico* nos estudos da forma urbana. A
-metodologia atualmente hegemônica nos estudos de morfologia urbana,
+enquadramento metodológico *eurocêntrico* nos estudos da forma urbana.
+A metodologia atualmente hegemônica nos estudos de morfologia urbana,
 consolidada por pesquisadores de formação britânica, se baseia na
 identificação daqueles elementos, processos e "conceitos centrais"
 [@conzen:2018core] característicos do paradigma eurasiático. As
@@ -392,8 +397,8 @@ oriundas do colonialismo que até recentemente permeavam a nomenclatura
 dos núcleos urbanos, quanto por força das práticas metodológicas
 forjadas no estudo da urbanização eurasiática.
 
-A África abriga até hoje uma grande variedade de
-paradigmas urbanísticos, apontados por exemplo por @winters:1983classification10.
+A África abriga até hoje uma grande variedade de paradigmas
+urbanísticos, apontados entre outros por @winters:1983classification10.
 Essa variedade foi reduzida nos séculos XIX e
 XX à categoria unificada de "assentamentos indígenas" por oposição à
 cidade colonial planejada, visando implícita ou explicitamente, como
@@ -450,18 +455,19 @@ existência de um paradigma urbanístico malaio foi estabelecida por
 autores como @evers:1977culture6, @hall:1996ritual52 e refinada por
 @wiryomartono:2012historical17 e @tajudeen:2021carving10, entre outros.
 
-## Metodologia ##
+
+## Tipomorfologia e urbanismo comparado ##
 
 Apesar de tais vieses e amarras conceituais eurocêntricos,
 o uso de *alguma* base metodológica em história urbana
-é indispensável para se definir os paradigmas urbanísticos
+é indispensável para se compreender os paradigmas urbanísticos
 do oceano Índico em seus próprios termos, e não
 como realizações incompletas do paradigma eurasiático.
 Para tanto, a
-abordagem tipo-morfológica processual oferece princípios fundamentais
+abordagem tipomorfológica processual oferece princípios fundamentais
 que permitem transcender o rol de categorias eurasiáticas. Tal como
 definido por @cataldi:1989introduzione [13], a premissa da
-tipo-morfologia é a ocorrência de uma "sucessão espaço-temporal contínua
+tipomorfologia é a ocorrência de uma "sucessão espaço-temporal contínua
 de transformações orgânicas". Essas transformações são orgânicas
 enquanto se der a continuidade de uma série tipológica tradicional.
 
@@ -479,7 +485,7 @@ Por fim, fazendo uma analogia dessa sucessão contínua com um filme, cada
 instantâneo do processo tipológico pode ser lido como um organismo
 íntegro e consistente com o seu paradigma urbanístico, em vez de
 fragmento de um devir histórico em constante contradição consigo mesmo.
-Nisso consiste a diferença central entre a história tipo-morfológica da
+Nisso consiste a diferença central entre a história tipomorfológica da
 urbanização e a história crítica da cidade. Essa coerência sucessiva do
 organismo construído é o que @alexander:2002process [52], embora em
 outro marco teórico, conceituou como "transformações preservando a
@@ -487,7 +493,7 @@ estrutura". A estrutura a que ele se referia era, justamente, a
 coerência formal do conjunto e das suas partes, mesmo quando elas se
 desenvolvem a partir de processos decisórios independentes entre si.
 
-A abordagem tipo-morfológica já foi extensamente aplicada nos circuitos
+A abordagem tipomorfológica já foi extensamente aplicada nos circuitos
 mediterrâneo [@costa:2015arquitetura] e árabe islâmico
 [@petruccioli:1998typological]. No entanto, no contexto das culturas
 urbanas na orla do oceano Índico, o seu emprego ainda é incipiente e
@@ -496,6 +502,46 @@ cultural (indiana ou chinesa), bem
 como das casas, em detrimento das cidades pré-coloniais no seu conjunto.
 
 <!--Arquitetura comparada: o que é como campo analítico e por que fazer?-->
+Aplicar o método tipomorfológico de modo não colonialista ao mundo 
+índico supõe desenvolver uma abordagem comparativa.
+No campo da história da literatura, onde o conceito de comparatística 
+tem sido há mais tempo explicitamente reivindicado,
+seus principais teóricos, tais como @baldensperger:1921litterature1 no 
+início do século XX, defenderam que os estudos comparativos 
+transnacionais formam a espinha dorsal
+da caracterização das literaturas nacionais.
+No entanto, no último quartel do século, @brunel:1983quest-ce [11] 
+define, inspirando-se em Roland Barthes,
+a comparatística mais recente como uma "prática empírica",
+rejeitando o apriorismo idealista e nacionalista dos seus primeiros 
+séculos.
+Por volta da mesma época, o historiador italiano da arquitetura
+@tafuri:1977storico, referindo-se explicitamente à teoria literária,
+define a historiografia como a recusa simultânea das definições 
+normativas e do empirismo irracional.
+
+Na esteira de Tafuri, pensar a comparatística supõe entendê-la como
+campo analítico dentro do universo disciplinar da arquitetura e 
+urbanismo,
+onde a escrita da história tem uma genealogia até mais longa do que
+a História enquanto disciplina autônoma.
+O conceito de crítica na historiografia do ambiente construído não pode 
+ser, portanto, um discurso verbal vazio de conteúdo disciplinar,
+mas sim uma reflexão aplicada, munida de instrumental analítico próprio 
+ao objeto a ser estudado.
+
+Por isso, assumir explicitamente os instrumentos disciplinares de 
+reflexão sobre o ambiente construído, como a morfologia urbana,
+é um passo necessário para estabelecer os termos nos quais a comparação 
+entre paradigmas urbanísticos será levada a efeito.
+O arquiteto chinês Chang Qing define os termos da comparatística como o
+estudo das genealogias (aquilo que, na tipomorfologia de matriz  teórica
+italiana, é conhecido como o processo tipológico)
+resultantes da interação entre condicionantes climáticas e 
+etnolinguísticas [@Chang:2016Wo].
+É essa interação que fornece o recorte geográfico, cronológico e 
+temático intrínseco ao objeto de estudo, e que permite discernir o 
+instrumental do qual se lança mão para compreender esse objeto.
 
 
 # Mundos conectados no século XIV #
@@ -644,6 +690,11 @@ século XIV e a consequente necessidade, por um lado, de as lideranças
 malaias atraírem os parceiros ocidentais [@abu-lughod:1991european], e
 por outro lado, de romperem com o ciclo de conflitos religiosos que
 grassavam em todo o Sudeste asiático entre hinduístas e budistas.
+
+
+## O princípio do urbanismo não compacto ##
+
+<!-- Urbanismo pós compacto -->
 
 
 # Cidades da península e arquipélago Malaio #
@@ -810,11 +861,13 @@ Na prática, as diferentes fases podem ocorrer simultaneamente,
 mas são aqui separadas para maior clareza explicativa.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:pontianak}
-![implantação inicial com aglomerados em torno de pontos focais](media/pontianak-0.pdf){#fig:pontianak0 width="8cm" height="8cm"}
-![crescimento linear ao longo de caminhos e da orla fluvial](media/pontianak-1.pdf){#fig:pontianak1 width="8cm" height="8cm"}
-![preenchimento de áreas centrais](media/pontianak-2.pdf){#fig:pontianak2 width="8cm" height="8cm"}
-![ocupação dos perímetros](media/pontianak-3.pdf){#fig:pontianak3 width="8cm" height="8cm"}
-![adensamento até a situação atual](media/pontianak-4.pdf){#fig:pontianak4 width="8cm" height="8cm"}
+![implantação inicial com aglomerados em torno de pontos focais](media/pontianak-0.pdf){#fig:pontianak0 width="6cm" height="6cm"}
+![crescimento linear ao longo de caminhos e da orla fluvial](media/pontianak-1.pdf){#fig:pontianak1 width="6cm" height="6cm"}
+
+![preenchimento de áreas centrais](media/pontianak-2.pdf){#fig:pontianak2 width="6cm" height="6cm"}
+![ocupação dos perímetros](media/pontianak-3.pdf){#fig:pontianak3 width="6cm" height="6cm"}
+
+![adensamento até a situação atual](media/pontianak-4.pdf){#fig:pontianak4 width="6cm" height="6cm"}
 
 Desenvolvimento urbano no núcleo histórico de Pontianak desde o
 séc. XVIII até a atualidade.  
@@ -910,7 +963,10 @@ era o *kota raja*, ou cidadela real [@tajudeen:2005reading8, 5].
 O *kota raja* funcionava ele próprio como um *kampung* centrado no palácio
 e na sua mesquita.
 
-![Reconstituição de Malaca ca. 1500, hipótese do autor com base em Tajudeen, Kassim e Kamaruddin. Fonte: desenho do autor](media/malaca.pdf){#fig:melaka width="12cm" height="12cm"}
+![Reconstituição de Malaca ca. 1500.  
+  Fonte: hipótese e desenho do autor com base em
+  Tajudeen, Kassim e Kamaruddin
+  ](media/malaca.pdf){#fig:melaka width="12cm" height="12cm"}
 
 Malaca é um exemplar paradigmático do *kota raja*
 com sua cidade mercante ao redor, tal como reconstituído por
@@ -1054,11 +1110,13 @@ gradual dos interstícios livres entre as construções existentes
 ([@fig:mtaaC; @fig:mtaaD]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:mtaa}
-![](media/mtaa-0.pdf){#fig:mtaaA width="32%"}
-![](media/mtaa-1.pdf){#fig:mtaaB width="32%"}
-![](media/mtaa-2.pdf){#fig:mtaaC width="32%"}
-![](media/mtaa-3.pdf){#fig:mtaaD width="32%"}
-![](media/mtaa-4.pdf){#fig:mtaaE width="32%"}
+![](media/mtaa-0.pdf){#fig:mtaaA width="8cm" height="4.5cm"}
+![](media/mtaa-1.pdf){#fig:mtaaB width="8cm" height="4.5cm"}
+
+![](media/mtaa-2.pdf){#fig:mtaaC width="8cm" height="4.5cm"}
+![](media/mtaa-3.pdf){#fig:mtaaD width="8cm" height="4.5cm"}
+
+![](media/mtaa-4.pdf){#fig:mtaaE width="8cm" height="4.5cm"}
 
 Diagrama da formação e adensamento de um *mtaa*.  
 Fonte: hipótese e desenho do autor com base em análise do

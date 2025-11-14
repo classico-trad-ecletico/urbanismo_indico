@@ -267,6 +267,24 @@ references:
   title: 'Imperial sanctuaries: Arab urban enclaves on the East African coast'
   type: chapter
 
+- id: arte:2007
+  author:
+    - family: Kothe
+      given: Flávio R.
+  citation-key: arte:2007
+  event-place: Brasília
+  ISBN: 978-85-230-1176-5
+  issued:
+    - year: 2007
+      month: 11
+      day: 30
+  language: por
+  publisher: Editora Universidade de Brasília
+  publisher-place: Brasília
+  source: Câmara Brasileira do Livro ISBN
+  title: Arte comparada
+  type: book
+
 - id: aste:2020innovative
   abstract: >-
     This open access book explores key issues and presents recent case studies
@@ -437,6 +455,22 @@ references:
   type: article-journal
   URL: http://journal.eahn.org/article/id/8251/
   volume: '9'
+
+- id: baldensperger:1921litterature1
+  archive: Fichário 01
+  author:
+    - family: Baldensperger
+      given: Fernand
+  call-number: 82.09"19"
+  citation-key: baldensperger:1921litterature1
+  container-title: Revue de Littérature Comparée
+  issued:
+    - year: 1921
+  language: fre
+  page: 5–29
+  title: 'Littérature comparée : le mot et la chose'
+  type: article-journal
+  volume: '1'
 
 - id: barke:2018importance
   accessed:
@@ -971,6 +1005,29 @@ references:
   URL: https://www.jstor.org/stable/42927923
   volume: '19'
 
+- id: brunel:1983quest-ce
+  abstract: '172 p. ; 23 cm. --; Bibliography: p. 155-[169]'
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Brunel
+      given: Pierre
+  citation-key: brunel:1983quest-ce
+  event-place: Paris
+  ISBN: 978-2-200-31193-3
+  issued:
+    - year: 1983
+  language: fre
+  number-of-pages: '182'
+  publisher: Armand Colin
+  publisher-place: Paris
+  source: Internet Archive
+  title: Qu'est-ce que la littérature comparée?
+  type: book
+  URL: http://archive.org/details/questcequelalitt0000brun
+
 - id: burton:1872zanzibar1
   abstract: "In the preface, Burton attempts to explain why he has taken so long to publish this material, which dates back for the most part to 1858, and had been rediscovered and returned to him in 1865, but was only appeared in 1872.\_ The reasons he gives do not include what seems most likely, the renewed interest in the Nile and the East African region sparked by the Livingstone Relief expedition.\n\nPREFACE.\n\nI FEEL that the reader will expect some allusion to the circumstances which have delayed, till 1871, the publication of a journal ready to appear in 1860. \nThe following letter will explain the recovery of a long report, forwarded by me in 1857, under an address, very legibly written in ink, upon its cover, to the late Dr Norton Shaw, then Secretary Royal Geographical Society of Great Britain.\n\n'No. 9, of 1865.\n\n'General Department,\n\n\tBombay Castle, 2811 February, 1865.\n\n'To\n\n\tThe Under Secretary of State for India,\n\n\tLondon.\n\nSir,'\n\n'With reference to the packet addressed, as per margin, which was sent to you via Southampton from the Separate Department, by the Overland Mail of the 14th instant,\_ I have the honour to subjoin for your information \tcopy of a note on the subject from the Hon. W. E. Frere, dated the 5th idem.\n\t\n\n'When searching the strong box belonging to the Bombay Branch of the Royal Asiatic Society yesterday I found the accompanying parcel, directed to the Secretary Royal Geographical Society, with a pencil note upon it, requesting that it might be sent to the Secretary of State, Foreign Office. From the signature in the corner, R. F. B., I conclude that it must be the manuscript he sent to Colonel Rigby at Zanzibar, and which, from some statements of Mr. Burton (to which I cannot at present refer, but of which I have a clear recollection), never reached its destination.'[1]\n\n'I have not been able to discover when or how the parcel was received, nor how the Bombay Branch of the Royal Asiatic Society was to send it to the \n\tForeign Office, except through Government. I therefore send it to you, and perhaps you would send it to the Under Secretary at the India House, with the above explanation, and request that it be sent to its direction.'\n\n'I have, &c.,\n\n\t(Signed) C. RAVENSCROFT,\n\n\tActing Chief Secretary to Government.'\n\nIt is not a little curious that, as my first report upon the subject of Zanzibar was diverted from its destination, so the ' Letts' containing my excursions to Sa'adani and to Kilwa also came to temporary grief. Annexed by a skipper on the West African coast, appropriated by his widow, and exposed at a London bookseller's stall (labelled outside, `Burton Original MS. Diary in Africa'), it was accidentally left by the buyer, an English Artillery officer, in the hall of one of H. M. 's Ministers of State. Here being recognized, it was kindly and courteously returned to me. The meteorological observations made by me on the East African seaboard and at other places during the discovery of the Lakes were also, I would remark, mislaid for years, deep hidden in certain pigeonholes at Whitehall Place. May these three accidents be typical of the fate of my East African Expedition, which, so long the victim of uncontrollable circumstance, appears now, after many weary years, likely to emerge from the shadow which overcast it, and to occupy the position which I ever desired to see it conquer.\n\nThe two old documents are published with the less compunction as Zanzibar, though increasing in importance and now the head-quarters of an Admiralty Court and of two Mission-Schools, with a printing-press and other civilized \nappliances, has not of late been worked out. The best authorities are still those who appeared about a quarter of a century ago, always excepting, however, the four magnificent volumes, Baron Carl Clare von der Decken's Reisen in Ost-Afrika, in den Jahren 1859 bis 1861, which I first saw at Jerusalem: there too I had the pleasure of making acquaintance with Dr Otto Kersten, who accompanied the unfortunate traveller during the earlier portion of his peregrinations, and who has so ably and efficiently performed his part as editor. Had a certain publisher carried out his expressed intention of introducing a resume of this fine work in English dress to the British public, I should have saved myself the trouble of writing these volumes: the Reisen, however, in the original form are hardly likely to become popular. Moreover, the long interval of a decade has borne fruit : it has given me time to work out the subject, and, better still, to write with calmness and temper upon a theme of the most temper-trying nature, - chap. xii. vol. II. will explain what is meant. Finally, I have something important to say upon the subject of\_ the so-called Victoria Nyanza Lake.\n\nI had proposed to enrich the Appendix with extracts from Arab and other mediaeval authors, who have treated of Zanzibar, Island and Coast. Such an addition, however, would destroy all proportion between the book and its subject: I have therefore confined myself to notes on commerce and tariffs of prices in 1857 to 1859, to meteorological observations, and to Capt. Smee's coasting voyage, which dates from January, 1811. The latter will supply an excellent birds-eye view of those parts of the Zanzibar mainland which were not visited by the East African Expedition.\n\nRICHARD F. BURTON.\n\nLondon, Oct. 15, 1871.\n\n[1].\_ Mr. Frere's memory is unusually short. I intrusted the \nMS. to the Eurasian apothecary of the Zanzibar Consulate, and I suspected (Lake Regions of Central Africa, vol. i. chap. i.) that it bad come to an untimely end. The white population at Zanzibar had in those days a great horror of publication, and thus is easily explained how a parcel legibly addressed to the Royal Geographical Society had the honour of passing eight years in the strong box of the Bombay Branch of the Royal Asiatic Society."
   accessed:
@@ -1130,6 +1187,61 @@ references:
     1300
   title-short: Trade, ideology, and urbanization
   type: book
+
+- id: Chang:2016Wo
+  abstract: >-
+    In the face of the survival crisis of many terroir buildings and the status
+    quo of choosing to stay, the author believes that the first step in facing
+    the challenge is to find an effective way to understand and classify terroir
+    buildings. Therefore, the terroir building lineage method is proposed to
+    divide the terroir architecture with ethnic and civil languages-language
+    branches (dialects) as the background, and attempts to explore the
+    characteristics and distribution laws of each genealogy from five aspects
+    such as "cluster form", "homeyard type", "architecture characteristics",
+    "decoration skills" and "creation taboos". The text compares the three
+    genealogies of Jiangnan architecture, such as Gan, Hui, and Wu, and traces
+    the origin of the "Style Thunder" family. In the conclusion section, the
+    principles and strategies of specimen preservation and overall regeneration
+    of terroir building lineages in inheritance are discussed.
+  author:
+    - literal: 常青
+  citation-key: Chang:2016Wo
+  container-title: 建筑学报 = Architecture Journal
+  issue: '10'
+  issued:
+    - year: 2016
+  language: chi
+  page: 1–9
+  source: Google Scholar
+  title: >-
+    我国风土建筑的谱系构成及传承前景概观——基于体系化的标本保存与整体再生目标 = Overview of the pedigree composition
+    and inheritance prospects of terroir buildings in China: based on systematic
+    specimen preservation and overall regeneration goals
+  title-short: 我国风土建筑的谱系构成及传承前景概观
+  type: article-journal
+
+- id: chang:vernacular
+  accessed:
+    - year: 2025
+      month: 11
+      day: 14
+  author:
+    - family: Chang
+      given: Qing
+  citation-key: chang:vernacular
+  container-title: Time+Architecture
+  DOI: 10.13717/j.cnki.ta.2013.03.004
+  issue: '3'
+  issued:
+    - year: 2013
+      month: 3
+      day: 15
+  language: chi
+  page: 10-15
+  title: >-
+    The vernacular doctrine and localization: a study on the pedigree of
+    vernacular architecture
+  type: article-journal
 
 - id: chaudhuri:1985trade
   author:
@@ -4517,6 +4629,7 @@ references:
     - year: 2022
       month: 12
       day: 26
+  language: por
   license: https://creativecommons.org/licenses/by/4.0
   page: 139-151
   publisher: Universidad Nacional de Colombia
@@ -7311,6 +7424,21 @@ references:
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S0305440316300814
   volume: '77'
+
+- id: tafuri:1977storico
+  author:
+    - family: Tafuri
+      given: Manfredo
+  citation-key: tafuri:1977storico
+  container-title: Casabella
+  issue: '429'
+  issued:
+    - year: 1977
+  language: ita
+  page: 11-18
+  source: Google Scholar
+  title: Il “progetto” storico
+  type: article-journal
 
 - id: tagliacozzo:2007urban33
   abstract: >-
