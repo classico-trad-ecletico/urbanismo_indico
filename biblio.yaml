@@ -143,9 +143,7 @@ references:
     smallcaps="smallcaps">UNESCO</span>
   publisher-place: Brasília
   source: Open WorldCat
-  title: >-
-    África do século <span style="font-variant: all-small-caps"
-    smallcaps="smallcaps">XIX</span> à década de 1880
+  title: África do século XIX à década de 1880
   translator:
     - family: Chaigne
       given: David Yann
@@ -2451,9 +2449,7 @@ references:
   language: por
   page: 259-297
   source: Crossref
-  title: >-
-    Uma morfologia dos quilombos nas Américas, séculos <span
-    style="font-variant: all-small-caps" smallcaps="smallcaps">XVI-XIX</span>
+  title: Uma morfologia dos quilombos nas Américas, séculos XVI–XIX
   title-short: Uma morfologia dos quilombos nas Américas
   type: article-journal
   URL: >-
@@ -4478,6 +4474,59 @@ references:
   title-short: Cidade pós compacta
   type: book
 
+- id: lassance:2022referencial33
+  abstract: >-
+    Pretende problematizar o referencial de cidade utilizado atualmente pelo
+    ensino de urbanismo e defender uma alternativa que possa ajudar a enfrentar
+    os desafios colocados pelos Objetivos de Desenvolvimento Sustentável (ODS)
+    da ONU, quando aplicados à realidade urbana latino-americana, marcada por
+    forte desigualdade e segregação socioespacial. Para tanto, parte de uma
+    análise crítica de intervenções urbanísticas realizadas na cidade do Rio de
+    Janeiro, traçando um elo com o ensino de urbanismo praticado no curso que
+    constitui ainda hoje importante referência curricular no Brasil. A
+    argumentação em defesa de um paradigma alternativo de cidade para o ensino
+    de urbanismo recorre ainda a resultados de pesquisa anterior baseada na
+    hipótese da pertinência de uma releitura de projetos do urbanismo moderno
+    para lidar com os desafios da cidade contemporânea e a questão da integração
+    de seus componentes infraestruturais. Como resultados dessa análise crítica
+    de paradigmas, destaca diversas questões a respeito da aplicabilidade e até
+    mesmo contradição de alguns ODS. Conclui, então, sobre a urgência de uma
+    revisão dos referenciais de projeto utilizados no ensino de urbanismo ,
+    defendendo a pertinência de uma abordagem mais integrada entre arquitetura,
+    urbanismo, infraestrutura e território que um olhar menos preconceituoso com
+    as lições do urbanismo moderno permitiria construir.
+  accessed:
+    - year: 2025
+      month: 8
+      day: 3
+  author:
+    - family: Lassance
+      given: Guilherme
+    - family: Saboia
+      given: Luciana
+    - family: Capillé
+      given: Cauê
+    - family: Pescatori
+      given: Carolina
+  citation-key: lassance:2022referencial33
+  container-title: Bitácora Urbano Territorial
+  DOI: 10.15446/bitacora.v33n1.104538
+  ISSN: 2027-145X, 0124-7913
+  issue: '1'
+  issued:
+    - year: 2022
+      month: 12
+      day: 26
+  license: https://creativecommons.org/licenses/by/4.0
+  page: 139-151
+  publisher: Universidad Nacional de Colombia
+  source: Crossref
+  title: 'Referencial de cidade e ensino: uma revisão necessária'
+  title-short: Referencial de cidade e ensino
+  type: article-journal
+  URL: https://revistas.unal.edu.co/index.php/bitacora/article/view/104538
+  volume: '33'
+
 - id: laviolette:2005archaeology
   author:
     - family: LaViolette
@@ -5405,9 +5454,7 @@ references:
   language: por
   publisher: Unesco
   publisher-place: Brasília
-  title: >-
-    África do século <span smallcaps="smallcaps">XVI</span> ao <span
-    smallcaps="smallcaps">XVIII</span>
+  title: África do século XVI ao XVIII
   translator:
     - family: Chaigne
       given: David Yann

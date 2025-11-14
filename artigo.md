@@ -1,9 +1,10 @@
 ---
 title       : "Paradigmas urbanísticos do oceano Índico: cidades suaíli e malaias na Idade Moderna"
 #author      : Pedro P. Palazzo
-lang        : pt-BR
+lang        : "pt-BR"
 bibliography: "biblio.yaml"
 csl         : "chicago-notes.csl"
+csquotes    : true
 suppress-bibliography: true
 abstract: |
   Na história global das cidades, as margens do oceano Índico na Idade
@@ -232,7 +233,7 @@ das hipóteses, uma pretensão etnocêntrica.
 
 Evitando os percalços dessas definições, o conceito de paradigma
 circunscreve um universo de práticas e de produtos comuns que se não
-podem reduzir a princípios ou regras absolutas. @ficher:2005paradigmas
+podem reduzir a princípios ou regras absolutas. @ficher:2005paradigmas3
 mostram como, na história das cidades modernas, a vigência de práticas
 paradigmáticas transcende as fronteiras mais limitantes da classificação
 por estilos ou períodos histórico-econômicos. Mesmo as funções de
@@ -260,7 +261,7 @@ trouxeram relatos das cidades da costa Suaíli que constam do atlas de
 Essa percepção intuitiva da existência de cidades não ocidentais
 foi apenas temporariamente obscurecida por um
 modelo neocolonialista empenhado, segundo Gwyn Campbell
-[-@campbell:2008indian],
+[-@campbell:2008indian3],
 em fabricar um marco conceitual para negar *status* urbano
 às cidades africanas,
 como também em suprimir, de acordo com @ibrahim:2020patterns13, a longa
@@ -740,7 +741,7 @@ comunitário e da sucessão familiar sem
 partilha da terra. Como as terras eram sempre propriedade coletiva desses
 grupos, elas não eram reparceladas em lotes menores e mais
 estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
-Europa [@sahabuddin:2012establishment]. A gleba do *kampung* era,
+Europa [@sahabuddin:2012establishment1]. A gleba do *kampung* era,
 portanto, um espaço comunitário distinto tanto da privacidade de cada
 casa familiar, quanto do domínio totalmente público das estradas.
 
@@ -874,7 +875,7 @@ Esse processo continua na urbanização
 contemporânea e tem sido um fator de manutenção ou recuperação da
 identidade cultural malaia e indonésia. Isso tem ocorrido principalmente
 na urbanização de condomínios de casas e conjuntos habitacionais de
-interesse social ou de classe média [@misnat:2018re-adaptation]. No
+interesse social ou de classe média [@misnat:2018re-adaptation7]. No
 entanto, esse resgate da forma espacial do *kampung* vem sendo feito
 sobre o arcabouço jurídico herdado do período colonial, que substituiu a
 propriedade comunitária do espaço pelo parcelamento individualizado do
