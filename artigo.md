@@ -447,8 +447,9 @@ distinta tanto dos paradigmas vigentes no interior do continente quanto
 da cidade árabe--islâmica, já havia sido notada no
 trabalho pioneiro de @ghaidan:1974lamu uma década antes e vem sendo cada
 vez mais evidenciada pela arqueologia recente. A esses paradigmas deve
-ser ainda acrescentado o padrão do *kraal* zulu, uma tipologia de aldeia
-circular com curral no centro, incluindo seus antecedentes em toda a
+ser ainda acrescentado o padrão do *kraal* zulu, uma tipologia de 
+assentamento circular com curral no centro,
+incluindo seus antecedentes em toda a
 África meridional, como os conjuntos monumentais de Mapungubwe e
 Zimbabué, descritos por @huffman:2001central13. Reciprocamente, a
 existência de um paradigma urbanístico malaio foi estabelecida por
@@ -456,10 +457,10 @@ autores como @evers:1977culture6, @hall:1996ritual52 e refinada por
 @wiryomartono:2012historical17 e @tajudeen:2021carving10, entre outros.
 
 
-## Tipomorfologia e urbanismo comparado ##
+## Tipomorfologia e arquitetura comparada ##
 
 Apesar de tais vieses e amarras conceituais eurocêntricos,
-o uso de *alguma* base metodológica em história urbana
+o uso de *alguma* base metodológica em história da arquitetura e urbanismo
 é indispensável para se compreender os paradigmas urbanísticos
 do oceano Índico em seus próprios termos, e não
 como realizações incompletas do paradigma eurasiático.
@@ -545,8 +546,6 @@ instrumental do qual se lança mão para compreender esse objeto.
 
 
 # Mundos conectados no século XIV #
-
-<!--O que mais incluir nesta seção? Está curta comparada com as outras-->
 
 ## Sistema mundo ##
 
@@ -694,7 +693,136 @@ grassavam em todo o Sudeste asiático entre hinduístas e budistas.
 
 ## O princípio do urbanismo não compacto ##
 
-<!-- Urbanismo pós compacto -->
+Em que pese as particularidades e diferenças entre as sociedades da 
+costa oriental da África e as do arquipélago Malaio,
+as cidades mercantes do oceano Índico têm em comum uma adaptação a 
+condições climáticas de monção tropical, bem como a
+modos de organização da atividade comercial distintos daqueles em uso
+na rota terrestre da Seda.
+Essas particularidades contribuem para afastar ainda mais a urbanização 
+suaíli e malaia do paradigma eurasiático.
+
+De fato, a caracterização dos paradigmas urbanísticos não se limita ao 
+ponto de vista, já explorado acima, do processo de constituição dos 
+tecidos edificados.
+Um dos aspectos da abordagem tipomorfológica de análise da arquitetura e 
+do urbanismo é, como foi visto, a premissa de que cada instantâneo no
+processo de urbanização representa, não um fragmento amorfo em devir, 
+mas uma expressão coerente da estrutura tipológica vigente no paradigma 
+em questão.
+
+Uma das expressões morfológicas centrais na distinção entre
+o paradigma urbanístico eurasiático e os paradigmas do oceano Índico
+diz respeito à densidade dos assentamentos.
+Na caracterização canônica da cidade tradicional eurasiática,
+e europeia em particular, têm lugar central
+a densidade, compacidade e separação nítida entre cidade e campo,
+separação esta tanto do ponto de vista físico quanto do funcional.
+Por exemplo, no início do século XX @maunier:1910definition15 [544] 
+definia a cidade como "um conglomerado compacto de grupos sociais" 
+distintos, embora reconhecesse que essa compacidade podia ser uma sutil 
+diferença quantitativa com respeito à zona rural.
+Mais especificamente, segundo @krier:2009architecture [134],
+arquiteto tradicionalista que teve descomunal influência no debate 
+urbanístico do último meio século, "cidade e campo são conceitos 
+antitéticos" por princípio.
+
+Nessa premissa, o apagamento da distinção entre cidade compacta e campo 
+disperso seria ora sintoma de passageira degeneração urbana, segundo o 
+próprio Krier, ora inevitável consequência do "fim da modernidade", 
+segundo @secchi:2006primeira [91].
+No entanto, Carolina Pescatori e Rodrigo Faria mostram como tanto o 
+lamento pela suposta morte da verdadeira cidade compacta, quanto a 
+celebração da ascensão da cidade dispersa, são duas faces de um mesmo 
+construto historiográfico [@pescatori:2019leitura1].
+Em nenhum desses casos, de fato, admite-se a coexistência de cidades 
+compactas e não compactas como expressões simultâneas de diferentes 
+paradigmas, mas em todos o modelo canônico da cidade pré-industrial é 
+tomado como o da urbanização compacta.
+
+O cânone da compacidade se reporta, assim, a uma visão de mundo 
+colonialista, e isso não apenas por erigir um paradigma eurocêntrico em 
+definição global.
+Segundo Lassance, Saboia, Capillé e Pescatori, a implantação da cidade 
+compacta, especialmente nos trópicos, assume uma lógica de
+subalternização de extensos "territórios infraestruturais" não 
+reconhecidos como urbanos, mas na prática constituindo social e 
+economicamente uma "área de serviço com baixo valor agregado para a 
+moradia e qualidade de vida" [@lassance:2022referencial33, 143].
+Essa caracterização é aplicável a um amplo espectro de cidades coloniais 
+e de origem colonial, desde o Rio de Janeiro usado como exemplo no 
+artigo citado, até sítios do neocolonialismo, como a Zanzibar do 
+protetorado britânico, segregada em bairros "nativo", árabe e europeu 
+[@gilbert:2013zanzibar].
+
+Em contraste com o cânone da cidade compacta,
+não é o caso de se dizer, porém, que as cidades da Idade Moderna
+de que trata este artigo fossem "difusas" no sentido que 
+@secchi:2006primeira dá ao termo no contexto pós-industrial.
+Elas seguiam, pelo contrário, uma clara hierarquia social e polaridade 
+econômica expressadas em gradientes de densidade, dinâmicas de ocupação 
+do espaço e distintas formas de manifestação de limites.
+
+O exemplo mais notável da cidade não compacta nos três circuitos do 
+oceano Índico (ver @fig:indico-redes) foi aquele realizado
+em Yasodharapura, hoje conhecida como Angkor,
+a antiga capital do império Cmer (@fig:angkor), que atingiu seu auge
+entre os séculos XI e XIV.
+Uma série de levantamentos cartográficos aéreos realizados entre 1990 e 
+2012, usando fotogrametria e LiDAR, permitiu reconstituir o tecido 
+construído de Angkor na máxima extensão da sua mancha urbanizada 
+[@evans:2007comprehensive104].
+Graças a esse levantamento, os arqueólogos Roland Fletcher, Damian 
+Evans, Christophe Pottier e Chhay Rachna [-@fletcher:2015angkor89]
+identificaram os padrões de ocupação do espaço nas áreas não monumentais
+da cidade.
+
+![Mapa arqueológico de Angkor realizada pelo
+  Serviço geográfico da Indochina francesa com base nos estudos da
+  Escola Francesa do Extremo-Oriente, junho 1939. Acervo Gallica,
+  [Biblioteca nacional da França IFN-53121558](https://catalogue.bnf.fr/ark:/12148/cb40676750w)
+](media/Carte_Archeologogique_de_la_Region_d'Angkor_-_D'apres_le_travaux_de_l'Ecole_Francaise_d'Extreme-Orient_de_l'Aviation_Militaire_et_du_Service_Geographique_(Juin_1939).jpg){#fig:angkor}
+
+<!--
+   - https://commons.wikimedia.org/wiki/File:Carte_Archeologogique_de_la_Region_d%27Angkor_-_D%27apres_le_travaux_de_l%27Ecole_Francaise_d%27Extreme-Orient_de_l%27Aviation_Militaire_et_du_Service_Geographique_(Juin_1939).jpg 
+ -->
+
+![Mapa arqueológico do entorno de Angkor Wat
+  baseado em sensoriamento remoto e pesquisa de campo.
+  © Roland Fletcher, Damian Evans, Christophe Pottier, Chhay Rachna, 
+  « Angkor Wat: An Introduction », *Antiquity* 89, n.º 348 (2015): 1393, 
+  <https://doi.org/10.15184/aqy.2015.178>.
+  Reproduzido mediante permissão
+](media/fletcher2015-fig05.png){#fig:fletcher2015}
+
+A mancha urbana central de Angkor, com área estimada entre 200 e 400 
+quilômetros quadrados, era a mais extensa zona urbanizada conhecida em 
+todo o mundo pré-industrial.
+Mostrava uma ocupação planejada em quarteirões quadrados com baixa 
+densidade de ocupação do solo;
+mesmo nas áreas mais próximas aos monumentos do poder político e 
+religioso, a edilícia de base era intercalada com parcelas agrícolas e 
+com infraestrutura de irrigação e circulação (@fig:fletcher2015)
+[@evans:2015landscape89, 14279-14280].
+Essa configuração evidencia uma adaptação do assentamento às condições 
+climáticas de monção tropical, mas também às demandas 
+político-econômicas mais específicas de um império agroexportador.
+
+Mesmo assim, o paradigma exemplificado em Angkor apresentava
+características que serão encontradas também nas cidades malaias e, com 
+diferenças de contexto cultural, na costa Suaíli.
+Embora as cidades mercantes malaias e suaíli seguissem um processo de 
+adensamento significativo em suas áreas centrais,
+os bairros periféricos mantinham um padrão de baixa densidade, com
+alta taxa de permeabilidade do solo.
+Além disso, todas essas manifestações de cidades não compactas tinham em 
+comum um centro político--religioso com um perímetro nitidamente 
+demarcado, contrastando com a extensão indeterminada da mancha urbana.
+Por fim, em todos os casos, elas adotavam um sistema de organização do 
+parcelamento do solo com demarcação pouco rígida de lotes individuais, e
+crescimento urbano baseado na justaposição de distritos que se adensavam
+de modos diversos e em graus variados, segundo suas próprias dinâmicas 
+internas.
 
 
 # Cidades da península e arquipélago Malaio #
@@ -1031,7 +1159,8 @@ o módulo elementar de organização dos bairros --- conhecido como *mtaa*
 partir de uma raiz rural.
 
 A costa Suaíli é uma parte do litoral africano do oceano Índico, com
-mais de três mil quilômetros de extensão de norte a sul. Ela era formada, no início da Idade Moderna,
+mais de três mil quilômetros de extensão de norte a sul.
+Ela era formada, no início da Idade Moderna,
 por uma sequência de cidades autônomas especializadas no comércio marítimo,
 fundadas e habitadas por povos de etnia banto que falam a língua quissuaíli
 ([ver @fig:indico-redes]). Os banto migraram para essa região no primeiro
@@ -1067,7 +1196,7 @@ estudado por @wynne-jones:2007creating81, é a continuidade no *corpus* de
 cerâmicas de uso cotidiano. Essa continuidade se evidencia tanto no
 tempo --- desde antes da consolidação das cidades mercantes até o
 abandono de localidades como Quíloa Quisiuani, Songo Mnara ou Gedi, nos
-séculos XV--XVIII --- quanto no espaço --- das aldeias rurais nas ilhas
+séculos XV--XVIII --- quanto no espaço --- das povoações rurais nas ilhas
 e no litoral do continente até as casas de elite. Sob o aspecto
 antropológico, @sheriff:2001spatial36 mostrou que o padrão de segregação
 socioespacial das cidades suaíli pré-coloniais era diferente tanto da

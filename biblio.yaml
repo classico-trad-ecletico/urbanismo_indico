@@ -2500,15 +2500,14 @@ references:
   volume: '35'
 
 - id: fletcher:2015angkor89
-  abstract: |-
-    Abstract
-                
-                  
-                    
-                  
-                
-              , 
-                The temple of Angkor Wat, visited annually by tens of thousands of tourists, is without question one of the great archaeological sites of mainland Southeast Asia. Less obvious to the casual visitor is that it was but a single element in a large dispersed city. The papers in this special section demonstrate how recent research using LiDAR, ground-penetrating radar and targeted excavation have transformed our understanding of Angkor Wat and its surroundings.
+  abstract: >-
+    The temple of Angkor Wat, visited annually by tens of thousands of tourists,
+    is without question one of the great archaeological sites of mainland
+    Southeast Asia. Less obvious to the casual visitor is that it was but a
+    single element in a large dispersed city. The papers in this special section
+    demonstrate how recent research using LiDAR, ground-penetrating radar and
+    targeted excavation have transformed our understanding of Angkor Wat and its
+    surroundings.
   accessed:
     - year: 2019
       month: 4
@@ -5091,6 +5090,29 @@ references:
   URL: https://doi.org/10.1088%2F1757-899x%2F662%2F4%2F042011
   volume: '662'
 
+- id: maunier:1910definition15
+  accessed:
+    - year: 2025
+      month: 11
+      day: 19
+  author:
+    - family: Maunier
+      given: René
+  citation-key: maunier:1910definition15
+  container-title: American Journal of Sociology
+  ISSN: 0002-9602
+  issue: '4'
+  issued:
+    - year: 1910
+  language: eng
+  page: 536-548
+  publisher: University of Chicago Press
+  source: JSTOR
+  title: The definition of the city
+  type: article-journal
+  URL: https://www.jstor.org/stable/2762461
+  volume: '15'
+
 - id: memmott:2016emergence21
   abstract: >-
     Colonial ethnographers commenced compiling records on Australian indigenous
@@ -5872,7 +5894,7 @@ references:
   type: article-journal
   URL: https://dialnet.unirioja.es/servlet/articulo?codigo=6420412
 
-- id: pescatori:2019leitura1a
+- id: pescatori:2019leitura1
   abstract: >-
     Parte das teorias contemporâneas sobre a forma da cidade foca-se em um
     debate dual: de um lado, estudos demonstram a intensidade do crescimento e a
@@ -5893,7 +5915,7 @@ references:
     - family: Faria
       given: Rodrigo
       non-dropping-particle: de
-  citation-key: pescatori:2019leitura1a
+  citation-key: pescatori:2019leitura1
   container-title: Revista Jatobá
   container-title-short: Jatobá
   DOI: 10.54686/revjat.v1i.61697
@@ -7071,6 +7093,27 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/13604813.2016.1263494
   volume: '21'
+
+- id: secchi:2006primeira
+  author:
+    - family: Secchi
+      given: Bernardo
+  citation-key: secchi:2006primeira
+  event-place: São Paulo
+  ISBN: 978-85-273-0773-4
+  issued:
+    - year: 2006
+  language: por
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Primeira lição de urbanismo
+  translator:
+    - family: Barda
+      given: Marisa
+    - family: Sales
+      given: Pedro M. R.
+  type: book
 
 - id: seong:1982rural24
   accessed:
