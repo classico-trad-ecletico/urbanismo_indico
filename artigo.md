@@ -1338,11 +1338,16 @@ sexta-feira.
 O segundo tipo tem uma configuração bipartida sem cerca
 ([@fig:lamu]), e ocorre em cidades dispostas de modo
 predominantemente linear ao longo da orla marítima. Nesse tipo, a mancha
-urbana está dividida em duas zonas claramente distintas entre si: uma
-"cidade de pedra e cal" formada pelos *mitaa* de elite e uma "cidade de
-macuti", onde *macuti* designa em quissuaíli a cobertura com choça de
-palmeira. As casas de macuti em geral têm estrutura em adobe ou
-pau-a-pique.
+urbana está dividida em duas zonas:
+uma "cidade de pedra e cal" formada pelos *mitaa* de elite e
+uma "cidade de macuti", onde *macuti* designa em quissuaíli
+a cobertura com choça de palmeira.
+As casas de macuti em geral têm estrutura em adobe ou pau-a-pique.
+Assim como na configuração concêntrica, a configuração bipartida
+não supõe, segundo @mutonga:2020origin14,
+uma segregação estrita entre a pedra e cal e o macuti,
+mas um gradiente de predomínio de cada sistema construtivo,
+vinculado à hierarquia social e política.
 
 ![Configuração bipartida de uma cidade suaíli:
   centro histórico de Lamu.  
@@ -1364,7 +1369,7 @@ Contrariamente ao contexto malaio, portanto, na costa Suaíli os sistemas
 construtivos desempenhavam um papel importante na demarcação da
 estratificação social.
 
-# Epílogo #
+## Epílogo colonial ##
 
 A partir do século XVII, as cidades mercantes do oceano Índico sofreriam
 de modo mais intenso os efeitos do colonialismo eurasiático. Na costa
@@ -1377,6 +1382,62 @@ dos seus respetivos governos. O aprofundamento dos regimes coloniais
 não apenas na forma urbana das cidades existentes, mas também no regime
 jurídico e nos processos político-econômicos de urbanização e construção
 na costa Suaíli e no arquipélago Malaio.
+
+Com a expansão do império do Omã na costa suaíli,
+iniciada com a conquista de Mombaça aos portugueses em 1698,
+e culminando com a transferência da residência do sultão
+de Mascate para Zanzibar em 1836,
+cidades como Lamu presenciaram a implantação de infraestruturas 
+estranhas à cultura suaíli.
+A mais significativa destas foi a implantação de fortes nos centros 
+urbanos.
+De fato, os antigos palácios suaíli dos séculos X a XV, como o célebre 
+Husuni Kubwa de Quíloa Quisiuane, eram espacial e morfologicamente 
+desvinculados dos tecidos urbanos [@fauvelle:2018stratigraphy, 145].
+Enquanto enxertos de uma potência estrangeira,
+os fortes omani desempenhavam uma função de controle social tanto quanto 
+de defesa militar.
+Essa ritualização do poder incorporada nos fortes é atestada pela
+presença da residência senhorial dentro do recinto do forte,
+pela padronização formal das plantas numa configuração relativamente 
+"arcaica", segundo Stéphane Pradines e Pierre Blanchard
+[-@pradines:2019zanzibar47, 65],
+e pela monumentalidade da portada principal, presente em quase todos 
+esses fortes.
+
+Entretanto, a suzerania árabe não implicou uma transformação imediata 
+dos tecidos urbanos suaíli.
+Apenas em Zanzibar a arabização da cidade foi mais intensa,
+com alterações morfológicas na geometria dos *mitaa*.
+@steyn:2001analysis16 mostra como os *mitaa* de gênese omani e suas 
+casas trasladavam uma tipologia urbana e arquitetônica oriunda do
+clima árido para a costa suaíli, com praças e pátios enclausurados, 
+planejados para ventilação por convecção, em contraste com a linearidade 
+da casa tradicional suaíli, propícia à ventilação cruzada.
+Isso resultou em conjuntos menos adaptados às condições tropicais de 
+monção do que a arquitetura autóctone.
+
+Em Zanzibar, a sobreposição de presenças coloniais ensejou uma 
+segregação da cidade à medida que a sua mancha urbana se expandia.
+A formalização do protetorado britânico em 1890 foi a culminação de um 
+processo mais longo de aumento da influência europeia na região.
+Os arquitetos Mahbub Rashid e Hadi Shateh mostram como a evolução do 
+traçado urbanístico da cidade durante o período colonial britânico 
+introduziu uma reorganização morfológica fundamental no traçado 
+urbanístico.
+Enquanto a cidade velha tinha seu eixo principal ao longo da praia,
+a cidade moderna passa a se organizar em torno de uma grande avenida 
+estruturante, à semelhança das cidades europeias.
+Mais ainda, a presença colonial britânica ensejou a implantação de um 
+enclave residencial europeu segregado do centro omani, bem como
+a intensificação da segregação espacial entre a cidade de pedra,
+que também sofreu intervenções de alargamento de vias,
+e a cidade de macuti, à margem do planejamento formal, absorvendo o 
+crescimento mais intenso da população africana 
+[@rashid:2012dialectics17, 24].
+
+
+# Conclusão #
 
 A profundidade do legado urbanístico colonial nas cidades às margens do
 oceano Índico ajuda a explicar por que grande parte da bibliografia sobre
