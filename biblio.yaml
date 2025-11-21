@@ -695,6 +695,55 @@ references:
   URL: http://arkitekturforskning.net/na/article/view/1075
   volume: '1'
 
+- id: beng:2015unleashing16
+  abstract: >-
+    The provision of adequate quality housing for the mass population has always
+    been the major challenge for a rapidly developing country like Malaysia. As
+    the country heads towards higher level of urbanization, it is expected to
+    face accelerated demand on housing and the associated environmental impacts.
+    Only by encouraging the development of more eficient buildings or through
+    implementing a holistic construction approach that addressed right from the
+    onset of the design stage, harmful environmental impact to the surroundings
+    can be mitigated. This paper highlights the potential of applying lexibility
+    – a design approach which has been widely adopted in the traditional
+    construction – as an inherent design strategy for the modern urban mass
+    housing. The proposed design strategy entails open plan that enable retroit
+    and reconiguration to be made quickly, economically, and repeatedly, without
+    involving excessive site labour, time, and cost; as compared to the
+    currently adopted design strategy which is associated with rigid structure,
+    interlocking plan, and predetermined function. It makes possible the
+    creation of dwellings which may grow old yet without becoming obsolete;
+    incorporating the latest design ideas and technologies, yet have a sense of
+    history on the Malaysian housing design (the rumah kampung design); allowing
+    the communities to live for generations, yet incorporating the potential of
+    adaptation. By examining the background research and the fundamental design
+    principles, the paper suggests that only dwellings with high degree of
+    lexibility may enable the integration of dual aims and principles of
+    affordability and sustainability in mass housing, thereby facilitating the
+    movement of the country’s construction industry towards mechanization,
+    industrialization, and standardization.
+  author:
+    - family: Beng
+      given: Gan Hock
+    - family: Hamid
+      given: Zuhairi Abd
+    - family: Hung
+      given: Foo Chee
+  citation-key: beng:2015unleashing16
+  container-title: Malaysian Construction Research Journal
+  issue: '1'
+  issued:
+    - year: 2015
+      month: 6
+  language: en
+  page: 59-75
+  source: Zotero
+  title: >-
+    Unleashing the potential of traditional construction technique in the
+    development of modern urban mass housing
+  type: article-journal
+  volume: '16'
+
 - id: berti:2016conservation225
   abstract: >-
     Much of the architectural heritage on the coast of East Africa was built
@@ -1114,6 +1163,30 @@ references:
   title: Lettura dell'edilizia di base
   type: book
 
+- id: carita:1999arquitectura
+  author:
+    - family: Carita
+      given: Helder
+  citation-key: carita:1999arquitectura
+  collection-title: Ciclo de exposições Memórias do oriente
+  container-title: 'Os Espaços de Um Império: Estudos'
+  editor:
+    - family: Hespanha
+      given: António Manuel
+    - family: Cunha
+      given: Mafalda Soares
+      dropping-particle: da
+  event-place: Lisboa
+  issued:
+    - year: 1999
+  language: por
+  page: 77–89
+  publisher: Comissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Google Scholar
+  title: Arquitectura civil indo-portuguesa e a paisagem urbana de Goa
+  type: chapter
+
 - id: cataldi:1989introduzione
   abstract: >-
     Atti del Convegno internazionale Le ragioni dell'abitare, Prato, 8-9 gennaio
@@ -1474,6 +1547,27 @@ references:
   title-short: Os tempos da cidade
   type: chapter
 
+- id: coleman:1839town
+  accessed:
+    - year: 2020
+      month: 8
+      day: 4
+  archive: >-
+    http://www.noel-murphy.com/rotch/wp
+    content/uploads/2013/07/Singapore_Environs_1839.jpg
+  author:
+    - family: Coleman
+      given: G.D.
+  citation-key: coleman:1839town
+  issued:
+    - year: 1839
+  language: eng
+  license: Public domain
+  source: Wikimedia Commons
+  title: Town map of Singapore
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg
+
 - id: conzen:2018core
   accessed:
     - year: 2018
@@ -1589,6 +1683,36 @@ references:
   publisher-place: Rio de Janeiro
   title: 'A enxada e a lança: A África antes dos portugueses'
   title-short: A enxada e a lança
+  type: book
+
+- id: costa:2015arquitetura
+  call-number: 728x(46-13)
+  citation-key: costa:2015arquitetura
+  editor:
+    - family: Costa
+      given: Miguel Reimão Lopes
+      dropping-particle: da
+    - family: Gómez Martínez
+      given: Susana
+    - family: Ribeiro
+      given: Vítor
+    - family: Torres
+      given: Cláudio
+  event-place: 'Lisboa : Mértola'
+  ISBN: 978-972-8479-85-5
+  issued:
+    - year: 2015
+  language: por
+  number-of-pages: '176'
+  publisher: Argumentum ; Campo Arqueológico de Mértola
+  publisher-place: 'Lisboa : Mértola'
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    Arquitetura tradicional no Mediterrâneo Ocidental: 1.º Congresso
+    Internacional, Mértola 13, 14 e 15 de Maio de 2015 = Traditional
+    architecture in the Western Mediterranean: 1^st^ International Conference,
+    Mértola 13^th^, 14^th^ and 15^th^ May 2015
+  title-short: Arquitetura tradicional no Mediterrâneo Ocidental
   type: book
 
 - id: danes:2018ancient
@@ -2631,6 +2755,293 @@ references:
   title: The other side of Zanzibar
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-01075-1_3
+
+- id: fustel:2005cidade
+  abstract: >-
+    Fustel de Coulanges (1830-1889) foi um dos mais célebres historiadores
+    franceses. La cité antique tornou-se um clássico da investigação histórica,
+    abordando o tema do nascimento da cidades-Estado por meio de extensa
+    documentação que leva o estudioso das leis, o historiador, o linguista, ou o
+    leigo, com competência e segurança, pelo labirinto das instituições
+    jurídicas, familiares e políticas dos dez ou doze séculos em que vigoraram o
+    regime municipal e a religião dos antigos. A meta é ambiciosa, pois pretende
+    colocar-se dentro da cidade antiga sem dar atenção às opiniões e fatos
+    contemporâneos a ele. Produto de um pensamento positivista, em que se crê
+    estar distante do objeto e podendo analisá-lo sem se misturar com ele, o
+    autor se entrega a sua pesquisa crendo-se desapaixonado e livre. Com o
+    correr da obra o vemos tomar o partido da cultura do último terço do séc.
+    XIX, particularmente no último capítulo, quando fala do cristianismo, mas
+    isso não anuvia o céu de suas pesquisas; competente, trabalhador incansável
+    e meticuloso, nos fornece até hoje um dos mais vívidos panoramas do
+    funcionamento das cidades gregas e romanas à época das gens, tribos e
+    cidades-Estado.
+
+
+    Fustel inicia sua obra nos informando dos costumes e pensamentos a respeito
+    da alma, da morte e a importância de se sepultar o corpo segundo extensos
+    rituais e fórmulas pronunciadas para garantir a felicidade eterna ao
+    falecido. As necessidades do morto são escrupulosamente satisfeitas para que
+    este não venha a se tornar alma errante, sofrendo, assombrando e enviando
+    doenças e má sorte à família; a morte os transformava em seres sobrenaturais
+    e os ritos os transformavam em deuses subterrâneos. “Às almas humanas
+    divinizadas pela morte, diz Fustel, chamavam os gregos por demônios, ou
+    heróis. Os latinos, por sua vez, as apelidavam lares, manes, gênios”. O
+    autor acredita que o sentimento religioso da humanidade grega e romana
+    começou com este culto e, além disso, a própria cidade antiga deveria ser
+    entendida como um dos resultados de seu aperfeiçoamento nos séculos que
+    viriam, pois o fogo sagrado dedicado aos antepassados, morando no centro da
+    casa, passou a localizar-se no centro da cidade. O deus lar era mantido e
+    mantinha a família; se o fogo se extinguia a família toda estava extinta.
+    Assim, seus ritos diários visavam manter ardendo essa chama que era a
+    manifestação dos deuses familiares, seus antepassados, delineando a relação
+    entre os mortos da família e o lar doméstico, a própria expressão do culto
+    aos mortos. Essa religião doméstica tratava de oferecer os ritos aos
+    antepassados de linhagem masculina de uma mesma família, excetuando todas as
+    outras.
+
+
+    Depois o autor nos conduz para o seio da família, onde a religião a
+    constitui e é seu principal esteio. Havendo uma necessária relação entre
+    seus deuses e o solo, assentavam no chão o símbolo da vida sedentária, o
+    lar, tomando posse de uma parte de terra que já se constitui, por esse ato,
+    em sua propriedade. Em cada casa havia um altar e ao redor dele, toda manhã,
+    ali se reuniam para dirigir ao lar suas orações, hinos, libações, bebidas e
+    alimentos. O casamento foi a primeira instituição estabelecida pela religião
+    doméstica, contudo não comunicava uma família com outra, ou os rituais de
+    duas famílias, porque o direito de realizar os ritos era transmitido de
+    varão para varão. A mulher, ao casar, passava a adorar os antepassados do
+    esposo; a cerimônia de casamento a impedia de adorar os deuses de seu pai e
+    ao mesmo tempo impunha os de outra linhagem masculina. Percebe-se que a
+    crença na divindade dos mortos e os ritos a eles devidos foram o centro da
+    família; se acaso o fogo, que deveria ser ritualizado por um filho, se
+    extinguisse, toda uma legião de mortos e vivos deixariam de extrair dessas
+    relações a vida e seus valores. Por isso o centro das preocupações
+    domésticas era continuar a descendência, proibindo-se o celibato,
+    divorciando-se em caso de esterilidade e mantendo-se a desigualdade entre
+    filho e filha. O direito de propriedade era totalmente privado e fundido à
+    religião doméstica e família. Sua religião prescrevia isolar o domínio e as
+    sepulturas; a tradição ordenava que o lar fosse fixo ao solo e não fosse o
+    túmulo deslocado. “Não foram as leis, mas a religião, aquilo que primeiro
+    garantiu o direito de propriedade”, nos diz Fustel. Isso levou, salvo raras
+    exceções, a somente o filho herdar a propriedade (lar e solo), a não
+    existência do testamento e o pátrio poder. Segundo ele a família não recebeu
+    da cidade suas leis, mas sim, da religião. O direito privado teria existido
+    antes da cidade. Ao legislador foi imposta a lei originada na família onde o
+    esposo possuía o poder de senhor do lar, de rei, de magistrado.
+
+
+    As famílias se juntavam em genos (gens em latim) que formavam um grupo com
+    descendência comum e origem pura, com seus deuses comuns, o que, segundo
+    Fustel, não se pode dizer que eram associações de famílias distintas. Usavam
+    o mesmo patronímico vivendo num “verdadeiro corpo, o verdadeiro ser vivo, do
+    qual o indivíduo se tornava apenas membro inseparável; assim o nome
+    patronímico foi o primeiro em data e o primeiro em importância”. A família
+    era um Estado organizado – com seu chefe hereditário – bastando a si
+    própria, explorando a clientela e os escravos, podendo constituir-se de
+    numeroso grupo, com uma religião que lhe mantinha a unidade, por meio do
+    direito privado, leis próprias e formando extensa sociedade.
+
+
+    O autor prossegue definindo melhor a cidade antiga, começando pelas
+    fratrias, cúrias e tribos. Com o alargamento das famílias foi necessário
+    conceber uma divindade superior aos deuses domésticos que fosse comum e
+    velasse pela fratria como um todo. O alargamento das fratrias acabou gerando
+    a tribo com seus altares aos deuses e heróis e um direito mais complexo, não
+    havendo, acima dela, poder social algum. As cidades foram, então, reuniões
+    de tribos que se submetiam ao deus das famílias mais fortes e numerosas; o
+    lar passa a ser apenas o altar de um deus maior e nisso se vê a passagem de
+    estado de fratria ou cúria (latina) para o estado de cidade. Se no começo
+    cada tribo, tal como fora com a família, não se comunicava com outras
+    tribos, a cidade foi o advento de associações de tribos, guardando seus
+    ritos, segredos e identidades. Por exemplo, em Atenas, cada pessoa era
+    ligada a quatro sociedades distintas: a uma família, a uma fratria, a uma
+    tribo e a uma cidade. Eram instâncias que não necessariamente se comunicavam
+    simultaneamente; um homem quando criança pertence à família e anos depois à
+    fratria e assim sucessivamente, até que vinha a ser iniciado no culto
+    público, tornando-se cidadão. Mas cada família mantinha seus cultos, seu
+    altar, seus chefes seus juízes e leis próprias; só em alguns aspectos é que
+    funcionavam como uma cidade única, uma confederação de grupos constituídos
+    antes da formação da cidade. “Cidade e urbe não foram palavras sinônimas no
+    mundo antigo. A cidade era a associação religiosa e política das famílias e
+    das tribos; a urbe, o lugar de reunião, o domicílio e, sobretudo, o
+    santuário desta sociedade. A cidade gerava a urbe e esta era implantada de
+    um só golpe, em um só dia”. [...]“Quando as famílias, as fratrias e as
+    tribos convencionaram unir-se e terem o mesmo culto comum, era fundada a
+    urbe, para representar o santuário desse culto. Assim, a fundação da urbe
+    foi sempre um ato religioso”. Escolhida e revelada pela divindade, a
+    localização da urbe se dava com rituais que a assentavam a partir de uma
+    cidade, que ao formar seu corpo de leis e ritos erguiam a urbe. Isto era
+    feito pelo fundador, o homem que realizava os ritos religiosos, sem o qual
+    não se estabeleceria a urbe. Ele era o pai da cidade e acabava por ser um
+    deus-lar para a cidade, sendo perpetuado pelo fogo e sacrifícios anuais das
+    vítimas cerimoniais. O governo da cidade estava sob a autoridade religiosa
+    do rei-sacerdote, também seu chefe político. Sua autoridade política vinha
+    de ser sagrado e isso já lhe conferia, por extensão, o poder de magistrado,
+    fato que não surpreende, uma vez que o rei era escolhido entre os
+    paterfamilias – os senhores do lar que reinavam absolutos nos tempos das
+    famílias e que, na cidade, representavam a aristocracia.
+
+
+    A lei estava nas mãos dos pontífices que eram considerados os únicos
+    jurisconsultos competentes por causa de sua origem religiosa. E como as leis
+    advieram dos deuses, nada mais natural que o direito fosse exercido pelo rei
+    pontífice, que a conhecia de ter sido iniciado por seu pai que, por sua vez
+    ouvira de seu pai, e assim por diante. Também não “bastava habitar a urbe
+    para se estar submetido às suas leis e pelas mesmas protegido; cumpria ser
+    seu cidadão. A lei não existia para o escravo, como também não protegia o
+    estrangeiro” [bem como estes não podiam] “entrar na partilha das coisas
+    sagradas”. Ninguém poderia se naturalizar numa cidade se já pertencesse a
+    outra urbe, sendo esta sua pátria – terra pátria. Segundo o autor a religião
+    fazia de cada urbe um corpo, sem possibilidades de associar-se a nenhum
+    outro. O isolamento era a lei da cidade; sua autonomia política, jurídica,
+    governamental, religiosa e moral em relação às outras era seu bem maior.
+    Esse formidável regime municipal, contudo, sempre esteve ameaçado pela
+    resistência interna de clientes e escravos, bem como pelos ataques de outras
+    cidades. Logo foi necessário uma federação de cidades para que se pudesse
+    admitir as novas reivindicações políticas e jurídicas, bem como aplacamento
+    das discórdias e, no limite, a expansão do poder de certas cidades, como
+    Atenas, Esparta e Roma.
+
+
+    Na última parte de seu livro Fustel se dedica a mostrar o desmonte deste
+    regime municipal por uma série de revoluções que se iniciam pela retirada da
+    autoridade política dos reis, atitude tomada pela aristocracia, constituída
+    de patres – os chefes de família. Em Esparta, Atenas e Roma a realeza foi
+    alvo de constantes ataques da aristocracia – os eupátridas. Em seguida houve
+    alterações na constituição da família, desaparecendo a primogenitura,
+    desagregando as gens, quase sempre nos movimentos que a realeza fez para
+    enfraquecer os iguais – os chefes das gentes. A libertação dos clientes
+    acabou arrancando a terra à religião e entregou-a ao trabalho, já
+    inaugurando o direito à posse, mas não, ainda, o de propriedade. Talvez a
+    revolução mais contundente, pelo menos em extensão, tenha sido a
+    participação da plebe no regime da cidade, colocando no poder os tiranos,
+    chefes que não podiam ser reis, por faltar-lhes os segredos religiosos,
+    inaugurando o poder do homem sobre o homem, com a missão precípua de
+    proteger a plebe contra os ricos. Daí em diante a aristocracia, que não
+    conseguia voltar ao poder, passou a colaborar com as tentativas de se
+    instalar regimes monárquicos, organizando-se em um corpo semelhante a
+    aristocracia e se espalhou por toda a Grécia e Itália (séc. VII ao V a.C.),
+    distinguindo-se em classes apenas pela quantidade de riqueza. Nesse regime
+    cada cidadão podia exercer o sacerdócio por um ano, sem privilégios de
+    nascimento, de religião ou político. Roma foi exceção, onde o patriciado
+    manteve o poder, criando-se o tribunado da plebe – o plebeu tornava-se ele
+    mesmo sagrado para que pudesse legislar sobre a plebe. Esse caráter de
+    sacralidade era transmitido de tribuno a tribuno, tendo sido doado pelos
+    religiosos do patriciado que eram os criadores da sacralidade doravante
+    transmitida.
+
+
+    O direito tornou-se público e conhecido por todos, sendo do povo a emanação
+    do poder de promulgar leis que o legislador possuía, bem como as leis deixam
+    de ser patrimônio das famílias sagradas. Com isso, surge a revolução
+    democrática, onde qualquer cidadão rico poderia ser, por exemplo,
+    magistrado, e em tese todos podiam alcançar os mais alto degraus sociais sem
+    serem eupátridas ou patrícios. Mas também, por causa das guerras que
+    dizimavam as classes superiores, estas foram obrigadas a oferecer armas e
+    títulos às classes inferiores que acabaram por formar parte importante do
+    povo. Por ser uma democracia onde todos, por direito, exerciam as funções da
+    malha de governo, cedo acabou por desaparecer o regime democrático, sufocado
+    pelo excesso de atribuições do cidadão e do quanto caro isso era para ser
+    mantido. O regime municipal se esvaiu por motivos bem diversificados: as
+    cidades-Estado se uniram, formando federações; filósofos como Pitágoras e
+    Anaxágoras combateram as leis da cidade; os sofistas começaram a falar de
+    uma nova justiça; Sócrates combate a tradição; as idéias de Platão e
+    Aristóteles são contrárias ao regime municipal. Todos foram responsáveis
+    pelo seu enfraquecimento: desde as tímidas investidas de Platão (que adorava
+    o governo da cidade e as tradições) até as fortes posições políticas de
+    Zenão (concebendo a idéia de Estado como composto por todo o gênero humano).
+    Mas quem deu o toque mais profundo e duradouro nestas transformações foram
+    os estoicistas, emancipando o indivíduo, rejeitando a religião da cidade,
+    desdenhando da servidão do cidadão ao Estado, libertando sua consciência,
+    incitando-o a participar da política e estimulando-o a aperfeiçoar-se
+    intimamente (algo inexistente nos regimes anteriores).
+
+
+    O autor e seus contemporâneos
+
+
+    Ao leitor de Fustel parece que este esteve inteirado das idéias do francês
+    Auguste Comte (1798-1857) e sua obra “Curso de Filosofia Positiva”, onde
+    afirma que todos os fenômenos estão sujeitos a leis naturais uniformes; o
+    projeto comtiano era fazer com as ciências sociais o que Galileu, Kepler e
+    Newton fizeram pelas ciências naturais, fundamentando suas teorias nas leis
+    das três etapas: a teológica (onde o homem explica os fenômenos naturais e
+    sociais em termos divinos), a metafísica (onde a explicação está em forças
+    abstratas) e na científica – o positivismo (explicação baseada em leis
+    imutáveis da natureza). Segundo o positivismo, os estudos históricos se
+    atrasaram em relação à física, matemática ou astronomia. É exatamente com
+    essa impressão que ficamos ao ler sua obra. Tanto a de que ele tentou
+    corrigir esse atraso, bem como o de que não foi tão positivista. Assim, o
+    vemos declarar, de modo positivo, a respeito de crença: “Nada de mais
+    poderoso existe sobre a alma. A crença é obra do nosso espírito, mas não
+    encontramos neste liberdade para modificá-la a seu gosto. A crença é de
+    nossa criação, mas a ignoramos. É humana, e a julgamos sobrenatural. É
+    efeito do nosso poder e é mais forte do que nós” (139/140). Mas, antes (p.
+    2,3), disse: “Tentaremos mostrar por que regras eram regidas estas
+    sociedades e deste modo mais facilmente verificaremos por quais razões essa
+    mesmas regras jamais poderão voltar a reger a humanidade”. Quando pensamos
+    em condições de produção da sociedade, em termos ideológicos, Fustel nos faz
+    deter o pensamento, dizendo que a “causa que as produz deve ter algo de
+    poderoso, devendo residir no próprio homem, [que] algo do próprio homem se
+    transformou. Temos, efetivamente, algo do nosso ser a modificar-se de século
+    em século: a nossa inteligência”. Mas, para nosso século, a identidade é um
+    movimento na história (E. Orlandi, 1990); a inteligência, o sujeito são
+    precipitados políticos, algo que escapa a Fustel, tanto por tentar atender
+    ao positivismo, quanto por não ser fiel a ele, ficando no estágio metafísico
+    de produção de conhecimento, afirmando que a cidade dos antigos, sua
+    política, sua urbe, suas instituições jurídicas foram produtos da religião,
+    isto é, da crença destes homens. Com isso, ele não parece ter conhecido as
+    idéias de outro contemporâneo, dessa vez alemão: Karl Marx, teórico social,
+    interessado na economia e história (aqui não há novidade, pois Marx só foi
+    reconhecido já no séc. XX). Se Fustel, brilhantemente, nos mostra a luta de
+    classes em suas entranhas, não parece disposto a dizer, segundo a agenda
+    marxiana, que a história é a história da luta de classes e que seu
+    fundamento é econômico; ou que “cada forma de produção [de riquezas] cria
+    suas próprias relações de direito, formas de governo etc” (1996, p.29),
+    preferindo centrar sua atenção na crença religiosa. Esta é que seria o motor
+    social da família, do genos e depois da cidade-Estado. Ele crê, mais
+    exatamente, que a economia estava a serviço da religião. Por um viés, hoje
+    corrente, por exemplo, na teoria do discurso (Pêcheux, 1995; Orlandi, 2001),
+    sabemos que a história deve ter como referência as condições de produção que
+    a implica num “processo histórico determinado, em última instância, pela
+    própria produção econômica” (Pêcheux, p.190). Termina seu livro dizendo:
+    “Fizemos a história de uma crença. Estabelece-se a crença: constitui-se a
+    sociedade humana. Modifica-se a crença: a sociedade atravessa uma série de
+    revoluções. A crença desaparece: a sociedade muda de aspecto. Esta foi a lei
+    dos tempos antigos” (p.451). Talvez Marx dissesse que o verdadeiro objeto de
+    estudos de Fustel deveria ter sido a luta pelo poder econômico. Quando este
+    passou de uma classe a outra a religião tratou de trazê-lo de volta ou novas
+    religiões se fizeram necessárias para administrar essas passagens. Diga-se,
+    também, que Fustel nos brinda com um panorama nítido do nascimento do
+    Direito e suas instituições. Algumas das questões de sua época (que
+    sobrevivem ainda hoje) sobre a origem de certas figuras jurídicas são
+    tratadas com cuidado e de modo bastante consequentes. Trata-se, pois, de uma
+    obra que bem pode auxiliar o estudioso das leis antigas.
+
+
+    Sua obra nos impressiona vivamente, pela obstinação em determinar seu objeto
+    de estudos. Talvez se possa dizer de sua obra o que se disse de Marx: que é
+    um clássico a quem nunca se adere integralmente. E se a obra marxiana obriga
+    a releituras, a obra de Fustel, por seu turno, e pelo ofício de historiador,
+    é uma releitura, ela mesma, da história da história.
+
+    Tradução de Fernando de Aguiar
+  author:
+    - family: Fustel de Coulanges
+      given: Numa Denis
+  citation-key: fustel:2005cidade
+  event-place: São Paulo
+  ISBN: 978-85-336-2048-3
+  issued:
+    - year: 2005
+      month: 1
+      day: 24
+  language: por
+  publisher: Martins Fontes
+  publisher-place: São Paulo
+  source: Câmara Brasileira do Livro ISBN
+  title: A cidade antiga
+  type: book
 
 - id: garcia-esparza:2015epistemological21
   abstract: >-
@@ -4557,6 +4968,28 @@ references:
   title: The architecture of community
   type: book
 
+- id: kuhn:1998estrutura
+  author:
+    - family: Kuhn
+      given: Thomas S.
+  citation-key: kuhn:1998estrutura
+  edition: '5'
+  event-place: São Paulo
+  ISBN: 978-85-273-0111-4
+  issued:
+    - year: 1998
+  language: por
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A estrutura das revoluções científicas
+  translator:
+    - family: Boeira
+      given: Beatriz Vianna
+    - family: Boeira
+      given: Nelson
+  type: book
+
 - id: lassance:2021cidade
   author:
     - family: Lassance
@@ -5089,6 +5522,28 @@ references:
   type: article-journal
   URL: https://doi.org/10.1088%2F1757-899x%2F662%2F4%2F042011
   volume: '662'
+
+- id: mattoso:2010patrimonio
+  call-number: NA1502 .P38 2010
+  citation-key: mattoso:2010patrimonio
+  collection-number: Ásia
+  editor:
+    - family: Mattoso
+      given: José
+    - family: Rossa
+      given: Walter
+  event-place: Lisboa
+  ISBN: 978-989-95758-5-1
+  issued:
+    - year: 2010
+  language: por
+  number-of-pages: '554'
+  publisher: Fundação Calouste Gulbenkian
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'Património de origem portuguesa no mundo: arquitectura e urbanismo'
+  title-short: Património de origem portuguesa no mundo
+  type: book
 
 - id: maunier:1910definition15
   accessed:
@@ -5639,6 +6094,23 @@ references:
   title-short: Urban morphology
   type: book
   URL: http://www.springer.com/la/book/9783319320816
+
+- id: oliveira:2018diferentes
+  citation-key: oliveira:2018diferentes
+  editor:
+    - family: Oliveira
+      given: Vítor
+  event-place: Porto
+  ISBN: 978-989-20-8164-9
+  issued:
+    - year: 2018
+  language: por
+  publisher: Urban Forms
+  publisher-place: Porto
+  source: Zotero
+  title: Diferentes abordagens em morfologia urbana. Contributos luso-brasileiros
+  title-short: Diferentes abordagens em morfologia urbana
+  type: book
 
 - id: oliveira:2018teaching
   accessed:
@@ -6228,9 +6700,7 @@ references:
   publisher: Guerra & Paz
   publisher-place: Lisboa
   source: Open WorldCat
-  title: >-
-    A civilização Suaíli (séculox <span style="font-variant: all-small-caps"
-    smallcaps="smallcaps">VIII–XV</span>)
+  title: A civilização Suaíli (séculos VIII–XV)
   translator:
     - family: Lopes
       given: Isabel
@@ -6632,6 +7102,27 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/1360236032000134835
   volume: '8'
+
+- id: sahabuddin:2012establishment1
+  accessed:
+    - year: 2024
+      month: 7
+      day: 1
+  author:
+    - family: Sahabuddin
+      given: Mohd Firrdhaus
+  citation-key: sahabuddin:2012establishment1
+  container-title: Firrbudi aka Lensahijau
+  issued:
+    - year: 2012
+      month: 10
+      day: 17
+  language: eng
+  title: 'The establishment of ''air house'' standard in tropical countries: part 1'
+  title-short: The establishment of 'air house' standard in tropical countries
+  type: post-weblog
+  URL: >-
+    http://lensahijau.blogspot.com/2012/10/traditional-values-and-their-adaptation.html
 
 - id: sahabuddin:2012establishment2
   accessed:
@@ -8104,6 +8595,139 @@ references:
   title-short: The golden Khersonese
   type: book
 
+- id: wheatley:1983nagara
+  author:
+    - family: Wheatley
+      given: Paul
+  call-number: H31 HT147.A785 .C514 no. 207-208
+  citation-key: wheatley:1983nagara
+  collection-number: 207-208
+  collection-title: Research papers
+  event-place: Chicago, Ill.
+  ISBN: 978-0-89065-113-1
+  issued:
+    - year: 1983
+  language: eng
+  number-of-pages: '472'
+  publisher: University of Chicago Department of Geography
+  publisher-place: Chicago, Ill.
+  source: Library of Congress ISBN
+  title: 'Nāgara and commandery: origins of the Southeast Asian urban traditions'
+  title-short: Nāgara and commandery
+  type: book
+
+- id: whitehand:2006research30
+  abstract: >-
+    In the last 10 years, research on Chinese urban form has grown rapidly both
+    in China itself and in other parts of the world. At the same time Chinese
+    cities have undergone unprecedented growth and transformation, presenting
+    great challenges for the comprehension and management of urban landscape
+    change. In planning future urban morphological research during this period
+    of exceptional flux, an important first step is to take stock of past
+    research, especially that of the recent past. Hitherto research on Chinese
+    urban form across a range of disciplines, including architectural history,
+    urban planning, archaeology and urban geography, has tended to be
+    descriptive and has contained scant comparison, either of findings or
+    methods, with that on towns and cities in other parts of the world. Future
+    research on Chinese urban form can benefit from exploring the efficacy of
+    urban morphological concepts and methods that have been developed and
+    applied elsewhere in the world, especially Europe.
+  accessed:
+    - year: 2021
+      month: 6
+      day: 14
+  author:
+    - family: Whitehand
+      given: J. W.R.
+    - family: Gu
+      given: Kai
+  citation-key: whitehand:2006research30
+  container-title: Progress in Human Geography
+  container-title-short: Progress in Human Geography
+  DOI: 10.1191/0309132506ph611oa
+  ISSN: 0309-1325
+  issue: '3'
+  issued:
+    - year: 2006
+      month: 6
+      day: 1
+  language: eng
+  page: 337-355
+  publisher: SAGE Publications Ltd
+  source: SAGE Journals
+  title: 'Research on Chinese urban form: retrospect and prospect'
+  title-short: Research on Chinese urban form
+  type: article-journal
+  URL: https://doi.org/10.1191/0309132506ph611oa
+  volume: '30'
+
+- id: whitehand:2009conzen33
+  accessed:
+    - year: 2023
+      month: 12
+      day: 1
+  author:
+    - family: Whitehand
+      given: J.W.R.
+    - family: Samuels
+      given: Ivor
+    - family: Conzen
+      given: Michael P.
+  citation-key: whitehand:2009conzen33
+  container-title: Progress in Human Geography
+  container-title-short: Progress in Human Geography
+  DOI: 10.1177/0309132509334948
+  ISSN: 0309-1325, 1477-0288
+  issue: '6'
+  issued:
+    - year: 2009
+      month: 12
+  language: eng
+  page: 859-864
+  source: DOI.org (Crossref)
+  title: >-
+    Conzen, M.R.G. 1960: Alnwick, Northumberland: a study in town-plan analysis.
+    Institute of British Geographers Publication 27. London: George Philip
+  title-short: Conzen, M.R.G. 1960
+  type: article-journal
+  URL: http://journals.sagepub.com/doi/10.1177/0309132509334948
+  volume: '33'
+
+- id: widodo:2009morphogenesis
+  abstract: >-
+    Within Southeast Asia, cosmopolitan settlements have been growing and
+    developing 
+
+    around the coastal areas of the South China Sea, Java Sea, and Malacca
+    Strait (the 
+
+    ‘Mediterranean of Asia’, see Figure 5.1), since the beginning of the
+    inter-insular 
+
+    and inter-continental trades dating at least from the first century. In the
+    past, this 
+
+    region was politically unified under various maritime kingdoms,
+    continuously 
+
+    shaped and enriched by various cultural layers and elements, constantly
+    nurtured 
+
+    and developed throughout its history.
+  author:
+    - family: Widodo
+      given: Johannes
+  citation-key: widodo:2009morphogenesis
+  container-title: Southeast Asian Culture and Heritage in a Globalising World
+  ISBN: 978-1-315-61004-7
+  issued:
+    - year: 2009
+  language: eng
+  number-of-pages: '14'
+  publisher: Routledge
+  title: Morphogenesis and hybridity of Southeast Asian coastal cities
+  type: chapter
+
 - id: wilder:2005communication
   author:
     - family: Wilder
@@ -8507,9 +9131,7 @@ references:
   language: eng
   page: 368-380
   source: DOI.org (Crossref)
-  title: >-
-    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
-    smallcaps="smallcaps">AD</span> 800-1300
+  title: Creating urban communities at Kilwa Kisiwani, Tanzania, AD 800-1300
   type: article-journal
   URL: >-
     https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
@@ -8575,9 +9197,7 @@ references:
   language: eng
   page: 759-773
   source: ScienceDirect
-  title: >-
-    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
-    smallcaps="smallcaps">AD</span>
+  title: The public life of the Swahili stonehouse, 14^th^–15^th^ centuries AD
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
   volume: '32'
@@ -8613,6 +9233,27 @@ references:
   type: chapter
   URL: >-
     https://www.cambridge.org/core/product/identifier/9781107110274%23c04652-4-1/type/book_part
+
+- id: wynne-jones:2018swahili
+  call-number: DT429.5.S94
+  citation-key: wynne-jones:2018swahili
+  collection-title: The Routledge worlds
+  editor:
+    - family: Wynne-Jones
+      given: Stephanie
+    - family: LaViolette
+      given: Adria Jean
+  event-place: New York
+  ISBN: 978-1-315-69145-9
+  issued:
+    - year: 2018
+  language: eng
+  number-of-pages: '1'
+  publisher: Routledge
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: The Swahili world
+  type: book
 
 - id: wynne-jones:ruins
   accessed:

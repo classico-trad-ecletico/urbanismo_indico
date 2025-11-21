@@ -239,9 +239,10 @@ circunscreve um universo de práticas e de produtos comuns que se não
 podem reduzir a princípios ou regras absolutas. @ficher:2005paradigmas3
 mostram como, na história das cidades modernas, a vigência de práticas
 paradigmáticas transcende as fronteiras mais limitantes da classificação
-por estilos ou períodos histórico-econômicos. Mesmo as funções de
-determinadas práticas paradigmáticas são facilmente apropriadas e
-ressignificadas para novos contextos socioculturais.
+por estilos ou períodos histórico--econômicos.
+Mesmo as funções de determinadas práticas paradigmáticas
+são facilmente apropriadas e ressignificadas
+para novos contextos socioculturais.
 O paradigma é, portanto, um instrumento de identificação e aproximação,
 em vez de separação e exclusão.
 
@@ -326,11 +327,10 @@ somente de posse de um lote que o proprietário fundiário eurasiático
 pode, então, começar a construir uma edificação ([@fig:picoC]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:pico}
-![Malha viária ideal](media/pico-malha.pdf){#fig:picoA width="9cm" height="5.625cm"}
+![Malha viária ideal](media/pico-malha.pdf){#fig:picoA width="45%"}
+![Parcelamento do solo inicial em lotes de 25 e 50 palmos de testada](media/pico-lotes.pdf){#fig:picoB width="45%"}
 
-![Parcelamento do solo inicial em lotes de 25 e 50 palmos de testada](media/pico-lotes.pdf){#fig:picoB width="9cm" height="5.625cm"}
-
-![Tecido construído existente](media/pico-edificado.pdf){#fig:picoC width="9cm" height="5.625cm"}
+![Tecido construído existente](media/pico-edificado.pdf){#fig:picoC width="30%"}
 
 Elementos urbanos próprios ao paradigma eurasiático:
 tecido urbano das Lajes do Pico, Açores.  
@@ -989,13 +989,13 @@ Na prática, as diferentes fases podem ocorrer simultaneamente,
 mas são aqui separadas para maior clareza explicativa.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:pontianak}
-![implantação inicial com aglomerados em torno de pontos focais](media/pontianak-0.pdf){#fig:pontianak0 width="6cm" height="6cm"}
-![crescimento linear ao longo de caminhos e da orla fluvial](media/pontianak-1.pdf){#fig:pontianak1 width="6cm" height="6cm"}
+![implantação inicial com aglomerados em torno de pontos focais](media/pontianak-0.pdf){#fig:pontianak0 width="45%"}
+![crescimento linear ao longo de caminhos e da orla fluvial](media/pontianak-1.pdf){#fig:pontianak1 width="45%"}
 
-![preenchimento de áreas centrais](media/pontianak-2.pdf){#fig:pontianak2 width="6cm" height="6cm"}
-![ocupação dos perímetros](media/pontianak-3.pdf){#fig:pontianak3 width="6cm" height="6cm"}
+![preenchimento de áreas centrais](media/pontianak-2.pdf){#fig:pontianak2 width="45%"}
+![ocupação dos perímetros](media/pontianak-3.pdf){#fig:pontianak3 width="45%"}
 
-![adensamento até a situação atual](media/pontianak-4.pdf){#fig:pontianak4 width="6cm" height="6cm"}
+![adensamento até a situação atual](media/pontianak-4.pdf){#fig:pontianak4 width="45%"}
 
 Desenvolvimento urbano no núcleo histórico de Pontianak desde o
 séc. XVIII até a atualidade.  
@@ -1239,13 +1239,13 @@ gradual dos interstícios livres entre as construções existentes
 ([@fig:mtaaC; @fig:mtaaD]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:mtaa}
-![](media/mtaa-0.pdf){#fig:mtaaA width="8cm" height="4.5cm"}
-![](media/mtaa-1.pdf){#fig:mtaaB width="8cm" height="4.5cm"}
+![](media/mtaa-0.pdf){#fig:mtaaA width="45%"}
+![](media/mtaa-1.pdf){#fig:mtaaB width="45%"}
 
-![](media/mtaa-2.pdf){#fig:mtaaC width="8cm" height="4.5cm"}
-![](media/mtaa-3.pdf){#fig:mtaaD width="8cm" height="4.5cm"}
+![](media/mtaa-2.pdf){#fig:mtaaC width="45%"}
+![](media/mtaa-3.pdf){#fig:mtaaD width="45%"}
 
-![](media/mtaa-4.pdf){#fig:mtaaE width="8cm" height="4.5cm"}
+![](media/mtaa-4.pdf){#fig:mtaaE width="45%"}
 
 Diagrama da formação e adensamento de um *mtaa*.  
 Fonte: hipótese e desenho do autor com base em análise do
@@ -1471,15 +1471,17 @@ desta pesquisa.
 
 [^2]: A classificação das cidades Suaíli como
 cidades-estado é hegemônica no campo disciplinar, e confirmada por
-exemplo por @baumanova:2022transitory14. @fauvelle:2018rinoceronte,
+exemplo por @baumanova:2022transitory14. @fauvelle:2018rinoceronte, 
+contudo,
 prefere o termo "pequenos estados". No caso das cidades do arquipélago
 Malaio, há cidades que dominam vastos "impérios" comerciais marítimos
-mas que não estendem seu controle administrativo à sua hinterlândia
-agrária, como afirmam @ibrahim:2020patterns13.
+mas que não necessariamente estendem
+o controle administrativo à sua hinterlândia agrária,
+como afirmam @ibrahim:2020patterns13.
 
 [^3]: Ver @whitehand:2009conzen33.
       O exemplar canônico de um método analítico para
       esse paradigma se encontra em @conzen:2022alnwick.
 
 [^4]: Ver também @whitehand:2006research30 e, no contexto
-      luso-brasileiro, @oliveira:2018diferentes
+      luso-brasileiro, @oliveira:2018diferentes.
