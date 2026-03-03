@@ -16,7 +16,6 @@ references:
       given: Benoît
     - family: Mousnier
       given: Mireille
-  event-place: Rennes
   ISBN: 978-2-7535-3221-2
   issued:
     - year: 2015
@@ -39,7 +38,6 @@ references:
     - family: Abu-Lughod
       given: Janet L.
   citation-key: abu-lughod:1991european
-  event-place: New York
   ISBN: 978-0-19-506774-3 978-0-19-505886-4
   issued:
     - year: 1991
@@ -48,9 +46,7 @@ references:
   publisher: Oxford University Press
   publisher-place: New York
   source: K10plus ISBN
-  title: >-
-    Before European hegemony: the world system <span
-    smallcaps="smallcaps">A.D.</span> 1250-1350
+  title: 'Before European hegemony: the world system A.D. 1250-1350'
   title-short: Before European hegemony
   type: book
 
@@ -131,7 +127,6 @@ references:
   editor:
     - family: Ajayi
       given: J.F. Ade
-  event-place: Brasília
   ISBN: >-
     978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
     978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
@@ -166,7 +161,6 @@ references:
   citation-key: alexander:2002process
   collection-number: '2'
   collection-title: The nature of order
-  event-place: Berkeley, Cal.
   ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
   issued:
     - year: 2002
@@ -255,7 +249,6 @@ references:
   editor:
     - family: Demissie
       given: Fassil
-  event-place: Farnham, Surrey ; Burlington, Ver.
   ISBN: 978-0-7546-7512-9
   issued:
     - year: 2012
@@ -272,7 +265,6 @@ references:
     - family: Kothe
       given: Flávio R.
   citation-key: arte:2007
-  event-place: Brasília
   ISBN: 978-85-230-1176-5
   issued:
     - year: 2007
@@ -319,7 +311,6 @@ references:
     - family: Rossi
       given: Corinna
   citation-key: aste:2020innovative
-  event-place: Cham
   ISBN: 978-3-030-33323-2 978-3-030-33322-5 978-3-030-33324-9 978-3-030-33325-6
   issued:
     - year: 2020
@@ -375,7 +366,6 @@ references:
       given: Edmund N.
   citation-key: bacon:1974design
   edition: Rev. ed.
-  event-place: New York
   issued:
     - year: 1974
   language: eng
@@ -487,7 +477,6 @@ references:
   editor:
     - family: Oliveira
       given: Vítor
-  event-place: Cham
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
@@ -499,6 +488,52 @@ references:
   title: The importance of urban form as an object of study
   type: chapter
   URL: http://link.springer.com/10.1007/978-3-319-76126-8
+
+- id: bauch:2025climate-driven6
+  abstract: >-
+    The first wave of the second plague pandemic, the Black Death, claimed much
+    of Europe’s human population in just a few years after 1347 CE. While it is
+    accepted that the causative bacterium Yersinia pestis originated from
+    wildlife rodent populations in central Asia and reached Europe via the Black
+    Sea region, reasons for the timing, spread and virulence of the onset of the
+    Black Death are still debated. Here, we argue that a post-volcanic climate
+    downturn and trans-Mediterranean famine from 1345–1347 CE forced the Italian
+    maritime republics of Venice, Genoa and Pisa to activate their
+    well-established supply network and import grain from the Mongols of the
+    Golden Horde around the Sea of Azov in 1347 CE. This climate-driven change
+    in long-distance grain trade not only prevented large parts of Italy from
+    starvation but also introduced the plague bacterium to Mediterranean
+    harbours and fueled its rapid dispersal across much of Europe.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 29
+  author:
+    - family: Bauch
+      given: Martin
+    - family: Büntgen
+      given: Ulf
+  citation-key: bauch:2025climate-driven6
+  container-title: Communications Earth & Environment
+  container-title-short: Commun Earth Environ
+  DOI: 10.1038/s43247-025-02964-0
+  ISSN: 2662-4435
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 12
+      day: 4
+  language: eng
+  license: 2025 The Author(s)
+  page: '986'
+  publisher: Nature Publishing Group
+  source: www.nature.com
+  title: >-
+    Climate-driven changes in Mediterranean grain trade mitigated famine but
+    introduced the Black Death to medieval Europe
+  type: article-journal
+  URL: https://www.nature.com/articles/s43247-025-02964-0
+  volume: '6'
 
 - id: baumanova:2022comparative
   abstract: "The final chapter of this book takes a comparative perspective on the case studies and analyses provided in the preceding papers that focused on the East African coast, North-West Africa (Morocco) and the Iberian Peninsula from the precolonial to the colonial periods. The contribution of comparative approaches to historical archaeologies is\_reviewed, while highlighting their relevance for the themes of urbanism and colonialism. The focus remains on the roles of the most important public features identified throughout the book, such as mosques, markets and streets, while offering comparative analyses of their social-spatial character and potential. The semi-public function as a component of specific spaces in otherwise residential or private buildings is analysed in detail. Reflecting on the importance of the courtyard house in Islamic towns, the social role of the courtyard is analysed with the use of space syntax on two contemporary sites at Gede, Kenya and Siyasa, Spain. The theoretical models of colonial urbanism and Islamic urbanism are discussed in reflection on their established characteristics and on the use of these concepts in urban studies and historical archaeology."
@@ -516,7 +551,6 @@ references:
   editor:
     - family: Baumanova
       given: Monika
-  event-place: Cham
   ISBN: 978-3-031-14697-8
   issued:
     - year: 2022
@@ -543,7 +577,6 @@ references:
       given: Monika
   container-title: Urban public space in colonial transformations
   DOI: 10.1007/978-3-031-14697-8_3
-  event-place: Cham
   ISBN: 978-3-031-14696-1 978-3-031-14697-8
   issued:
     - year: 2022
@@ -628,7 +661,6 @@ references:
     - family: Baumanova
       given: Monika
   citation-key: baumanova:2022urban
-  event-place: Cham
   ISBN: 978-3-031-14697-8
   issued:
     - year: 2022
@@ -735,7 +767,7 @@ references:
   issued:
     - year: 2015
       month: 6
-  language: en
+  language: eng
   page: 59-75
   source: Zotero
   title: >-
@@ -791,7 +823,6 @@ references:
       given: Homi K.
   call-number: PN761 .H43 1994
   citation-key: bhabha:1994location
-  event-place: London ; New York
   ISBN: 978-0-415-01635-3 978-0-415-05406-5
   issued:
     - year: 1994
@@ -809,7 +840,6 @@ references:
       given: Homi K.
   citation-key: bhabha:2010local
   collection-title: Humanitas
-  event-place: Belo Horizonte
   ISBN: 978-85-7041-861-6
   issued:
     - year: 2010
@@ -835,7 +865,6 @@ references:
       given: William Cunningham
   call-number: HT169.T332 Z363 2011
   citation-key: bissell:2011urban
-  event-place: Bloomington, In.
   ISBN: 978-0-253-22255-8 978-0-253-35543-0
   issued:
     - year: 2011
@@ -853,7 +882,6 @@ references:
       given: James M.
   call-number: D16.9 .B49 1992
   citation-key: blaut:1993colonizers
-  event-place: New York
   ISBN: 978-0-89862-349-9 978-0-89862-348-2
   issued:
     - year: 1993
@@ -972,7 +1000,6 @@ references:
     - family: Hogenberg
       given: Frans
   citation-key: braun:1575civitates
-  event-place: Antwerpia
   issued:
     - year: 1575
   language: lat
@@ -1064,7 +1091,6 @@ references:
     - family: Brunel
       given: Pierre
   citation-key: brunel:1983quest-ce
-  event-place: Paris
   ISBN: 978-2-200-31193-3
   issued:
     - year: 1983
@@ -1087,7 +1113,6 @@ references:
     - family: Burton
       given: Richard Francis
   citation-key: burton:1872zanzibar1
-  event-place: London
   issued:
     - year: 1872
   language: eng
@@ -1151,7 +1176,6 @@ references:
       given: Gian Luigi
   citation-key: caniggia:2008lettura
   edition: '2'
-  event-place: Firenze
   ISBN: 978-88-6055-182-5
   issued:
     - year: 2008
@@ -1176,7 +1200,6 @@ references:
     - family: Cunha
       given: Mafalda Soares
       dropping-particle: da
-  event-place: Lisboa
   issued:
     - year: 1999
   language: por
@@ -1200,7 +1223,6 @@ references:
   editor:
     - family: Cataldi
       given: Giancarlo
-  event-place: Firenze
   issued:
     - year: 1989
   language: ita
@@ -1226,7 +1248,6 @@ references:
   editor:
     - family: Oliveira
       given: Vítor
-  event-place: Cham
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
@@ -1245,7 +1266,6 @@ references:
       given: R.
   call-number: HT147.I5 C38 1996
   citation-key: champakalakshmi:1996trade
-  event-place: Delhi ; New York
   ISBN: 978-0-19-563870-7
   issued:
     - year: 1996
@@ -1322,7 +1342,6 @@ references:
       given: K. N.
   call-number: HF3939.6 .C47 1985
   citation-key: chaudhuri:1985trade
-  event-place: Cambridge ; New York
   ISBN: 978-0-521-24226-4 978-0-521-28542-1
   issued:
     - year: 1985
@@ -1406,7 +1425,6 @@ references:
       given: Innocent
     - family: Mabeza
       given: Christopher
-  event-place: Mankon
   ISBN: 978-9956-550-05-0
   issued:
     - year: 2019
@@ -1428,7 +1446,6 @@ references:
       given: Fernando
   citation-key: chueca:1977breve
   edition: '4'
-  event-place: Madrid
   ISBN: 978-84-206-3519-4
   issued:
     - year: 1977
@@ -1438,6 +1455,8 @@ references:
   source: Open WorldCat
   title: Breve historia del urbanismo
   type: book
+  URL: >-
+    https://archive.org/details/chueca-goitia-f.-breve-historia-del-urbanismo-1977
 
 - id: clarke:1976land
   abstract: >-
@@ -1534,7 +1553,6 @@ references:
   editor:
     - family: Coelho
       given: Carlos Dias
-  event-place: Lisboa
   ISBN: 978-972-8479-79-4
   issued:
     - year: 2014
@@ -1583,7 +1601,6 @@ references:
   editor:
     - family: Oliveira
       given: Vítor
-  event-place: Cham
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
@@ -1611,7 +1628,6 @@ references:
   editor:
     - family: Oliveira
       given: Vítor
-  event-place: Cham
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
@@ -1633,13 +1649,13 @@ references:
     - family: Conzen
       given: M. R. G.
   citation-key: conzen:2022alnwick
-  event-place: Porto
   ISBN: 978-989-33-2888-0
   issued:
     - year: 2022
   language: por
   original-date:
-    - year: 1960
+    date-parts:
+      - - '1960'
   publisher: Urban Forms
   publisher-place: Porto
   source: DOI.org (Crossref)
@@ -1672,7 +1688,6 @@ references:
       given: Alberto
       dropping-particle: da
   citation-key: costa:2011enxada
-  event-place: Rio de Janeiro
   ISBN: 978-85-209-2623-9
   issued:
     - year: 2011
@@ -1698,7 +1713,6 @@ references:
       given: Vítor
     - family: Torres
       given: Cláudio
-  event-place: 'Lisboa : Mértola'
   ISBN: 978-972-8479-85-5
   issued:
     - year: 2015
@@ -1736,7 +1750,6 @@ references:
   editor:
     - family: Saran
       given: Shyam
-  event-place: Singapore
   ISBN: 978-981-10-7317-5
   issued:
     - year: 2018
@@ -1760,7 +1773,6 @@ references:
   editor:
     - family: Demissie
       given: Fassil
-  event-place: Farnham, Surrey ; Burlington, Ver.
   ISBN: 978-0-7546-7512-9
   issued:
     - year: 2012
@@ -1803,7 +1815,6 @@ references:
   call-number: NA7572.5.I4 D47 2012
   citation-key: desai:2012bungalow
   collection-title: Ashgate studies in architecture series
-  event-place: Farnham, Surrey ; Burlington, Ver.
   ISBN: 978-1-4094-2738-4
   issued:
     - year: 2012
@@ -1877,7 +1888,6 @@ references:
       given: Guillermo
     - family: Gómez-Gordo Villa
       given: Rebeca
-  event-place: Lisboa
   ISBN: 978-989-33-4329-6
   issued:
     - year: 2023
@@ -2132,7 +2142,6 @@ references:
       given: Günter
     - family: Mokhiber
       given: James
-  event-place: Innsbruck, Austria
   ISBN: 978-3-902811-96-7
   issued:
     - year: 2013
@@ -2151,7 +2160,6 @@ references:
       given: Brian M.
   call-number: QC989.A1 F34 2000
   citation-key: fagan:2000little
-  event-place: New York
   ISBN: 978-0-465-02271-7
   issued:
     - year: 2000
@@ -2192,7 +2200,6 @@ references:
   call-number: QC981.8.G56 F34 2008
   citation-key: fagan:2008great
   edition: 1st U.S. ed
-  event-place: New York
   ISBN: 978-1-59691-392-9
   issued:
     - year: 2008
@@ -2211,7 +2218,6 @@ references:
       given: François-Xavier
   call-number: DT25 .F38 2013
   citation-key: fauvelle-aymar:2013rhinoceros
-  event-place: Paris
   ISBN: 978-2-36279-045-4
   issued:
     - year: 2013
@@ -2234,7 +2240,6 @@ references:
       given: François-Xavier
   citation-key: fauvelle:2018golden
   DOI: 10.2307/j.ctvc77kzq
-  event-place: Princeton, N.J.
   ISBN: 978-0-691-18394-7
   issued:
     - year: 2018
@@ -2257,7 +2262,6 @@ references:
     - family: Fauvelle
       given: François-Xavier
   citation-key: fauvelle:2018rinoceronte
-  event-place: São Paulo
   ISBN: 978-85-314-1699-6
   issued:
     - year: 2018
@@ -2297,7 +2301,6 @@ references:
   collection-title: Histories of the African Middle Ages
   container-title: The Golden Rhinoceros
   DOI: 10.2307/j.ctvc77kzq.25
-  event-place: Princeton, N.J.
   ISBN: 978-0-691-18126-4
   issued:
     - year: 2018
@@ -2328,7 +2331,6 @@ references:
       given: François-Xavier
     - family: Surun
       given: Isabelle
-  event-place: Paris
   ISBN: 978-2-7467-5114-9
   issued:
     - year: 2019
@@ -2414,7 +2416,6 @@ references:
       given: Gun
   citation-key: firzal:2016architecture
   container-title: <span class="smallcaps">ISVS–8</span>
-  event-place: Makassar
   event-title: International Seminar on Vernacular Settlements
   issued:
     - year: 2016
@@ -2708,7 +2709,6 @@ references:
       non-dropping-particle: van
   citation-key: folkers:2019modern
   DOI: 10.1007/978-3-030-01075-1_3
-  event-place: Cham
   ISBN: 978-3-030-01075-1
   issued:
     - year: 2019
@@ -2743,7 +2743,6 @@ references:
     Modern Architecture in Africa: Practical Encounters with Intricate African
     Modernity
   DOI: 10.1007/978-3-030-01075-1_3
-  event-place: Cham
   ISBN: 978-3-030-01075-1
   issued:
     - year: 2019
@@ -3030,7 +3029,6 @@ references:
     - family: Fustel de Coulanges
       given: Numa Denis
   citation-key: fustel:2005cidade
-  event-place: São Paulo
   ISBN: 978-85-336-2048-3
   issued:
     - year: 2005
@@ -3093,7 +3091,6 @@ references:
   call-number: N7380 .G37 2002
   citation-key: garlake:2002early
   collection-title: Oxford history of art
-  event-place: Oxford
   ISBN: 978-0-19-284261-9
   issued:
     - year: 2002
@@ -3217,7 +3214,6 @@ references:
     - family: Ghaidan
       given: Usam Isa
   citation-key: ghaidan:1974lamu
-  event-place: Nairobi
   genre: Thesis (M.A. in Architecture)
   issued:
     - year: 1974
@@ -3265,7 +3261,6 @@ references:
       given: Günter
     - family: Mokhiber
       given: James
-  event-place: Innsbruck, Austria
   ISBN: 978-3-902811-96-7
   issued:
     - year: 2013
@@ -3286,7 +3281,6 @@ references:
     - family: Le Goff
       given: Jacques
   citation-key: goff:1992apogeu
-  event-place: São Paulo
   ISBN: 978-85-336-0127-7
   issued:
     - year: 1992
@@ -3332,7 +3326,6 @@ references:
   editor:
     - family: Gray
       given: Richard
-  event-place: Cambridge
   ISBN: 978-0-521-20413-2
   issued:
     - year: 2000
@@ -3606,7 +3599,6 @@ references:
       given: Attilio
     - family: Raymond
       given: André
-  event-place: Leiden ; Boston
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
@@ -3669,7 +3661,6 @@ references:
   call-number: DT3025.G84 H35 2006
   citation-key: hall:2006great
   collection-title: Digging for the past
-  event-place: New York
   ISBN: 978-0-19-515773-4
   issued:
     - year: 2006
@@ -3760,7 +3751,6 @@ references:
     - family: Hellerström
       given: Tovel
   citation-key: hellerstrom:2021invisible
-  event-place: Lund
   genre: Degree project in Architecture
   issued:
     - year: 2021
@@ -3852,6 +3842,52 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/989177
   volume: '37'
+
+- id: hobsbawm:1975capital
+  author:
+    - family: Hobsbawm
+      given: Eric J.
+  citation-key: hobsbawm:1975capital
+  ISBN: 978-0-7474-0291-6
+  issued:
+    - year: 1988
+  language: eng
+  publisher: Cardinal
+  publisher-place: London
+  source: Open WorldCat
+  title: The age of capital 1848-1875
+  type: book
+
+- id: hobsbawm:1985empire
+  author:
+    - family: Hobsbawm
+      given: Eric J.
+  citation-key: hobsbawm:1985empire
+  ISBN: 978-0-297-81635-5
+  issued:
+    - year: 1985
+  language: eng
+  publisher: Weidenfeld & Nicolson
+  publisher-place: London
+  source: Open WorldCat
+  title: 'The age of empire: 1875- 1914'
+  title-short: The age of empire
+  type: book
+
+- id: hobsbawm:1989empire
+  author:
+    - family: Hobsbawm
+      given: Eric J.
+  citation-key: hobsbawm:1989empire
+  ISBN: 978-0-8446-6925-0
+  issued:
+    - year: 1989
+  language: eng
+  publisher: Vintage
+  publisher-place: New York
+  source: Open WorldCat
+  title: The age of Empire 1875-1914
+  type: book
 
 - id: hooke:1927diffusionism29
   accessed:
@@ -4261,7 +4297,6 @@ references:
   call-number: NA200
   citation-key: ingersoll:2018world
   edition: '2'
-  event-place: New York
   ISBN: 978-0-19-064647-9
   issued:
     - year: 2018
@@ -4354,7 +4389,6 @@ references:
       given: Kathleen
   citation-key: james-chakraborty:2014africa
   container-title: Architecture since 1400
-  event-place: Minneapolis
   ISBN: 978-0-8166-7397-1
   issued:
     - year: 2014
@@ -4398,7 +4432,6 @@ references:
       given: Kathleen
   call-number: NA200 .J36 2014
   citation-key: james-chakraborty:2014architecture
-  event-place: Minneapolis
   ISBN: 978-0-8166-7396-4 978-0-8166-7397-1
   issued:
     - year: 2014
@@ -4428,7 +4461,6 @@ references:
       given: Mark
   call-number: GN799.B8 J39 2013
   citation-key: jarzombek:2013architecture
-  event-place: Hoboken, N.J.
   ISBN: 978-1-118-14210-3
   issued:
     - year: 2013
@@ -4455,7 +4487,6 @@ references:
       given: Attilio
     - family: Raymond
       given: André
-  event-place: Leiden ; Boston
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
@@ -4616,7 +4647,6 @@ references:
   editor:
     - family: Lewis
       given: Geoffrey L.
-  event-place: London
   issued:
     date-parts:
       - - '1957'
@@ -4646,7 +4676,6 @@ references:
       given: J.
     - family: Robin
       given: D.
-  event-place: Paris
   issued:
     - year: 2013
   language: eng
@@ -4664,7 +4693,6 @@ references:
   editor:
     - family: Khair
       given: Tabish
-  event-place: Bloomington, Ind.
   ISBN: 978-0-253-21821-6
   issued:
     - year: 2005
@@ -4787,7 +4815,6 @@ references:
   editor:
     - family: Ajayi
       given: J.F. Ade
-  event-place: Brasília
   ISBN: >-
     978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
     978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
@@ -4956,7 +4983,6 @@ references:
       given: Dhiru A.
     - family: Hetzel
       given: Peter J.
-  event-place: Washington, <span smallcaps="smallcaps">D.C.</span>
   ISBN: 978-1-59726-578-2
   issued:
     - year: 2009
@@ -4974,7 +5000,6 @@ references:
       given: Thomas S.
   citation-key: kuhn:1998estrutura
   edition: '5'
-  event-place: São Paulo
   ISBN: 978-85-273-0111-4
   issued:
     - year: 1998
@@ -5004,7 +5029,6 @@ references:
       given: Carolina
     - family: Correa
       given: Denise
-  event-place: Rio de Janeiro
   ISBN: 978-65-87913-62-9
   issued:
     - year: 2021
@@ -5085,7 +5109,6 @@ references:
   editor:
     - family: Stahl
       given: Ann Brower
-  event-place: Malden, Mass.
   ISBN: 978-1-4051-0155-4 978-1-4051-0156-1
   issued:
     - year: 2005
@@ -5203,7 +5226,6 @@ references:
       given: Wen Hao
   citation-key: lee:2016history
   DOI: 10.13140/RG.2.1.1719.3367
-  event-place: Brisbane
   issued:
     - year: 2016
   language: eng
@@ -5223,7 +5245,6 @@ references:
   collection-number: '1'
   collection-title: Société et urbanisme
   edition: '2'
-  event-place: Paris
   issued:
     - year: 1968
   language: fre
@@ -5239,7 +5260,6 @@ references:
     - family: Lefebvre
       given: Henri
   citation-key: lefebvre:2001direito
-  event-place: São Paulo
   ISBN: 978-85-88208-97-1
   issued:
     - year: 2001
@@ -5269,7 +5289,6 @@ references:
   editor:
     - family: Lewis
       given: Geoffrey L.
-  event-place: London
   issued:
     date-parts:
       - - '1957'
@@ -5290,7 +5309,6 @@ references:
     - family: Lim
       given: Jee Yuan
   citation-key: lim:1991malay
-  event-place: Pinang
   ISBN: 978-967-9966-04-6
   issued:
     - year: 1991
@@ -5311,7 +5329,6 @@ references:
       given: Kevin
   citation-key: lynch:1960image
   collection-title: Publication of the Joint Center for Urban Studies
-  event-place: Cambridge, Mass.
   ISBN: 978-0-262-12004-3 978-0-262-62001-7
   issued:
     - year: 1960
@@ -5329,7 +5346,6 @@ references:
       given: Kevin
   call-number: HT166 .L96 1984
   citation-key: lynch:1981theory
-  event-place: Cambridge, Mass.
   ISBN: 978-0-262-62046-8 978-0-262-12085-2
   issued:
     - year: 1981
@@ -5368,6 +5384,36 @@ references:
   URL: http://www.jstor.org/stable/988523
   volume: '28'
 
+- id: mann:2002little
+  author:
+    - family: Mann
+      given: Robert E.
+  call-number: 363.700 3
+  citation-key: mann:2002little
+  collection-editor:
+    - family: Munn
+      given: Robert Edward
+  collection-number: '1'
+  collection-title: Encyclopedia of global environmental change
+  container-title: >-
+    The Earth system: physical and chemical dimensions of global environmental
+    change
+  editor:
+    - family: MacCracken
+      given: Michael C.
+    - family: Perry
+      given: John S.
+  ISBN: 978-0-471-97796-4
+  issued:
+    - year: 2002
+  language: eng
+  page: 504-509
+  publisher: J. Wiley & sons
+  publisher-place: Chichester
+  source: BnF ISBN
+  title: Little ice age
+  type: chapter
+
 - id: manyeruke:2019politics
   abstract: >-
     In the past few decades, community resilience has become a critical topic
@@ -5399,7 +5445,6 @@ references:
       given: Innocent
     - family: Mabeza
       given: Christopher
-  event-place: Mankon
   ISBN: 978-9956-550-05-0
   issued:
     - year: 2019
@@ -5465,7 +5510,6 @@ references:
       given: Peter
   call-number: NA7467.6.S4 M37 2002
   citation-key: mark:2002portuguese
-  event-place: Bloomington, In.
   ISBN: 978-0-253-34155-6
   issued:
     - year: 2002
@@ -5532,7 +5576,6 @@ references:
       given: José
     - family: Rossa
       given: Walter
-  event-place: Lisboa
   ISBN: 978-989-95758-5-1
   issued:
     - year: 2010
@@ -5614,6 +5657,90 @@ references:
   URL: https://doi.org/10.1080/13264826.2017.1316752
   volume: '21'
 
+- id: miller:2012abrupt39
+  abstract: >-
+    Northern Hemisphere summer temperatures over the past 8000 years have been
+    paced by the slow decrease in summer insolation resulting from the
+    precession of the equinoxes. However, the causes of superposed century‐scale
+    cold summer anomalies, of which the Little Ice Age (LIA) is the most
+    extreme, remain debated, largely because the natural forcings are either
+    weak or, in the case of volcanism, short lived. Here we present precisely
+    dated records of ice‐cap growth from Arctic Canada and Iceland showing that
+    LIA summer cold and ice growth began abruptly between 1275 and 1300 AD,
+    followed by a substantial intensification 1430–1455 AD. Intervals of sudden
+    ice growth coincide with two of the most volcanically perturbed half
+    centuries of the past millennium. A transient climate model simulation shows
+    that explosive volcanism produces abrupt summer cooling at these times, and
+    that cold summers can be maintained by sea‐ice/ocean feedbacks long after
+    volcanic aerosols are removed. Our results suggest that the onset of the LIA
+    can be linked to an unusual 50‐year‐long episode with four large sulfur‐rich
+    explosive eruptions, each with global sulfate loading >60 Tg. The
+    persistence of cold summers is best explained by consequent sea‐ice/ocean
+    feedbacks during a hemispheric summer insolation minimum; large changes in
+    solar irradiance are not required.
+              , 
+                Key Points
+                
+                  
+                    
+                      Little Ice Age began abruptly in two steps
+                    
+                    
+                      Decadally paced explosive volcanism can explain the onset
+                    
+                    
+                      A sea‐ice/ocean feedback can sustain the abrupt cooling
+  accessed:
+    - year: 2026
+      month: 1
+      day: 9
+  author:
+    - family: Miller
+      given: Gifford H.
+    - family: Geirsdóttir
+      given: Áslaug
+    - family: Zhong
+      given: Yafang
+    - family: Larsen
+      given: Darren J.
+    - family: Otto‐Bliesner
+      given: Bette L.
+    - family: Holland
+      given: Marika M.
+    - family: Bailey
+      given: David A.
+    - family: Refsnider
+      given: Kurt A.
+    - family: Lehman
+      given: Scott J.
+    - family: Southon
+      given: John R.
+    - family: Anderson
+      given: Chance
+    - family: Björnsson
+      given: Helgi
+    - family: Thordarson
+      given: Thorvaldur
+  citation-key: miller:2012abrupt39
+  container-title: Geophysical Research Letters
+  container-title-short: Geophysical Research Letters
+  DOI: 10.1029/2011GL050168
+  ISSN: 0094-8276, 1944-8007
+  issue: '2'
+  issued:
+    - year: 2012
+      month: 1
+  language: eng
+  license: http://onlinelibrary.wiley.com/termsAndConditions#vor
+  page: 2011GL050168
+  source: DOI.org (Crossref)
+  title: >-
+    Abrupt onset of the Little Ice Age triggered by volcanism and sustained by
+    sea‐ice/ocean feedbacks
+  type: article-journal
+  URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GL050168
+  volume: '39'
+
 - id: misnat:2018re-adaptation7
   abstract: "Home is a basic need of human life and plays an important role in wellbeing human life. The quality of design should meet the needs and way of life as every human being deserves to enjoy it. Today's housing design failed to respond in meeting the needs of the occupants. The designs are now too much influenced from the west and contrary to the needs of the local design, especially the Malays. The space for the Malay Muslims is the reflection of the fulfilment of its way of life. The occupants are experiencing\_ multiple unfavourable housing issues. This paper highlight the housing issues and conditions on how certain issues of housing affordability affect societal wellbeing. The writing of this study will discuss the issues and problems of residential low and medium cost-of-modern design houses. Forty-five willing\_ respondents were randomly selected to answer questionnaires based on their willingness and the data were analysed using SPSS statistics to interpret these issues. The findings will be the basis for addressing the main issues and to proposed the application of the conceptual Malay heritage design in the design towards the creation of quality interior design dwelling."
   accessed:
@@ -5694,7 +5821,6 @@ references:
     - family: Morris
       given: A. E. J
   citation-key: morris:1985historia
-  event-place: Barcelona
   ISBN: 978-84-252-1181-2
   issued:
     - year: 1985
@@ -5713,7 +5839,6 @@ references:
     - family: Mumford
       given: Lewis
   citation-key: mumford:1998cidade
-  event-place: São Paulo
   ISBN: 978-85-336-0847-4
   issued:
     - year: 1998
@@ -5725,12 +5850,36 @@ references:
   title-short: A cidade na história
   type: book
 
+- id: munn:2002encyclopedia
+  call-number: 363.700 3
+  citation-key: munn:2002encyclopedia
+  collection-editor:
+    - family: Munn
+      given: Robert Edward
+  collection-number: '1'
+  collection-title: Encyclopedia of global environmental change
+  editor:
+    - family: MacCracken
+      given: Michael C.
+    - family: Perry
+      given: John S.
+  ISBN: 978-0-471-97796-4
+  issued:
+    - year: 2002
+  language: eng
+  publisher: J. Wiley & sons
+  publisher-place: Chichester
+  source: BnF ISBN
+  title: >-
+    The Earth system: physical and chemical dimensions of global environmental
+    change
+  type: book
+
 - id: muratori:1967civilta
   author:
     - family: Muratori
       given: Saverio
   citation-key: muratori:1967civilta
-  event-place: Roma
   issued:
     - year: 1967
   language: ita
@@ -5866,7 +6015,6 @@ references:
       given: Ana
     - family: Bandarin
       given: Francesco
-  event-place: Cham
   ISBN: 978-981-10-8887-2
   issued:
     - year: 2019
@@ -5898,7 +6046,6 @@ references:
       given: Attilio
     - family: Raymond
       given: André
-  event-place: Leiden ; Boston
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
@@ -6013,7 +6160,6 @@ references:
     - family: Haraguchi
       given: Sachiko
   citation-key: oers:2013swahili
-  event-place: Paris
   issued:
     - year: 2013
       month: 1
@@ -6037,7 +6183,6 @@ references:
   editor:
     - family: Ogot
       given: Bethwell Alan
-  event-place: Brasília
   ISBN: 978-85-7652-127-3
   issued:
     - year: 2010
@@ -6080,7 +6225,6 @@ references:
       given: Vítor
   citation-key: oliveira:2016urban
   collection-title: The Urban Book Series
-  event-place: Cham
   ISBN: 978-3-319-32081-6
   issued:
     - year: 2016
@@ -6100,7 +6244,6 @@ references:
   editor:
     - family: Oliveira
       given: Vítor
-  event-place: Porto
   ISBN: 978-989-20-8164-9
   issued:
     - year: 2018
@@ -6123,7 +6266,6 @@ references:
   editor:
     - family: Oliveira
       given: Vítor
-  event-place: Cham
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
@@ -6175,7 +6317,6 @@ references:
   editor:
     - family: Oliver
       given: Roland Anthony
-  event-place: Cambridge ; New York
   ISBN: 978-0-521-20981-6
   issued:
     - year: 1975
@@ -6198,7 +6339,6 @@ references:
       given: F. O.
   citation-key: osasona:2011ile
   DOI: 10.2495/STR110091
-  event-place: Chianciano Terme, Tuscany, Italy
   event-title: >-
     <span style="font-variant:all-small-caps"
     smallcaps="smallcaps">STREMAH</span> 2011
@@ -6216,6 +6356,22 @@ references:
   title-short: '*Ile Timi*'
   type: paper-conference
   URL: http://library.witpress.com/viewpaper.asp?pcode=STR11-009-1
+
+- id: palazzo:2002mitos
+  author:
+    - family: Palazzo
+      given: Carmen Licia
+  citation-key: palazzo:2002mitos
+  edition: '2'
+  issued:
+    - year: 2002
+  language: por
+  publisher: Edipucrs
+  publisher-place: Porto Alegre
+  title: >-
+    Entre mitos, utopias e razão: Os olhares franceses sobre o Brasil (séculos
+    XVI a XVIII)
+  type: book
 
 - id: palazzo:2021vernacular
   abstract: >-
@@ -6264,7 +6420,6 @@ references:
       given: Philippe
   call-number: '718.04'
   citation-key: panerai:2006analise
-  event-place: Brasília
   ISBN: 978-85-230-0923-6
   issued:
     - year: 2006
@@ -6316,7 +6471,6 @@ references:
   citation-key: pereira:2019reshaping
   collection-number: '2'
   collection-title: Creativity, Heritage and the City
-  event-place: Cham
   ISBN: 978-981-10-8887-2
   issued:
     - year: 2019
@@ -6419,7 +6573,6 @@ references:
   editor:
     - family: Petruccioli
       given: Attilio
-  event-place: Cambridge, Mass.
   issued:
     - year: 1998
   language: eng
@@ -6454,7 +6607,6 @@ references:
       given: Attilo
     - family: Pirani
       given: Khalil K
-  event-place: Florence
   ISBN: 978-1-136-85131-5
   issued:
     - year: 2013
@@ -6691,7 +6843,6 @@ references:
       given: François-Xavier
     - family: Surun
       given: Isabelle
-  event-place: Lisboa
   ISBN: 978-989-702-566-2
   issued:
     - year: 2020
@@ -6755,7 +6906,6 @@ references:
     - family: Qing
       given: M.
   citation-key: qing:2001historic
-  event-place: Hong Kong
   genre: Ph.D. Dissertation
   issued:
     - year: 2001
@@ -6776,7 +6926,6 @@ references:
       given: Friedrich
   citation-key: ragette:2012traditional
   edition: '3'
-  event-place: Stuttgart
   ISBN: 978-3-932565-30-4
   issued:
     - year: 2012
@@ -6845,7 +6994,6 @@ references:
       given: Stephen C.
     - family: Steiner
       given: Christopher B.
-  event-place: Hoboken, N.J.
   ISBN: 978-1-4443-3522-4
   issued:
     - year: 2010
@@ -6864,7 +7012,6 @@ references:
     - family: Rapoport
       given: Amos
   citation-key: rapoport:1969house
-  event-place: Englewood Cliffs, N.J.
   issued:
     - year: 1969
   language: eng
@@ -6994,7 +7141,6 @@ references:
       given: Attilio
     - family: Raymond
       given: André
-  event-place: Leiden ; Boston
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
@@ -7102,6 +7248,71 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/1360236032000134835
   volume: '8'
+
+- id: roy:1967histoire
+  author:
+    - family: Le Roy Ladurie
+      given: Emmanuel
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 8-R-63469 (26)
+  citation-key: roy:1967histoire
+  collection-title: Nouvelle bibliothèque scientifique
+  issued:
+    - year: 1967
+  language: fre
+  number-of-pages: '381'
+  publisher: Flammarion
+  publisher-place: Paris
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Histoire du climat depuis l'an mil
+  type: book
+
+- id: roy:1983histoire
+  author:
+    - family: Le Roy Ladurie
+      given: Emmanuel
+  citation-key: roy:1983histoire
+  collection-number: '122'
+  collection-title: Collection champs
+  edition: '2'
+  ISBN: 978-2-08-081122-6
+  issued:
+    - year: 1983
+  language: fre
+  number-of-pages: '254'
+  original-date:
+    date-parts:
+      - - '1967'
+  publisher: Flammarion
+  publisher-place: Paris
+  source: K10plus ISBN
+  title: Histoire du climat depuis l'an mil
+  type: book
+  volume: '2'
+
+- id: roy:1983histoire1
+  author:
+    - family: Le Roy Ladurie
+      given: Emmanuel
+  citation-key: roy:1983histoire1
+  collection-number: '122'
+  collection-title: Collection champs
+  edition: '2'
+  ISBN: 978-2-08-081122-6
+  issued:
+    - year: 1983
+  language: fre
+  number-of-pages: '254'
+  original-date:
+    date-parts:
+      - - '1967'
+  publisher: Flammarion
+  publisher-place: Paris
+  source: K10plus ISBN
+  title: Histoire du climat depuis l'an mil
+  type: book
+  volume: '1'
 
 - id: sahabuddin:2012establishment1
   accessed:
@@ -7328,7 +7539,6 @@ references:
   editor:
     - family: Ogot
       given: Bethwell Alan
-  event-place: Brasília
   ISBN: 978-85-7652-127-3
   issued:
     - year: 2010
@@ -7351,7 +7561,6 @@ references:
   editor:
     - family: Ajayi
       given: J.F. Ade
-  event-place: Brasília
   ISBN: >-
     978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
     978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
@@ -7430,7 +7639,6 @@ references:
     - family: Saoud
       given: Rabah
   citation-key: saoud:2001introduction
-  event-place: Manchester
   issued:
     - year: 2002
       month: 8
@@ -7446,7 +7654,6 @@ references:
   editor:
     - family: Saran
       given: Shyam
-  event-place: Singapore
   ISBN: 978-981-10-7317-5 978-981-10-7316-8
   issued:
     - year: 2018
@@ -7496,7 +7703,6 @@ references:
       given: Peter J. M.
     - family: Domenig
       given: Gaudenz
-  event-place: Leiden Boston
   ISBN: 978-90-6718-205-8 978-90-04-48325-5
   issued:
     - year: 2003
@@ -7525,7 +7731,6 @@ references:
       given: Gaudenz
     - family: Wessing
       given: Robert
-  event-place: Leiden
   ISBN: 978-90-04-25398-8
   issued:
     - year: 2008
@@ -7590,7 +7795,6 @@ references:
     - family: Secchi
       given: Bernardo
   citation-key: secchi:2006primeira
-  event-place: São Paulo
   ISBN: 978-85-273-0773-4
   issued:
     - year: 2006
@@ -7715,7 +7919,6 @@ references:
       given: Monica
   citation-key: smith:2010introduction
   container-title: The social construction of ancient cities
-  event-place: Washington, D.C.
   issued:
     - year: 2010
   language: eng
@@ -7762,7 +7965,6 @@ references:
   call-number: '0117'
   citation-key: stevenson:1877civilization
   edition: '3'
-  event-place: Glasgow
   issued:
     - year: 1877
   language: eng
@@ -8267,7 +8469,6 @@ references:
   citation-key: unamuno:1902torno
   collection-number: '4'
   collection-title: Biblioteca moderna de ciencias sociales
-  event-place: 'Madrid : Barcelona'
   issued:
     - year: 1902
   language: spa
@@ -8284,7 +8485,6 @@ references:
       given: Simon
   call-number: NA2750 .U58 1997
   citation-key: unwin:1997analysing
-  event-place: London ; New York
   ISBN: 978-0-415-14477-3
   issued:
     - year: 1997
@@ -8433,7 +8633,6 @@ references:
       given: Marina
   citation-key: waisman:1993interior
   edition: '2'
-  event-place: Bogotá
   issued:
     - year: 1993
   language: spa
@@ -8509,7 +8708,6 @@ references:
       given: Julia
   call-number: '720.47'
   citation-key: watson:2019lo-tek
-  event-place: Cologne [Paris]
   ISBN: 978-3-8365-7818-9
   issued:
     - year: 2019
@@ -8560,7 +8758,6 @@ references:
   collection-number: '37'
   collection-title: Le goût des idées
   edition: Nouvelle éd.
-  event-place: Paris
   ISBN: 978-2-251-20038-5
   issued:
     - year: 2013
@@ -8580,7 +8777,6 @@ references:
       given: Paul
   call-number: DS592.3 .W44 1973
   citation-key: wheatley:1973golden
-  event-place: Westport, Conn.
   ISBN: 978-0-8371-6808-1
   issued:
     - year: 1973
@@ -8603,7 +8799,6 @@ references:
   citation-key: wheatley:1983nagara
   collection-number: 207-208
   collection-title: Research papers
-  event-place: Chicago, Ill.
   ISBN: 978-0-89065-113-1
   issued:
     - year: 1983
@@ -8735,7 +8930,6 @@ references:
   citation-key: wilder:2005communication
   collection-number: '56'
   collection-title: Monographs on social anthropology
-  event-place: Oxford
   ISBN: 978-1-84520-477-8
   issued:
     - year: 2005
@@ -8890,7 +9084,6 @@ references:
       given: A. Bagoes P.
   call-number: DS625 .P463 2014
   citation-key: wiryomartono:2014perspectives
-  event-place: Singapore ; New York
   ISBN: 978-981-4585-04-0
   issued:
     - year: 2014
@@ -8936,7 +9129,6 @@ references:
     Livability and Sustainability of Urbanism: An Interdisciplinary Study on
     History and Theory of Urban Settlement
   DOI: 10.1007/978-981-13-8972-6_8
-  event-place: Singapore
   ISBN: 978-981-13-8972-6
   issued:
     - year: 2020
@@ -8996,7 +9188,6 @@ references:
     - family: Wiryomartono
       given: Bagoes
   citation-key: wiryomartono:2020traditions
-  event-place: Singapore
   ISBN: 978-981-15-3405-8
   issued:
     - year: 2020
@@ -9038,7 +9229,6 @@ references:
     Livability and Sustainability of Urbanism: An Interdisciplinary Study on
     History and Theory of Urban Settlement
   DOI: 10.1007/978-981-13-8972-6_9
-  event-place: Singapore
   ISBN: 978-981-13-8972-6
   issued:
     - year: 2020
@@ -9078,7 +9268,6 @@ references:
     Livability and Sustainability of Urbanism: An Interdisciplinary Study on
     History and Theory of Urban Settlement
   DOI: 10.1007/978-981-13-8972-6_10
-  event-place: Singapore
   ISBN: 978-981-13-8972-6
   issued:
     - year: 2020
@@ -9220,7 +9409,6 @@ references:
       given: Iii
     - family: Fisher
       given: Kevin D.
-  event-place: Cambridge
   ISBN: 978-1-107-11027-4
   issued:
     - year: 2014
@@ -9243,7 +9431,6 @@ references:
       given: Stephanie
     - family: LaViolette
       given: Adria Jean
-  event-place: New York
   ISBN: 978-1-315-69145-9
   issued:
     - year: 2018
@@ -9324,7 +9511,6 @@ references:
   dimensions: '0:50'
   director:
     - literal: Zamani Project
-  event-place: Cape Town
   issued:
     - year: 2016
       month: 9
@@ -9355,7 +9541,6 @@ references:
     - family: Zucker
       given: Paul
   citation-key: zucker:1970town
-  event-place: Cambridge, Mass.
   issued:
     - year: 1970
   language: eng
