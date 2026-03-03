@@ -3461,11 +3461,11 @@ references:
       day: 27
   author:
     - family: Gunawan
-      given: I
+      given: I.
     - family: Soemardiono
-      given: B
+      given: B.
     - family: Septanti
-      given: D
+      given: D.
   citation-key: gunawan:2023typology1218
   container-title: 'IOP Conference Series: Earth and Environmental Science'
   container-title-short: 'IOP Conf. Ser.: Earth Environ. Sci.'
@@ -4693,6 +4693,12 @@ references:
   editor:
     - family: Khair
       given: Tabish
+    - family: Leer
+      given: Martin
+    - family: Edwards
+      given: Justin D.
+    - family: Ziadeh
+      given: Hannah
   ISBN: 978-0-253-21821-6
   issued:
     - year: 2005
@@ -5387,12 +5393,12 @@ references:
 - id: mann:2002little
   author:
     - family: Mann
-      given: Robert E.
+      given: Michael E.
   call-number: 363.700 3
   citation-key: mann:2002little
   collection-editor:
     - family: Munn
-      given: Robert Edward
+      given: Ted
   collection-number: '1'
   collection-title: Encyclopedia of global environmental change
   container-title: >-
@@ -7532,9 +7538,7 @@ references:
   citation-key: salim:2010costa
   collection-number: '5'
   collection-title: História Geral da África
-  container-title: >-
-    África do século <span smallcaps="smallcaps">XVI</span> ao <span
-    smallcaps="smallcaps">XVIII</span>
+  container-title: África do século XVI ao XVIII
   edition: '2'
   editor:
     - family: Ogot

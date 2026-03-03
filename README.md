@@ -1,8 +1,8 @@
-# Universos urbanísticos do Oceano Índico moderno #
+# Paradigmas urbanísticos do oceano Índico #
 
-## Cidades mercantes suaíle e malaio-indonésias ##
+## Cidades malaias e suaíli na Idade Moderna ##
 
-Artigo baseado nas aulas de TAU 0006
+Artigo baseado nas aulas de TAU 0006.
 
 [Revista *AfroÁsia*](https://periodicos.ufba.br/index.php/afroasia/information/authors)
 
